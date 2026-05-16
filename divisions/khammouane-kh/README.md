@@ -1,8 +1,8 @@
-# ແຂວງຄໍາມ່ວນ (Khammouane)
+# ແຂວງຄຳມ່ວນ (Khammouane)
 
 [Home](../../) > **Khammouane**
 
-ແຂວງຄໍາມ່ວນ (Khammouane) is a province in Laos.
+ແຂວງຄຳມ່ວນ (Khammouane) is a province in Laos.
 
 ## Overview
 

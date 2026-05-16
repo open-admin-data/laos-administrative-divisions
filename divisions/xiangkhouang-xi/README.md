@@ -1,8 +1,8 @@
-# ແຂວງ ຊຽງ ຂວາງ (Xiangkhouang)
+# ແຂວງຊຽງຂວາງ (Xiangkhouang)
 
 [Home](../../) > **Xiangkhouang**
 
-ແຂວງ ຊຽງ ຂວາງ (Xiangkhouang) is a province in Laos.
+ແຂວງຊຽງຂວາງ (Xiangkhouang) is a province in Laos.
 
 ## Overview
 

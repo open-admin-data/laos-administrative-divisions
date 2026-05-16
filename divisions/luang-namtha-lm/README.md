@@ -1,8 +1,8 @@
-# ແຂວງຫຼວງນໍ້າທາ (Luang Namtha)
+# ແຂວງຫຼວງນ້ຳທາ (Luang Namtha)
 
 [Home](../../) > **Luang Namtha**
 
-ແຂວງຫຼວງນໍ້າທາ (Luang Namtha) is a province in Laos.
+ແຂວງຫຼວງນ້ຳທາ (Luang Namtha) is a province in Laos.
 
 ## Overview
 

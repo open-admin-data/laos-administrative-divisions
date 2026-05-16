@@ -1,8 +1,8 @@
-# ແຂວງບໍລິຄໍາໄຊ (Bolikhamsai)
+# ແຂວງບໍລິຄຳໄຊ (Bolikhamsai)
 
 [Home](../../) > **Bolikhamsai**
 
-ແຂວງບໍລິຄໍາໄຊ (Bolikhamsai) is a province in Laos.
+ແຂວງບໍລິຄຳໄຊ (Bolikhamsai) is a province in Laos.
 
 ## Overview
 

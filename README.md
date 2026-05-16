@@ -22,12 +22,12 @@ Licensed under CC-BY-4.0. Browse the hierarchy through GitHub's folder navigatio
 |---|----|----|----|------|
 | 1 | ແຂວງອັດຕະປື (Attapeu) | 4 | 213 | [Browse](divisions/attapeu-at/) |
 | 2 | ແຂວງບໍ່ແກ້ວ (Bokeo) | 5 | 345 | [Browse](divisions/bokeo-bk/) |
-| 3 | ແຂວງບໍລິຄໍາໄຊ (Bolikhamsai) | 7 | 487 | [Browse](divisions/bolikhamsai-bl/) |
+| 3 | ແຂວງບໍລິຄຳໄຊ (Bolikhamsai) | 7 | 487 | [Browse](divisions/bolikhamsai-bl/) |
 | 4 | ແຂວງຈຳປາສັກ (Champasak) | 11 | 1,068 | [Browse](divisions/champasak-ch/) |
 | 5 | ແຂວງຫົວພັນ (Houaphan) | 9 | 1,003 | [Browse](divisions/houaphan-ho/) |
-| 6 | ແຂວງຄໍາມ່ວນ (Khammouane) | 9 | 778 | [Browse](divisions/khammouane-kh/) |
-| 7 | ແຂວງຫຼວງນໍ້າທາ (Luang Namtha) | 5 | 465 | [Browse](divisions/luang-namtha-lm/) |
-| 8 | ແຂວງຫຼວງພະບາງ (Luang Prabang) | 11 | 1,373 | [Browse](divisions/luang-prabang-lp/) |
+| 6 | ແຂວງຄຳມ່ວນ (Khammouane) | 9 | 778 | [Browse](divisions/khammouane-kh/) |
+| 7 | ແຂວງຫຼວງນ້ຳທາ (Luang Namtha) | 5 | 465 | [Browse](divisions/luang-namtha-lm/) |
+| 8 | ແຂວງຫລວງພະບາງ (Luang Prabang) | 11 | 1,373 | [Browse](divisions/luang-prabang-lp/) |
 | 9 | ແຂວງອຸດົມໄຊ (Oudomxay) | 7 | 889 | [Browse](divisions/oudomxay-ou/) |
 | 10 | ແຂວງຜົ້ງສາລີ (Phongsaly) | 7 | 794 | [Browse](divisions/phongsaly-ph/) |
 | 11 | ແຂວງສາລະວັນ (Salavan) | 8 | 776 | [Browse](divisions/salavan-sl/) |
@@ -36,7 +36,7 @@ Licensed under CC-BY-4.0. Browse the hierarchy through GitHub's folder navigatio
 | 14 | ນະຄອນຫຼວງວຽງຈັນ (Vientiane Capital) | 9 | 334 | [Browse](divisions/vientiane-capital-vt/) |
 | 15 | ແຂວງໄຊຍະບູລີ (Xaignabouli) | 11 | 610 | [Browse](divisions/xaignabouli-xa/) |
 | 16 | ແຂວງເຊກອງ (Xekong) | 4 | 386 | [Browse](divisions/xekong-xe/) |
-| 17 | ແຂວງ ຊຽງ ຂວາງ (Xiangkhouang) | 9 | 1,384 | [Browse](divisions/xiangkhouang-xi/) |
+| 17 | ແຂວງຊຽງຂວາງ (Xiangkhouang) | 9 | 1,384 | [Browse](divisions/xiangkhouang-xi/) |
 | 18 | ເຂດພິເສດໄຊສົມບູນ (Xaisomboun) | 5 | 194 | [Browse](divisions/xaisomboun-xn/) |
 
 ## Data Files
