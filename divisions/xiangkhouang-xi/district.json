@@ -1,0 +1,425 @@
+[
+  {
+    "id": "XI-01",
+    "level": 2,
+    "level_name": {
+      "local": "ເມືອງ",
+      "en": "District"
+    },
+    "name": {
+      "local": "Huameuang",
+      "en": "Huameuang",
+      "slug": "huameuang-xi-01"
+    },
+    "code": {
+      "id": "XI-01",
+      "iso": null
+    },
+    "parent": {
+      "id": "XI",
+      "level": 1,
+      "name": {
+        "local": "Xiangkhouang",
+        "en": "Xiangkhouang",
+        "slug": "xiangkhouang-xi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XI",
+        "level": 1,
+        "name": {
+          "local": "Xiangkhouang",
+          "en": "Xiangkhouang",
+          "slug": "xiangkhouang-xi"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 137
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.935",
+      "lon": "103.862"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "XI-02",
+    "level": 2,
+    "level_name": {
+      "local": "ເມືອງ",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kham",
+      "en": "Kham",
+      "slug": "kham-xi-02"
+    },
+    "code": {
+      "id": "XI-02",
+      "iso": null
+    },
+    "parent": {
+      "id": "XI",
+      "level": 1,
+      "name": {
+        "local": "Xiangkhouang",
+        "en": "Xiangkhouang",
+        "slug": "xiangkhouang-xi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XI",
+        "level": 1,
+        "name": {
+          "local": "Xiangkhouang",
+          "en": "Xiangkhouang",
+          "slug": "xiangkhouang-xi"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 155
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.888",
+      "lon": "103.704"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "XI-03",
+    "level": 2,
+    "level_name": {
+      "local": "ເມືອງ",
+      "en": "District"
+    },
+    "name": {
+      "local": "Khoune",
+      "en": "Khoune",
+      "slug": "khoune-xi-03"
+    },
+    "code": {
+      "id": "XI-03",
+      "iso": null
+    },
+    "parent": {
+      "id": "XI",
+      "level": 1,
+      "name": {
+        "local": "Xiangkhouang",
+        "en": "Xiangkhouang",
+        "slug": "xiangkhouang-xi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XI",
+        "level": 1,
+        "name": {
+          "local": "Xiangkhouang",
+          "en": "Xiangkhouang",
+          "slug": "xiangkhouang-xi"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 174
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.196",
+      "lon": "103.534"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "XI-04",
+    "level": 2,
+    "level_name": {
+      "local": "ເມືອງ",
+      "en": "District"
+    },
+    "name": {
+      "local": "Mork",
+      "en": "Mork",
+      "slug": "mork-xi-04"
+    },
+    "code": {
+      "id": "XI-04",
+      "iso": null
+    },
+    "parent": {
+      "id": "XI",
+      "level": 1,
+      "name": {
+        "local": "Xiangkhouang",
+        "en": "Xiangkhouang",
+        "slug": "xiangkhouang-xi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XI",
+        "level": 1,
+        "name": {
+          "local": "Xiangkhouang",
+          "en": "Xiangkhouang",
+          "slug": "xiangkhouang-xi"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 87
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.089",
+      "lon": "104.08"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "XI-05",
+    "level": 2,
+    "level_name": {
+      "local": "ເມືອງ",
+      "en": "District"
+    },
+    "name": {
+      "local": "Nonghed",
+      "en": "Nonghed",
+      "slug": "nonghed-xi-05"
+    },
+    "code": {
+      "id": "XI-05",
+      "iso": null
+    },
+    "parent": {
+      "id": "XI",
+      "level": 1,
+      "name": {
+        "local": "Xiangkhouang",
+        "en": "Xiangkhouang",
+        "slug": "xiangkhouang-xi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XI",
+        "level": 1,
+        "name": {
+          "local": "Xiangkhouang",
+          "en": "Xiangkhouang",
+          "slug": "xiangkhouang-xi"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 173
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.579",
+      "lon": "104.045"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "XI-06",
+    "level": 2,
+    "level_name": {
+      "local": "ເມືອງ",
+      "en": "District"
+    },
+    "name": {
+      "local": "Pek",
+      "en": "Pek",
+      "slug": "pek-xi-06"
+    },
+    "code": {
+      "id": "XI-06",
+      "iso": null
+    },
+    "parent": {
+      "id": "XI",
+      "level": 1,
+      "name": {
+        "local": "Xiangkhouang",
+        "en": "Xiangkhouang",
+        "slug": "xiangkhouang-xi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XI",
+        "level": 1,
+        "name": {
+          "local": "Xiangkhouang",
+          "en": "Xiangkhouang",
+          "slug": "xiangkhouang-xi"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 270
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.627",
+      "lon": "103.256"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "XI-07",
+    "level": 2,
+    "level_name": {
+      "local": "ເມືອງ",
+      "en": "District"
+    },
+    "name": {
+      "local": "Phaxay",
+      "en": "Phaxay",
+      "slug": "phaxay-xi-07"
+    },
+    "code": {
+      "id": "XI-07",
+      "iso": null
+    },
+    "parent": {
+      "id": "XI",
+      "level": 1,
+      "name": {
+        "local": "Xiangkhouang",
+        "en": "Xiangkhouang",
+        "slug": "xiangkhouang-xi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XI",
+        "level": 1,
+        "name": {
+          "local": "Xiangkhouang",
+          "en": "Xiangkhouang",
+          "slug": "xiangkhouang-xi"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 83
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.192",
+      "lon": "103.113"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "XI-08",
+    "level": 2,
+    "level_name": {
+      "local": "ເມືອງ",
+      "en": "District"
+    },
+    "name": {
+      "local": "Phookood",
+      "en": "Phookood",
+      "slug": "phookood-xi-08"
+    },
+    "code": {
+      "id": "XI-08",
+      "iso": null
+    },
+    "parent": {
+      "id": "XI",
+      "level": 1,
+      "name": {
+        "local": "Xiangkhouang",
+        "en": "Xiangkhouang",
+        "slug": "xiangkhouang-xi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XI",
+        "level": 1,
+        "name": {
+          "local": "Xiangkhouang",
+          "en": "Xiangkhouang",
+          "slug": "xiangkhouang-xi"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 184
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.693",
+      "lon": "103.008"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "XI-09",
+    "level": 2,
+    "level_name": {
+      "local": "ເມືອງ",
+      "en": "District"
+    },
+    "name": {
+      "local": "Phoukhoune",
+      "en": "Phoukhoune",
+      "slug": "phoukhoune-xi-09"
+    },
+    "code": {
+      "id": "XI-09",
+      "iso": null
+    },
+    "parent": {
+      "id": "XI",
+      "level": 1,
+      "name": {
+        "local": "Xiangkhouang",
+        "en": "Xiangkhouang",
+        "slug": "xiangkhouang-xi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XI",
+        "level": 1,
+        "name": {
+          "local": "Xiangkhouang",
+          "en": "Xiangkhouang",
+          "slug": "xiangkhouang-xi"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 121
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.525",
+      "lon": "102.694"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,47 @@
+{
+  "id": "XE-04",
+  "level": 2,
+  "level_name": {
+    "local": "ເມືອງ",
+    "en": "District"
+  },
+  "name": {
+    "local": "Thateng",
+    "en": "Thateng",
+    "slug": "thateng-xe-04"
+  },
+  "code": {
+    "id": "XE-04",
+    "iso": null
+  },
+  "parent": {
+    "id": "XE",
+    "level": 1,
+    "name": {
+      "local": "Xekong",
+      "en": "Xekong",
+      "slug": "xekong-xe"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "XE",
+      "level": 1,
+      "name": {
+        "local": "Xekong",
+        "en": "Xekong",
+        "slug": "xekong-xe"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 55
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.466",
+    "lon": "106.496"
+  },
+  "metadata": {},
+  "source": {}
+}

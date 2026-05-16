@@ -1,0 +1,4160 @@
+[
+  {
+    "id": "11233765",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Ao-Nua",
+      "en": "Ban Ao-Nua",
+      "slug": "ban-ao-nua-11233765"
+    },
+    "code": {
+      "id": "11233765",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-05",
+      "level": 2,
+      "name": {
+        "local": "Nakay",
+        "en": "Nakay",
+        "slug": "nakay-kh-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-05",
+        "level": 2,
+        "name": {
+          "local": "Nakay",
+          "en": "Nakay",
+          "slug": "nakay-kh-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.969",
+      "lon": "105.408"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11233771",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Ao-Tai",
+      "en": "Ban Ao-Tai",
+      "slug": "ban-ao-tai-11233771"
+    },
+    "code": {
+      "id": "11233771",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-05",
+      "level": 2,
+      "name": {
+        "local": "Nakay",
+        "en": "Nakay",
+        "slug": "nakay-kh-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-05",
+        "level": 2,
+        "name": {
+          "local": "Nakay",
+          "en": "Nakay",
+          "slug": "nakay-kh-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.961",
+      "lon": "105.411"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11233742",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Bouama",
+      "en": "Ban Bouama",
+      "slug": "ban-bouama-11233742"
+    },
+    "code": {
+      "id": "11233742",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-05",
+      "level": 2,
+      "name": {
+        "local": "Nakay",
+        "en": "Nakay",
+        "slug": "nakay-kh-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-05",
+        "level": 2,
+        "name": {
+          "local": "Nakay",
+          "en": "Nakay",
+          "slug": "nakay-kh-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.707",
+      "lon": "105.225"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1664807",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Buk",
+      "en": "Ban Buk",
+      "slug": "ban-buk-1664807"
+    },
+    "code": {
+      "id": "1664807",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-05",
+      "level": 2,
+      "name": {
+        "local": "Nakay",
+        "en": "Nakay",
+        "slug": "nakay-kh-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-05",
+        "level": 2,
+        "name": {
+          "local": "Nakay",
+          "en": "Nakay",
+          "slug": "nakay-kh-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.85",
+      "lon": "105.542"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1664568",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Don",
+      "en": "Ban Don",
+      "slug": "ban-don-1664568"
+    },
+    "code": {
+      "id": "1664568",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-05",
+      "level": 2,
+      "name": {
+        "local": "Nakay",
+        "en": "Nakay",
+        "slug": "nakay-kh-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-05",
+        "level": 2,
+        "name": {
+          "local": "Nakay",
+          "en": "Nakay",
+          "slug": "nakay-kh-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.677",
+      "lon": "105.281"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13433867",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Don",
+      "en": "Ban Don",
+      "slug": "ban-don-13433867"
+    },
+    "code": {
+      "id": "13433867",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-05",
+      "level": 2,
+      "name": {
+        "local": "Nakay",
+        "en": "Nakay",
+        "slug": "nakay-kh-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-05",
+        "level": 2,
+        "name": {
+          "local": "Nakay",
+          "en": "Nakay",
+          "slug": "nakay-kh-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.661",
+      "lon": "105.308"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1664529",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Dông",
+      "en": "Ban Dong",
+      "slug": "ban-dong-1664529"
+    },
+    "code": {
+      "id": "1664529",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-05",
+      "level": 2,
+      "name": {
+        "local": "Nakay",
+        "en": "Nakay",
+        "slug": "nakay-kh-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-05",
+        "level": 2,
+        "name": {
+          "local": "Nakay",
+          "en": "Nakay",
+          "slug": "nakay-kh-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.7",
+      "lon": "105"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1664418",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Donkèo",
+      "en": "Ban Donkeo",
+      "slug": "ban-donkeo-1664418"
+    },
+    "code": {
+      "id": "1664418",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-05",
+      "level": 2,
+      "name": {
+        "local": "Nakay",
+        "en": "Nakay",
+        "slug": "nakay-kh-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-05",
+        "level": 2,
+        "name": {
+          "local": "Nakay",
+          "en": "Nakay",
+          "slug": "nakay-kh-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.767",
+      "lon": "104.948"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1664346",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Douangphou",
+      "en": "Ban Douangphou",
+      "slug": "ban-douangphou-1664346"
+    },
+    "code": {
+      "id": "1664346",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-05",
+      "level": 2,
+      "name": {
+        "local": "Nakay",
+        "en": "Nakay",
+        "slug": "nakay-kh-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-05",
+        "level": 2,
+        "name": {
+          "local": "Nakay",
+          "en": "Nakay",
+          "slug": "nakay-kh-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.94",
+      "lon": "105.394"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11233730",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Fangdèng",
+      "en": "Ban Fangdeng",
+      "slug": "ban-fangdeng-11233730"
+    },
+    "code": {
+      "id": "11233730",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-05",
+      "level": 2,
+      "name": {
+        "local": "Nakay",
+        "en": "Nakay",
+        "slug": "nakay-kh-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-05",
+        "level": 2,
+        "name": {
+          "local": "Nakay",
+          "en": "Nakay",
+          "slug": "nakay-kh-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.952",
+      "lon": "105.231"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11233353",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Hè",
+      "en": "Ban He",
+      "slug": "ban-he-11233353"
+    },
+    "code": {
+      "id": "11233353",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-05",
+      "level": 2,
+      "name": {
+        "local": "Nakay",
+        "en": "Nakay",
+        "slug": "nakay-kh-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-05",
+        "level": 2,
+        "name": {
+          "local": "Nakay",
+          "en": "Nakay",
+          "slug": "nakay-kh-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.94",
+      "lon": "104.828"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1663615",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houaysanap",
+      "en": "Ban Houaysanap",
+      "slug": "ban-houaysanap-1663615"
+    },
+    "code": {
+      "id": "1663615",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-05",
+      "level": 2,
+      "name": {
+        "local": "Nakay",
+        "en": "Nakay",
+        "slug": "nakay-kh-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-05",
+        "level": 2,
+        "name": {
+          "local": "Nakay",
+          "en": "Nakay",
+          "slug": "nakay-kh-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.783",
+      "lon": "105.233"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1663452",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Kaching",
+      "en": "Ban Kaching",
+      "slug": "ban-kaching-1663452"
+    },
+    "code": {
+      "id": "1663452",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-05",
+      "level": 2,
+      "name": {
+        "local": "Nakay",
+        "en": "Nakay",
+        "slug": "nakay-kh-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-05",
+        "level": 2,
+        "name": {
+          "local": "Nakay",
+          "en": "Nakay",
+          "slug": "nakay-kh-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.972",
+      "lon": "105.254"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11233746",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Kao-Ôy",
+      "en": "Ban Kao-Oy",
+      "slug": "ban-kao-oy-11233746"
+    },
+    "code": {
+      "id": "11233746",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-05",
+      "level": 2,
+      "name": {
+        "local": "Nakay",
+        "en": "Nakay",
+        "slug": "nakay-kh-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-05",
+        "level": 2,
+        "name": {
+          "local": "Nakay",
+          "en": "Nakay",
+          "slug": "nakay-kh-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.682",
+      "lon": "105.27"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11233739",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Kao-Oy-Kao",
+      "en": "Ban Kao-Oy-Kao",
+      "slug": "ban-kao-oy-kao-11233739"
+    },
+    "code": {
+      "id": "11233739",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-05",
+      "level": 2,
+      "name": {
+        "local": "Nakay",
+        "en": "Nakay",
+        "slug": "nakay-kh-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-05",
+        "level": 2,
+        "name": {
+          "local": "Nakay",
+          "en": "Nakay",
+          "slug": "nakay-kh-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.709",
+      "lon": "105.26"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1663080",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Khamxom",
+      "en": "Ban Khamxom",
+      "slug": "ban-khamxom-1663080"
+    },
+    "code": {
+      "id": "1663080",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-05",
+      "level": 2,
+      "name": {
+        "local": "Nakay",
+        "en": "Nakay",
+        "slug": "nakay-kh-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-05",
+        "level": 2,
+        "name": {
+          "local": "Nakay",
+          "en": "Nakay",
+          "slug": "nakay-kh-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.898",
+      "lon": "105.361"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11233756",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Khiling",
+      "en": "Ban Khiling",
+      "slug": "ban-khiling-11233756"
+    },
+    "code": {
+      "id": "11233756",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-05",
+      "level": 2,
+      "name": {
+        "local": "Nakay",
+        "en": "Nakay",
+        "slug": "nakay-kh-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-05",
+        "level": 2,
+        "name": {
+          "local": "Nakay",
+          "en": "Nakay",
+          "slug": "nakay-kh-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.875",
+      "lon": "105.47"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1662920",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Khonkèn",
+      "en": "Ban Khonken",
+      "slug": "ban-khonken-1662920"
+    },
+    "code": {
+      "id": "1662920",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-05",
+      "level": 2,
+      "name": {
+        "local": "Nakay",
+        "en": "Nakay",
+        "slug": "nakay-kh-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-05",
+        "level": 2,
+        "name": {
+          "local": "Nakay",
+          "en": "Nakay",
+          "slug": "nakay-kh-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.666",
+      "lon": "105.296"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1662909",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Khot",
+      "en": "Ban Khot",
+      "slug": "ban-khot-1662909"
+    },
+    "code": {
+      "id": "1662909",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-05",
+      "level": 2,
+      "name": {
+        "local": "Nakay",
+        "en": "Nakay",
+        "slug": "nakay-kh-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-05",
+        "level": 2,
+        "name": {
+          "local": "Nakay",
+          "en": "Nakay",
+          "slug": "nakay-kh-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.901",
+      "lon": "105.485"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1662843",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Kôbông",
+      "en": "Ban Kobong",
+      "slug": "ban-kobong-1662843"
+    },
+    "code": {
+      "id": "1662843",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-05",
+      "level": 2,
+      "name": {
+        "local": "Nakay",
+        "en": "Nakay",
+        "slug": "nakay-kh-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-05",
+        "level": 2,
+        "name": {
+          "local": "Nakay",
+          "en": "Nakay",
+          "slug": "nakay-kh-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.887",
+      "lon": "105.378"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11233354",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Kouansam",
+      "en": "Ban Kouansam",
+      "slug": "ban-kouansam-11233354"
+    },
+    "code": {
+      "id": "11233354",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-05",
+      "level": 2,
+      "name": {
+        "local": "Nakay",
+        "en": "Nakay",
+        "slug": "nakay-kh-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-05",
+        "level": 2,
+        "name": {
+          "local": "Nakay",
+          "en": "Nakay",
+          "slug": "nakay-kh-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.766",
+      "lon": "104.926"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1662751",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Kouapô",
+      "en": "Ban Kouapo",
+      "slug": "ban-kouapo-1662751"
+    },
+    "code": {
+      "id": "1662751",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-05",
+      "level": 2,
+      "name": {
+        "local": "Nakay",
+        "en": "Nakay",
+        "slug": "nakay-kh-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-05",
+        "level": 2,
+        "name": {
+          "local": "Nakay",
+          "en": "Nakay",
+          "slug": "nakay-kh-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.828",
+      "lon": "105.352"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1662375",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Ma È",
+      "en": "Ban Ma E",
+      "slug": "ban-ma-e-1662375"
+    },
+    "code": {
+      "id": "1662375",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-05",
+      "level": 2,
+      "name": {
+        "local": "Nakay",
+        "en": "Nakay",
+        "slug": "nakay-kh-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-05",
+        "level": 2,
+        "name": {
+          "local": "Nakay",
+          "en": "Nakay",
+          "slug": "nakay-kh-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.95",
+      "lon": "105.567"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1662361",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Mai",
+      "en": "Ban Mai",
+      "slug": "ban-mai-1662361"
+    },
+    "code": {
+      "id": "1662361",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-05",
+      "level": 2,
+      "name": {
+        "local": "Nakay",
+        "en": "Nakay",
+        "slug": "nakay-kh-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-05",
+        "level": 2,
+        "name": {
+          "local": "Nakay",
+          "en": "Nakay",
+          "slug": "nakay-kh-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.886",
+      "lon": "105.375"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1662332",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Malo",
+      "en": "Ban Malo",
+      "slug": "ban-malo-1662332"
+    },
+    "code": {
+      "id": "1662332",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-05",
+      "level": 2,
+      "name": {
+        "local": "Nakay",
+        "en": "Nakay",
+        "slug": "nakay-kh-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-05",
+        "level": 2,
+        "name": {
+          "local": "Nakay",
+          "en": "Nakay",
+          "slug": "nakay-kh-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.8",
+      "lon": "105.483"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1662216",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Mouangkhai",
+      "en": "Ban Mouangkhai",
+      "slug": "ban-mouangkhai-1662216"
+    },
+    "code": {
+      "id": "1662216",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-05",
+      "level": 2,
+      "name": {
+        "local": "Nakay",
+        "en": "Nakay",
+        "slug": "nakay-kh-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-05",
+        "level": 2,
+        "name": {
+          "local": "Nakay",
+          "en": "Nakay",
+          "slug": "nakay-kh-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.761",
+      "lon": "104.955"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1662169",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Mouangluang",
+      "en": "Ban Mouangluang",
+      "slug": "ban-mouangluang-1662169"
+    },
+    "code": {
+      "id": "1662169",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-05",
+      "level": 2,
+      "name": {
+        "local": "Nakay",
+        "en": "Nakay",
+        "slug": "nakay-kh-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-05",
+        "level": 2,
+        "name": {
+          "local": "Nakay",
+          "en": "Nakay",
+          "slug": "nakay-kh-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.707",
+      "lon": "104.994"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1661971",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nabao",
+      "en": "Ban Nabao",
+      "slug": "ban-nabao-1661971"
+    },
+    "code": {
+      "id": "1661971",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-05",
+      "level": 2,
+      "name": {
+        "local": "Nakay",
+        "en": "Nakay",
+        "slug": "nakay-kh-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-05",
+        "level": 2,
+        "name": {
+          "local": "Nakay",
+          "en": "Nakay",
+          "slug": "nakay-kh-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.988",
+      "lon": "105.196"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1662110",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nabon",
+      "en": "Ban Nabon",
+      "slug": "ban-nabon-1662110"
+    },
+    "code": {
+      "id": "1662110",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-05",
+      "level": 2,
+      "name": {
+        "local": "Nakay",
+        "en": "Nakay",
+        "slug": "nakay-kh-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-05",
+        "level": 2,
+        "name": {
+          "local": "Nakay",
+          "en": "Nakay",
+          "slug": "nakay-kh-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.92",
+      "lon": "104.84"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1662063",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nadan",
+      "en": "Ban Nadan",
+      "slug": "ban-nadan-1662063"
+    },
+    "code": {
+      "id": "1662063",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-05",
+      "level": 2,
+      "name": {
+        "local": "Nakay",
+        "en": "Nakay",
+        "slug": "nakay-kh-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-05",
+        "level": 2,
+        "name": {
+          "local": "Nakay",
+          "en": "Nakay",
+          "slug": "nakay-kh-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.711",
+      "lon": "105.02"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1661975",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nahang",
+      "en": "Ban Nahang",
+      "slug": "ban-nahang-1661975"
+    },
+    "code": {
+      "id": "1661975",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-05",
+      "level": 2,
+      "name": {
+        "local": "Nakay",
+        "en": "Nakay",
+        "slug": "nakay-kh-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-05",
+        "level": 2,
+        "name": {
+          "local": "Nakay",
+          "en": "Nakay",
+          "slug": "nakay-kh-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.956",
+      "lon": "104.83"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11233759",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nakang",
+      "en": "Ban Nakang",
+      "slug": "ban-nakang-11233759"
+    },
+    "code": {
+      "id": "11233759",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-05",
+      "level": 2,
+      "name": {
+        "local": "Nakay",
+        "en": "Nakay",
+        "slug": "nakay-kh-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-05",
+        "level": 2,
+        "name": {
+          "local": "Nakay",
+          "en": "Nakay",
+          "slug": "nakay-kh-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.913",
+      "lon": "105.357"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11233725",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nakay-Kang",
+      "en": "Ban Nakay-Kang",
+      "slug": "ban-nakay-kang-11233725"
+    },
+    "code": {
+      "id": "11233725",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-05",
+      "level": 2,
+      "name": {
+        "local": "Nakay",
+        "en": "Nakay",
+        "slug": "nakay-kh-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-05",
+        "level": 2,
+        "name": {
+          "local": "Nakay",
+          "en": "Nakay",
+          "slug": "nakay-kh-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.752",
+      "lon": "105.123"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1661855",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nakay-Nua",
+      "en": "Ban Nakay-Nua",
+      "slug": "ban-nakay-nua-1661855"
+    },
+    "code": {
+      "id": "1661855",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-05",
+      "level": 2,
+      "name": {
+        "local": "Nakay",
+        "en": "Nakay",
+        "slug": "nakay-kh-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-05",
+        "level": 2,
+        "name": {
+          "local": "Nakay",
+          "en": "Nakay",
+          "slug": "nakay-kh-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.761",
+      "lon": "105.116"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1661853",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nakay-Tai",
+      "en": "Ban Nakay-Tai",
+      "slug": "ban-nakay-tai-1661853"
+    },
+    "code": {
+      "id": "1661853",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-05",
+      "level": 2,
+      "name": {
+        "local": "Nakay",
+        "en": "Nakay",
+        "slug": "nakay-kh-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-05",
+        "level": 2,
+        "name": {
+          "local": "Nakay",
+          "en": "Nakay",
+          "slug": "nakay-kh-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.751",
+      "lon": "105.127"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11233777",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nam-Noy",
+      "en": "Ban Nam-Noy",
+      "slug": "ban-nam-noy-11233777"
+    },
+    "code": {
+      "id": "11233777",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-05",
+      "level": 2,
+      "name": {
+        "local": "Nakay",
+        "en": "Nakay",
+        "slug": "nakay-kh-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-05",
+        "level": 2,
+        "name": {
+          "local": "Nakay",
+          "en": "Nakay",
+          "slug": "nakay-kh-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.939",
+      "lon": "105.537"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1661590",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Namèo",
+      "en": "Ban Nameo",
+      "slug": "ban-nameo-1661590"
+    },
+    "code": {
+      "id": "1661590",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-05",
+      "level": 2,
+      "name": {
+        "local": "Nakay",
+        "en": "Nakay",
+        "slug": "nakay-kh-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-05",
+        "level": 2,
+        "name": {
+          "local": "Nakay",
+          "en": "Nakay",
+          "slug": "nakay-kh-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.847",
+      "lon": "105.548"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1661587",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nameuy",
+      "en": "Ban Nameuy",
+      "slug": "ban-nameuy-1661587"
+    },
+    "code": {
+      "id": "1661587",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-05",
+      "level": 2,
+      "name": {
+        "local": "Nakay",
+        "en": "Nakay",
+        "slug": "nakay-kh-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-05",
+        "level": 2,
+        "name": {
+          "local": "Nakay",
+          "en": "Nakay",
+          "slug": "nakay-kh-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.847",
+      "lon": "105.555"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11233820",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Namphèo",
+      "en": "Ban Nampheo",
+      "slug": "ban-nampheo-11233820"
+    },
+    "code": {
+      "id": "11233820",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-05",
+      "level": 2,
+      "name": {
+        "local": "Nakay",
+        "en": "Nakay",
+        "slug": "nakay-kh-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-05",
+        "level": 2,
+        "name": {
+          "local": "Nakay",
+          "en": "Nakay",
+          "slug": "nakay-kh-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.849",
+      "lon": "105.573"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1661156",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nasida",
+      "en": "Ban Nasida",
+      "slug": "ban-nasida-1661156"
+    },
+    "code": {
+      "id": "1661156",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-05",
+      "level": 2,
+      "name": {
+        "local": "Nakay",
+        "en": "Nakay",
+        "slug": "nakay-kh-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-05",
+        "level": 2,
+        "name": {
+          "local": "Nakay",
+          "en": "Nakay",
+          "slug": "nakay-kh-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.716",
+      "lon": "105.012"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1661138",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nat",
+      "en": "Ban Nat",
+      "slug": "ban-nat-1661138"
+    },
+    "code": {
+      "id": "1661138",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-05",
+      "level": 2,
+      "name": {
+        "local": "Nakay",
+        "en": "Nakay",
+        "slug": "nakay-kh-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-05",
+        "level": 2,
+        "name": {
+          "local": "Nakay",
+          "en": "Nakay",
+          "slug": "nakay-kh-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.842",
+      "lon": "105.357"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1661126",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Natan",
+      "en": "Ban Natan",
+      "slug": "ban-natan-1661126"
+    },
+    "code": {
+      "id": "1661126",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-05",
+      "level": 2,
+      "name": {
+        "local": "Nakay",
+        "en": "Nakay",
+        "slug": "nakay-kh-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-05",
+        "level": 2,
+        "name": {
+          "local": "Nakay",
+          "en": "Nakay",
+          "slug": "nakay-kh-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.959",
+      "lon": "104.81"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1661070",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nathôn",
+      "en": "Ban Nathon",
+      "slug": "ban-nathon-1661070"
+    },
+    "code": {
+      "id": "1661070",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-05",
+      "level": 2,
+      "name": {
+        "local": "Nakay",
+        "en": "Nakay",
+        "slug": "nakay-kh-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-05",
+        "level": 2,
+        "name": {
+          "local": "Nakay",
+          "en": "Nakay",
+          "slug": "nakay-kh-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.898",
+      "lon": "104.862"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1661017",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Navang",
+      "en": "Ban Navang",
+      "slug": "ban-navang-1661017"
+    },
+    "code": {
+      "id": "1661017",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-05",
+      "level": 2,
+      "name": {
+        "local": "Nakay",
+        "en": "Nakay",
+        "slug": "nakay-kh-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-05",
+        "level": 2,
+        "name": {
+          "local": "Nakay",
+          "en": "Nakay",
+          "slug": "nakay-kh-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.961",
+      "lon": "105.236"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1661016",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Navang Tai",
+      "en": "Ban Navang Tai",
+      "slug": "ban-navang-tai-1661016"
+    },
+    "code": {
+      "id": "1661016",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-05",
+      "level": 2,
+      "name": {
+        "local": "Nakay",
+        "en": "Nakay",
+        "slug": "nakay-kh-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-05",
+        "level": 2,
+        "name": {
+          "local": "Nakay",
+          "en": "Nakay",
+          "slug": "nakay-kh-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.95",
+      "lon": "105.233"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11233736",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nongboua",
+      "en": "Ban Nongboua",
+      "slug": "ban-nongboua-11233736"
+    },
+    "code": {
+      "id": "11233736",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-05",
+      "level": 2,
+      "name": {
+        "local": "Nakay",
+        "en": "Nakay",
+        "slug": "nakay-kh-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-05",
+        "level": 2,
+        "name": {
+          "local": "Nakay",
+          "en": "Nakay",
+          "slug": "nakay-kh-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.722",
+      "lon": "105.212"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1660298",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phahôm",
+      "en": "Ban Phahom",
+      "slug": "ban-phahom-1660298"
+    },
+    "code": {
+      "id": "1660298",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-05",
+      "level": 2,
+      "name": {
+        "local": "Nakay",
+        "en": "Nakay",
+        "slug": "nakay-kh-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-05",
+        "level": 2,
+        "name": {
+          "local": "Nakay",
+          "en": "Nakay",
+          "slug": "nakay-kh-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.972",
+      "lon": "104.824"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1660238",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phakphèo",
+      "en": "Ban Phakpheo",
+      "slug": "ban-phakpheo-1660238"
+    },
+    "code": {
+      "id": "1660238",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-05",
+      "level": 2,
+      "name": {
+        "local": "Nakay",
+        "en": "Nakay",
+        "slug": "nakay-kh-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-05",
+        "level": 2,
+        "name": {
+          "local": "Nakay",
+          "en": "Nakay",
+          "slug": "nakay-kh-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.876",
+      "lon": "105.356"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1660154",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phatang",
+      "en": "Ban Phatang",
+      "slug": "ban-phatang-1660154"
+    },
+    "code": {
+      "id": "1660154",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-05",
+      "level": 2,
+      "name": {
+        "local": "Nakay",
+        "en": "Nakay",
+        "slug": "nakay-kh-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-05",
+        "level": 2,
+        "name": {
+          "local": "Nakay",
+          "en": "Nakay",
+          "slug": "nakay-kh-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.966",
+      "lon": "104.842"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11233738",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phônsavang",
+      "en": "Ban Phonsavang",
+      "slug": "ban-phonsavang-11233738"
+    },
+    "code": {
+      "id": "11233738",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-05",
+      "level": 2,
+      "name": {
+        "local": "Nakay",
+        "en": "Nakay",
+        "slug": "nakay-kh-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-05",
+        "level": 2,
+        "name": {
+          "local": "Nakay",
+          "en": "Nakay",
+          "slug": "nakay-kh-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.707",
+      "lon": "105.245"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1659835",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phôsi",
+      "en": "Ban Phosi",
+      "slug": "ban-phosi-1659835"
+    },
+    "code": {
+      "id": "1659835",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-05",
+      "level": 2,
+      "name": {
+        "local": "Nakay",
+        "en": "Nakay",
+        "slug": "nakay-kh-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-05",
+        "level": 2,
+        "name": {
+          "local": "Nakay",
+          "en": "Nakay",
+          "slug": "nakay-kh-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.7",
+      "lon": "105"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11233761",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Poungmô",
+      "en": "Ban Poungmo",
+      "slug": "ban-poungmo-11233761"
+    },
+    "code": {
+      "id": "11233761",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-05",
+      "level": 2,
+      "name": {
+        "local": "Nakay",
+        "en": "Nakay",
+        "slug": "nakay-kh-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-05",
+        "level": 2,
+        "name": {
+          "local": "Nakay",
+          "en": "Nakay",
+          "slug": "nakay-kh-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.906",
+      "lon": "105.403"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11233757",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Pu",
+      "en": "Ban Pu",
+      "slug": "ban-pu-11233757"
+    },
+    "code": {
+      "id": "11233757",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-05",
+      "level": 2,
+      "name": {
+        "local": "Nakay",
+        "en": "Nakay",
+        "slug": "nakay-kh-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-05",
+        "level": 2,
+        "name": {
+          "local": "Nakay",
+          "en": "Nakay",
+          "slug": "nakay-kh-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.825",
+      "lon": "105.437"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11233042",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Sang",
+      "en": "Ban Sang",
+      "slug": "ban-sang-11233042"
+    },
+    "code": {
+      "id": "11233042",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-05",
+      "level": 2,
+      "name": {
+        "local": "Nakay",
+        "en": "Nakay",
+        "slug": "nakay-kh-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-05",
+        "level": 2,
+        "name": {
+          "local": "Nakay",
+          "en": "Nakay",
+          "slug": "nakay-kh-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.029",
+      "lon": "105.142"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11233054",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Songkhon",
+      "en": "Ban Songkhon",
+      "slug": "ban-songkhon-11233054"
+    },
+    "code": {
+      "id": "11233054",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-05",
+      "level": 2,
+      "name": {
+        "local": "Nakay",
+        "en": "Nakay",
+        "slug": "nakay-kh-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-05",
+        "level": 2,
+        "name": {
+          "local": "Nakay",
+          "en": "Nakay",
+          "slug": "nakay-kh-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18",
+      "lon": "105.181"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11233740",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Sôp-On",
+      "en": "Ban Sop-On",
+      "slug": "ban-sop-on-11233740"
+    },
+    "code": {
+      "id": "11233740",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-05",
+      "level": 2,
+      "name": {
+        "local": "Nakay",
+        "en": "Nakay",
+        "slug": "nakay-kh-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-05",
+        "level": 2,
+        "name": {
+          "local": "Nakay",
+          "en": "Nakay",
+          "slug": "nakay-kh-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.706",
+      "lon": "105.25"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11233732",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Sôpmaxong",
+      "en": "Ban Sopmaxong",
+      "slug": "ban-sopmaxong-11233732"
+    },
+    "code": {
+      "id": "11233732",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-05",
+      "level": 2,
+      "name": {
+        "local": "Nakay",
+        "en": "Nakay",
+        "slug": "nakay-kh-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-05",
+        "level": 2,
+        "name": {
+          "local": "Nakay",
+          "en": "Nakay",
+          "slug": "nakay-kh-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.944",
+      "lon": "105.23"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1658764",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Teung",
+      "en": "Ban Teung",
+      "slug": "ban-teung-1658764"
+    },
+    "code": {
+      "id": "1658764",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-05",
+      "level": 2,
+      "name": {
+        "local": "Nakay",
+        "en": "Nakay",
+        "slug": "nakay-kh-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-05",
+        "level": 2,
+        "name": {
+          "local": "Nakay",
+          "en": "Nakay",
+          "slug": "nakay-kh-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.908",
+      "lon": "105.474"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1658601",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Thaphaiban",
+      "en": "Ban Thaphaiban",
+      "slug": "ban-thaphaiban-1658601"
+    },
+    "code": {
+      "id": "1658601",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-05",
+      "level": 2,
+      "name": {
+        "local": "Nakay",
+        "en": "Nakay",
+        "slug": "nakay-kh-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-05",
+        "level": 2,
+        "name": {
+          "local": "Nakay",
+          "en": "Nakay",
+          "slug": "nakay-kh-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.888",
+      "lon": "105.37"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1658509",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Thông",
+      "en": "Ban Thong",
+      "slug": "ban-thong-1658509"
+    },
+    "code": {
+      "id": "1658509",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-05",
+      "level": 2,
+      "name": {
+        "local": "Nakay",
+        "en": "Nakay",
+        "slug": "nakay-kh-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-05",
+        "level": 2,
+        "name": {
+          "local": "Nakay",
+          "en": "Nakay",
+          "slug": "nakay-kh-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.707",
+      "lon": "105.002"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11233755",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Thông",
+      "en": "Ban Thong",
+      "slug": "ban-thong-11233755"
+    },
+    "code": {
+      "id": "11233755",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-05",
+      "level": 2,
+      "name": {
+        "local": "Nakay",
+        "en": "Nakay",
+        "slug": "nakay-kh-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-05",
+        "level": 2,
+        "name": {
+          "local": "Nakay",
+          "en": "Nakay",
+          "slug": "nakay-kh-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.873",
+      "lon": "105.454"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11233729",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Thôngmuang",
+      "en": "Ban Thongmuang",
+      "slug": "ban-thongmuang-11233729"
+    },
+    "code": {
+      "id": "11233729",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-05",
+      "level": 2,
+      "name": {
+        "local": "Nakay",
+        "en": "Nakay",
+        "slug": "nakay-kh-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-05",
+        "level": 2,
+        "name": {
+          "local": "Nakay",
+          "en": "Nakay",
+          "slug": "nakay-kh-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.977",
+      "lon": "105.174"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11233731",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Thôngxat",
+      "en": "Ban Thongxat",
+      "slug": "ban-thongxat-11233731"
+    },
+    "code": {
+      "id": "11233731",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-05",
+      "level": 2,
+      "name": {
+        "local": "Nakay",
+        "en": "Nakay",
+        "slug": "nakay-kh-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-05",
+        "level": 2,
+        "name": {
+          "local": "Nakay",
+          "en": "Nakay",
+          "slug": "nakay-kh-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.936",
+      "lon": "105.219"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1658395",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Tông",
+      "en": "Ban Tong",
+      "slug": "ban-tong-1658395"
+    },
+    "code": {
+      "id": "1658395",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-05",
+      "level": 2,
+      "name": {
+        "local": "Nakay",
+        "en": "Nakay",
+        "slug": "nakay-kh-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-05",
+        "level": 2,
+        "name": {
+          "local": "Nakay",
+          "en": "Nakay",
+          "slug": "nakay-kh-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.831",
+      "lon": "105.423"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1658307",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Vangchang",
+      "en": "Ban Vangchang",
+      "slug": "ban-vangchang-1658307"
+    },
+    "code": {
+      "id": "1658307",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-05",
+      "level": 2,
+      "name": {
+        "local": "Nakay",
+        "en": "Nakay",
+        "slug": "nakay-kh-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-05",
+        "level": 2,
+        "name": {
+          "local": "Nakay",
+          "en": "Nakay",
+          "slug": "nakay-kh-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.967",
+      "lon": "105.417"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11233360",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Vanghin",
+      "en": "Ban Vanghin",
+      "slug": "ban-vanghin-11233360"
+    },
+    "code": {
+      "id": "11233360",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-05",
+      "level": 2,
+      "name": {
+        "local": "Nakay",
+        "en": "Nakay",
+        "slug": "nakay-kh-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-05",
+        "level": 2,
+        "name": {
+          "local": "Nakay",
+          "en": "Nakay",
+          "slug": "nakay-kh-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.782",
+      "lon": "104.911"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1658271",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Vanglè",
+      "en": "Ban Vangle",
+      "slug": "ban-vangle-1658271"
+    },
+    "code": {
+      "id": "1658271",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-05",
+      "level": 2,
+      "name": {
+        "local": "Nakay",
+        "en": "Nakay",
+        "slug": "nakay-kh-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-05",
+        "level": 2,
+        "name": {
+          "local": "Nakay",
+          "en": "Nakay",
+          "slug": "nakay-kh-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.85",
+      "lon": "105.467"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1658207",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Vangyiam",
+      "en": "Ban Vangyiam",
+      "slug": "ban-vangyiam-1658207"
+    },
+    "code": {
+      "id": "1658207",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-05",
+      "level": 2,
+      "name": {
+        "local": "Nakay",
+        "en": "Nakay",
+        "slug": "nakay-kh-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-05",
+        "level": 2,
+        "name": {
+          "local": "Nakay",
+          "en": "Nakay",
+          "slug": "nakay-kh-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.655",
+      "lon": "105.063"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1658111",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Xangxok",
+      "en": "Ban Xangxok",
+      "slug": "ban-xangxok-1658111"
+    },
+    "code": {
+      "id": "1658111",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-05",
+      "level": 2,
+      "name": {
+        "local": "Nakay",
+        "en": "Nakay",
+        "slug": "nakay-kh-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-05",
+        "level": 2,
+        "name": {
+          "local": "Nakay",
+          "en": "Nakay",
+          "slug": "nakay-kh-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.709",
+      "lon": "105.028"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1658063",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Xeup",
+      "en": "Ban Xeup",
+      "slug": "ban-xeup-1658063"
+    },
+    "code": {
+      "id": "1658063",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-05",
+      "level": 2,
+      "name": {
+        "local": "Nakay",
+        "en": "Nakay",
+        "slug": "nakay-kh-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-05",
+        "level": 2,
+        "name": {
+          "local": "Nakay",
+          "en": "Nakay",
+          "slug": "nakay-kh-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.9",
+      "lon": "105.483"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11233760",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Xiangthong",
+      "en": "Ban Xiangthong",
+      "slug": "ban-xiangthong-11233760"
+    },
+    "code": {
+      "id": "11233760",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-05",
+      "level": 2,
+      "name": {
+        "local": "Nakay",
+        "en": "Nakay",
+        "slug": "nakay-kh-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-05",
+        "level": 2,
+        "name": {
+          "local": "Nakay",
+          "en": "Nakay",
+          "slug": "nakay-kh-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.9",
+      "lon": "105.399"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1658004",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Xoklèk",
+      "en": "Ban Xoklek",
+      "slug": "ban-xoklek-1658004"
+    },
+    "code": {
+      "id": "1658004",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-05",
+      "level": 2,
+      "name": {
+        "local": "Nakay",
+        "en": "Nakay",
+        "slug": "nakay-kh-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-05",
+        "level": 2,
+        "name": {
+          "local": "Nakay",
+          "en": "Nakay",
+          "slug": "nakay-kh-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.93",
+      "lon": "105.388"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1657989",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Xông",
+      "en": "Ban Xong",
+      "slug": "ban-xong-1657989"
+    },
+    "code": {
+      "id": "1657989",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-05",
+      "level": 2,
+      "name": {
+        "local": "Nakay",
+        "en": "Nakay",
+        "slug": "nakay-kh-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-05",
+        "level": 2,
+        "name": {
+          "local": "Nakay",
+          "en": "Nakay",
+          "slug": "nakay-kh-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.746",
+      "lon": "104.967"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11233737",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Xot",
+      "en": "Ban Xot",
+      "slug": "ban-xot-11233737"
+    },
+    "code": {
+      "id": "11233737",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-05",
+      "level": 2,
+      "name": {
+        "local": "Nakay",
+        "en": "Nakay",
+        "slug": "nakay-kh-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-05",
+        "level": 2,
+        "name": {
+          "local": "Nakay",
+          "en": "Nakay",
+          "slug": "nakay-kh-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.723",
+      "lon": "105.226"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11233745",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Nikhôm N Sam",
+      "en": "Nikhom N Sam",
+      "slug": "nikhom-n-sam-11233745"
+    },
+    "code": {
+      "id": "11233745",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-05",
+      "level": 2,
+      "name": {
+        "local": "Nakay",
+        "en": "Nakay",
+        "slug": "nakay-kh-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-05",
+        "level": 2,
+        "name": {
+          "local": "Nakay",
+          "en": "Nakay",
+          "slug": "nakay-kh-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.702",
+      "lon": "105.24"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13631657",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Oudomsouk",
+      "en": "Oudomsouk",
+      "slug": "oudomsouk-13631657"
+    },
+    "code": {
+      "id": "13631657",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-05",
+      "level": 2,
+      "name": {
+        "local": "Nakay",
+        "en": "Nakay",
+        "slug": "nakay-kh-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-05",
+        "level": 2,
+        "name": {
+          "local": "Nakay",
+          "en": "Nakay",
+          "slug": "nakay-kh-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.714",
+      "lon": "105.15"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1652518",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Thong Sèt",
+      "en": "Thong Set",
+      "slug": "thong-set-1652518"
+    },
+    "code": {
+      "id": "1652518",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-05",
+      "level": 2,
+      "name": {
+        "local": "Nakay",
+        "en": "Nakay",
+        "slug": "nakay-kh-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-05",
+        "level": 2,
+        "name": {
+          "local": "Nakay",
+          "en": "Nakay",
+          "slug": "nakay-kh-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.783",
+      "lon": "105.5"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

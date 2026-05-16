@@ -1,0 +1,425 @@
+[
+  {
+    "id": "HO-01",
+    "level": 2,
+    "level_name": {
+      "local": "ເມືອງ",
+      "en": "District"
+    },
+    "name": {
+      "local": "Add",
+      "en": "Add",
+      "slug": "add-ho-01"
+    },
+    "code": {
+      "id": "HO-01",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO",
+      "level": 1,
+      "name": {
+        "local": "Houaphan",
+        "en": "Houaphan",
+        "slug": "houaphan-ho"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 85
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.739",
+      "lon": "103.803"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HO-02",
+    "level": 2,
+    "level_name": {
+      "local": "ເມືອງ",
+      "en": "District"
+    },
+    "name": {
+      "local": "Hiem",
+      "en": "Hiem",
+      "slug": "hiem-ho-02"
+    },
+    "code": {
+      "id": "HO-02",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO",
+      "level": 1,
+      "name": {
+        "local": "Houaphan",
+        "en": "Houaphan",
+        "slug": "houaphan-ho"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 33
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.994",
+      "lon": "103.244"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HO-03",
+    "level": 2,
+    "level_name": {
+      "local": "ເມືອງ",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kuan",
+      "en": "Kuan",
+      "slug": "kuan-ho-03"
+    },
+    "code": {
+      "id": "HO-03",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO",
+      "level": 1,
+      "name": {
+        "local": "Houaphan",
+        "en": "Houaphan",
+        "slug": "houaphan-ho"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 102
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.717",
+      "lon": "104.43"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HO-04",
+    "level": 2,
+    "level_name": {
+      "local": "ເມືອງ",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sopbao",
+      "en": "Sopbao",
+      "slug": "sopbao-ho-04"
+    },
+    "code": {
+      "id": "HO-04",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO",
+      "level": 1,
+      "name": {
+        "local": "Houaphan",
+        "en": "Houaphan",
+        "slug": "houaphan-ho"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 115
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.655",
+      "lon": "104.423"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HO-05",
+    "level": 2,
+    "level_name": {
+      "local": "ເມືອງ",
+      "en": "District"
+    },
+    "name": {
+      "local": "Viengxay",
+      "en": "Viengxay",
+      "slug": "viengxay-ho-05"
+    },
+    "code": {
+      "id": "HO-05",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO",
+      "level": 1,
+      "name": {
+        "local": "Houaphan",
+        "en": "Houaphan",
+        "slug": "houaphan-ho"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 161
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.328",
+      "lon": "104.544"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HO-06",
+    "level": 2,
+    "level_name": {
+      "local": "ເມືອງ",
+      "en": "District"
+    },
+    "name": {
+      "local": "Xamneua",
+      "en": "Xamneua",
+      "slug": "xamneua-ho-06"
+    },
+    "code": {
+      "id": "HO-06",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO",
+      "level": 1,
+      "name": {
+        "local": "Houaphan",
+        "en": "Houaphan",
+        "slug": "houaphan-ho"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 220
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.401",
+      "lon": "104.067"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HO-07",
+    "level": 2,
+    "level_name": {
+      "local": "ເມືອງ",
+      "en": "District"
+    },
+    "name": {
+      "local": "Xamtay",
+      "en": "Xamtay",
+      "slug": "xamtay-ho-07"
+    },
+    "code": {
+      "id": "HO-07",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO",
+      "level": 1,
+      "name": {
+        "local": "Houaphan",
+        "en": "Houaphan",
+        "slug": "houaphan-ho"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 120
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.011",
+      "lon": "104.808"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HO-08",
+    "level": 2,
+    "level_name": {
+      "local": "ເມືອງ",
+      "en": "District"
+    },
+    "name": {
+      "local": "Xiengkhor",
+      "en": "Xiengkhor",
+      "slug": "xiengkhor-ho-08"
+    },
+    "code": {
+      "id": "HO-08",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO",
+      "level": 1,
+      "name": {
+        "local": "Houaphan",
+        "en": "Houaphan",
+        "slug": "houaphan-ho"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 104
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.831",
+      "lon": "104.199"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HO-09",
+    "level": 2,
+    "level_name": {
+      "local": "ເມືອງ",
+      "en": "District"
+    },
+    "name": {
+      "local": "Xon",
+      "en": "Xon",
+      "slug": "xon-ho-09"
+    },
+    "code": {
+      "id": "HO-09",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO",
+      "level": 1,
+      "name": {
+        "local": "Houaphan",
+        "en": "Houaphan",
+        "slug": "houaphan-ho"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 63
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.691",
+      "lon": "103.485"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

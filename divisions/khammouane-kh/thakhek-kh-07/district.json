@@ -1,0 +1,47 @@
+{
+  "id": "KH-07",
+  "level": 2,
+  "level_name": {
+    "local": "ເມືອງ",
+    "en": "District"
+  },
+  "name": {
+    "local": "Thakhek",
+    "en": "Thakhek",
+    "slug": "thakhek-kh-07"
+  },
+  "code": {
+    "id": "KH-07",
+    "iso": null
+  },
+  "parent": {
+    "id": "KH",
+    "level": 1,
+    "name": {
+      "local": "Khammouane",
+      "en": "Khammouane",
+      "slug": "khammouane-kh"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KH",
+      "level": 1,
+      "name": {
+        "local": "Khammouane",
+        "en": "Khammouane",
+        "slug": "khammouane-kh"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 122
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.38",
+    "lon": "104.881"
+  },
+  "metadata": {},
+  "source": {}
+}

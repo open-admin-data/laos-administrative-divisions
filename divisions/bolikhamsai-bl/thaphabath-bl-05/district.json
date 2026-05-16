@@ -1,0 +1,47 @@
+{
+  "id": "BL-05",
+  "level": 2,
+  "level_name": {
+    "local": "ເມືອງ",
+    "en": "District"
+  },
+  "name": {
+    "local": "Thaphabath",
+    "en": "Thaphabath",
+    "slug": "thaphabath-bl-05"
+  },
+  "code": {
+    "id": "BL-05",
+    "iso": null
+  },
+  "parent": {
+    "id": "BL",
+    "level": 1,
+    "name": {
+      "local": "Bolikhamsai",
+      "en": "Bolikhamsai",
+      "slug": "bolikhamsai-bl"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BL",
+      "level": 1,
+      "name": {
+        "local": "Bolikhamsai",
+        "en": "Bolikhamsai",
+        "slug": "bolikhamsai-bl"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 35
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "18.38",
+    "lon": "103.109"
+  },
+  "metadata": {},
+  "source": {}
+}

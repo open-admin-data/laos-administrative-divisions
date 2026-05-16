@@ -1,0 +1,47 @@
+{
+  "id": "BK-03",
+  "level": 2,
+  "level_name": {
+    "local": "ເມືອງ",
+    "en": "District"
+  },
+  "name": {
+    "local": "Paktha",
+    "en": "Paktha",
+    "slug": "paktha-bk-03"
+  },
+  "code": {
+    "id": "BK-03",
+    "iso": null
+  },
+  "parent": {
+    "id": "BK",
+    "level": 1,
+    "name": {
+      "local": "Bokeo",
+      "en": "Bokeo",
+      "slug": "bokeo-bk"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BK",
+      "level": 1,
+      "name": {
+        "local": "Bokeo",
+        "en": "Bokeo",
+        "slug": "bokeo-bk"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 44
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "19.954",
+    "lon": "100.681"
+  },
+  "metadata": {},
+  "source": {}
+}

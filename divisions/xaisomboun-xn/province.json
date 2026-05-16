@@ -1,0 +1,30 @@
+{
+  "id": "XN",
+  "level": 1,
+  "level_name": {
+    "local": "ແຂວງ",
+    "en": "Province"
+  },
+  "name": {
+    "local": "Xaisomboun",
+    "en": "Xaisomboun",
+    "slug": "xaisomboun-xn"
+  },
+  "code": {
+    "id": "XN",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 5,
+    "village": 194
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "18.959",
+    "lon": "103.327"
+  },
+  "metadata": {},
+  "source": {}
+}

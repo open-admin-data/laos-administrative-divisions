@@ -1,0 +1,47 @@
+{
+  "id": "SL-04",
+  "level": 2,
+  "level_name": {
+    "local": "ເມືອງ",
+    "en": "District"
+  },
+  "name": {
+    "local": "Samuoi",
+    "en": "Samuoi",
+    "slug": "samuoi-sl-04"
+  },
+  "code": {
+    "id": "SL-04",
+    "iso": null
+  },
+  "parent": {
+    "id": "SL",
+    "level": 1,
+    "name": {
+      "local": "Salavan",
+      "en": "Salavan",
+      "slug": "salavan-sl"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "SL",
+      "level": 1,
+      "name": {
+        "local": "Salavan",
+        "en": "Salavan",
+        "slug": "salavan-sl"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 80
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.395",
+    "lon": "106.894"
+  },
+  "metadata": {},
+  "source": {}
+}

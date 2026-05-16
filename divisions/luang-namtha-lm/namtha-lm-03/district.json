@@ -1,0 +1,47 @@
+{
+  "id": "LM-03",
+  "level": 2,
+  "level_name": {
+    "local": "ເມືອງ",
+    "en": "District"
+  },
+  "name": {
+    "local": "Namtha",
+    "en": "Namtha",
+    "slug": "namtha-lm-03"
+  },
+  "code": {
+    "id": "LM-03",
+    "iso": null
+  },
+  "parent": {
+    "id": "LM",
+    "level": 1,
+    "name": {
+      "local": "Luang Namtha",
+      "en": "Luang Namtha",
+      "slug": "luang-namtha-lm"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "LM",
+      "level": 1,
+      "name": {
+        "local": "Luang Namtha",
+        "en": "Luang Namtha",
+        "slug": "luang-namtha-lm"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 93
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "21.121",
+    "lon": "101.504"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,5618 @@
+[
+  {
+    "id": "1664990",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban A Luc",
+      "en": "Ban A Luc",
+      "slug": "ban-a-luc-1664990"
+    },
+    "code": {
+      "id": "1664990",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-08",
+      "level": 2,
+      "name": {
+        "local": "Xiengkhor",
+        "en": "Xiengkhor",
+        "slug": "xiengkhor-ho-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-08",
+        "level": 2,
+        "name": {
+          "local": "Xiengkhor",
+          "en": "Xiengkhor",
+          "slug": "xiengkhor-ho-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.8",
+      "lon": "104.283"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1664930",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Bao",
+      "en": "Ban Bao",
+      "slug": "ban-bao-1664930"
+    },
+    "code": {
+      "id": "1664930",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-08",
+      "level": 2,
+      "name": {
+        "local": "Xiengkhor",
+        "en": "Xiengkhor",
+        "slug": "xiengkhor-ho-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-08",
+        "level": 2,
+        "name": {
+          "local": "Xiengkhor",
+          "en": "Xiengkhor",
+          "slug": "xiengkhor-ho-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.842",
+      "lon": "104.127"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1664923",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Bet",
+      "en": "Ban Bet",
+      "slug": "ban-bet-1664923"
+    },
+    "code": {
+      "id": "1664923",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-08",
+      "level": 2,
+      "name": {
+        "local": "Xiengkhor",
+        "en": "Xiengkhor",
+        "slug": "xiengkhor-ho-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-08",
+        "level": 2,
+        "name": {
+          "local": "Xiengkhor",
+          "en": "Xiengkhor",
+          "slug": "xiengkhor-ho-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.917",
+      "lon": "104.133"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1664908",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Bo Bon",
+      "en": "Ban Bo Bon",
+      "slug": "ban-bo-bon-1664908"
+    },
+    "code": {
+      "id": "1664908",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-08",
+      "level": 2,
+      "name": {
+        "local": "Xiengkhor",
+        "en": "Xiengkhor",
+        "slug": "xiengkhor-ho-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-08",
+        "level": 2,
+        "name": {
+          "local": "Xiengkhor",
+          "en": "Xiengkhor",
+          "slug": "xiengkhor-ho-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.933",
+      "lon": "104.083"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1955999",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Bouamphou",
+      "en": "Ban Bouamphou",
+      "slug": "ban-bouamphou-1955999"
+    },
+    "code": {
+      "id": "1955999",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-08",
+      "level": 2,
+      "name": {
+        "local": "Xiengkhor",
+        "en": "Xiengkhor",
+        "slug": "xiengkhor-ho-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-08",
+        "level": 2,
+        "name": {
+          "local": "Xiengkhor",
+          "en": "Xiengkhor",
+          "slug": "xiengkhor-ho-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.938",
+      "lon": "104.062"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1664782",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Buôm Nghiou",
+      "en": "Ban Buom Nghiou",
+      "slug": "ban-buom-nghiou-1664782"
+    },
+    "code": {
+      "id": "1664782",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-08",
+      "level": 2,
+      "name": {
+        "local": "Xiengkhor",
+        "en": "Xiengkhor",
+        "slug": "xiengkhor-ho-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-08",
+        "level": 2,
+        "name": {
+          "local": "Xiengkhor",
+          "en": "Xiengkhor",
+          "slug": "xiengkhor-ho-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.833",
+      "lon": "104.267"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1956071",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Chéphay",
+      "en": "Ban Chephay",
+      "slug": "ban-chephay-1956071"
+    },
+    "code": {
+      "id": "1956071",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-08",
+      "level": 2,
+      "name": {
+        "local": "Xiengkhor",
+        "en": "Xiengkhor",
+        "slug": "xiengkhor-ho-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-08",
+        "level": 2,
+        "name": {
+          "local": "Xiengkhor",
+          "en": "Xiengkhor",
+          "slug": "xiengkhor-ho-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.808",
+      "lon": "104.272"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1664661",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Cong Meo",
+      "en": "Ban Cong Meo",
+      "slug": "ban-cong-meo-1664661"
+    },
+    "code": {
+      "id": "1664661",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-08",
+      "level": 2,
+      "name": {
+        "local": "Xiengkhor",
+        "en": "Xiengkhor",
+        "slug": "xiengkhor-ho-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-08",
+        "level": 2,
+        "name": {
+          "local": "Xiengkhor",
+          "en": "Xiengkhor",
+          "slug": "xiengkhor-ho-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.717",
+      "lon": "104.15"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1664662",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Cong Meo",
+      "en": "Ban Cong Meo",
+      "slug": "ban-cong-meo-1664662"
+    },
+    "code": {
+      "id": "1664662",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-08",
+      "level": 2,
+      "name": {
+        "local": "Xiengkhor",
+        "en": "Xiengkhor",
+        "slug": "xiengkhor-ho-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-08",
+        "level": 2,
+        "name": {
+          "local": "Xiengkhor",
+          "en": "Xiengkhor",
+          "slug": "xiengkhor-ho-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.733",
+      "lon": "104.15"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1956023",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Dindèng",
+      "en": "Ban Dindeng",
+      "slug": "ban-dindeng-1956023"
+    },
+    "code": {
+      "id": "1956023",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-08",
+      "level": 2,
+      "name": {
+        "local": "Xiengkhor",
+        "en": "Xiengkhor",
+        "slug": "xiengkhor-ho-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-08",
+        "level": 2,
+        "name": {
+          "local": "Xiengkhor",
+          "en": "Xiengkhor",
+          "slug": "xiengkhor-ho-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.861",
+      "lon": "104.236"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1664217",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Hang",
+      "en": "Ban Hang",
+      "slug": "ban-hang-1664217"
+    },
+    "code": {
+      "id": "1664217",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-08",
+      "level": 2,
+      "name": {
+        "local": "Xiengkhor",
+        "en": "Xiengkhor",
+        "slug": "xiengkhor-ho-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-08",
+        "level": 2,
+        "name": {
+          "local": "Xiengkhor",
+          "en": "Xiengkhor",
+          "slug": "xiengkhor-ho-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.933",
+      "lon": "104.183"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1663899",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Hap",
+      "en": "Ban Hap",
+      "slug": "ban-hap-1663899"
+    },
+    "code": {
+      "id": "1663899",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-08",
+      "level": 2,
+      "name": {
+        "local": "Xiengkhor",
+        "en": "Xiengkhor",
+        "slug": "xiengkhor-ho-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-08",
+        "level": 2,
+        "name": {
+          "local": "Xiengkhor",
+          "en": "Xiengkhor",
+          "slug": "xiengkhor-ho-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.839",
+      "lon": "104.129"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1664159",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Hat Khê",
+      "en": "Ban Hat Khe",
+      "slug": "ban-hat-khe-1664159"
+    },
+    "code": {
+      "id": "1664159",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-08",
+      "level": 2,
+      "name": {
+        "local": "Xiengkhor",
+        "en": "Xiengkhor",
+        "slug": "xiengkhor-ho-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-08",
+        "level": 2,
+        "name": {
+          "local": "Xiengkhor",
+          "en": "Xiengkhor",
+          "slug": "xiengkhor-ho-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.767",
+      "lon": "104.283"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1956082",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Hophiang",
+      "en": "Ban Hophiang",
+      "slug": "ban-hophiang-1956082"
+    },
+    "code": {
+      "id": "1956082",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-08",
+      "level": 2,
+      "name": {
+        "local": "Xiengkhor",
+        "en": "Xiengkhor",
+        "slug": "xiengkhor-ho-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-08",
+        "level": 2,
+        "name": {
+          "local": "Xiengkhor",
+          "en": "Xiengkhor",
+          "slug": "xiengkhor-ho-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.799",
+      "lon": "104.369"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1955990",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houakhong",
+      "en": "Ban Houakhong",
+      "slug": "ban-houakhong-1955990"
+    },
+    "code": {
+      "id": "1955990",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-08",
+      "level": 2,
+      "name": {
+        "local": "Xiengkhor",
+        "en": "Xiengkhor",
+        "slug": "xiengkhor-ho-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-08",
+        "level": 2,
+        "name": {
+          "local": "Xiengkhor",
+          "en": "Xiengkhor",
+          "slug": "xiengkhor-ho-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.878",
+      "lon": "104.031"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1956060",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houaphou",
+      "en": "Ban Houaphou",
+      "slug": "ban-houaphou-1956060"
+    },
+    "code": {
+      "id": "1956060",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-08",
+      "level": 2,
+      "name": {
+        "local": "Xiengkhor",
+        "en": "Xiengkhor",
+        "slug": "xiengkhor-ho-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-08",
+        "level": 2,
+        "name": {
+          "local": "Xiengkhor",
+          "en": "Xiengkhor",
+          "slug": "xiengkhor-ho-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.852",
+      "lon": "104.321"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1663770",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houay Long",
+      "en": "Ban Houay Long",
+      "slug": "ban-houay-long-1663770"
+    },
+    "code": {
+      "id": "1663770",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-08",
+      "level": 2,
+      "name": {
+        "local": "Xiengkhor",
+        "en": "Xiengkhor",
+        "slug": "xiengkhor-ho-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-08",
+        "level": 2,
+        "name": {
+          "local": "Xiengkhor",
+          "en": "Xiengkhor",
+          "slug": "xiengkhor-ho-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.883",
+      "lon": "104.067"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1664929",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houaybao",
+      "en": "Ban Houaybao",
+      "slug": "ban-houaybao-1664929"
+    },
+    "code": {
+      "id": "1664929",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-08",
+      "level": 2,
+      "name": {
+        "local": "Xiengkhor",
+        "en": "Xiengkhor",
+        "slug": "xiengkhor-ho-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-08",
+        "level": 2,
+        "name": {
+          "local": "Xiengkhor",
+          "en": "Xiengkhor",
+          "slug": "xiengkhor-ho-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.866",
+      "lon": "104.15"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1663933",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houaybao-Tai",
+      "en": "Ban Houaybao-Tai",
+      "slug": "ban-houaybao-tai-1663933"
+    },
+    "code": {
+      "id": "1663933",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-08",
+      "level": 2,
+      "name": {
+        "local": "Xiengkhor",
+        "en": "Xiengkhor",
+        "slug": "xiengkhor-ho-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-08",
+        "level": 2,
+        "name": {
+          "local": "Xiengkhor",
+          "en": "Xiengkhor",
+          "slug": "xiengkhor-ho-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.777",
+      "lon": "104.137"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1955992",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houaykham",
+      "en": "Ban Houaykham",
+      "slug": "ban-houaykham-1955992"
+    },
+    "code": {
+      "id": "1955992",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-08",
+      "level": 2,
+      "name": {
+        "local": "Xiengkhor",
+        "en": "Xiengkhor",
+        "slug": "xiengkhor-ho-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-08",
+        "level": 2,
+        "name": {
+          "local": "Xiengkhor",
+          "en": "Xiengkhor",
+          "slug": "xiengkhor-ho-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.874",
+      "lon": "104.055"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1663473",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houaymong",
+      "en": "Ban Houaymong",
+      "slug": "ban-houaymong-1663473"
+    },
+    "code": {
+      "id": "1663473",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-08",
+      "level": 2,
+      "name": {
+        "local": "Xiengkhor",
+        "en": "Xiengkhor",
+        "slug": "xiengkhor-ho-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-08",
+        "level": 2,
+        "name": {
+          "local": "Xiengkhor",
+          "en": "Xiengkhor",
+          "slug": "xiengkhor-ho-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.749",
+      "lon": "104.148"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1663685",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houaypai",
+      "en": "Ban Houaypai",
+      "slug": "ban-houaypai-1663685"
+    },
+    "code": {
+      "id": "1663685",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-08",
+      "level": 2,
+      "name": {
+        "local": "Xiengkhor",
+        "en": "Xiengkhor",
+        "slug": "xiengkhor-ho-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-08",
+        "level": 2,
+        "name": {
+          "local": "Xiengkhor",
+          "en": "Xiengkhor",
+          "slug": "xiengkhor-ho-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.862",
+      "lon": "104.287"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1956037",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houaypit",
+      "en": "Ban Houaypit",
+      "slug": "ban-houaypit-1956037"
+    },
+    "code": {
+      "id": "1956037",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-08",
+      "level": 2,
+      "name": {
+        "local": "Xiengkhor",
+        "en": "Xiengkhor",
+        "slug": "xiengkhor-ho-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-08",
+        "level": 2,
+        "name": {
+          "local": "Xiengkhor",
+          "en": "Xiengkhor",
+          "slug": "xiengkhor-ho-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.805",
+      "lon": "104.226"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1955995",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houaytia",
+      "en": "Ban Houaytia",
+      "slug": "ban-houaytia-1955995"
+    },
+    "code": {
+      "id": "1955995",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-08",
+      "level": 2,
+      "name": {
+        "local": "Xiengkhor",
+        "en": "Xiengkhor",
+        "slug": "xiengkhor-ho-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-08",
+        "level": 2,
+        "name": {
+          "local": "Xiengkhor",
+          "en": "Xiengkhor",
+          "slug": "xiengkhor-ho-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.886",
+      "lon": "104.06"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1663537",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houayvan",
+      "en": "Ban Houayvan",
+      "slug": "ban-houayvan-1663537"
+    },
+    "code": {
+      "id": "1663537",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-08",
+      "level": 2,
+      "name": {
+        "local": "Xiengkhor",
+        "en": "Xiengkhor",
+        "slug": "xiengkhor-ho-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-08",
+        "level": 2,
+        "name": {
+          "local": "Xiengkhor",
+          "en": "Xiengkhor",
+          "slug": "xiengkhor-ho-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.84",
+      "lon": "104.146"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1663635",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houayxai",
+      "en": "Ban Houayxai",
+      "slug": "ban-houayxai-1663635"
+    },
+    "code": {
+      "id": "1663635",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-08",
+      "level": 2,
+      "name": {
+        "local": "Xiengkhor",
+        "en": "Xiengkhor",
+        "slug": "xiengkhor-ho-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-08",
+        "level": 2,
+        "name": {
+          "local": "Xiengkhor",
+          "en": "Xiengkhor",
+          "slug": "xiengkhor-ho-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.804",
+      "lon": "104.29"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1663187",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Kèolôm",
+      "en": "Ban Keolom",
+      "slug": "ban-keolom-1663187"
+    },
+    "code": {
+      "id": "1663187",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-08",
+      "level": 2,
+      "name": {
+        "local": "Xiengkhor",
+        "en": "Xiengkhor",
+        "slug": "xiengkhor-ho-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-08",
+        "level": 2,
+        "name": {
+          "local": "Xiengkhor",
+          "en": "Xiengkhor",
+          "slug": "xiengkhor-ho-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.883",
+      "lon": "104.234"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1956018",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Kèoven",
+      "en": "Ban Keoven",
+      "slug": "ban-keoven-1956018"
+    },
+    "code": {
+      "id": "1956018",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-08",
+      "level": 2,
+      "name": {
+        "local": "Xiengkhor",
+        "en": "Xiengkhor",
+        "slug": "xiengkhor-ho-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-08",
+        "level": 2,
+        "name": {
+          "local": "Xiengkhor",
+          "en": "Xiengkhor",
+          "slug": "xiengkhor-ho-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.882",
+      "lon": "104.214"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1663013",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Kheo Ca Noi",
+      "en": "Ban Kheo Ca Noi",
+      "slug": "ban-kheo-ca-noi-1663013"
+    },
+    "code": {
+      "id": "1663013",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-08",
+      "level": 2,
+      "name": {
+        "local": "Xiengkhor",
+        "en": "Xiengkhor",
+        "slug": "xiengkhor-ho-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-08",
+        "level": 2,
+        "name": {
+          "local": "Xiengkhor",
+          "en": "Xiengkhor",
+          "slug": "xiengkhor-ho-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.733",
+      "lon": "104.15"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1956042",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Kohai",
+      "en": "Ban Kohai",
+      "slug": "ban-kohai-1956042"
+    },
+    "code": {
+      "id": "1956042",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-08",
+      "level": 2,
+      "name": {
+        "local": "Xiengkhor",
+        "en": "Xiengkhor",
+        "slug": "xiengkhor-ho-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-08",
+        "level": 2,
+        "name": {
+          "local": "Xiengkhor",
+          "en": "Xiengkhor",
+          "slug": "xiengkhor-ho-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.892",
+      "lon": "104.248"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1663711",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Kongiou",
+      "en": "Ban Kongiou",
+      "slug": "ban-kongiou-1663711"
+    },
+    "code": {
+      "id": "1663711",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-08",
+      "level": 2,
+      "name": {
+        "local": "Xiengkhor",
+        "en": "Xiengkhor",
+        "slug": "xiengkhor-ho-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-08",
+        "level": 2,
+        "name": {
+          "local": "Xiengkhor",
+          "en": "Xiengkhor",
+          "slug": "xiengkhor-ho-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.925",
+      "lon": "104.066"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1956027",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Kongiou",
+      "en": "Ban Kongiou",
+      "slug": "ban-kongiou-1956027"
+    },
+    "code": {
+      "id": "1956027",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-08",
+      "level": 2,
+      "name": {
+        "local": "Xiengkhor",
+        "en": "Xiengkhor",
+        "slug": "xiengkhor-ho-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-08",
+        "level": 2,
+        "name": {
+          "local": "Xiengkhor",
+          "en": "Xiengkhor",
+          "slug": "xiengkhor-ho-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.85",
+      "lon": "104.182"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1956002",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Konyôn",
+      "en": "Ban Konyon",
+      "slug": "ban-konyon-1956002"
+    },
+    "code": {
+      "id": "1956002",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-08",
+      "level": 2,
+      "name": {
+        "local": "Xiengkhor",
+        "en": "Xiengkhor",
+        "slug": "xiengkhor-ho-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-08",
+        "level": 2,
+        "name": {
+          "local": "Xiengkhor",
+          "en": "Xiengkhor",
+          "slug": "xiengkhor-ho-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.948",
+      "lon": "104.158"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1662690",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Lac Gie",
+      "en": "Ban Lac Gie",
+      "slug": "ban-lac-gie-1662690"
+    },
+    "code": {
+      "id": "1662690",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-08",
+      "level": 2,
+      "name": {
+        "local": "Xiengkhor",
+        "en": "Xiengkhor",
+        "slug": "xiengkhor-ho-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-08",
+        "level": 2,
+        "name": {
+          "local": "Xiengkhor",
+          "en": "Xiengkhor",
+          "slug": "xiengkhor-ho-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.9",
+      "lon": "104.233"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1662389",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Loup",
+      "en": "Ban Loup",
+      "slug": "ban-loup-1662389"
+    },
+    "code": {
+      "id": "1662389",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-08",
+      "level": 2,
+      "name": {
+        "local": "Xiengkhor",
+        "en": "Xiengkhor",
+        "slug": "xiengkhor-ho-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-08",
+        "level": 2,
+        "name": {
+          "local": "Xiengkhor",
+          "en": "Xiengkhor",
+          "slug": "xiengkhor-ho-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.848",
+      "lon": "104.079"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1956062",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Mong-Nam",
+      "en": "Ban Mong-Nam",
+      "slug": "ban-mong-nam-1956062"
+    },
+    "code": {
+      "id": "1956062",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-08",
+      "level": 2,
+      "name": {
+        "local": "Xiengkhor",
+        "en": "Xiengkhor",
+        "slug": "xiengkhor-ho-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-08",
+        "level": 2,
+        "name": {
+          "local": "Xiengkhor",
+          "en": "Xiengkhor",
+          "slug": "xiengkhor-ho-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.845",
+      "lon": "104.327"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1662150",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Mouang",
+      "en": "Ban Mouang",
+      "slug": "ban-mouang-1662150"
+    },
+    "code": {
+      "id": "1662150",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-08",
+      "level": 2,
+      "name": {
+        "local": "Xiengkhor",
+        "en": "Xiengkhor",
+        "slug": "xiengkhor-ho-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-08",
+        "level": 2,
+        "name": {
+          "local": "Xiengkhor",
+          "en": "Xiengkhor",
+          "slug": "xiengkhor-ho-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.786",
+      "lon": "104.329"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1662149",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Muot",
+      "en": "Ban Muot",
+      "slug": "ban-muot-1662149"
+    },
+    "code": {
+      "id": "1662149",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-08",
+      "level": 2,
+      "name": {
+        "local": "Xiengkhor",
+        "en": "Xiengkhor",
+        "slug": "xiengkhor-ho-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-08",
+        "level": 2,
+        "name": {
+          "local": "Xiengkhor",
+          "en": "Xiengkhor",
+          "slug": "xiengkhor-ho-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.917",
+      "lon": "104.183"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1661625",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Na Mai",
+      "en": "Ban Na Mai",
+      "slug": "ban-na-mai-1661625"
+    },
+    "code": {
+      "id": "1661625",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-08",
+      "level": 2,
+      "name": {
+        "local": "Xiengkhor",
+        "en": "Xiengkhor",
+        "slug": "xiengkhor-ho-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-08",
+        "level": 2,
+        "name": {
+          "local": "Xiengkhor",
+          "en": "Xiengkhor",
+          "slug": "xiengkhor-ho-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.9",
+      "lon": "104.15"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1661206",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Na Pieng",
+      "en": "Ban Na Pieng",
+      "slug": "ban-na-pieng-1661206"
+    },
+    "code": {
+      "id": "1661206",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-08",
+      "level": 2,
+      "name": {
+        "local": "Xiengkhor",
+        "en": "Xiengkhor",
+        "slug": "xiengkhor-ho-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-08",
+        "level": 2,
+        "name": {
+          "local": "Xiengkhor",
+          "en": "Xiengkhor",
+          "slug": "xiengkhor-ho-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.733",
+      "lon": "104.183"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1661176",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Na San",
+      "en": "Ban Na San",
+      "slug": "ban-na-san-1661176"
+    },
+    "code": {
+      "id": "1661176",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-08",
+      "level": 2,
+      "name": {
+        "local": "Xiengkhor",
+        "en": "Xiengkhor",
+        "slug": "xiengkhor-ho-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-08",
+        "level": 2,
+        "name": {
+          "local": "Xiengkhor",
+          "en": "Xiengkhor",
+          "slug": "xiengkhor-ho-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.867",
+      "lon": "104.067"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1660956",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Na Yane",
+      "en": "Ban Na Yane",
+      "slug": "ban-na-yane-1660956"
+    },
+    "code": {
+      "id": "1660956",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-08",
+      "level": 2,
+      "name": {
+        "local": "Xiengkhor",
+        "en": "Xiengkhor",
+        "slug": "xiengkhor-ho-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-08",
+        "level": 2,
+        "name": {
+          "local": "Xiengkhor",
+          "en": "Xiengkhor",
+          "slug": "xiengkhor-ho-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.95",
+      "lon": "104.15"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1955556",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nachong",
+      "en": "Ban Nachong",
+      "slug": "ban-nachong-1955556"
+    },
+    "code": {
+      "id": "1955556",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-08",
+      "level": 2,
+      "name": {
+        "local": "Xiengkhor",
+        "en": "Xiengkhor",
+        "slug": "xiengkhor-ho-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-08",
+        "level": 2,
+        "name": {
+          "local": "Xiengkhor",
+          "en": "Xiengkhor",
+          "slug": "xiengkhor-ho-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.68",
+      "lon": "104.078"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1955997",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nadua",
+      "en": "Ban Nadua",
+      "slug": "ban-nadua-1955997"
+    },
+    "code": {
+      "id": "1955997",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-08",
+      "level": 2,
+      "name": {
+        "local": "Xiengkhor",
+        "en": "Xiengkhor",
+        "slug": "xiengkhor-ho-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-08",
+        "level": 2,
+        "name": {
+          "local": "Xiengkhor",
+          "en": "Xiengkhor",
+          "slug": "xiengkhor-ho-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.904",
+      "lon": "104.075"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1955733",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nahing",
+      "en": "Ban Nahing",
+      "slug": "ban-nahing-1955733"
+    },
+    "code": {
+      "id": "1955733",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-08",
+      "level": 2,
+      "name": {
+        "local": "Xiengkhor",
+        "en": "Xiengkhor",
+        "slug": "xiengkhor-ho-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-08",
+        "level": 2,
+        "name": {
+          "local": "Xiengkhor",
+          "en": "Xiengkhor",
+          "slug": "xiengkhor-ho-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.823",
+      "lon": "104.124"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1955660",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nahua",
+      "en": "Ban Nahua",
+      "slug": "ban-nahua-1955660"
+    },
+    "code": {
+      "id": "1955660",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-08",
+      "level": 2,
+      "name": {
+        "local": "Xiengkhor",
+        "en": "Xiengkhor",
+        "slug": "xiengkhor-ho-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-08",
+        "level": 2,
+        "name": {
+          "local": "Xiengkhor",
+          "en": "Xiengkhor",
+          "slug": "xiengkhor-ho-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.726",
+      "lon": "104.187"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1661816",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nakham",
+      "en": "Ban Nakham",
+      "slug": "ban-nakham-1661816"
+    },
+    "code": {
+      "id": "1661816",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-08",
+      "level": 2,
+      "name": {
+        "local": "Xiengkhor",
+        "en": "Xiengkhor",
+        "slug": "xiengkhor-ho-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-08",
+        "level": 2,
+        "name": {
+          "local": "Xiengkhor",
+          "en": "Xiengkhor",
+          "slug": "xiengkhor-ho-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.758",
+      "lon": "104.258"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1655038",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nakhang",
+      "en": "Ban Nakhang",
+      "slug": "ban-nakhang-1655038"
+    },
+    "code": {
+      "id": "1655038",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-08",
+      "level": 2,
+      "name": {
+        "local": "Xiengkhor",
+        "en": "Xiengkhor",
+        "slug": "xiengkhor-ho-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-08",
+        "level": 2,
+        "name": {
+          "local": "Xiengkhor",
+          "en": "Xiengkhor",
+          "slug": "xiengkhor-ho-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.895",
+      "lon": "104.227"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1956017",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nakhang",
+      "en": "Ban Nakhang",
+      "slug": "ban-nakhang-1956017"
+    },
+    "code": {
+      "id": "1956017",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-08",
+      "level": 2,
+      "name": {
+        "local": "Xiengkhor",
+        "en": "Xiengkhor",
+        "slug": "xiengkhor-ho-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-08",
+        "level": 2,
+        "name": {
+          "local": "Xiengkhor",
+          "en": "Xiengkhor",
+          "slug": "xiengkhor-ho-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.896",
+      "lon": "104.226"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1661735",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nakiou",
+      "en": "Ban Nakiou",
+      "slug": "ban-nakiou-1661735"
+    },
+    "code": {
+      "id": "1661735",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-08",
+      "level": 2,
+      "name": {
+        "local": "Xiengkhor",
+        "en": "Xiengkhor",
+        "slug": "xiengkhor-ho-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-08",
+        "level": 2,
+        "name": {
+          "local": "Xiengkhor",
+          "en": "Xiengkhor",
+          "slug": "xiengkhor-ho-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.897",
+      "lon": "104.075"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1661475",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Namon",
+      "en": "Ban Namon",
+      "slug": "ban-namon-1661475"
+    },
+    "code": {
+      "id": "1661475",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-08",
+      "level": 2,
+      "name": {
+        "local": "Xiengkhor",
+        "en": "Xiengkhor",
+        "slug": "xiengkhor-ho-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-08",
+        "level": 2,
+        "name": {
+          "local": "Xiengkhor",
+          "en": "Xiengkhor",
+          "slug": "xiengkhor-ho-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.896",
+      "lon": "104.132"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1955676",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Namuang",
+      "en": "Ban Namuang",
+      "slug": "ban-namuang-1955676"
+    },
+    "code": {
+      "id": "1955676",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-08",
+      "level": 2,
+      "name": {
+        "local": "Xiengkhor",
+        "en": "Xiengkhor",
+        "slug": "xiengkhor-ho-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-08",
+        "level": 2,
+        "name": {
+          "local": "Xiengkhor",
+          "en": "Xiengkhor",
+          "slug": "xiengkhor-ho-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.782",
+      "lon": "104.145"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1955993",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nanong",
+      "en": "Ban Nanong",
+      "slug": "ban-nanong-1955993"
+    },
+    "code": {
+      "id": "1955993",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-08",
+      "level": 2,
+      "name": {
+        "local": "Xiengkhor",
+        "en": "Xiengkhor",
+        "slug": "xiengkhor-ho-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-08",
+        "level": 2,
+        "name": {
+          "local": "Xiengkhor",
+          "en": "Xiengkhor",
+          "slug": "xiengkhor-ho-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.878",
+      "lon": "104.075"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1654803",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Napao",
+      "en": "Ban Napao",
+      "slug": "ban-napao-1654803"
+    },
+    "code": {
+      "id": "1654803",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-08",
+      "level": 2,
+      "name": {
+        "local": "Xiengkhor",
+        "en": "Xiengkhor",
+        "slug": "xiengkhor-ho-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-08",
+        "level": 2,
+        "name": {
+          "local": "Xiengkhor",
+          "en": "Xiengkhor",
+          "slug": "xiengkhor-ho-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.909",
+      "lon": "104.235"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1956096",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Naphiang",
+      "en": "Ban Naphiang",
+      "slug": "ban-naphiang-1956096"
+    },
+    "code": {
+      "id": "1956096",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-08",
+      "level": 2,
+      "name": {
+        "local": "Xiengkhor",
+        "en": "Xiengkhor",
+        "slug": "xiengkhor-ho-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-08",
+        "level": 2,
+        "name": {
+          "local": "Xiengkhor",
+          "en": "Xiengkhor",
+          "slug": "xiengkhor-ho-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.763",
+      "lon": "104.23"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1661045",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Natong",
+      "en": "Ban Natong",
+      "slug": "ban-natong-1661045"
+    },
+    "code": {
+      "id": "1661045",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-08",
+      "level": 2,
+      "name": {
+        "local": "Xiengkhor",
+        "en": "Xiengkhor",
+        "slug": "xiengkhor-ho-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-08",
+        "level": 2,
+        "name": {
+          "local": "Xiengkhor",
+          "en": "Xiengkhor",
+          "slug": "xiengkhor-ho-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.882",
+      "lon": "104.074"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1955655",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Naviang",
+      "en": "Ban Naviang",
+      "slug": "ban-naviang-1955655"
+    },
+    "code": {
+      "id": "1955655",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-08",
+      "level": 2,
+      "name": {
+        "local": "Xiengkhor",
+        "en": "Xiengkhor",
+        "slug": "xiengkhor-ho-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-08",
+        "level": 2,
+        "name": {
+          "local": "Xiengkhor",
+          "en": "Xiengkhor",
+          "slug": "xiengkhor-ho-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.743",
+      "lon": "104.183"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1955617",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Naxai",
+      "en": "Ban Naxai",
+      "slug": "ban-naxai-1955617"
+    },
+    "code": {
+      "id": "1955617",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-08",
+      "level": 2,
+      "name": {
+        "local": "Xiengkhor",
+        "en": "Xiengkhor",
+        "slug": "xiengkhor-ho-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-08",
+        "level": 2,
+        "name": {
+          "local": "Xiengkhor",
+          "en": "Xiengkhor",
+          "slug": "xiengkhor-ho-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.731",
+      "lon": "104.152"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1661334",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Ngouam",
+      "en": "Ban Ngouam",
+      "slug": "ban-ngouam-1661334"
+    },
+    "code": {
+      "id": "1661334",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-08",
+      "level": 2,
+      "name": {
+        "local": "Xiengkhor",
+        "en": "Xiengkhor",
+        "slug": "xiengkhor-ho-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-08",
+        "level": 2,
+        "name": {
+          "local": "Xiengkhor",
+          "en": "Xiengkhor",
+          "slug": "xiengkhor-ho-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.761",
+      "lon": "104.129"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1955738",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Ngum",
+      "en": "Ban Ngum",
+      "slug": "ban-ngum-1955738"
+    },
+    "code": {
+      "id": "1955738",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-08",
+      "level": 2,
+      "name": {
+        "local": "Xiengkhor",
+        "en": "Xiengkhor",
+        "slug": "xiengkhor-ho-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-08",
+        "level": 2,
+        "name": {
+          "local": "Xiengkhor",
+          "en": "Xiengkhor",
+          "slug": "xiengkhor-ho-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.806",
+      "lon": "104.155"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1955615",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nôkkôk",
+      "en": "Ban Nokkok",
+      "slug": "ban-nokkok-1955615"
+    },
+    "code": {
+      "id": "1955615",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-08",
+      "level": 2,
+      "name": {
+        "local": "Xiengkhor",
+        "en": "Xiengkhor",
+        "slug": "xiengkhor-ho-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-08",
+        "level": 2,
+        "name": {
+          "local": "Xiengkhor",
+          "en": "Xiengkhor",
+          "slug": "xiengkhor-ho-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.71",
+      "lon": "104.144"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1955681",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nongkiang",
+      "en": "Ban Nongkiang",
+      "slug": "ban-nongkiang-1955681"
+    },
+    "code": {
+      "id": "1955681",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-08",
+      "level": 2,
+      "name": {
+        "local": "Xiengkhor",
+        "en": "Xiengkhor",
+        "slug": "xiengkhor-ho-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-08",
+        "level": 2,
+        "name": {
+          "local": "Xiengkhor",
+          "en": "Xiengkhor",
+          "slug": "xiengkhor-ho-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.753",
+      "lon": "104.117"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1660590",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban On",
+      "en": "Ban On",
+      "slug": "ban-on-1660590"
+    },
+    "code": {
+      "id": "1660590",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-08",
+      "level": 2,
+      "name": {
+        "local": "Xiengkhor",
+        "en": "Xiengkhor",
+        "slug": "xiengkhor-ho-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-08",
+        "level": 2,
+        "name": {
+          "local": "Xiengkhor",
+          "en": "Xiengkhor",
+          "slug": "xiengkhor-ho-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.767",
+      "lon": "104.2"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1956059",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Paboua",
+      "en": "Ban Paboua",
+      "slug": "ban-paboua-1956059"
+    },
+    "code": {
+      "id": "1956059",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-08",
+      "level": 2,
+      "name": {
+        "local": "Xiengkhor",
+        "en": "Xiengkhor",
+        "slug": "xiengkhor-ho-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-08",
+        "level": 2,
+        "name": {
+          "local": "Xiengkhor",
+          "en": "Xiengkhor",
+          "slug": "xiengkhor-ho-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.857",
+      "lon": "104.314"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1956061",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Pasôm",
+      "en": "Ban Pasom",
+      "slug": "ban-pasom-1956061"
+    },
+    "code": {
+      "id": "1956061",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-08",
+      "level": 2,
+      "name": {
+        "local": "Xiengkhor",
+        "en": "Xiengkhor",
+        "slug": "xiengkhor-ho-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-08",
+        "level": 2,
+        "name": {
+          "local": "Xiengkhor",
+          "en": "Xiengkhor",
+          "slug": "xiengkhor-ho-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.848",
+      "lon": "104.339"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1660212",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Pha Meo",
+      "en": "Ban Pha Meo",
+      "slug": "ban-pha-meo-1660212"
+    },
+    "code": {
+      "id": "1660212",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-08",
+      "level": 2,
+      "name": {
+        "local": "Xiengkhor",
+        "en": "Xiengkhor",
+        "slug": "xiengkhor-ho-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-08",
+        "level": 2,
+        "name": {
+          "local": "Xiengkhor",
+          "en": "Xiengkhor",
+          "slug": "xiengkhor-ho-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.85",
+      "lon": "104.183"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1956013",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phabao",
+      "en": "Ban Phabao",
+      "slug": "ban-phabao-1956013"
+    },
+    "code": {
+      "id": "1956013",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-08",
+      "level": 2,
+      "name": {
+        "local": "Xiengkhor",
+        "en": "Xiengkhor",
+        "slug": "xiengkhor-ho-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-08",
+        "level": 2,
+        "name": {
+          "local": "Xiengkhor",
+          "en": "Xiengkhor",
+          "slug": "xiengkhor-ho-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.905",
+      "lon": "104.203"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1660202",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phang-Na",
+      "en": "Ban Phang-Na",
+      "slug": "ban-phang-na-1660202"
+    },
+    "code": {
+      "id": "1660202",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-08",
+      "level": 2,
+      "name": {
+        "local": "Xiengkhor",
+        "en": "Xiengkhor",
+        "slug": "xiengkhor-ho-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-08",
+        "level": 2,
+        "name": {
+          "local": "Xiengkhor",
+          "en": "Xiengkhor",
+          "slug": "xiengkhor-ho-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.765",
+      "lon": "104.131"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1956043",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phanong",
+      "en": "Ban Phanong",
+      "slug": "ban-phanong-1956043"
+    },
+    "code": {
+      "id": "1956043",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-08",
+      "level": 2,
+      "name": {
+        "local": "Xiengkhor",
+        "en": "Xiengkhor",
+        "slug": "xiengkhor-ho-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-08",
+        "level": 2,
+        "name": {
+          "local": "Xiengkhor",
+          "en": "Xiengkhor",
+          "slug": "xiengkhor-ho-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.899",
+      "lon": "104.261"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1956034",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phianggnam",
+      "en": "Ban Phianggnam",
+      "slug": "ban-phianggnam-1956034"
+    },
+    "code": {
+      "id": "1956034",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-08",
+      "level": 2,
+      "name": {
+        "local": "Xiengkhor",
+        "en": "Xiengkhor",
+        "slug": "xiengkhor-ho-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-08",
+        "level": 2,
+        "name": {
+          "local": "Xiengkhor",
+          "en": "Xiengkhor",
+          "slug": "xiengkhor-ho-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.761",
+      "lon": "104.211"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1956077",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phing",
+      "en": "Ban Phing",
+      "slug": "ban-phing-1956077"
+    },
+    "code": {
+      "id": "1956077",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-08",
+      "level": 2,
+      "name": {
+        "local": "Xiengkhor",
+        "en": "Xiengkhor",
+        "slug": "xiengkhor-ho-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-08",
+        "level": 2,
+        "name": {
+          "local": "Xiengkhor",
+          "en": "Xiengkhor",
+          "slug": "xiengkhor-ho-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.791",
+      "lon": "104.298"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1955672",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phouk",
+      "en": "Ban Phouk",
+      "slug": "ban-phouk-1955672"
+    },
+    "code": {
+      "id": "1955672",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-08",
+      "level": 2,
+      "name": {
+        "local": "Xiengkhor",
+        "en": "Xiengkhor",
+        "slug": "xiengkhor-ho-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-08",
+        "level": 2,
+        "name": {
+          "local": "Xiengkhor",
+          "en": "Xiengkhor",
+          "slug": "xiengkhor-ho-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.776",
+      "lon": "104.141"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1955989",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phoukhoay",
+      "en": "Ban Phoukhoay",
+      "slug": "ban-phoukhoay-1955989"
+    },
+    "code": {
+      "id": "1955989",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-08",
+      "level": 2,
+      "name": {
+        "local": "Xiengkhor",
+        "en": "Xiengkhor",
+        "slug": "xiengkhor-ho-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-08",
+        "level": 2,
+        "name": {
+          "local": "Xiengkhor",
+          "en": "Xiengkhor",
+          "slug": "xiengkhor-ho-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.895",
+      "lon": "104.027"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1955609",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phoukông",
+      "en": "Ban Phoukong",
+      "slug": "ban-phoukong-1955609"
+    },
+    "code": {
+      "id": "1955609",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-08",
+      "level": 2,
+      "name": {
+        "local": "Xiengkhor",
+        "en": "Xiengkhor",
+        "slug": "xiengkhor-ho-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-08",
+        "level": 2,
+        "name": {
+          "local": "Xiengkhor",
+          "en": "Xiengkhor",
+          "slug": "xiengkhor-ho-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.735",
+      "lon": "104.084"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1955608",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phoutong",
+      "en": "Ban Phoutong",
+      "slug": "ban-phoutong-1955608"
+    },
+    "code": {
+      "id": "1955608",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-08",
+      "level": 2,
+      "name": {
+        "local": "Xiengkhor",
+        "en": "Xiengkhor",
+        "slug": "xiengkhor-ho-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-08",
+        "level": 2,
+        "name": {
+          "local": "Xiengkhor",
+          "en": "Xiengkhor",
+          "slug": "xiengkhor-ho-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.732",
+      "lon": "104.065"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1659722",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phuk",
+      "en": "Ban Phuk",
+      "slug": "ban-phuk-1659722"
+    },
+    "code": {
+      "id": "1659722",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-08",
+      "level": 2,
+      "name": {
+        "local": "Xiengkhor",
+        "en": "Xiengkhor",
+        "slug": "xiengkhor-ho-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-08",
+        "level": 2,
+        "name": {
+          "local": "Xiengkhor",
+          "en": "Xiengkhor",
+          "slug": "xiengkhor-ho-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.88",
+      "lon": "104.101"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1659617",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Poung Sane",
+      "en": "Ban Poung Sane",
+      "slug": "ban-poung-sane-1659617"
+    },
+    "code": {
+      "id": "1659617",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-08",
+      "level": 2,
+      "name": {
+        "local": "Xiengkhor",
+        "en": "Xiengkhor",
+        "slug": "xiengkhor-ho-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-08",
+        "level": 2,
+        "name": {
+          "local": "Xiengkhor",
+          "en": "Xiengkhor",
+          "slug": "xiengkhor-ho-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.883",
+      "lon": "104.167"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1956056",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Poungsèt",
+      "en": "Ban Poungset",
+      "slug": "ban-poungset-1956056"
+    },
+    "code": {
+      "id": "1956056",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-08",
+      "level": 2,
+      "name": {
+        "local": "Xiengkhor",
+        "en": "Xiengkhor",
+        "slug": "xiengkhor-ho-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-08",
+        "level": 2,
+        "name": {
+          "local": "Xiengkhor",
+          "en": "Xiengkhor",
+          "slug": "xiengkhor-ho-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.872",
+      "lon": "104.288"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1659466",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Sam Sun",
+      "en": "Ban Sam Sun",
+      "slug": "ban-sam-sun-1659466"
+    },
+    "code": {
+      "id": "1659466",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-08",
+      "level": 2,
+      "name": {
+        "local": "Xiengkhor",
+        "en": "Xiengkhor",
+        "slug": "xiengkhor-ho-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-08",
+        "level": 2,
+        "name": {
+          "local": "Xiengkhor",
+          "en": "Xiengkhor",
+          "slug": "xiengkhor-ho-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.85",
+      "lon": "104.333"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1659480",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Samkha",
+      "en": "Ban Samkha",
+      "slug": "ban-samkha-1659480"
+    },
+    "code": {
+      "id": "1659480",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-08",
+      "level": 2,
+      "name": {
+        "local": "Xiengkhor",
+        "en": "Xiengkhor",
+        "slug": "xiengkhor-ho-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-08",
+        "level": 2,
+        "name": {
+          "local": "Xiengkhor",
+          "en": "Xiengkhor",
+          "slug": "xiengkhor-ho-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.755",
+      "lon": "104.187"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1659416",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Sanone",
+      "en": "Ban Sanone",
+      "slug": "ban-sanone-1659416"
+    },
+    "code": {
+      "id": "1659416",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-08",
+      "level": 2,
+      "name": {
+        "local": "Xiengkhor",
+        "en": "Xiengkhor",
+        "slug": "xiengkhor-ho-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-08",
+        "level": 2,
+        "name": {
+          "local": "Xiengkhor",
+          "en": "Xiengkhor",
+          "slug": "xiengkhor-ho-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.683",
+      "lon": "104.083"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1955715",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Sé",
+      "en": "Ban Se",
+      "slug": "ban-se-1955715"
+    },
+    "code": {
+      "id": "1955715",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-08",
+      "level": 2,
+      "name": {
+        "local": "Xiengkhor",
+        "en": "Xiengkhor",
+        "slug": "xiengkhor-ho-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-08",
+        "level": 2,
+        "name": {
+          "local": "Xiengkhor",
+          "en": "Xiengkhor",
+          "slug": "xiengkhor-ho-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.846",
+      "lon": "104.095"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1955662",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Sôpkoang",
+      "en": "Ban Sopkoang",
+      "slug": "ban-sopkoang-1955662"
+    },
+    "code": {
+      "id": "1955662",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-08",
+      "level": 2,
+      "name": {
+        "local": "Xiengkhor",
+        "en": "Xiengkhor",
+        "slug": "xiengkhor-ho-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-08",
+        "level": 2,
+        "name": {
+          "local": "Xiengkhor",
+          "en": "Xiengkhor",
+          "slug": "xiengkhor-ho-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.764",
+      "lon": "104.188"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1956099",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Sôpkoy",
+      "en": "Ban Sopkoy",
+      "slug": "ban-sopkoy-1956099"
+    },
+    "code": {
+      "id": "1956099",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-08",
+      "level": 2,
+      "name": {
+        "local": "Xiengkhor",
+        "en": "Xiengkhor",
+        "slug": "xiengkhor-ho-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-08",
+        "level": 2,
+        "name": {
+          "local": "Xiengkhor",
+          "en": "Xiengkhor",
+          "slug": "xiengkhor-ho-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.76",
+      "lon": "104.284"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1653051",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Sôplong",
+      "en": "Ban Soplong",
+      "slug": "ban-soplong-1653051"
+    },
+    "code": {
+      "id": "1653051",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-08",
+      "level": 2,
+      "name": {
+        "local": "Xiengkhor",
+        "en": "Xiengkhor",
+        "slug": "xiengkhor-ho-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-08",
+        "level": 2,
+        "name": {
+          "local": "Xiengkhor",
+          "en": "Xiengkhor",
+          "slug": "xiengkhor-ho-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.733",
+      "lon": "104.342"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1956001",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Sôploung",
+      "en": "Ban Soploung",
+      "slug": "ban-soploung-1956001"
+    },
+    "code": {
+      "id": "1956001",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-08",
+      "level": 2,
+      "name": {
+        "local": "Xiengkhor",
+        "en": "Xiengkhor",
+        "slug": "xiengkhor-ho-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-08",
+        "level": 2,
+        "name": {
+          "local": "Xiengkhor",
+          "en": "Xiengkhor",
+          "slug": "xiengkhor-ho-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.934",
+      "lon": "104.142"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1653049",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Sôpmon",
+      "en": "Ban Sopmon",
+      "slug": "ban-sopmon-1653049"
+    },
+    "code": {
+      "id": "1653049",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-08",
+      "level": 2,
+      "name": {
+        "local": "Xiengkhor",
+        "en": "Xiengkhor",
+        "slug": "xiengkhor-ho-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-08",
+        "level": 2,
+        "name": {
+          "local": "Xiengkhor",
+          "en": "Xiengkhor",
+          "slug": "xiengkhor-ho-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.777",
+      "lon": "104.166"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1659080",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Sôppin",
+      "en": "Ban Soppin",
+      "slug": "ban-soppin-1659080"
+    },
+    "code": {
+      "id": "1659080",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-08",
+      "level": 2,
+      "name": {
+        "local": "Xiengkhor",
+        "en": "Xiengkhor",
+        "slug": "xiengkhor-ho-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-08",
+        "level": 2,
+        "name": {
+          "local": "Xiengkhor",
+          "en": "Xiengkhor",
+          "slug": "xiengkhor-ho-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.897",
+      "lon": "104.143"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1653043",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Sôppit",
+      "en": "Ban Soppit",
+      "slug": "ban-soppit-1653043"
+    },
+    "code": {
+      "id": "1653043",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-08",
+      "level": 2,
+      "name": {
+        "local": "Xiengkhor",
+        "en": "Xiengkhor",
+        "slug": "xiengkhor-ho-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-08",
+        "level": 2,
+        "name": {
+          "local": "Xiengkhor",
+          "en": "Xiengkhor",
+          "slug": "xiengkhor-ho-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.767",
+      "lon": "104.229"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1659069",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Sôpsan",
+      "en": "Ban Sopsan",
+      "slug": "ban-sopsan-1659069"
+    },
+    "code": {
+      "id": "1659069",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-08",
+      "level": 2,
+      "name": {
+        "local": "Xiengkhor",
+        "en": "Xiengkhor",
+        "slug": "xiengkhor-ho-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-08",
+        "level": 2,
+        "name": {
+          "local": "Xiengkhor",
+          "en": "Xiengkhor",
+          "slug": "xiengkhor-ho-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.847",
+      "lon": "104.086"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1653030",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Sôpxay",
+      "en": "Ban Sopxay",
+      "slug": "ban-sopxay-1653030"
+    },
+    "code": {
+      "id": "1653030",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-08",
+      "level": 2,
+      "name": {
+        "local": "Xiengkhor",
+        "en": "Xiengkhor",
+        "slug": "xiengkhor-ho-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-08",
+        "level": 2,
+        "name": {
+          "local": "Xiengkhor",
+          "en": "Xiengkhor",
+          "slug": "xiengkhor-ho-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.751",
+      "lon": "104.322"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1658967",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Talat",
+      "en": "Ban Talat",
+      "slug": "ban-talat-1658967"
+    },
+    "code": {
+      "id": "1658967",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-08",
+      "level": 2,
+      "name": {
+        "local": "Xiengkhor",
+        "en": "Xiengkhor",
+        "slug": "xiengkhor-ho-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-08",
+        "level": 2,
+        "name": {
+          "local": "Xiengkhor",
+          "en": "Xiengkhor",
+          "slug": "xiengkhor-ho-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.878",
+      "lon": "104.289"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1956053",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Talat",
+      "en": "Ban Talat",
+      "slug": "ban-talat-1956053"
+    },
+    "code": {
+      "id": "1956053",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-08",
+      "level": 2,
+      "name": {
+        "local": "Xiengkhor",
+        "en": "Xiengkhor",
+        "slug": "xiengkhor-ho-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-08",
+        "level": 2,
+        "name": {
+          "local": "Xiengkhor",
+          "en": "Xiengkhor",
+          "slug": "xiengkhor-ho-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.878",
+      "lon": "104.289"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13434291",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Tangak",
+      "en": "Ban Tangak",
+      "slug": "ban-tangak-13434291"
+    },
+    "code": {
+      "id": "13434291",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-08",
+      "level": 2,
+      "name": {
+        "local": "Xiengkhor",
+        "en": "Xiengkhor",
+        "slug": "xiengkhor-ho-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-08",
+        "level": 2,
+        "name": {
+          "local": "Xiengkhor",
+          "en": "Xiengkhor",
+          "slug": "xiengkhor-ho-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.689",
+      "lon": "104.042"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1658362",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Taon-Nua",
+      "en": "Ban Taon-Nua",
+      "slug": "ban-taon-nua-1658362"
+    },
+    "code": {
+      "id": "1658362",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-08",
+      "level": 2,
+      "name": {
+        "local": "Xiengkhor",
+        "en": "Xiengkhor",
+        "slug": "xiengkhor-ho-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-08",
+        "level": 2,
+        "name": {
+          "local": "Xiengkhor",
+          "en": "Xiengkhor",
+          "slug": "xiengkhor-ho-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.78",
+      "lon": "104.176"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1955663",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Taon-Tai",
+      "en": "Ban Taon-Tai",
+      "slug": "ban-taon-tai-1955663"
+    },
+    "code": {
+      "id": "1955663",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-08",
+      "level": 2,
+      "name": {
+        "local": "Xiengkhor",
+        "en": "Xiengkhor",
+        "slug": "xiengkhor-ho-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-08",
+        "level": 2,
+        "name": {
+          "local": "Xiengkhor",
+          "en": "Xiengkhor",
+          "slug": "xiengkhor-ho-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.768",
+      "lon": "104.18"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1956011",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Thènsan",
+      "en": "Ban Thensan",
+      "slug": "ban-thensan-1956011"
+    },
+    "code": {
+      "id": "1956011",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-08",
+      "level": 2,
+      "name": {
+        "local": "Xiengkhor",
+        "en": "Xiengkhor",
+        "slug": "xiengkhor-ho-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-08",
+        "level": 2,
+        "name": {
+          "local": "Xiengkhor",
+          "en": "Xiengkhor",
+          "slug": "xiengkhor-ho-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.894",
+      "lon": "104.15"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1658444",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Ti",
+      "en": "Ban Ti",
+      "slug": "ban-ti-1658444"
+    },
+    "code": {
+      "id": "1658444",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-08",
+      "level": 2,
+      "name": {
+        "local": "Xiengkhor",
+        "en": "Xiengkhor",
+        "slug": "xiengkhor-ho-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-08",
+        "level": 2,
+        "name": {
+          "local": "Xiengkhor",
+          "en": "Xiengkhor",
+          "slug": "xiengkhor-ho-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.867",
+      "lon": "104.317"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1664583",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Tintôk",
+      "en": "Ban Tintok",
+      "slug": "ban-tintok-1664583"
+    },
+    "code": {
+      "id": "1664583",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-08",
+      "level": 2,
+      "name": {
+        "local": "Xiengkhor",
+        "en": "Xiengkhor",
+        "slug": "xiengkhor-ho-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-08",
+        "level": 2,
+        "name": {
+          "local": "Xiengkhor",
+          "en": "Xiengkhor",
+          "slug": "xiengkhor-ho-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.836",
+      "lon": "104.3"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1658232",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Vang Po",
+      "en": "Ban Vang Po",
+      "slug": "ban-vang-po-1658232"
+    },
+    "code": {
+      "id": "1658232",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-08",
+      "level": 2,
+      "name": {
+        "local": "Xiengkhor",
+        "en": "Xiengkhor",
+        "slug": "xiengkhor-ho-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-08",
+        "level": 2,
+        "name": {
+          "local": "Xiengkhor",
+          "en": "Xiengkhor",
+          "slug": "xiengkhor-ho-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.783",
+      "lon": "104.317"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1655074",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Xiangkho",
+      "en": "Ban Xiangkho",
+      "slug": "ban-xiangkho-1655074"
+    },
+    "code": {
+      "id": "1655074",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-08",
+      "level": 2,
+      "name": {
+        "local": "Xiengkhor",
+        "en": "Xiengkhor",
+        "slug": "xiengkhor-ho-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-08",
+        "level": 2,
+        "name": {
+          "local": "Xiengkhor",
+          "en": "Xiengkhor",
+          "slug": "xiengkhor-ho-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.813",
+      "lon": "104.148"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1956090",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Yangtang",
+      "en": "Ban Yangtang",
+      "slug": "ban-yangtang-1956090"
+    },
+    "code": {
+      "id": "1956090",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-08",
+      "level": 2,
+      "name": {
+        "local": "Xiengkhor",
+        "en": "Xiengkhor",
+        "slug": "xiengkhor-ho-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-08",
+        "level": 2,
+        "name": {
+          "local": "Xiengkhor",
+          "en": "Xiengkhor",
+          "slug": "xiengkhor-ho-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.779",
+      "lon": "104.313"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1657961",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Ye Ta",
+      "en": "Ban Ye Ta",
+      "slug": "ban-ye-ta-1657961"
+    },
+    "code": {
+      "id": "1657961",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-08",
+      "level": 2,
+      "name": {
+        "local": "Xiengkhor",
+        "en": "Xiengkhor",
+        "slug": "xiengkhor-ho-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-08",
+        "level": 2,
+        "name": {
+          "local": "Xiengkhor",
+          "en": "Xiengkhor",
+          "slug": "xiengkhor-ho-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.9",
+      "lon": "104.25"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1956066",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Youy",
+      "en": "Ban Youy",
+      "slug": "ban-youy-1956066"
+    },
+    "code": {
+      "id": "1956066",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-08",
+      "level": 2,
+      "name": {
+        "local": "Xiengkhor",
+        "en": "Xiengkhor",
+        "slug": "xiengkhor-ho-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-08",
+        "level": 2,
+        "name": {
+          "local": "Xiengkhor",
+          "en": "Xiengkhor",
+          "slug": "xiengkhor-ho-08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.836",
+      "lon": "104.255"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

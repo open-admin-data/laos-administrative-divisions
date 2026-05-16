@@ -1,0 +1,47 @@
+{
+  "id": "VI-11",
+  "level": 2,
+  "level_name": {
+    "local": "ເມືອງ",
+    "en": "District"
+  },
+  "name": {
+    "local": "Xanakharm",
+    "en": "Xanakharm",
+    "slug": "xanakharm-vi-11"
+  },
+  "code": {
+    "id": "VI-11",
+    "iso": null
+  },
+  "parent": {
+    "id": "VI",
+    "level": 1,
+    "name": {
+      "local": "Vientiane",
+      "en": "Vientiane Province",
+      "slug": "vientiane-province-vi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "VI",
+      "level": 1,
+      "name": {
+        "local": "Vientiane",
+        "en": "Vientiane Province",
+        "slug": "vientiane-province-vi"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 44
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "18.059",
+    "lon": "101.544"
+  },
+  "metadata": {},
+  "source": {}
+}

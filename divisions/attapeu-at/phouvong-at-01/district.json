@@ -1,0 +1,47 @@
+{
+  "id": "AT-01",
+  "level": 2,
+  "level_name": {
+    "local": "ເມືອງ",
+    "en": "District"
+  },
+  "name": {
+    "local": "Phouvong",
+    "en": "Phouvong",
+    "slug": "phouvong-at-01"
+  },
+  "code": {
+    "id": "AT-01",
+    "iso": null
+  },
+  "parent": {
+    "id": "AT",
+    "level": 1,
+    "name": {
+      "local": "Attapeu",
+      "en": "Attapeu",
+      "slug": "attapeu-at"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AT",
+      "level": 1,
+      "name": {
+        "local": "Attapeu",
+        "en": "Attapeu",
+        "slug": "attapeu-at"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 31
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.611",
+    "lon": "107.075"
+  },
+  "metadata": {},
+  "source": {}
+}

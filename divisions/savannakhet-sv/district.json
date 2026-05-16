@@ -1,0 +1,754 @@
+[
+  {
+    "id": "SV-01",
+    "level": 2,
+    "level_name": {
+      "local": "ເມືອງ",
+      "en": "District"
+    },
+    "name": {
+      "local": "Atsaphangthong",
+      "en": "Atsaphangthong",
+      "slug": "atsaphangthong-sv-01"
+    },
+    "code": {
+      "id": "SV-01",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV",
+      "level": 1,
+      "name": {
+        "local": "Savannakhet",
+        "en": "Savannakhet",
+        "slug": "savannakhet-sv"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV",
+        "level": 1,
+        "name": {
+          "local": "Savannakhet",
+          "en": "Savannakhet",
+          "slug": "savannakhet-sv"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 47
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.729",
+      "lon": "105.275"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SV-02",
+    "level": 2,
+    "level_name": {
+      "local": "ເມືອງ",
+      "en": "District"
+    },
+    "name": {
+      "local": "Atsaphone",
+      "en": "Atsaphone",
+      "slug": "atsaphone-sv-02"
+    },
+    "code": {
+      "id": "SV-02",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV",
+      "level": 1,
+      "name": {
+        "local": "Savannakhet",
+        "en": "Savannakhet",
+        "slug": "savannakhet-sv"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV",
+        "level": 1,
+        "name": {
+          "local": "Savannakhet",
+          "en": "Savannakhet",
+          "slug": "savannakhet-sv"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 100
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.037",
+      "lon": "105.412"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SV-03",
+    "level": 2,
+    "level_name": {
+      "local": "ເມືອງ",
+      "en": "District"
+    },
+    "name": {
+      "local": "Champhone",
+      "en": "Champhone",
+      "slug": "champhone-sv-03"
+    },
+    "code": {
+      "id": "SV-03",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV",
+      "level": 1,
+      "name": {
+        "local": "Savannakhet",
+        "en": "Savannakhet",
+        "slug": "savannakhet-sv"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV",
+        "level": 1,
+        "name": {
+          "local": "Savannakhet",
+          "en": "Savannakhet",
+          "slug": "savannakhet-sv"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 146
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.471",
+      "lon": "105.234"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SV-04",
+    "level": 2,
+    "level_name": {
+      "local": "ເມືອງ",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kaysone Phomvihane",
+      "en": "Kaysone Phomvihane",
+      "slug": "kaysone-phomvihane-sv-04"
+    },
+    "code": {
+      "id": "SV-04",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV",
+      "level": 1,
+      "name": {
+        "local": "Savannakhet",
+        "en": "Savannakhet",
+        "slug": "savannakhet-sv"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV",
+        "level": 1,
+        "name": {
+          "local": "Savannakhet",
+          "en": "Savannakhet",
+          "slug": "savannakhet-sv"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 62
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.609",
+      "lon": "104.87"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SV-05",
+    "level": 2,
+    "level_name": {
+      "local": "ເມືອງ",
+      "en": "District"
+    },
+    "name": {
+      "local": "Nong",
+      "en": "Nong",
+      "slug": "nong-sv-05"
+    },
+    "code": {
+      "id": "SV-05",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV",
+      "level": 1,
+      "name": {
+        "local": "Savannakhet",
+        "en": "Savannakhet",
+        "slug": "savannakhet-sv"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV",
+        "level": 1,
+        "name": {
+          "local": "Savannakhet",
+          "en": "Savannakhet",
+          "slug": "savannakhet-sv"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 125
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.35",
+      "lon": "106.609"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SV-06",
+    "level": 2,
+    "level_name": {
+      "local": "ເມືອງ",
+      "en": "District"
+    },
+    "name": {
+      "local": "Nongbok",
+      "en": "Nongbok",
+      "slug": "nongbok-sv-06"
+    },
+    "code": {
+      "id": "SV-06",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV",
+      "level": 1,
+      "name": {
+        "local": "Savannakhet",
+        "en": "Savannakhet",
+        "slug": "savannakhet-sv"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV",
+        "level": 1,
+        "name": {
+          "local": "Savannakhet",
+          "en": "Savannakhet",
+          "slug": "savannakhet-sv"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 66
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.029",
+      "lon": "104.827"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SV-07",
+    "level": 2,
+    "level_name": {
+      "local": "ເມືອງ",
+      "en": "District"
+    },
+    "name": {
+      "local": "Outhoomphone",
+      "en": "Outhoomphone",
+      "slug": "outhoomphone-sv-07"
+    },
+    "code": {
+      "id": "SV-07",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV",
+      "level": 1,
+      "name": {
+        "local": "Savannakhet",
+        "en": "Savannakhet",
+        "slug": "savannakhet-sv"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV",
+        "level": 1,
+        "name": {
+          "local": "Savannakhet",
+          "en": "Savannakhet",
+          "slug": "savannakhet-sv"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 85
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.758",
+      "lon": "105.056"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SV-08",
+    "level": 2,
+    "level_name": {
+      "local": "ເມືອງ",
+      "en": "District"
+    },
+    "name": {
+      "local": "Phalanxay",
+      "en": "Phalanxay",
+      "slug": "phalanxay-sv-08"
+    },
+    "code": {
+      "id": "SV-08",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV",
+      "level": 1,
+      "name": {
+        "local": "Savannakhet",
+        "en": "Savannakhet",
+        "slug": "savannakhet-sv"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV",
+        "level": 1,
+        "name": {
+          "local": "Savannakhet",
+          "en": "Savannakhet",
+          "slug": "savannakhet-sv"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 61
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.713",
+      "lon": "105.619"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SV-09",
+    "level": 2,
+    "level_name": {
+      "local": "ເມືອງ",
+      "en": "District"
+    },
+    "name": {
+      "local": "Phine",
+      "en": "Phine",
+      "slug": "phine-sv-09"
+    },
+    "code": {
+      "id": "SV-09",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV",
+      "level": 1,
+      "name": {
+        "local": "Savannakhet",
+        "en": "Savannakhet",
+        "slug": "savannakhet-sv"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV",
+        "level": 1,
+        "name": {
+          "local": "Savannakhet",
+          "en": "Savannakhet",
+          "slug": "savannakhet-sv"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 136
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.354",
+      "lon": "105.988"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SV-10",
+    "level": 2,
+    "level_name": {
+      "local": "ເມືອງ",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sepone",
+      "en": "Sepone",
+      "slug": "sepone-sv-10"
+    },
+    "code": {
+      "id": "SV-10",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV",
+      "level": 1,
+      "name": {
+        "local": "Savannakhet",
+        "en": "Savannakhet",
+        "slug": "savannakhet-sv"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV",
+        "level": 1,
+        "name": {
+          "local": "Savannakhet",
+          "en": "Savannakhet",
+          "slug": "savannakhet-sv"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 258
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.83",
+      "lon": "106.495"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SV-11",
+    "level": 2,
+    "level_name": {
+      "local": "ເມືອງ",
+      "en": "District"
+    },
+    "name": {
+      "local": "Songkhone",
+      "en": "Songkhone",
+      "slug": "songkhone-sv-11"
+    },
+    "code": {
+      "id": "SV-11",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV",
+      "level": 1,
+      "name": {
+        "local": "Savannakhet",
+        "en": "Savannakhet",
+        "slug": "savannakhet-sv"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV",
+        "level": 1,
+        "name": {
+          "local": "Savannakhet",
+          "en": "Savannakhet",
+          "slug": "savannakhet-sv"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 121
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.142",
+      "lon": "105.362"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SV-12",
+    "level": 2,
+    "level_name": {
+      "local": "ເມືອງ",
+      "en": "District"
+    },
+    "name": {
+      "local": "Thapangthong",
+      "en": "Thapangthong",
+      "slug": "thapangthong-sv-12"
+    },
+    "code": {
+      "id": "SV-12",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV",
+      "level": 1,
+      "name": {
+        "local": "Savannakhet",
+        "en": "Savannakhet",
+        "slug": "savannakhet-sv"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV",
+        "level": 1,
+        "name": {
+          "local": "Savannakhet",
+          "en": "Savannakhet",
+          "slug": "savannakhet-sv"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 81
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.02",
+      "lon": "105.786"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SV-13",
+    "level": 2,
+    "level_name": {
+      "local": "ເມືອງ",
+      "en": "District"
+    },
+    "name": {
+      "local": "Vilabuly",
+      "en": "Vilabuly",
+      "slug": "vilabuly-sv-13"
+    },
+    "code": {
+      "id": "SV-13",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV",
+      "level": 1,
+      "name": {
+        "local": "Savannakhet",
+        "en": "Savannakhet",
+        "slug": "savannakhet-sv"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV",
+        "level": 1,
+        "name": {
+          "local": "Savannakhet",
+          "en": "Savannakhet",
+          "slug": "savannakhet-sv"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 128
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.992",
+      "lon": "105.936"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SV-14",
+    "level": 2,
+    "level_name": {
+      "local": "ເມືອງ",
+      "en": "District"
+    },
+    "name": {
+      "local": "Xaybuly",
+      "en": "Xaybuly",
+      "slug": "xaybuly-sv-14"
+    },
+    "code": {
+      "id": "SV-14",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV",
+      "level": 1,
+      "name": {
+        "local": "Savannakhet",
+        "en": "Savannakhet",
+        "slug": "savannakhet-sv"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV",
+        "level": 1,
+        "name": {
+          "local": "Savannakhet",
+          "en": "Savannakhet",
+          "slug": "savannakhet-sv"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 72
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.016",
+      "lon": "104.961"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SV-15",
+    "level": 2,
+    "level_name": {
+      "local": "ເມືອງ",
+      "en": "District"
+    },
+    "name": {
+      "local": "Xayphoothong",
+      "en": "Xayphoothong",
+      "slug": "xayphoothong-sv-15"
+    },
+    "code": {
+      "id": "SV-15",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV",
+      "level": 1,
+      "name": {
+        "local": "Savannakhet",
+        "en": "Savannakhet",
+        "slug": "savannakhet-sv"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV",
+        "level": 1,
+        "name": {
+          "local": "Savannakhet",
+          "en": "Savannakhet",
+          "slug": "savannakhet-sv"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 55
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.333",
+      "lon": "105.02"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SV-16",
+    "level": 2,
+    "level_name": {
+      "local": "ເມືອງ",
+      "en": "District"
+    },
+    "name": {
+      "local": "Xonbuly",
+      "en": "Xonbuly",
+      "slug": "xonbuly-sv-16"
+    },
+    "code": {
+      "id": "SV-16",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV",
+      "level": 1,
+      "name": {
+        "local": "Savannakhet",
+        "en": "Savannakhet",
+        "slug": "savannakhet-sv"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV",
+        "level": 1,
+        "name": {
+          "local": "Savannakhet",
+          "en": "Savannakhet",
+          "slug": "savannakhet-sv"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 91
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.326",
+      "lon": "105.481"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

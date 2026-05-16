@@ -1,0 +1,47 @@
+{
+  "id": "CH-11",
+  "level": 2,
+  "level_name": {
+    "local": "ເມືອງ",
+    "en": "District"
+  },
+  "name": {
+    "local": "Sukhuma",
+    "en": "Sukhuma",
+    "slug": "sukhuma-ch-11"
+  },
+  "code": {
+    "id": "CH-11",
+    "iso": null
+  },
+  "parent": {
+    "id": "CH",
+    "level": 1,
+    "name": {
+      "local": "Champasak",
+      "en": "Champasak",
+      "slug": "champasak-ch"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CH",
+      "level": 1,
+      "name": {
+        "local": "Champasak",
+        "en": "Champasak",
+        "slug": "champasak-ch"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 66
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.597",
+    "lon": "105.623"
+  },
+  "metadata": {},
+  "source": {}
+}

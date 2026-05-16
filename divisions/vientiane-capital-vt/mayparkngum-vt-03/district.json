@@ -1,0 +1,47 @@
+{
+  "id": "VT-03",
+  "level": 2,
+  "level_name": {
+    "local": "ເມືອງ",
+    "en": "District"
+  },
+  "name": {
+    "local": "Mayparkngum",
+    "en": "Mayparkngum",
+    "slug": "mayparkngum-vt-03"
+  },
+  "code": {
+    "id": "VT-03",
+    "iso": null
+  },
+  "parent": {
+    "id": "VT",
+    "level": 1,
+    "name": {
+      "local": "Vientiane Capital",
+      "en": "Vientiane Capital",
+      "slug": "vientiane-capital-vt"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "VT",
+      "level": 1,
+      "name": {
+        "local": "Vientiane Capital",
+        "en": "Vientiane Capital",
+        "slug": "vientiane-capital-vt"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 55
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "18.136",
+    "lon": "102.92"
+  },
+  "metadata": {},
+  "source": {}
+}

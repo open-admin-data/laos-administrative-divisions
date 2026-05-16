@@ -1,0 +1,190 @@
+[
+  {
+    "id": "AT-01",
+    "level": 2,
+    "level_name": {
+      "local": "ເມືອງ",
+      "en": "District"
+    },
+    "name": {
+      "local": "Phouvong",
+      "en": "Phouvong",
+      "slug": "phouvong-at-01"
+    },
+    "code": {
+      "id": "AT-01",
+      "iso": null
+    },
+    "parent": {
+      "id": "AT",
+      "level": 1,
+      "name": {
+        "local": "Attapeu",
+        "en": "Attapeu",
+        "slug": "attapeu-at"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AT",
+        "level": 1,
+        "name": {
+          "local": "Attapeu",
+          "en": "Attapeu",
+          "slug": "attapeu-at"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 31
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.611",
+      "lon": "107.075"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AT-02",
+    "level": 2,
+    "level_name": {
+      "local": "ເມືອງ",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sanamxay",
+      "en": "Sanamxay",
+      "slug": "sanamxay-at-02"
+    },
+    "code": {
+      "id": "AT-02",
+      "iso": null
+    },
+    "parent": {
+      "id": "AT",
+      "level": 1,
+      "name": {
+        "local": "Attapeu",
+        "en": "Attapeu",
+        "slug": "attapeu-at"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AT",
+        "level": 1,
+        "name": {
+          "local": "Attapeu",
+          "en": "Attapeu",
+          "slug": "attapeu-at"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 44
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.708",
+      "lon": "106.401"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AT-03",
+    "level": 2,
+    "level_name": {
+      "local": "ເມືອງ",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sanxay",
+      "en": "Sanxay",
+      "slug": "sanxay-at-03"
+    },
+    "code": {
+      "id": "AT-03",
+      "iso": null
+    },
+    "parent": {
+      "id": "AT",
+      "level": 1,
+      "name": {
+        "local": "Attapeu",
+        "en": "Attapeu",
+        "slug": "attapeu-at"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AT",
+        "level": 1,
+        "name": {
+          "local": "Attapeu",
+          "en": "Attapeu",
+          "slug": "attapeu-at"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 73
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.049",
+      "lon": "107.296"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AT-04",
+    "level": 2,
+    "level_name": {
+      "local": "ເມືອງ",
+      "en": "District"
+    },
+    "name": {
+      "local": "Xaysetha",
+      "en": "Xaysetha",
+      "slug": "xaysetha-at-04"
+    },
+    "code": {
+      "id": "AT-04",
+      "iso": null
+    },
+    "parent": {
+      "id": "AT",
+      "level": 1,
+      "name": {
+        "local": "Attapeu",
+        "en": "Attapeu",
+        "slug": "attapeu-at"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AT",
+        "level": 1,
+        "name": {
+          "local": "Attapeu",
+          "en": "Attapeu",
+          "slug": "attapeu-at"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 65
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.888",
+      "lon": "107.034"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

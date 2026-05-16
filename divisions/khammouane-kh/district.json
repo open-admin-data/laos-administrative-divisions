@@ -1,0 +1,425 @@
+[
+  {
+    "id": "KH-01",
+    "level": 2,
+    "level_name": {
+      "local": "ເມືອງ",
+      "en": "District"
+    },
+    "name": {
+      "local": "Bualapha",
+      "en": "Bualapha",
+      "slug": "bualapha-kh-01"
+    },
+    "code": {
+      "id": "KH-01",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH",
+      "level": 1,
+      "name": {
+        "local": "Khammouane",
+        "en": "Khammouane",
+        "slug": "khammouane-kh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 125
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.213",
+      "lon": "106.234"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KH-02",
+    "level": 2,
+    "level_name": {
+      "local": "ເມືອງ",
+      "en": "District"
+    },
+    "name": {
+      "local": "Hinboon",
+      "en": "Hinboon",
+      "slug": "hinboon-kh-02"
+    },
+    "code": {
+      "id": "KH-02",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH",
+      "level": 1,
+      "name": {
+        "local": "Khammouane",
+        "en": "Khammouane",
+        "slug": "khammouane-kh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 117
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.838",
+      "lon": "104.427"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KH-03",
+    "level": 2,
+    "level_name": {
+      "local": "ເມືອງ",
+      "en": "District"
+    },
+    "name": {
+      "local": "Khounkham",
+      "en": "Khounkham",
+      "slug": "khounkham-kh-03"
+    },
+    "code": {
+      "id": "KH-03",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH",
+      "level": 1,
+      "name": {
+        "local": "Khammouane",
+        "en": "Khammouane",
+        "slug": "khammouane-kh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 47
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.108",
+      "lon": "104.542"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KH-04",
+    "level": 2,
+    "level_name": {
+      "local": "ເມືອງ",
+      "en": "District"
+    },
+    "name": {
+      "local": "Mahaxay",
+      "en": "Mahaxay",
+      "slug": "mahaxay-kh-04"
+    },
+    "code": {
+      "id": "KH-04",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH",
+      "level": 1,
+      "name": {
+        "local": "Khammouane",
+        "en": "Khammouane",
+        "slug": "khammouane-kh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 79
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.359",
+      "lon": "105.318"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KH-05",
+    "level": 2,
+    "level_name": {
+      "local": "ເມືອງ",
+      "en": "District"
+    },
+    "name": {
+      "local": "Nakay",
+      "en": "Nakay",
+      "slug": "nakay-kh-05"
+    },
+    "code": {
+      "id": "KH-05",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH",
+      "level": 1,
+      "name": {
+        "local": "Khammouane",
+        "en": "Khammouane",
+        "slug": "khammouane-kh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 77
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.02",
+      "lon": "105.229"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KH-06",
+    "level": 2,
+    "level_name": {
+      "local": "ເມືອງ",
+      "en": "District"
+    },
+    "name": {
+      "local": "Nhommalath",
+      "en": "Nhommalath",
+      "slug": "nhommalath-kh-06"
+    },
+    "code": {
+      "id": "KH-06",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH",
+      "level": 1,
+      "name": {
+        "local": "Khammouane",
+        "en": "Khammouane",
+        "slug": "khammouane-kh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 90
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.577",
+      "lon": "105.307"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KH-07",
+    "level": 2,
+    "level_name": {
+      "local": "ເມືອງ",
+      "en": "District"
+    },
+    "name": {
+      "local": "Thakhek",
+      "en": "Thakhek",
+      "slug": "thakhek-kh-07"
+    },
+    "code": {
+      "id": "KH-07",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH",
+      "level": 1,
+      "name": {
+        "local": "Khammouane",
+        "en": "Khammouane",
+        "slug": "khammouane-kh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 122
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.38",
+      "lon": "104.881"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KH-08",
+    "level": 2,
+    "level_name": {
+      "local": "ເມືອງ",
+      "en": "District"
+    },
+    "name": {
+      "local": "Xaybuathong",
+      "en": "Xaybuathong",
+      "slug": "xaybuathong-kh-08"
+    },
+    "code": {
+      "id": "KH-08",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH",
+      "level": 1,
+      "name": {
+        "local": "Khammouane",
+        "en": "Khammouane",
+        "slug": "khammouane-kh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 68
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.088",
+      "lon": "105.527"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KH-09",
+    "level": 2,
+    "level_name": {
+      "local": "ເມືອງ",
+      "en": "District"
+    },
+    "name": {
+      "local": "Xebangfay",
+      "en": "Xebangfay",
+      "slug": "xebangfay-kh-09"
+    },
+    "code": {
+      "id": "KH-09",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH",
+      "level": 1,
+      "name": {
+        "local": "Khammouane",
+        "en": "Khammouane",
+        "slug": "khammouane-kh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 53
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.1",
+      "lon": "105.132"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,47 @@
+{
+  "id": "CH-03",
+  "level": 2,
+  "level_name": {
+    "local": "ເມືອງ",
+    "en": "District"
+  },
+  "name": {
+    "local": "Khong",
+    "en": "Khong",
+    "slug": "khong-ch-03"
+  },
+  "code": {
+    "id": "CH-03",
+    "iso": null
+  },
+  "parent": {
+    "id": "CH",
+    "level": 1,
+    "name": {
+      "local": "Champasak",
+      "en": "Champasak",
+      "slug": "champasak-ch"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CH",
+      "level": 1,
+      "name": {
+        "local": "Champasak",
+        "en": "Champasak",
+        "slug": "champasak-ch"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 193
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.222",
+    "lon": "106.019"
+  },
+  "metadata": {},
+  "source": {}
+}

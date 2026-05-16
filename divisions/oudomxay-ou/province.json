@@ -1,0 +1,30 @@
+{
+  "id": "OU",
+  "level": 1,
+  "level_name": {
+    "local": "ແຂວງ",
+    "en": "Province"
+  },
+  "name": {
+    "local": "Oudomxay",
+    "en": "Oudomxay",
+    "slug": "oudomxay-ou"
+  },
+  "code": {
+    "id": "OU",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 7,
+    "village": 889
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "20.485",
+    "lon": "101.65"
+  },
+  "metadata": {},
+  "source": {}
+}

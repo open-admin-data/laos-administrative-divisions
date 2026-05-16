@@ -1,0 +1,30 @@
+{
+  "id": "PH",
+  "level": 1,
+  "level_name": {
+    "local": "ແຂວງ",
+    "en": "Province"
+  },
+  "name": {
+    "local": "Phongsaly",
+    "en": "Phongsaly",
+    "slug": "phongsaly-ph"
+  },
+  "code": {
+    "id": "PH",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 7,
+    "village": 794
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "21.754",
+    "lon": "102.373"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,47 @@
+{
+  "id": "VT-09",
+  "level": 2,
+  "level_name": {
+    "local": "ເມືອງ",
+    "en": "District"
+  },
+  "name": {
+    "local": "Xaythany",
+    "en": "Xaythany",
+    "slug": "xaythany-vt-09"
+  },
+  "code": {
+    "id": "VT-09",
+    "iso": null
+  },
+  "parent": {
+    "id": "VT",
+    "level": 1,
+    "name": {
+      "local": "Vientiane Capital",
+      "en": "Vientiane Capital",
+      "slug": "vientiane-capital-vt"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "VT",
+      "level": 1,
+      "name": {
+        "local": "Vientiane Capital",
+        "en": "Vientiane Capital",
+        "slug": "vientiane-capital-vt"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 91
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "18.149",
+    "lon": "102.749"
+  },
+  "metadata": {},
+  "source": {}
+}

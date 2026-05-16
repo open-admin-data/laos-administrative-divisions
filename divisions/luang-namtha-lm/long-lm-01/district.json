@@ -1,0 +1,47 @@
+{
+  "id": "LM-01",
+  "level": 2,
+  "level_name": {
+    "local": "ເມືອງ",
+    "en": "District"
+  },
+  "name": {
+    "local": "Long",
+    "en": "Long",
+    "slug": "long-lm-01"
+  },
+  "code": {
+    "id": "LM-01",
+    "iso": null
+  },
+  "parent": {
+    "id": "LM",
+    "level": 1,
+    "name": {
+      "local": "Luang Namtha",
+      "en": "Luang Namtha",
+      "slug": "luang-namtha-lm"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "LM",
+      "level": 1,
+      "name": {
+        "local": "Luang Namtha",
+        "en": "Luang Namtha",
+        "slug": "luang-namtha-lm"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 102
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "20.976",
+    "lon": "100.748"
+  },
+  "metadata": {},
+  "source": {}
+}

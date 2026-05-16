@@ -1,0 +1,47 @@
+{
+  "id": "CH-06",
+  "level": 2,
+  "level_name": {
+    "local": "ເມືອງ",
+    "en": "District"
+  },
+  "name": {
+    "local": "Paksxong",
+    "en": "Paksxong",
+    "slug": "paksxong-ch-06"
+  },
+  "code": {
+    "id": "CH-06",
+    "iso": null
+  },
+  "parent": {
+    "id": "CH",
+    "level": 1,
+    "name": {
+      "local": "Champasak",
+      "en": "Champasak",
+      "slug": "champasak-ch"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CH",
+      "level": 1,
+      "name": {
+        "local": "Champasak",
+        "en": "Champasak",
+        "slug": "champasak-ch"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 119
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.052",
+    "lon": "106.383"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,47 @@
+{
+  "id": "LP-02",
+  "level": 2,
+  "level_name": {
+    "local": "ເມືອງ",
+    "en": "District"
+  },
+  "name": {
+    "local": "Luangprabang",
+    "en": "Luangprabang",
+    "slug": "luangprabang-lp-02"
+  },
+  "code": {
+    "id": "LP-02",
+    "iso": null
+  },
+  "parent": {
+    "id": "LP",
+    "level": 1,
+    "name": {
+      "local": "Luang Prabang",
+      "en": "Luang Prabang",
+      "slug": "luang-prabang-lp"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "LP",
+      "level": 1,
+      "name": {
+        "local": "Luang Prabang",
+        "en": "Luang Prabang",
+        "slug": "luang-prabang-lp"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 131
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "19.815",
+    "lon": "102.099"
+  },
+  "metadata": {},
+  "source": {}
+}

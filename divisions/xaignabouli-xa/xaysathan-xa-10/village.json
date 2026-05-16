@@ -1,0 +1,812 @@
+[
+  {
+    "id": "1941725",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Doykao",
+      "en": "Ban Doykao",
+      "slug": "ban-doykao-1941725"
+    },
+    "code": {
+      "id": "1941725",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA-10",
+      "level": 2,
+      "name": {
+        "local": "Xaysathan",
+        "en": "Xaysathan",
+        "slug": "xaysathan-xa-10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      },
+      {
+        "id": "XA-10",
+        "level": 2,
+        "name": {
+          "local": "Xaysathan",
+          "en": "Xaysathan",
+          "slug": "xaysathan-xa-10"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.382",
+      "lon": "101.339"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1662888",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Khounkhan",
+      "en": "Ban Khounkhan",
+      "slug": "ban-khounkhan-1662888"
+    },
+    "code": {
+      "id": "1662888",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA-10",
+      "level": 2,
+      "name": {
+        "local": "Xaysathan",
+        "en": "Xaysathan",
+        "slug": "xaysathan-xa-10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      },
+      {
+        "id": "XA-10",
+        "level": 2,
+        "name": {
+          "local": "Xaysathan",
+          "en": "Xaysathan",
+          "slug": "xaysathan-xa-10"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.469",
+      "lon": "101.448"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1941734",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Kiouti",
+      "en": "Ban Kiouti",
+      "slug": "ban-kiouti-1941734"
+    },
+    "code": {
+      "id": "1941734",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA-10",
+      "level": 2,
+      "name": {
+        "local": "Xaysathan",
+        "en": "Xaysathan",
+        "slug": "xaysathan-xa-10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      },
+      {
+        "id": "XA-10",
+        "level": 2,
+        "name": {
+          "local": "Xaysathan",
+          "en": "Xaysathan",
+          "slug": "xaysathan-xa-10"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.39",
+      "lon": "101.465"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1662596",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Laoli",
+      "en": "Ban Laoli",
+      "slug": "ban-laoli-1662596"
+    },
+    "code": {
+      "id": "1662596",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA-10",
+      "level": 2,
+      "name": {
+        "local": "Xaysathan",
+        "en": "Xaysathan",
+        "slug": "xaysathan-xa-10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      },
+      {
+        "id": "XA-10",
+        "level": 2,
+        "name": {
+          "local": "Xaysathan",
+          "en": "Xaysathan",
+          "slug": "xaysathan-xa-10"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.354",
+      "lon": "101.24"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1662559",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Lasa",
+      "en": "Ban Lasa",
+      "slug": "ban-lasa-1662559"
+    },
+    "code": {
+      "id": "1662559",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA-10",
+      "level": 2,
+      "name": {
+        "local": "Xaysathan",
+        "en": "Xaysathan",
+        "slug": "xaysathan-xa-10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      },
+      {
+        "id": "XA-10",
+        "level": 2,
+        "name": {
+          "local": "Xaysathan",
+          "en": "Xaysathan",
+          "slug": "xaysathan-xa-10"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.436",
+      "lon": "101.459"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1941721",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Paklong",
+      "en": "Ban Paklong",
+      "slug": "ban-paklong-1941721"
+    },
+    "code": {
+      "id": "1941721",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA-10",
+      "level": 2,
+      "name": {
+        "local": "Xaysathan",
+        "en": "Xaysathan",
+        "slug": "xaysathan-xa-10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      },
+      {
+        "id": "XA-10",
+        "level": 2,
+        "name": {
+          "local": "Xaysathan",
+          "en": "Xaysathan",
+          "slug": "xaysathan-xa-10"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.377",
+      "lon": "101.45"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1941736",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phota",
+      "en": "Ban Phota",
+      "slug": "ban-phota-1941736"
+    },
+    "code": {
+      "id": "1941736",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA-10",
+      "level": 2,
+      "name": {
+        "local": "Xaysathan",
+        "en": "Xaysathan",
+        "slug": "xaysathan-xa-10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      },
+      {
+        "id": "XA-10",
+        "level": 2,
+        "name": {
+          "local": "Xaysathan",
+          "en": "Xaysathan",
+          "slug": "xaysathan-xa-10"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.344",
+      "lon": "101.454"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1941726",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phouleun",
+      "en": "Ban Phouleun",
+      "slug": "ban-phouleun-1941726"
+    },
+    "code": {
+      "id": "1941726",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA-10",
+      "level": 2,
+      "name": {
+        "local": "Xaysathan",
+        "en": "Xaysathan",
+        "slug": "xaysathan-xa-10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      },
+      {
+        "id": "XA-10",
+        "level": 2,
+        "name": {
+          "local": "Xaysathan",
+          "en": "Xaysathan",
+          "slug": "xaysathan-xa-10"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.373",
+      "lon": "101.334"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1659651",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Pop-Ho",
+      "en": "Ban Pop-Ho",
+      "slug": "ban-pop-ho-1659651"
+    },
+    "code": {
+      "id": "1659651",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA-10",
+      "level": 2,
+      "name": {
+        "local": "Xaysathan",
+        "en": "Xaysathan",
+        "slug": "xaysathan-xa-10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      },
+      {
+        "id": "XA-10",
+        "level": 2,
+        "name": {
+          "local": "Xaysathan",
+          "en": "Xaysathan",
+          "slug": "xaysathan-xa-10"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.526",
+      "lon": "101.296"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1659487",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Samèt",
+      "en": "Ban Samet",
+      "slug": "ban-samet-1659487"
+    },
+    "code": {
+      "id": "1659487",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA-10",
+      "level": 2,
+      "name": {
+        "local": "Xaysathan",
+        "en": "Xaysathan",
+        "slug": "xaysathan-xa-10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      },
+      {
+        "id": "XA-10",
+        "level": 2,
+        "name": {
+          "local": "Xaysathan",
+          "en": "Xaysathan",
+          "slug": "xaysathan-xa-10"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.417",
+      "lon": "101.423"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1659488",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Samét",
+      "en": "Ban Samet",
+      "slug": "ban-samet-1659488"
+    },
+    "code": {
+      "id": "1659488",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA-10",
+      "level": 2,
+      "name": {
+        "local": "Xaysathan",
+        "en": "Xaysathan",
+        "slug": "xaysathan-xa-10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      },
+      {
+        "id": "XA-10",
+        "level": 2,
+        "name": {
+          "local": "Xaysathan",
+          "en": "Xaysathan",
+          "slug": "xaysathan-xa-10"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.393",
+      "lon": "101.383"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1941724",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Samèt-Gnai",
+      "en": "Ban Samet-Gnai",
+      "slug": "ban-samet-gnai-1941724"
+    },
+    "code": {
+      "id": "1941724",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA-10",
+      "level": 2,
+      "name": {
+        "local": "Xaysathan",
+        "en": "Xaysathan",
+        "slug": "xaysathan-xa-10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      },
+      {
+        "id": "XA-10",
+        "level": 2,
+        "name": {
+          "local": "Xaysathan",
+          "en": "Xaysathan",
+          "slug": "xaysathan-xa-10"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.378",
+      "lon": "101.386"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1941723",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Samèt-Noy",
+      "en": "Ban Samet-Noy",
+      "slug": "ban-samet-noy-1941723"
+    },
+    "code": {
+      "id": "1941723",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA-10",
+      "level": 2,
+      "name": {
+        "local": "Xaysathan",
+        "en": "Xaysathan",
+        "slug": "xaysathan-xa-10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      },
+      {
+        "id": "XA-10",
+        "level": 2,
+        "name": {
+          "local": "Xaysathan",
+          "en": "Xaysathan",
+          "slug": "xaysathan-xa-10"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.384",
+      "lon": "101.361"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1941735",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Santè",
+      "en": "Ban Sante",
+      "slug": "ban-sante-1941735"
+    },
+    "code": {
+      "id": "1941735",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA-10",
+      "level": 2,
+      "name": {
+        "local": "Xaysathan",
+        "en": "Xaysathan",
+        "slug": "xaysathan-xa-10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      },
+      {
+        "id": "XA-10",
+        "level": 2,
+        "name": {
+          "local": "Xaysathan",
+          "en": "Xaysathan",
+          "slug": "xaysathan-xa-10"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.355",
+      "lon": "101.417"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1941728",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Sapi",
+      "en": "Ban Sapi",
+      "slug": "ban-sapi-1941728"
+    },
+    "code": {
+      "id": "1941728",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA-10",
+      "level": 2,
+      "name": {
+        "local": "Xaysathan",
+        "en": "Xaysathan",
+        "slug": "xaysathan-xa-10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      },
+      {
+        "id": "XA-10",
+        "level": 2,
+        "name": {
+          "local": "Xaysathan",
+          "en": "Xaysathan",
+          "slug": "xaysathan-xa-10"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.414",
+      "lon": "101.283"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

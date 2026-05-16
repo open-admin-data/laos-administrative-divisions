@@ -1,0 +1,47 @@
+{
+  "id": "XI-04",
+  "level": 2,
+  "level_name": {
+    "local": "ເມືອງ",
+    "en": "District"
+  },
+  "name": {
+    "local": "Mork",
+    "en": "Mork",
+    "slug": "mork-xi-04"
+  },
+  "code": {
+    "id": "XI-04",
+    "iso": null
+  },
+  "parent": {
+    "id": "XI",
+    "level": 1,
+    "name": {
+      "local": "Xiangkhouang",
+      "en": "Xiangkhouang",
+      "slug": "xiangkhouang-xi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "XI",
+      "level": 1,
+      "name": {
+        "local": "Xiangkhouang",
+        "en": "Xiangkhouang",
+        "slug": "xiangkhouang-xi"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 87
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "19.089",
+    "lon": "104.08"
+  },
+  "metadata": {},
+  "source": {}
+}

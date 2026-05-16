@@ -1,0 +1,47 @@
+{
+  "id": "XA-03",
+  "level": 2,
+  "level_name": {
+    "local": "ເມືອງ",
+    "en": "District"
+  },
+  "name": {
+    "local": "Kenethao",
+    "en": "Kenethao",
+    "slug": "kenethao-xa-03"
+  },
+  "code": {
+    "id": "XA-03",
+    "iso": null
+  },
+  "parent": {
+    "id": "XA",
+    "level": 1,
+    "name": {
+      "local": "Xaignabouli",
+      "en": "Xaignabouli",
+      "slug": "xaignabouli-xa"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "XA",
+      "level": 1,
+      "name": {
+        "local": "Xaignabouli",
+        "en": "Xaignabouli",
+        "slug": "xaignabouli-xa"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 44
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.808",
+    "lon": "101.393"
+  },
+  "metadata": {},
+  "source": {}
+}

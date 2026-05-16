@@ -1,0 +1,2486 @@
+[
+  {
+    "id": "1664563",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Don",
+      "en": "Ban Don",
+      "slug": "ban-don-1664563"
+    },
+    "code": {
+      "id": "1664563",
+      "iso": null
+    },
+    "parent": {
+      "id": "VI-01",
+      "level": 2,
+      "name": {
+        "local": "Feuang",
+        "en": "Feuang",
+        "slug": "feuang-vi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VI",
+        "level": 1,
+        "name": {
+          "local": "Vientiane",
+          "en": "Vientiane Province",
+          "slug": "vientiane-province-vi"
+        }
+      },
+      {
+        "id": "VI-01",
+        "level": 2,
+        "name": {
+          "local": "Feuang",
+          "en": "Feuang",
+          "slug": "feuang-vi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.679",
+      "lon": "102.128"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1664079",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Hingkangna",
+      "en": "Ban Hingkangna",
+      "slug": "ban-hingkangna-1664079"
+    },
+    "code": {
+      "id": "1664079",
+      "iso": null
+    },
+    "parent": {
+      "id": "VI-01",
+      "level": 2,
+      "name": {
+        "local": "Feuang",
+        "en": "Feuang",
+        "slug": "feuang-vi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VI",
+        "level": 1,
+        "name": {
+          "local": "Vientiane",
+          "en": "Vientiane Province",
+          "slug": "vientiane-province-vi"
+        }
+      },
+      {
+        "id": "VI-01",
+        "level": 2,
+        "name": {
+          "local": "Feuang",
+          "en": "Feuang",
+          "slug": "feuang-vi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.446",
+      "lon": "101.972"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11231846",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houaykhamxai",
+      "en": "Ban Houaykhamxai",
+      "slug": "ban-houaykhamxai-11231846"
+    },
+    "code": {
+      "id": "11231846",
+      "iso": null
+    },
+    "parent": {
+      "id": "VI-01",
+      "level": 2,
+      "name": {
+        "local": "Feuang",
+        "en": "Feuang",
+        "slug": "feuang-vi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VI",
+        "level": 1,
+        "name": {
+          "local": "Vientiane",
+          "en": "Vientiane Province",
+          "slug": "vientiane-province-vi"
+        }
+      },
+      {
+        "id": "VI-01",
+        "level": 2,
+        "name": {
+          "local": "Feuang",
+          "en": "Feuang",
+          "slug": "feuang-vi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.644",
+      "lon": "102.117"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11229564",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Kèng-Iang",
+      "en": "Ban Keng-Iang",
+      "slug": "ban-keng-iang-11229564"
+    },
+    "code": {
+      "id": "11229564",
+      "iso": null
+    },
+    "parent": {
+      "id": "VI-01",
+      "level": 2,
+      "name": {
+        "local": "Feuang",
+        "en": "Feuang",
+        "slug": "feuang-vi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VI",
+        "level": 1,
+        "name": {
+          "local": "Vientiane",
+          "en": "Vientiane Province",
+          "slug": "vientiane-province-vi"
+        }
+      },
+      {
+        "id": "VI-01",
+        "level": 2,
+        "name": {
+          "local": "Feuang",
+          "en": "Feuang",
+          "slug": "feuang-vi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.735",
+      "lon": "102.135"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11229572",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Khonluang",
+      "en": "Ban Khonluang",
+      "slug": "ban-khonluang-11229572"
+    },
+    "code": {
+      "id": "11229572",
+      "iso": null
+    },
+    "parent": {
+      "id": "VI-01",
+      "level": 2,
+      "name": {
+        "local": "Feuang",
+        "en": "Feuang",
+        "slug": "feuang-vi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VI",
+        "level": 1,
+        "name": {
+          "local": "Vientiane",
+          "en": "Vientiane Province",
+          "slug": "vientiane-province-vi"
+        }
+      },
+      {
+        "id": "VI-01",
+        "level": 2,
+        "name": {
+          "local": "Feuang",
+          "en": "Feuang",
+          "slug": "feuang-vi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.764",
+      "lon": "102.113"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11231848",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Laokham",
+      "en": "Ban Laokham",
+      "slug": "ban-laokham-11231848"
+    },
+    "code": {
+      "id": "11231848",
+      "iso": null
+    },
+    "parent": {
+      "id": "VI-01",
+      "level": 2,
+      "name": {
+        "local": "Feuang",
+        "en": "Feuang",
+        "slug": "feuang-vi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VI",
+        "level": 1,
+        "name": {
+          "local": "Vientiane",
+          "en": "Vientiane Province",
+          "slug": "vientiane-province-vi"
+        }
+      },
+      {
+        "id": "VI-01",
+        "level": 2,
+        "name": {
+          "local": "Feuang",
+          "en": "Feuang",
+          "slug": "feuang-vi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.656",
+      "lon": "102.11"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11229562",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Mai-Phônsi",
+      "en": "Ban Mai-Phonsi",
+      "slug": "ban-mai-phonsi-11229562"
+    },
+    "code": {
+      "id": "11229562",
+      "iso": null
+    },
+    "parent": {
+      "id": "VI-01",
+      "level": 2,
+      "name": {
+        "local": "Feuang",
+        "en": "Feuang",
+        "slug": "feuang-vi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VI",
+        "level": 1,
+        "name": {
+          "local": "Vientiane",
+          "en": "Vientiane Province",
+          "slug": "vientiane-province-vi"
+        }
+      },
+      {
+        "id": "VI-01",
+        "level": 2,
+        "name": {
+          "local": "Feuang",
+          "en": "Feuang",
+          "slug": "feuang-vi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.694",
+      "lon": "102.125"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1655225",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Muangfuang",
+      "en": "Ban Muangfuang",
+      "slug": "ban-muangfuang-1655225"
+    },
+    "code": {
+      "id": "1655225",
+      "iso": null
+    },
+    "parent": {
+      "id": "VI-01",
+      "level": 2,
+      "name": {
+        "local": "Feuang",
+        "en": "Feuang",
+        "slug": "feuang-vi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VI",
+        "level": 1,
+        "name": {
+          "local": "Vientiane",
+          "en": "Vientiane Province",
+          "slug": "vientiane-province-vi"
+        }
+      },
+      {
+        "id": "VI-01",
+        "level": 2,
+        "name": {
+          "local": "Feuang",
+          "en": "Feuang",
+          "slug": "feuang-vi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.72",
+      "lon": "102.131"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1662062",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Na Dan",
+      "en": "Ban Na Dan",
+      "slug": "ban-na-dan-1662062"
+    },
+    "code": {
+      "id": "1662062",
+      "iso": null
+    },
+    "parent": {
+      "id": "VI-01",
+      "level": 2,
+      "name": {
+        "local": "Feuang",
+        "en": "Feuang",
+        "slug": "feuang-vi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VI",
+        "level": 1,
+        "name": {
+          "local": "Vientiane",
+          "en": "Vientiane Province",
+          "slug": "vientiane-province-vi"
+        }
+      },
+      {
+        "id": "VI-01",
+        "level": 2,
+        "name": {
+          "local": "Feuang",
+          "en": "Feuang",
+          "slug": "feuang-vi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.55",
+      "lon": "101.983"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1661715",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Na Kop",
+      "en": "Ban Na Kop",
+      "slug": "ban-na-kop-1661715"
+    },
+    "code": {
+      "id": "1661715",
+      "iso": null
+    },
+    "parent": {
+      "id": "VI-01",
+      "level": 2,
+      "name": {
+        "local": "Feuang",
+        "en": "Feuang",
+        "slug": "feuang-vi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VI",
+        "level": 1,
+        "name": {
+          "local": "Vientiane",
+          "en": "Vientiane Province",
+          "slug": "vientiane-province-vi"
+        }
+      },
+      {
+        "id": "VI-01",
+        "level": 2,
+        "name": {
+          "local": "Feuang",
+          "en": "Feuang",
+          "slug": "feuang-vi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.635",
+      "lon": "102.087"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11229644",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Na-An",
+      "en": "Ban Na-An",
+      "slug": "ban-na-an-11229644"
+    },
+    "code": {
+      "id": "11229644",
+      "iso": null
+    },
+    "parent": {
+      "id": "VI-01",
+      "level": 2,
+      "name": {
+        "local": "Feuang",
+        "en": "Feuang",
+        "slug": "feuang-vi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VI",
+        "level": 1,
+        "name": {
+          "local": "Vientiane",
+          "en": "Vientiane Province",
+          "slug": "vientiane-province-vi"
+        }
+      },
+      {
+        "id": "VI-01",
+        "level": 2,
+        "name": {
+          "local": "Feuang",
+          "en": "Feuang",
+          "slug": "feuang-vi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.778",
+      "lon": "102.188"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11222375",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Na-Ang",
+      "en": "Ban Na-Ang",
+      "slug": "ban-na-ang-11222375"
+    },
+    "code": {
+      "id": "11222375",
+      "iso": null
+    },
+    "parent": {
+      "id": "VI-01",
+      "level": 2,
+      "name": {
+        "local": "Feuang",
+        "en": "Feuang",
+        "slug": "feuang-vi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VI",
+        "level": 1,
+        "name": {
+          "local": "Vientiane",
+          "en": "Vientiane Province",
+          "slug": "vientiane-province-vi"
+        }
+      },
+      {
+        "id": "VI-01",
+        "level": 2,
+        "name": {
+          "local": "Feuang",
+          "en": "Feuang",
+          "slug": "feuang-vi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.557",
+      "lon": "101.976"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11229577",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nabon-Gnai",
+      "en": "Ban Nabon-Gnai",
+      "slug": "ban-nabon-gnai-11229577"
+    },
+    "code": {
+      "id": "11229577",
+      "iso": null
+    },
+    "parent": {
+      "id": "VI-01",
+      "level": 2,
+      "name": {
+        "local": "Feuang",
+        "en": "Feuang",
+        "slug": "feuang-vi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VI",
+        "level": 1,
+        "name": {
+          "local": "Vientiane",
+          "en": "Vientiane Province",
+          "slug": "vientiane-province-vi"
+        }
+      },
+      {
+        "id": "VI-01",
+        "level": 2,
+        "name": {
+          "local": "Feuang",
+          "en": "Feuang",
+          "slug": "feuang-vi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.804",
+      "lon": "102.172"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11229576",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nabon-Noy",
+      "en": "Ban Nabon-Noy",
+      "slug": "ban-nabon-noy-11229576"
+    },
+    "code": {
+      "id": "11229576",
+      "iso": null
+    },
+    "parent": {
+      "id": "VI-01",
+      "level": 2,
+      "name": {
+        "local": "Feuang",
+        "en": "Feuang",
+        "slug": "feuang-vi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VI",
+        "level": 1,
+        "name": {
+          "local": "Vientiane",
+          "en": "Vientiane Province",
+          "slug": "vientiane-province-vi"
+        }
+      },
+      {
+        "id": "VI-01",
+        "level": 2,
+        "name": {
+          "local": "Feuang",
+          "en": "Feuang",
+          "slug": "feuang-vi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.798",
+      "lon": "102.165"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11231845",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nadi",
+      "en": "Ban Nadi",
+      "slug": "ban-nadi-11231845"
+    },
+    "code": {
+      "id": "11231845",
+      "iso": null
+    },
+    "parent": {
+      "id": "VI-01",
+      "level": 2,
+      "name": {
+        "local": "Feuang",
+        "en": "Feuang",
+        "slug": "feuang-vi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VI",
+        "level": 1,
+        "name": {
+          "local": "Vientiane",
+          "en": "Vientiane Province",
+          "slug": "vientiane-province-vi"
+        }
+      },
+      {
+        "id": "VI-01",
+        "level": 2,
+        "name": {
+          "local": "Feuang",
+          "en": "Feuang",
+          "slug": "feuang-vi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.643",
+      "lon": "102.095"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11229563",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nagnèng",
+      "en": "Ban Nagneng",
+      "slug": "ban-nagneng-11229563"
+    },
+    "code": {
+      "id": "11229563",
+      "iso": null
+    },
+    "parent": {
+      "id": "VI-01",
+      "level": 2,
+      "name": {
+        "local": "Feuang",
+        "en": "Feuang",
+        "slug": "feuang-vi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VI",
+        "level": 1,
+        "name": {
+          "local": "Vientiane",
+          "en": "Vientiane Province",
+          "slug": "vientiane-province-vi"
+        }
+      },
+      {
+        "id": "VI-01",
+        "level": 2,
+        "name": {
+          "local": "Feuang",
+          "en": "Feuang",
+          "slug": "feuang-vi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.694",
+      "lon": "102.13"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1661343",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nakang",
+      "en": "Ban Nakang",
+      "slug": "ban-nakang-1661343"
+    },
+    "code": {
+      "id": "1661343",
+      "iso": null
+    },
+    "parent": {
+      "id": "VI-01",
+      "level": 2,
+      "name": {
+        "local": "Feuang",
+        "en": "Feuang",
+        "slug": "feuang-vi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VI",
+        "level": 1,
+        "name": {
+          "local": "Vientiane",
+          "en": "Vientiane Province",
+          "slug": "vientiane-province-vi"
+        }
+      },
+      {
+        "id": "VI-01",
+        "level": 2,
+        "name": {
+          "local": "Feuang",
+          "en": "Feuang",
+          "slug": "feuang-vi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.66",
+      "lon": "102.123"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11231838",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nakhop",
+      "en": "Ban Nakhop",
+      "slug": "ban-nakhop-11231838"
+    },
+    "code": {
+      "id": "11231838",
+      "iso": null
+    },
+    "parent": {
+      "id": "VI-01",
+      "level": 2,
+      "name": {
+        "local": "Feuang",
+        "en": "Feuang",
+        "slug": "feuang-vi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VI",
+        "level": 1,
+        "name": {
+          "local": "Vientiane",
+          "en": "Vientiane Province",
+          "slug": "vientiane-province-vi"
+        }
+      },
+      {
+        "id": "VI-01",
+        "level": 2,
+        "name": {
+          "local": "Feuang",
+          "en": "Feuang",
+          "slug": "feuang-vi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.561",
+      "lon": "102.024"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11231837",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nalang",
+      "en": "Ban Nalang",
+      "slug": "ban-nalang-11231837"
+    },
+    "code": {
+      "id": "11231837",
+      "iso": null
+    },
+    "parent": {
+      "id": "VI-01",
+      "level": 2,
+      "name": {
+        "local": "Feuang",
+        "en": "Feuang",
+        "slug": "feuang-vi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VI",
+        "level": 1,
+        "name": {
+          "local": "Vientiane",
+          "en": "Vientiane Province",
+          "slug": "vientiane-province-vi"
+        }
+      },
+      {
+        "id": "VI-01",
+        "level": 2,
+        "name": {
+          "local": "Feuang",
+          "en": "Feuang",
+          "slug": "feuang-vi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.588",
+      "lon": "102.016"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11229574",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Namai",
+      "en": "Ban Namai",
+      "slug": "ban-namai-11229574"
+    },
+    "code": {
+      "id": "11229574",
+      "iso": null
+    },
+    "parent": {
+      "id": "VI-01",
+      "level": 2,
+      "name": {
+        "local": "Feuang",
+        "en": "Feuang",
+        "slug": "feuang-vi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VI",
+        "level": 1,
+        "name": {
+          "local": "Vientiane",
+          "en": "Vientiane Province",
+          "slug": "vientiane-province-vi"
+        }
+      },
+      {
+        "id": "VI-01",
+        "level": 2,
+        "name": {
+          "local": "Feuang",
+          "en": "Feuang",
+          "slug": "feuang-vi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.772",
+      "lon": "102.16"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11231832",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Namhai",
+      "en": "Ban Namhai",
+      "slug": "ban-namhai-11231832"
+    },
+    "code": {
+      "id": "11231832",
+      "iso": null
+    },
+    "parent": {
+      "id": "VI-01",
+      "level": 2,
+      "name": {
+        "local": "Feuang",
+        "en": "Feuang",
+        "slug": "feuang-vi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VI",
+        "level": 1,
+        "name": {
+          "local": "Vientiane",
+          "en": "Vientiane Province",
+          "slug": "vientiane-province-vi"
+        }
+      },
+      {
+        "id": "VI-01",
+        "level": 2,
+        "name": {
+          "local": "Feuang",
+          "en": "Feuang",
+          "slug": "feuang-vi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.63",
+      "lon": "102.019"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11231835",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Namôn",
+      "en": "Ban Namon",
+      "slug": "ban-namon-11231835"
+    },
+    "code": {
+      "id": "11231835",
+      "iso": null
+    },
+    "parent": {
+      "id": "VI-01",
+      "level": 2,
+      "name": {
+        "local": "Feuang",
+        "en": "Feuang",
+        "slug": "feuang-vi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VI",
+        "level": 1,
+        "name": {
+          "local": "Vientiane",
+          "en": "Vientiane Province",
+          "slug": "vientiane-province-vi"
+        }
+      },
+      {
+        "id": "VI-01",
+        "level": 2,
+        "name": {
+          "local": "Feuang",
+          "en": "Feuang",
+          "slug": "feuang-vi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.597",
+      "lon": "102.038"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11231841",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Namuang-Gnai",
+      "en": "Ban Namuang-Gnai",
+      "slug": "ban-namuang-gnai-11231841"
+    },
+    "code": {
+      "id": "11231841",
+      "iso": null
+    },
+    "parent": {
+      "id": "VI-01",
+      "level": 2,
+      "name": {
+        "local": "Feuang",
+        "en": "Feuang",
+        "slug": "feuang-vi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VI",
+        "level": 1,
+        "name": {
+          "local": "Vientiane",
+          "en": "Vientiane Province",
+          "slug": "vientiane-province-vi"
+        }
+      },
+      {
+        "id": "VI-01",
+        "level": 2,
+        "name": {
+          "local": "Feuang",
+          "en": "Feuang",
+          "slug": "feuang-vi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.513",
+      "lon": "102.022"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11231842",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Namuang-Noy",
+      "en": "Ban Namuang-Noy",
+      "slug": "ban-namuang-noy-11231842"
+    },
+    "code": {
+      "id": "11231842",
+      "iso": null
+    },
+    "parent": {
+      "id": "VI-01",
+      "level": 2,
+      "name": {
+        "local": "Feuang",
+        "en": "Feuang",
+        "slug": "feuang-vi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VI",
+        "level": 1,
+        "name": {
+          "local": "Vientiane",
+          "en": "Vientiane Province",
+          "slug": "vientiane-province-vi"
+        }
+      },
+      {
+        "id": "VI-01",
+        "level": 2,
+        "name": {
+          "local": "Feuang",
+          "en": "Feuang",
+          "slug": "feuang-vi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.504",
+      "lon": "102.031"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11231806",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Naphung",
+      "en": "Ban Naphung",
+      "slug": "ban-naphung-11231806"
+    },
+    "code": {
+      "id": "11231806",
+      "iso": null
+    },
+    "parent": {
+      "id": "VI-01",
+      "level": 2,
+      "name": {
+        "local": "Feuang",
+        "en": "Feuang",
+        "slug": "feuang-vi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VI",
+        "level": 1,
+        "name": {
+          "local": "Vientiane",
+          "en": "Vientiane Province",
+          "slug": "vientiane-province-vi"
+        }
+      },
+      {
+        "id": "VI-01",
+        "level": 2,
+        "name": {
+          "local": "Feuang",
+          "en": "Feuang",
+          "slug": "feuang-vi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.631",
+      "lon": "102.065"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1661199",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nathong",
+      "en": "Ban Nathong",
+      "slug": "ban-nathong-1661199"
+    },
+    "code": {
+      "id": "1661199",
+      "iso": null
+    },
+    "parent": {
+      "id": "VI-01",
+      "level": 2,
+      "name": {
+        "local": "Feuang",
+        "en": "Feuang",
+        "slug": "feuang-vi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VI",
+        "level": 1,
+        "name": {
+          "local": "Vientiane",
+          "en": "Vientiane Province",
+          "slug": "vientiane-province-vi"
+        }
+      },
+      {
+        "id": "VI-01",
+        "level": 2,
+        "name": {
+          "local": "Feuang",
+          "en": "Feuang",
+          "slug": "feuang-vi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.652",
+      "lon": "102.103"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1661061",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nathoua",
+      "en": "Ban Nathoua",
+      "slug": "ban-nathoua-1661061"
+    },
+    "code": {
+      "id": "1661061",
+      "iso": null
+    },
+    "parent": {
+      "id": "VI-01",
+      "level": 2,
+      "name": {
+        "local": "Feuang",
+        "en": "Feuang",
+        "slug": "feuang-vi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VI",
+        "level": 1,
+        "name": {
+          "local": "Vientiane",
+          "en": "Vientiane Province",
+          "slug": "vientiane-province-vi"
+        }
+      },
+      {
+        "id": "VI-01",
+        "level": 2,
+        "name": {
+          "local": "Feuang",
+          "en": "Feuang",
+          "slug": "feuang-vi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.685",
+      "lon": "102.126"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11231802",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nathoun",
+      "en": "Ban Nathoun",
+      "slug": "ban-nathoun-11231802"
+    },
+    "code": {
+      "id": "11231802",
+      "iso": null
+    },
+    "parent": {
+      "id": "VI-01",
+      "level": 2,
+      "name": {
+        "local": "Feuang",
+        "en": "Feuang",
+        "slug": "feuang-vi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VI",
+        "level": 1,
+        "name": {
+          "local": "Vientiane",
+          "en": "Vientiane Province",
+          "slug": "vientiane-province-vi"
+        }
+      },
+      {
+        "id": "VI-01",
+        "level": 2,
+        "name": {
+          "local": "Feuang",
+          "en": "Feuang",
+          "slug": "feuang-vi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.642",
+      "lon": "102.021"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11229570",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Natiou",
+      "en": "Ban Natiou",
+      "slug": "ban-natiou-11229570"
+    },
+    "code": {
+      "id": "11229570",
+      "iso": null
+    },
+    "parent": {
+      "id": "VI-01",
+      "level": 2,
+      "name": {
+        "local": "Feuang",
+        "en": "Feuang",
+        "slug": "feuang-vi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VI",
+        "level": 1,
+        "name": {
+          "local": "Vientiane",
+          "en": "Vientiane Province",
+          "slug": "vientiane-province-vi"
+        }
+      },
+      {
+        "id": "VI-01",
+        "level": 2,
+        "name": {
+          "local": "Feuang",
+          "en": "Feuang",
+          "slug": "feuang-vi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.766",
+      "lon": "102.148"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11229561",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Navan",
+      "en": "Ban Navan",
+      "slug": "ban-navan-11229561"
+    },
+    "code": {
+      "id": "11229561",
+      "iso": null
+    },
+    "parent": {
+      "id": "VI-01",
+      "level": 2,
+      "name": {
+        "local": "Feuang",
+        "en": "Feuang",
+        "slug": "feuang-vi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VI",
+        "level": 1,
+        "name": {
+          "local": "Vientiane",
+          "en": "Vientiane Province",
+          "slug": "vientiane-province-vi"
+        }
+      },
+      {
+        "id": "VI-01",
+        "level": 2,
+        "name": {
+          "local": "Feuang",
+          "en": "Feuang",
+          "slug": "feuang-vi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.688",
+      "lon": "102.084"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11229573",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Naxèng",
+      "en": "Ban Naxeng",
+      "slug": "ban-naxeng-11229573"
+    },
+    "code": {
+      "id": "11229573",
+      "iso": null
+    },
+    "parent": {
+      "id": "VI-01",
+      "level": 2,
+      "name": {
+        "local": "Feuang",
+        "en": "Feuang",
+        "slug": "feuang-vi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VI",
+        "level": 1,
+        "name": {
+          "local": "Vientiane",
+          "en": "Vientiane Province",
+          "slug": "vientiane-province-vi"
+        }
+      },
+      {
+        "id": "VI-01",
+        "level": 2,
+        "name": {
+          "local": "Feuang",
+          "en": "Feuang",
+          "slug": "feuang-vi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.79",
+      "lon": "102.128"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11231834",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Naxèng",
+      "en": "Ban Naxeng",
+      "slug": "ban-naxeng-11231834"
+    },
+    "code": {
+      "id": "11231834",
+      "iso": null
+    },
+    "parent": {
+      "id": "VI-01",
+      "level": 2,
+      "name": {
+        "local": "Feuang",
+        "en": "Feuang",
+        "slug": "feuang-vi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VI",
+        "level": 1,
+        "name": {
+          "local": "Vientiane",
+          "en": "Vientiane Province",
+          "slug": "vientiane-province-vi"
+        }
+      },
+      {
+        "id": "VI-01",
+        "level": 2,
+        "name": {
+          "local": "Feuang",
+          "en": "Feuang",
+          "slug": "feuang-vi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.609",
+      "lon": "102.052"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11229575",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nongpét",
+      "en": "Ban Nongpet",
+      "slug": "ban-nongpet-11229575"
+    },
+    "code": {
+      "id": "11229575",
+      "iso": null
+    },
+    "parent": {
+      "id": "VI-01",
+      "level": 2,
+      "name": {
+        "local": "Feuang",
+        "en": "Feuang",
+        "slug": "feuang-vi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VI",
+        "level": 1,
+        "name": {
+          "local": "Vientiane",
+          "en": "Vientiane Province",
+          "slug": "vientiane-province-vi"
+        }
+      },
+      {
+        "id": "VI-01",
+        "level": 2,
+        "name": {
+          "local": "Feuang",
+          "en": "Feuang",
+          "slug": "feuang-vi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.787",
+      "lon": "102.152"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1660582",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Ouang Mon",
+      "en": "Ban Ouang Mon",
+      "slug": "ban-ouang-mon-1660582"
+    },
+    "code": {
+      "id": "1660582",
+      "iso": null
+    },
+    "parent": {
+      "id": "VI-01",
+      "level": 2,
+      "name": {
+        "local": "Feuang",
+        "en": "Feuang",
+        "slug": "feuang-vi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VI",
+        "level": 1,
+        "name": {
+          "local": "Vientiane",
+          "en": "Vientiane Province",
+          "slug": "vientiane-province-vi"
+        }
+      },
+      {
+        "id": "VI-01",
+        "level": 2,
+        "name": {
+          "local": "Feuang",
+          "en": "Feuang",
+          "slug": "feuang-vi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.424",
+      "lon": "102.051"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1660525",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Pakham",
+      "en": "Ban Pakham",
+      "slug": "ban-pakham-1660525"
+    },
+    "code": {
+      "id": "1660525",
+      "iso": null
+    },
+    "parent": {
+      "id": "VI-01",
+      "level": 2,
+      "name": {
+        "local": "Feuang",
+        "en": "Feuang",
+        "slug": "feuang-vi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VI",
+        "level": 1,
+        "name": {
+          "local": "Vientiane",
+          "en": "Vientiane Province",
+          "slug": "vientiane-province-vi"
+        }
+      },
+      {
+        "id": "VI-01",
+        "level": 2,
+        "name": {
+          "local": "Feuang",
+          "en": "Feuang",
+          "slug": "feuang-vi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.484",
+      "lon": "101.984"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11229568",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Pakmoua",
+      "en": "Ban Pakmoua",
+      "slug": "ban-pakmoua-11229568"
+    },
+    "code": {
+      "id": "11229568",
+      "iso": null
+    },
+    "parent": {
+      "id": "VI-01",
+      "level": 2,
+      "name": {
+        "local": "Feuang",
+        "en": "Feuang",
+        "slug": "feuang-vi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VI",
+        "level": 1,
+        "name": {
+          "local": "Vientiane",
+          "en": "Vientiane Province",
+          "slug": "vientiane-province-vi"
+        }
+      },
+      {
+        "id": "VI-01",
+        "level": 2,
+        "name": {
+          "local": "Feuang",
+          "en": "Feuang",
+          "slug": "feuang-vi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.759",
+      "lon": "102.142"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11231805",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phôngnèng",
+      "en": "Ban Phongneng",
+      "slug": "ban-phongneng-11231805"
+    },
+    "code": {
+      "id": "11231805",
+      "iso": null
+    },
+    "parent": {
+      "id": "VI-01",
+      "level": 2,
+      "name": {
+        "local": "Feuang",
+        "en": "Feuang",
+        "slug": "feuang-vi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VI",
+        "level": 1,
+        "name": {
+          "local": "Vientiane",
+          "en": "Vientiane Province",
+          "slug": "vientiane-province-vi"
+        }
+      },
+      {
+        "id": "VI-01",
+        "level": 2,
+        "name": {
+          "local": "Feuang",
+          "en": "Feuang",
+          "slug": "feuang-vi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.634",
+      "lon": "102.033"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11231849",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phônkham",
+      "en": "Ban Phonkham",
+      "slug": "ban-phonkham-11231849"
+    },
+    "code": {
+      "id": "11231849",
+      "iso": null
+    },
+    "parent": {
+      "id": "VI-01",
+      "level": 2,
+      "name": {
+        "local": "Feuang",
+        "en": "Feuang",
+        "slug": "feuang-vi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VI",
+        "level": 1,
+        "name": {
+          "local": "Vientiane",
+          "en": "Vientiane Province",
+          "slug": "vientiane-province-vi"
+        }
+      },
+      {
+        "id": "VI-01",
+        "level": 2,
+        "name": {
+          "local": "Feuang",
+          "en": "Feuang",
+          "slug": "feuang-vi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.664",
+      "lon": "102.111"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11231831",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phônthon",
+      "en": "Ban Phonthon",
+      "slug": "ban-phonthon-11231831"
+    },
+    "code": {
+      "id": "11231831",
+      "iso": null
+    },
+    "parent": {
+      "id": "VI-01",
+      "level": 2,
+      "name": {
+        "local": "Feuang",
+        "en": "Feuang",
+        "slug": "feuang-vi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VI",
+        "level": 1,
+        "name": {
+          "local": "Vientiane",
+          "en": "Vientiane Province",
+          "slug": "vientiane-province-vi"
+        }
+      },
+      {
+        "id": "VI-01",
+        "level": 2,
+        "name": {
+          "local": "Feuang",
+          "en": "Feuang",
+          "slug": "feuang-vi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.627",
+      "lon": "102.063"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11231844",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phônxai",
+      "en": "Ban Phonxai",
+      "slug": "ban-phonxai-11231844"
+    },
+    "code": {
+      "id": "11231844",
+      "iso": null
+    },
+    "parent": {
+      "id": "VI-01",
+      "level": 2,
+      "name": {
+        "local": "Feuang",
+        "en": "Feuang",
+        "slug": "feuang-vi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VI",
+        "level": 1,
+        "name": {
+          "local": "Vientiane",
+          "en": "Vientiane Province",
+          "slug": "vientiane-province-vi"
+        }
+      },
+      {
+        "id": "VI-01",
+        "level": 2,
+        "name": {
+          "local": "Feuang",
+          "en": "Feuang",
+          "slug": "feuang-vi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.636",
+      "lon": "102.087"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11229560",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phouphiang",
+      "en": "Ban Phouphiang",
+      "slug": "ban-phouphiang-11229560"
+    },
+    "code": {
+      "id": "11229560",
+      "iso": null
+    },
+    "parent": {
+      "id": "VI-01",
+      "level": 2,
+      "name": {
+        "local": "Feuang",
+        "en": "Feuang",
+        "slug": "feuang-vi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VI",
+        "level": 1,
+        "name": {
+          "local": "Vientiane",
+          "en": "Vientiane Province",
+          "slug": "vientiane-province-vi"
+        }
+      },
+      {
+        "id": "VI-01",
+        "level": 2,
+        "name": {
+          "local": "Feuang",
+          "en": "Feuang",
+          "slug": "feuang-vi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.671",
+      "lon": "102.045"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11229567",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Sammun",
+      "en": "Ban Sammun",
+      "slug": "ban-sammun-11229567"
+    },
+    "code": {
+      "id": "11229567",
+      "iso": null
+    },
+    "parent": {
+      "id": "VI-01",
+      "level": 2,
+      "name": {
+        "local": "Feuang",
+        "en": "Feuang",
+        "slug": "feuang-vi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VI",
+        "level": 1,
+        "name": {
+          "local": "Vientiane",
+          "en": "Vientiane Province",
+          "slug": "vientiane-province-vi"
+        }
+      },
+      {
+        "id": "VI-01",
+        "level": 2,
+        "name": {
+          "local": "Feuang",
+          "en": "Feuang",
+          "slug": "feuang-vi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.745",
+      "lon": "102.134"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11229569",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Sisa-Al",
+      "en": "Ban Sisa-Al",
+      "slug": "ban-sisa-al-11229569"
+    },
+    "code": {
+      "id": "11229569",
+      "iso": null
+    },
+    "parent": {
+      "id": "VI-01",
+      "level": 2,
+      "name": {
+        "local": "Feuang",
+        "en": "Feuang",
+        "slug": "feuang-vi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VI",
+        "level": 1,
+        "name": {
+          "local": "Vientiane",
+          "en": "Vientiane Province",
+          "slug": "vientiane-province-vi"
+        }
+      },
+      {
+        "id": "VI-01",
+        "level": 2,
+        "name": {
+          "local": "Feuang",
+          "en": "Feuang",
+          "slug": "feuang-vi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.752",
+      "lon": "102.143"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1659036",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Soue",
+      "en": "Ban Soue",
+      "slug": "ban-soue-1659036"
+    },
+    "code": {
+      "id": "1659036",
+      "iso": null
+    },
+    "parent": {
+      "id": "VI-01",
+      "level": 2,
+      "name": {
+        "local": "Feuang",
+        "en": "Feuang",
+        "slug": "feuang-vi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VI",
+        "level": 1,
+        "name": {
+          "local": "Vientiane",
+          "en": "Vientiane Province",
+          "slug": "vientiane-province-vi"
+        }
+      },
+      {
+        "id": "VI-01",
+        "level": 2,
+        "name": {
+          "local": "Feuang",
+          "en": "Feuang",
+          "slug": "feuang-vi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.426",
+      "lon": "102.014"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1658757",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Tha",
+      "en": "Ban Tha",
+      "slug": "ban-tha-1658757"
+    },
+    "code": {
+      "id": "1658757",
+      "iso": null
+    },
+    "parent": {
+      "id": "VI-01",
+      "level": 2,
+      "name": {
+        "local": "Feuang",
+        "en": "Feuang",
+        "slug": "feuang-vi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VI",
+        "level": 1,
+        "name": {
+          "local": "Vientiane",
+          "en": "Vientiane Province",
+          "slug": "vientiane-province-vi"
+        }
+      },
+      {
+        "id": "VI-01",
+        "level": 2,
+        "name": {
+          "local": "Feuang",
+          "en": "Feuang",
+          "slug": "feuang-vi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.679",
+      "lon": "102.124"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1658516",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Thom",
+      "en": "Ban Thom",
+      "slug": "ban-thom-1658516"
+    },
+    "code": {
+      "id": "1658516",
+      "iso": null
+    },
+    "parent": {
+      "id": "VI-01",
+      "level": 2,
+      "name": {
+        "local": "Feuang",
+        "en": "Feuang",
+        "slug": "feuang-vi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VI",
+        "level": 1,
+        "name": {
+          "local": "Vientiane",
+          "en": "Vientiane Province",
+          "slug": "vientiane-province-vi"
+        }
+      },
+      {
+        "id": "VI-01",
+        "level": 2,
+        "name": {
+          "local": "Feuang",
+          "en": "Feuang",
+          "slug": "feuang-vi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.517",
+      "lon": "102.1"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

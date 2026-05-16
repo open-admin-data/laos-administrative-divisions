@@ -1,0 +1,47 @@
+{
+  "id": "PH-06",
+  "level": 2,
+  "level_name": {
+    "local": "ເມືອງ",
+    "en": "District"
+  },
+  "name": {
+    "local": "Phongsaly",
+    "en": "Phongsaly",
+    "slug": "phongsaly-ph-06"
+  },
+  "code": {
+    "id": "PH-06",
+    "iso": null
+  },
+  "parent": {
+    "id": "PH",
+    "level": 1,
+    "name": {
+      "local": "Phongsaly",
+      "en": "Phongsaly",
+      "slug": "phongsaly-ph"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PH",
+      "level": 1,
+      "name": {
+        "local": "Phongsaly",
+        "en": "Phongsaly",
+        "slug": "phongsaly-ph"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 112
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "21.866",
+    "lon": "102.201"
+  },
+  "metadata": {},
+  "source": {}
+}

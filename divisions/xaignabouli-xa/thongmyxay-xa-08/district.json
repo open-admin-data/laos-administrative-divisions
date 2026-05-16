@@ -1,0 +1,47 @@
+{
+  "id": "XA-08",
+  "level": 2,
+  "level_name": {
+    "local": "ເມືອງ",
+    "en": "District"
+  },
+  "name": {
+    "local": "Thongmyxay",
+    "en": "Thongmyxay",
+    "slug": "thongmyxay-xa-08"
+  },
+  "code": {
+    "id": "XA-08",
+    "iso": null
+  },
+  "parent": {
+    "id": "XA",
+    "level": 1,
+    "name": {
+      "local": "Xaignabouli",
+      "en": "Xaignabouli",
+      "slug": "xaignabouli-xa"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "XA",
+      "level": 1,
+      "name": {
+        "local": "Xaignabouli",
+        "en": "Xaignabouli",
+        "slug": "xaignabouli-xa"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 17
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "18.423",
+    "lon": "101.179"
+  },
+  "metadata": {},
+  "source": {}
+}

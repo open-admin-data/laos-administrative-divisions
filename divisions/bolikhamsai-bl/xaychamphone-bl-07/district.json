@@ -1,0 +1,47 @@
+{
+  "id": "BL-07",
+  "level": 2,
+  "level_name": {
+    "local": "ເມືອງ",
+    "en": "District"
+  },
+  "name": {
+    "local": "Xaychamphone",
+    "en": "Xaychamphone",
+    "slug": "xaychamphone-bl-07"
+  },
+  "code": {
+    "id": "BL-07",
+    "iso": null
+  },
+  "parent": {
+    "id": "BL",
+    "level": 1,
+    "name": {
+      "local": "Bolikhamsai",
+      "en": "Bolikhamsai",
+      "slug": "bolikhamsai-bl"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BL",
+      "level": 1,
+      "name": {
+        "local": "Bolikhamsai",
+        "en": "Bolikhamsai",
+        "slug": "bolikhamsai-bl"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 51
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "18.583",
+    "lon": "104.92"
+  },
+  "metadata": {},
+  "source": {}
+}

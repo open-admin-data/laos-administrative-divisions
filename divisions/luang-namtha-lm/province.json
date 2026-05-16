@@ -1,0 +1,30 @@
+{
+  "id": "LM",
+  "level": 1,
+  "level_name": {
+    "local": "ແຂວງ",
+    "en": "Province"
+  },
+  "name": {
+    "local": "Luang Namtha",
+    "en": "Luang Namtha",
+    "slug": "luang-namtha-lm"
+  },
+  "code": {
+    "id": "LM",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 5,
+    "village": 465
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "21.021",
+    "lon": "101.298"
+  },
+  "metadata": {},
+  "source": {}
+}

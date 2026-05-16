@@ -1,0 +1,47 @@
+{
+  "id": "AT-02",
+  "level": 2,
+  "level_name": {
+    "local": "ເມືອງ",
+    "en": "District"
+  },
+  "name": {
+    "local": "Sanamxay",
+    "en": "Sanamxay",
+    "slug": "sanamxay-at-02"
+  },
+  "code": {
+    "id": "AT-02",
+    "iso": null
+  },
+  "parent": {
+    "id": "AT",
+    "level": 1,
+    "name": {
+      "local": "Attapeu",
+      "en": "Attapeu",
+      "slug": "attapeu-at"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AT",
+      "level": 1,
+      "name": {
+        "local": "Attapeu",
+        "en": "Attapeu",
+        "slug": "attapeu-at"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 44
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.708",
+    "lon": "106.401"
+  },
+  "metadata": {},
+  "source": {}
+}

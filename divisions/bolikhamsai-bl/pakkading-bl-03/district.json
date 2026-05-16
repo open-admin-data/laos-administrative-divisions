@@ -1,0 +1,47 @@
+{
+  "id": "BL-03",
+  "level": 2,
+  "level_name": {
+    "local": "ເມືອງ",
+    "en": "District"
+  },
+  "name": {
+    "local": "Pakkading",
+    "en": "Pakkading",
+    "slug": "pakkading-bl-03"
+  },
+  "code": {
+    "id": "BL-03",
+    "iso": null
+  },
+  "parent": {
+    "id": "BL",
+    "level": 1,
+    "name": {
+      "local": "Bolikhamsai",
+      "en": "Bolikhamsai",
+      "slug": "bolikhamsai-bl"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BL",
+      "level": 1,
+      "name": {
+        "local": "Bolikhamsai",
+        "en": "Bolikhamsai",
+        "slug": "bolikhamsai-bl"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 55
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "18.398",
+    "lon": "104.112"
+  },
+  "metadata": {},
+  "source": {}
+}

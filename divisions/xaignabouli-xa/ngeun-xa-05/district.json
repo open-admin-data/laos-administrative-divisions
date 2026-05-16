@@ -1,0 +1,47 @@
+{
+  "id": "XA-05",
+  "level": 2,
+  "level_name": {
+    "local": "ເມືອງ",
+    "en": "District"
+  },
+  "name": {
+    "local": "Ngeun",
+    "en": "Ngeun",
+    "slug": "ngeun-xa-05"
+  },
+  "code": {
+    "id": "XA-05",
+    "iso": null
+  },
+  "parent": {
+    "id": "XA",
+    "level": 1,
+    "name": {
+      "local": "Xaignabouli",
+      "en": "Xaignabouli",
+      "slug": "xaignabouli-xa"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "XA",
+      "level": 1,
+      "name": {
+        "local": "Xaignabouli",
+        "en": "Xaignabouli",
+        "slug": "xaignabouli-xa"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 38
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "19.776",
+    "lon": "101.129"
+  },
+  "metadata": {},
+  "source": {}
+}

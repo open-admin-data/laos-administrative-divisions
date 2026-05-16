@@ -1,0 +1,47 @@
+{
+  "id": "VI-06",
+  "level": 2,
+  "level_name": {
+    "local": "ເມືອງ",
+    "en": "District"
+  },
+  "name": {
+    "local": "Meun",
+    "en": "Meun",
+    "slug": "meun-vi-06"
+  },
+  "code": {
+    "id": "VI-06",
+    "iso": null
+  },
+  "parent": {
+    "id": "VI",
+    "level": 1,
+    "name": {
+      "local": "Vientiane",
+      "en": "Vientiane Province",
+      "slug": "vientiane-province-vi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "VI",
+      "level": 1,
+      "name": {
+        "local": "Vientiane",
+        "en": "Vientiane Province",
+        "slug": "vientiane-province-vi"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 9
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "18.276",
+    "lon": "101.935"
+  },
+  "metadata": {},
+  "source": {}
+}

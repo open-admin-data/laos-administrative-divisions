@@ -1,0 +1,47 @@
+{
+  "id": "KH-08",
+  "level": 2,
+  "level_name": {
+    "local": "ເມືອງ",
+    "en": "District"
+  },
+  "name": {
+    "local": "Xaybuathong",
+    "en": "Xaybuathong",
+    "slug": "xaybuathong-kh-08"
+  },
+  "code": {
+    "id": "KH-08",
+    "iso": null
+  },
+  "parent": {
+    "id": "KH",
+    "level": 1,
+    "name": {
+      "local": "Khammouane",
+      "en": "Khammouane",
+      "slug": "khammouane-kh"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KH",
+      "level": 1,
+      "name": {
+        "local": "Khammouane",
+        "en": "Khammouane",
+        "slug": "khammouane-kh"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 68
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.088",
+    "lon": "105.527"
+  },
+  "metadata": {},
+  "source": {}
+}

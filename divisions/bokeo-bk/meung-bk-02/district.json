@@ -1,0 +1,47 @@
+{
+  "id": "BK-02",
+  "level": 2,
+  "level_name": {
+    "local": "ເມືອງ",
+    "en": "District"
+  },
+  "name": {
+    "local": "Meung",
+    "en": "Meung",
+    "slug": "meung-bk-02"
+  },
+  "code": {
+    "id": "BK-02",
+    "iso": null
+  },
+  "parent": {
+    "id": "BK",
+    "level": 1,
+    "name": {
+      "local": "Bokeo",
+      "en": "Bokeo",
+      "slug": "bokeo-bk"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BK",
+      "level": 1,
+      "name": {
+        "local": "Bokeo",
+        "en": "Bokeo",
+        "slug": "bokeo-bk"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 55
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "20.69",
+    "lon": "100.544"
+  },
+  "metadata": {},
+  "source": {}
+}

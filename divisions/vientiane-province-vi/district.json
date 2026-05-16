@@ -1,0 +1,519 @@
+[
+  {
+    "id": "VI-01",
+    "level": 2,
+    "level_name": {
+      "local": "ເມືອງ",
+      "en": "District"
+    },
+    "name": {
+      "local": "Feuang",
+      "en": "Feuang",
+      "slug": "feuang-vi-01"
+    },
+    "code": {
+      "id": "VI-01",
+      "iso": null
+    },
+    "parent": {
+      "id": "VI",
+      "level": 1,
+      "name": {
+        "local": "Vientiane",
+        "en": "Vientiane Province",
+        "slug": "vientiane-province-vi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VI",
+        "level": 1,
+        "name": {
+          "local": "Vientiane",
+          "en": "Vientiane Province",
+          "slug": "vientiane-province-vi"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 46
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.589",
+      "lon": "102.059"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "VI-02",
+    "level": 2,
+    "level_name": {
+      "local": "ເມືອງ",
+      "en": "District"
+    },
+    "name": {
+      "local": "Hinherb",
+      "en": "Hinherb",
+      "slug": "hinherb-vi-02"
+    },
+    "code": {
+      "id": "VI-02",
+      "iso": null
+    },
+    "parent": {
+      "id": "VI",
+      "level": 1,
+      "name": {
+        "local": "Vientiane",
+        "en": "Vientiane Province",
+        "slug": "vientiane-province-vi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VI",
+        "level": 1,
+        "name": {
+          "local": "Vientiane",
+          "en": "Vientiane Province",
+          "slug": "vientiane-province-vi"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 52
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.61",
+      "lon": "102.194"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "VI-03",
+    "level": 2,
+    "level_name": {
+      "local": "ເມືອງ",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kasy",
+      "en": "Kasy",
+      "slug": "kasy-vi-03"
+    },
+    "code": {
+      "id": "VI-03",
+      "iso": null
+    },
+    "parent": {
+      "id": "VI",
+      "level": 1,
+      "name": {
+        "local": "Vientiane",
+        "en": "Vientiane Province",
+        "slug": "vientiane-province-vi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VI",
+        "level": 1,
+        "name": {
+          "local": "Vientiane",
+          "en": "Vientiane Province",
+          "slug": "vientiane-province-vi"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 83
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.113",
+      "lon": "102.146"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "VI-04",
+    "level": 2,
+    "level_name": {
+      "local": "ເມືອງ",
+      "en": "District"
+    },
+    "name": {
+      "local": "Keo Oudom",
+      "en": "Keo Oudom",
+      "slug": "keo-oudom-vi-04"
+    },
+    "code": {
+      "id": "VI-04",
+      "iso": null
+    },
+    "parent": {
+      "id": "VI",
+      "level": 1,
+      "name": {
+        "local": "Vientiane",
+        "en": "Vientiane Province",
+        "slug": "vientiane-province-vi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VI",
+        "level": 1,
+        "name": {
+          "local": "Vientiane",
+          "en": "Vientiane Province",
+          "slug": "vientiane-province-vi"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 44
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.599",
+      "lon": "102.503"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "VI-05",
+    "level": 2,
+    "level_name": {
+      "local": "ເມືອງ",
+      "en": "District"
+    },
+    "name": {
+      "local": "Mad",
+      "en": "Mad",
+      "slug": "mad-vi-05"
+    },
+    "code": {
+      "id": "VI-05",
+      "iso": null
+    },
+    "parent": {
+      "id": "VI",
+      "level": 1,
+      "name": {
+        "local": "Vientiane",
+        "en": "Vientiane Province",
+        "slug": "vientiane-province-vi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VI",
+        "level": 1,
+        "name": {
+          "local": "Vientiane",
+          "en": "Vientiane Province",
+          "slug": "vientiane-province-vi"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 55
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.698",
+      "lon": "101.829"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "VI-06",
+    "level": 2,
+    "level_name": {
+      "local": "ເມືອງ",
+      "en": "District"
+    },
+    "name": {
+      "local": "Meun",
+      "en": "Meun",
+      "slug": "meun-vi-06"
+    },
+    "code": {
+      "id": "VI-06",
+      "iso": null
+    },
+    "parent": {
+      "id": "VI",
+      "level": 1,
+      "name": {
+        "local": "Vientiane",
+        "en": "Vientiane Province",
+        "slug": "vientiane-province-vi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VI",
+        "level": 1,
+        "name": {
+          "local": "Vientiane",
+          "en": "Vientiane Province",
+          "slug": "vientiane-province-vi"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.276",
+      "lon": "101.935"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "VI-07",
+    "level": 2,
+    "level_name": {
+      "local": "ເມືອງ",
+      "en": "District"
+    },
+    "name": {
+      "local": "Phonhong",
+      "en": "Phonhong",
+      "slug": "phonhong-vi-07"
+    },
+    "code": {
+      "id": "VI-07",
+      "iso": null
+    },
+    "parent": {
+      "id": "VI",
+      "level": 1,
+      "name": {
+        "local": "Vientiane",
+        "en": "Vientiane Province",
+        "slug": "vientiane-province-vi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VI",
+        "level": 1,
+        "name": {
+          "local": "Vientiane",
+          "en": "Vientiane Province",
+          "slug": "vientiane-province-vi"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 100
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.42",
+      "lon": "102.429"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "VI-08",
+    "level": 2,
+    "level_name": {
+      "local": "ເມືອງ",
+      "en": "District"
+    },
+    "name": {
+      "local": "Thoulakhom",
+      "en": "Thoulakhom",
+      "slug": "thoulakhom-vi-08"
+    },
+    "code": {
+      "id": "VI-08",
+      "iso": null
+    },
+    "parent": {
+      "id": "VI",
+      "level": 1,
+      "name": {
+        "local": "Vientiane",
+        "en": "Vientiane Province",
+        "slug": "vientiane-province-vi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VI",
+        "level": 1,
+        "name": {
+          "local": "Vientiane",
+          "en": "Vientiane Province",
+          "slug": "vientiane-province-vi"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 65
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.293",
+      "lon": "102.616"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "VI-09",
+    "level": 2,
+    "level_name": {
+      "local": "ເມືອງ",
+      "en": "District"
+    },
+    "name": {
+      "local": "Vangvieng",
+      "en": "Vangvieng",
+      "slug": "vangvieng-vi-09"
+    },
+    "code": {
+      "id": "VI-09",
+      "iso": null
+    },
+    "parent": {
+      "id": "VI",
+      "level": 1,
+      "name": {
+        "local": "Vientiane",
+        "en": "Vientiane Province",
+        "slug": "vientiane-province-vi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VI",
+        "level": 1,
+        "name": {
+          "local": "Vientiane",
+          "en": "Vientiane Province",
+          "slug": "vientiane-province-vi"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 99
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.949",
+      "lon": "102.424"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "VI-10",
+    "level": 2,
+    "level_name": {
+      "local": "ເມືອງ",
+      "en": "District"
+    },
+    "name": {
+      "local": "Viengkham",
+      "en": "Viengkham",
+      "slug": "viengkham-vi-10"
+    },
+    "code": {
+      "id": "VI-10",
+      "iso": null
+    },
+    "parent": {
+      "id": "VI",
+      "level": 1,
+      "name": {
+        "local": "Vientiane",
+        "en": "Vientiane Province",
+        "slug": "vientiane-province-vi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VI",
+        "level": 1,
+        "name": {
+          "local": "Vientiane",
+          "en": "Vientiane Province",
+          "slug": "vientiane-province-vi"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 0
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.371",
+      "lon": "102.518"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "VI-11",
+    "level": 2,
+    "level_name": {
+      "local": "ເມືອງ",
+      "en": "District"
+    },
+    "name": {
+      "local": "Xanakharm",
+      "en": "Xanakharm",
+      "slug": "xanakharm-vi-11"
+    },
+    "code": {
+      "id": "VI-11",
+      "iso": null
+    },
+    "parent": {
+      "id": "VI",
+      "level": 1,
+      "name": {
+        "local": "Vientiane",
+        "en": "Vientiane Province",
+        "slug": "vientiane-province-vi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VI",
+        "level": 1,
+        "name": {
+          "local": "Vientiane",
+          "en": "Vientiane Province",
+          "slug": "vientiane-province-vi"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 44
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.059",
+      "lon": "101.544"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

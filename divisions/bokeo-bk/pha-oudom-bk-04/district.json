@@ -1,0 +1,47 @@
+{
+  "id": "BK-04",
+  "level": 2,
+  "level_name": {
+    "local": "ເມືອງ",
+    "en": "District"
+  },
+  "name": {
+    "local": "Pha Oudom",
+    "en": "Pha Oudom",
+    "slug": "pha-oudom-bk-04"
+  },
+  "code": {
+    "id": "BK-04",
+    "iso": null
+  },
+  "parent": {
+    "id": "BK",
+    "level": 1,
+    "name": {
+      "local": "Bokeo",
+      "en": "Bokeo",
+      "slug": "bokeo-bk"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BK",
+      "level": 1,
+      "name": {
+        "local": "Bokeo",
+        "en": "Bokeo",
+        "slug": "bokeo-bk"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 86
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "20.131",
+    "lon": "100.874"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,47 @@
+{
+  "id": "XN-05",
+  "level": 2,
+  "level_name": {
+    "local": "ເມືອງ",
+    "en": "District"
+  },
+  "name": {
+    "local": "Thathom",
+    "en": "Thathom",
+    "slug": "thathom-xn-05"
+  },
+  "code": {
+    "id": "XN-05",
+    "iso": null
+  },
+  "parent": {
+    "id": "XN",
+    "level": 1,
+    "name": {
+      "local": "Xaisomboun",
+      "en": "Xaisomboun",
+      "slug": "xaisomboun-xn"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "XN",
+      "level": 1,
+      "name": {
+        "local": "Xaisomboun",
+        "en": "Xaisomboun",
+        "slug": "xaisomboun-xn"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 37
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "18.956",
+    "lon": "103.67"
+  },
+  "metadata": {},
+  "source": {}
+}

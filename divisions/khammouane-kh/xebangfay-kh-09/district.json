@@ -1,0 +1,47 @@
+{
+  "id": "KH-09",
+  "level": 2,
+  "level_name": {
+    "local": "ເມືອງ",
+    "en": "District"
+  },
+  "name": {
+    "local": "Xebangfay",
+    "en": "Xebangfay",
+    "slug": "xebangfay-kh-09"
+  },
+  "code": {
+    "id": "KH-09",
+    "iso": null
+  },
+  "parent": {
+    "id": "KH",
+    "level": 1,
+    "name": {
+      "local": "Khammouane",
+      "en": "Khammouane",
+      "slug": "khammouane-kh"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KH",
+      "level": 1,
+      "name": {
+        "local": "Khammouane",
+        "en": "Khammouane",
+        "slug": "khammouane-kh"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 53
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.1",
+    "lon": "105.132"
+  },
+  "metadata": {},
+  "source": {}
+}

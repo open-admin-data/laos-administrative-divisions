@@ -1,0 +1,30 @@
+{
+  "id": "CH",
+  "level": 1,
+  "level_name": {
+    "local": "ແຂວງ",
+    "en": "Province"
+  },
+  "name": {
+    "local": "Champasak",
+    "en": "Champasak",
+    "slug": "champasak-ch"
+  },
+  "code": {
+    "id": "CH",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 11,
+    "village": 1068
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.624",
+    "lon": "105.863"
+  },
+  "metadata": {},
+  "source": {}
+}

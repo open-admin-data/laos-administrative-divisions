@@ -1,0 +1,47 @@
+{
+  "id": "KH-06",
+  "level": 2,
+  "level_name": {
+    "local": "ເມືອງ",
+    "en": "District"
+  },
+  "name": {
+    "local": "Nhommalath",
+    "en": "Nhommalath",
+    "slug": "nhommalath-kh-06"
+  },
+  "code": {
+    "id": "KH-06",
+    "iso": null
+  },
+  "parent": {
+    "id": "KH",
+    "level": 1,
+    "name": {
+      "local": "Khammouane",
+      "en": "Khammouane",
+      "slug": "khammouane-kh"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KH",
+      "level": 1,
+      "name": {
+        "local": "Khammouane",
+        "en": "Khammouane",
+        "slug": "khammouane-kh"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 90
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.577",
+    "lon": "105.307"
+  },
+  "metadata": {},
+  "source": {}
+}

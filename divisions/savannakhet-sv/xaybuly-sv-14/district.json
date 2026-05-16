@@ -1,0 +1,47 @@
+{
+  "id": "SV-14",
+  "level": 2,
+  "level_name": {
+    "local": "ເມືອງ",
+    "en": "District"
+  },
+  "name": {
+    "local": "Xaybuly",
+    "en": "Xaybuly",
+    "slug": "xaybuly-sv-14"
+  },
+  "code": {
+    "id": "SV-14",
+    "iso": null
+  },
+  "parent": {
+    "id": "SV",
+    "level": 1,
+    "name": {
+      "local": "Savannakhet",
+      "en": "Savannakhet",
+      "slug": "savannakhet-sv"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "SV",
+      "level": 1,
+      "name": {
+        "local": "Savannakhet",
+        "en": "Savannakhet",
+        "slug": "savannakhet-sv"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 72
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.016",
+    "lon": "104.961"
+  },
+  "metadata": {},
+  "source": {}
+}

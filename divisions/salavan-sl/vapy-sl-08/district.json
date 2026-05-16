@@ -1,0 +1,47 @@
+{
+  "id": "SL-08",
+  "level": 2,
+  "level_name": {
+    "local": "ເມືອງ",
+    "en": "District"
+  },
+  "name": {
+    "local": "Vapy",
+    "en": "Vapy",
+    "slug": "vapy-sl-08"
+  },
+  "code": {
+    "id": "SL-08",
+    "iso": null
+  },
+  "parent": {
+    "id": "SL",
+    "level": 1,
+    "name": {
+      "local": "Salavan",
+      "en": "Salavan",
+      "slug": "salavan-sl"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "SL",
+      "level": 1,
+      "name": {
+        "local": "Salavan",
+        "en": "Salavan",
+        "slug": "salavan-sl"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 57
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.773",
+    "lon": "105.952"
+  },
+  "metadata": {},
+  "source": {}
+}

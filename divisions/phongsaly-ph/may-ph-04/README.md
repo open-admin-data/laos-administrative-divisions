@@ -1,0 +1,178 @@
+# May
+
+[Home](../../../) &gt; [Phongsaly](../) > **May**
+
+May is a district in Laos, under Phongsaly.
+
+## Overview
+
+| Item | Details |
+|------|---------|
+| Villages | 149 |
+| Code | PH-04 |
+| Coordinates | 21.48, 102.865 |
+| Parent | Phongsaly |
+
+## Villages
+
+| # | Name | Coordinates | Code |
+|---|------|-------------|------|
+| 1 | Ban Bouamphan-Kao | 21.246, 102.821 | 1660402 |
+| 2 | Ban Bouamphan-Mai | 21.231, 102.824 | 1955185 |
+| 3 | Ban Chabu-Nua | 21.303, 102.584 | 1652496 |
+| 4 | Ban Chabu-Tai | 21.29, 102.589 | 1652495 |
+| 5 | Ban Chalé (Ban Chale) | 21.069, 102.758 | 1955262 |
+| 6 | Ban Chameuy | 21.263, 102.575 | 1652486 |
+| 7 | Ban Chiamuay | 21.272, 102.57 | 1652485 |
+| 8 | Ban Chomchèo (Ban Chomcheo) | 21.466, 102.724 | 1954758 |
+| 9 | Ban Chomchèo (Ban Chomcheo) | 21.291, 102.772 | 1955190 |
+| 10 | Ban Chomchèo-Kao (Ban Chomcheo-Kao) | 21.284, 102.759 | 1955194 |
+| 11 | Ban Chomchiang-Kang | 21.008, 102.779 | 1652436 |
+| 12 | Ban Chomxôn (Ban Chomxon) | 21.152, 102.526 | 1955218 |
+| 13 | Ban Chum | 21.069, 102.7 | 1664669 |
+| 14 | Ban Danxaydèn (Ban Danxayden) | 21.213, 102.91 | 1955176 |
+| 15 | Ban Enlu | 21.374, 102.522 | 1954767 |
+| 16 | Ban Gnagnoung | 21.238, 102.597 | 1955215 |
+| 17 | Ban Gnakha | 21.097, 102.614 | 1655015 |
+| 18 | Ban Gnay-Tai | 21.343, 102.535 | 1954751 |
+| 19 | Ban Gnot-Houayyeuy | 21.205, 102.874 | 1955175 |
+| 20 | Ban Hatcha | 21.038, 102.743 | 1955122 |
+| 21 | Ban Hatchan-Nua | 21.158, 102.752 | 1955259 |
+| 22 | Ban Hatchan-Tai | 21.118, 102.731 | 1955261 |
+| 23 | Ban Hatdi | 21.05, 102.7 | 1657329 |
+| 24 | Ban Houana | 21.663, 102.937 | 1954745 |
+| 25 | Ban Houanga | 21.251, 102.665 | 1955196 |
+| 26 | Ban Houay-An | 21.498, 102.825 | 1954705 |
+| 27 | Ban Houay-Oun | 21.216, 102.684 | 1657018 |
+| 28 | Ban Houaycha | 21.256, 102.814 | 1955187 |
+| 29 | Ban Houaychik-Nua | 21.175, 102.736 | 1657086 |
+| 30 | Ban Houaychik-Tai | 21.169, 102.737 | 1955257 |
+| 31 | Ban Houaydoy | 21.269, 102.815 | 1662456 |
+| 32 | Ban Houayhai | 21.613, 102.801 | 1954725 |
+| 33 | Ban Houayhai | 21.287, 102.533 | 1955211 |
+| 34 | Ban Houayhè (Ban Houayhe) | 21.248, 102.492 | 1954966 |
+| 35 | Ban Houaykang | 21.239, 102.805 | 1657069 |
+| 36 | Ban Houaylèng (Ban Houayleng) | 21.182, 102.532 | 1955217 |
+| 37 | Ban Houaylot | 21.207, 102.616 | 1955223 |
+| 38 | Ban Houaynam | 21.115, 102.751 | 1955260 |
+| 39 | Ban Houayngeun | 21.6, 102.894 | 1954731 |
+| 40 | Ban Houaypak | 21.679, 102.841 | 11247269 |
+| 41 | Ban Houayphouk | 21.198, 102.814 | 1955184 |
+| 42 | Ban Houaysalouang-Nua | 21.534, 102.825 | 1954713 |
+| 43 | Ban Houaysalouang-Tai | 21.399, 102.745 | 1954697 |
+| 44 | Ban Houaysat | 21.431, 102.767 | 1954699 |
+| 45 | Ban Houayvang | 21.195, 102.692 | 1656982 |
+| 46 | Ban Houayxi | 21.215, 102.799 | 1656994 |
+| 47 | Ban Kang | 21.663, 102.943 | 1954744 |
+| 48 | Ban Kangsan | 21.323, 102.659 | 1955206 |
+| 49 | Ban Kènglouang (Ban Kenglouang) | 21.47, 102.819 | 1954703 |
+| 50 | Ban Kiouklè (Ban Kioukle) | 21.227, 102.611 | 1955224 |
+| 51 | Ban Kôkngiou (Ban Kokngiou) | 21.114, 102.631 | 1656172 |
+| 52 | Ban Kôkngiou (Ban Kokngiou) | 21.113, 102.629 | 1955239 |
+| 53 | Ban Kôksôm (Ban Koksom) | 21.348, 102.587 | 1954748 |
+| 54 | Ban Koungtlou | 21.2, 102.496 | 1656065 |
+| 55 | Ban Lahang | 21.164, 102.501 | 1955219 |
+| 56 | Ban Lakmay | 21.218, 102.908 | 1955177 |
+| 57 | Ban Laoko | 21.138, 102.636 | 1955236 |
+| 58 | Ban Laoma | 21.442, 102.629 | 1954763 |
+| 59 | Ban Lolil Lassa | 21.133, 102.567 | 1662454 |
+| 60 | Ban Lôn (Ban Lon) | 21.523, 102.847 | 1954706 |
+| 61 | Ban Mai | 21.213, 102.874 | 1955179 |
+| 62 | Ban Mai | 21.669, 102.951 | 11247272 |
+| 63 | Ban Môk-Ak (Ban Mok-Ak) | 21.142, 102.621 | 1955232 |
+| 64 | Ban Môkchala (Ban Mokchala) | 21.132, 102.681 | 1955249 |
+| 65 | Ban Na Them | 21.317, 102.85 | 1661089 |
+| 66 | Ban Naboua | 21.281, 102.789 | 1955189 |
+| 67 | Ban Nakham | 21.179, 102.708 | 1955253 |
+| 68 | Ban Nakhoua | 21.706, 102.834 | 11247270 |
+| 69 | Ban Nalè (Ban Nale) | 21.635, 102.822 | 1954728 |
+| 70 | Ban Nalouang | 21.314, 102.849 | 1661922 |
+| 71 | Ban Namnèn (Ban Namnen) | 21.527, 102.788 | 1954714 |
+| 72 | Ban Namnga | 21.172, 102.726 | 1955258 |
+| 73 | Ban Nampa | 21.48, 102.722 | 1954761 |
+| 74 | Ban Namxang | 21.639, 102.776 | 1954746 |
+| 75 | Ban Nathong | 21.683, 102.914 | 11247271 |
+| 76 | Ban Nonghèo (Ban Nongheo) | 21.537, 102.832 | 1954711 |
+| 77 | Ban Noy | 21.25, 102.575 | 1955214 |
+| 78 | Ban Noy-Khèng (Ban Noy-Kheng) | 21.163, 102.627 | 1955235 |
+| 79 | Ban Ômpoulou (Ban Ompoulou) | 21.167, 102.597 | 1664935 |
+| 80 | Ban Ômtanéng (Ban Omtaneng) | 21.212, 102.721 | 1955229 |
+| 81 | Ban Ômtlum (Ban Omtlum) | 21.253, 102.582 | 1955213 |
+| 82 | Ban Ômtot (Ban Omtot) | 21.137, 102.648 | 1955237 |
+| 83 | Ban Ômtou (Ban Omtou) | 21.099, 102.535 | 1955244 |
+| 84 | Ban Pak-Houayyeuy | 21.178, 102.805 | 1955180 |
+| 85 | Ban Pakban | 21.275, 102.52 | 13434283 |
+| 86 | Ban Pakgnouan | 21.339, 102.559 | 1954750 |
+| 87 | Ban Pakphè (Ban Pakphe) | 21.306, 102.554 | 1654390 |
+| 88 | Ban Pakphè (Ban Pakphe) | 21.34, 102.565 | 1954749 |
+| 89 | Ban Palông (Ban Palong) | 21.26, 102.696 | 1955195 |
+| 90 | Ban Panghai-Nua | 21.301, 102.548 | 1955208 |
+| 91 | Ban Panghai-Tai | 21.292, 102.539 | 1955210 |
+| 92 | Ban Panghôk (Ban Panghok) | 21.219, 102.874 | 1955178 |
+| 93 | Ban Phachôn (Ban Phachon) | 21.089, 102.706 | 1654177 |
+| 94 | Ban Phagnalat | 21.383, 102.635 | 1659714 |
+| 95 | Ban Phagnalat | 21.381, 102.636 | 1954754 |
+| 96 | Ban Phapoung | 21.322, 102.853 | 1955193 |
+| 97 | Ban Phia | 21.081, 102.577 | 1955240 |
+| 98 | Ban Phialo | 21.462, 102.631 | 1954766 |
+| 99 | Ban Phialo-Kao | 21.32, 102.61 | 1955202 |
+| 100 | Ban Phialo-Mai | 21.306, 102.626 | 1955203 |
+| 101 | Ban Phialouanglat | 21.435, 102.642 | 1954762 |
+| 102 | Ban Phianglan | 21.32, 102.568 | 1955207 |
+| 103 | Ban Phouteup | 21.279, 102.623 | 1955197 |
+| 104 | Ban Phya | 21.583, 102.917 | 1659717 |
+| 105 | Ban Phya Lat | 21.117, 102.583 | 1659715 |
+| 106 | Ban Poung | 21.111, 102.707 | 1955246 |
+| 107 | Ban Pounggnang | 21.07, 102.735 | 1653733 |
+| 108 | Ban Poungkhao | 21.232, 102.704 | 1955230 |
+| 109 | Ban Sangkhèn (Ban Sangkhen) | 21.128, 102.707 | 1955250 |
+| 110 | Ban Sèn-Ak (Ban Sen-Ak) | 21.145, 102.726 | 1955251 |
+| 111 | Ban Sèn-In (Ban Sen-In) | 21.095, 102.65 | 1955245 |
+| 112 | Ban Sènkounglouk (Ban Senkounglouk) | 21.126, 102.638 | 1955238 |
+| 113 | Ban Sènlouang (Ban Senlouang) | 21.198, 102.591 | 1955222 |
+| 114 | Ban Sènngeun (Ban Senngeun) | 21.224, 102.493 | 1653225 |
+| 115 | Ban Sènngeun-Kao (Ban Senngeun-Kao) | 21.231, 102.546 | 1955216 |
+| 116 | Ban Sènta (Ban Senta) | 21.427, 102.68 | 1954756 |
+| 117 | Ban Siaognè (Ban Siaogne) | 21.447, 102.616 | 1954764 |
+| 118 | Ban Sit | 21.104, 102.776 | 1955265 |
+| 119 | Ban Sômpoy (Ban Sompoy) | 21.566, 102.81 | 1954719 |
+| 120 | Ban Sôplèng (Ban Sopleng) | 21.178, 102.482 | 1653052 |
+| 121 | Ban Sôpnao (Ban Sopnao) | 21.161, 102.765 | 1653048 |
+| 122 | Ban Sôpphoun (Ban Sopphoun) | 21.175, 102.802 | 1657074 |
+| 123 | Ban Souamnay | 21.387, 102.722 | 1954695 |
+| 124 | Ban Takhao | 21.341, 102.72 | 1954693 |
+| 125 | Ban Talèo (Ban Taleo) | 21.313, 102.651 | 1955205 |
+| 126 | Ban Taliao | 21.446, 102.593 | 1954765 |
+| 127 | Ban Taliao-Noy | 21.457, 102.744 | 1954760 |
+| 128 | Ban Tamôk (Ban Tamok) | 21.068, 102.773 | 1652810 |
+| 129 | Ban Tang-Noy | 21.269, 102.486 | 1954970 |
+| 130 | Ban Tangan | 21.457, 102.724 | 1954759 |
+| 131 | Ban Tangxoy | 21.336, 102.506 | 1954752 |
+| 132 | Ban Tanlôtong (Ban Tanlotong) | 21.221, 102.645 | 1955225 |
+| 133 | Ban Thintôk (Ban Thintok) | 21.35, 102.859 | 1658522 |
+| 134 | Ban Toko | 21.455, 102.844 | 1954768 |
+| 135 | Ban Vangmai | 21.2, 102.68 | 1955227 |
+| 136 | Ban Vangsout | 21.193, 102.664 | 1955228 |
+| 137 | Ban Xaoyè (Ban Xaoye) | 21.317, 102.64 | 1955204 |
+| 138 | Ban Xiangtha | 21.6, 102.767 | 1658029 |
+| 139 | Ban Xong-Nua | 21.143, 102.639 | 1955234 |
+| 140 | Ban Xong-Tai | 21.147, 102.696 | 1955252 |
+| 141 | Houay Nga Na Song | 21.15, 102.717 | 1657022 |
+| 142 | Kiou Tia Li | 21.15, 102.533 | 1656225 |
+| 143 | Kok Kouang | 21.15, 102.583 | 1656174 |
+| 144 | Kung Luk | 21.1, 102.65 | 1656010 |
+| 145 | Na Lam | 21.667, 102.983 | 1655000 |
+| 146 | Sa La Meo | 21.217, 102.883 | 1653523 |
+| 147 | Sen Kattinia | 21.45, 102.6 | 1653248 |
+| 148 | Sen Kham | 21.283, 102.533 | 1653245 |
+| 149 | Sop Nhom | 21.533, 102.783 | 1653045 |
+
+## Data Files
+
+- [district.json](district.json) — District metadata
+- [village.json](village.json) — All villages (JSON)
+- [village.csv](village.csv) — CSV format
+
+---
+
+<- Back to [Phongsaly](../)

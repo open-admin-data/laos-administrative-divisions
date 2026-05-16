@@ -1,0 +1,8048 @@
+[
+  {
+    "id": "1665036",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Bachong Nay",
+      "en": "Bachong Nay",
+      "slug": "bachong-nay-1665036"
+    },
+    "code": {
+      "id": "1665036",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-05",
+      "level": 2,
+      "name": {
+        "local": "Ngoi",
+        "en": "Ngoi",
+        "slug": "ngoi-lp-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-05",
+        "level": 2,
+        "name": {
+          "local": "Ngoi",
+          "en": "Ngoi",
+          "slug": "ngoi-lp-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.767",
+      "lon": "102.75"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11248355",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Bo",
+      "en": "Ban Bo",
+      "slug": "ban-bo-11248355"
+    },
+    "code": {
+      "id": "11248355",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-05",
+      "level": 2,
+      "name": {
+        "local": "Ngoi",
+        "en": "Ngoi",
+        "slug": "ngoi-lp-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-05",
+        "level": 2,
+        "name": {
+          "local": "Ngoi",
+          "en": "Ngoi",
+          "slug": "ngoi-lp-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.678",
+      "lon": "102.712"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1954569",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Bôm-En",
+      "en": "Ban Bom-En",
+      "slug": "ban-bom-en-1954569"
+    },
+    "code": {
+      "id": "1954569",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-05",
+      "level": 2,
+      "name": {
+        "local": "Ngoi",
+        "en": "Ngoi",
+        "slug": "ngoi-lp-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-05",
+        "level": 2,
+        "name": {
+          "local": "Ngoi",
+          "en": "Ngoi",
+          "slug": "ngoi-lp-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.708",
+      "lon": "102.775"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1954552",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Chèng-Tai",
+      "en": "Ban Cheng-Tai",
+      "slug": "ban-cheng-tai-1954552"
+    },
+    "code": {
+      "id": "1954552",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-05",
+      "level": 2,
+      "name": {
+        "local": "Ngoi",
+        "en": "Ngoi",
+        "slug": "ngoi-lp-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-05",
+        "level": 2,
+        "name": {
+          "local": "Ngoi",
+          "en": "Ngoi",
+          "slug": "ngoi-lp-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.969",
+      "lon": "102.765"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1954570",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Dôn",
+      "en": "Ban Don",
+      "slug": "ban-don-1954570"
+    },
+    "code": {
+      "id": "1954570",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-05",
+      "level": 2,
+      "name": {
+        "local": "Ngoi",
+        "en": "Ngoi",
+        "slug": "ngoi-lp-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-05",
+        "level": 2,
+        "name": {
+          "local": "Ngoi",
+          "en": "Ngoi",
+          "slug": "ngoi-lp-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.694",
+      "lon": "102.801"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1664541",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Donkhoun",
+      "en": "Ban Donkhoun",
+      "slug": "ban-donkhoun-1664541"
+    },
+    "code": {
+      "id": "1664541",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-05",
+      "level": 2,
+      "name": {
+        "local": "Ngoi",
+        "en": "Ngoi",
+        "slug": "ngoi-lp-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-05",
+        "level": 2,
+        "name": {
+          "local": "Ngoi",
+          "en": "Ngoi",
+          "slug": "ngoi-lp-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.511",
+      "lon": "102.573"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1954481",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Donlom",
+      "en": "Ban Donlom",
+      "slug": "ban-donlom-1954481"
+    },
+    "code": {
+      "id": "1954481",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-05",
+      "level": 2,
+      "name": {
+        "local": "Ngoi",
+        "en": "Ngoi",
+        "slug": "ngoi-lp-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-05",
+        "level": 2,
+        "name": {
+          "local": "Ngoi",
+          "en": "Ngoi",
+          "slug": "ngoi-lp-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.803",
+      "lon": "102.657"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1955607",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Donngeun",
+      "en": "Ban Donngeun",
+      "slug": "ban-donngeun-1955607"
+    },
+    "code": {
+      "id": "1955607",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-05",
+      "level": 2,
+      "name": {
+        "local": "Ngoi",
+        "en": "Ngoi",
+        "slug": "ngoi-lp-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-05",
+        "level": 2,
+        "name": {
+          "local": "Ngoi",
+          "en": "Ngoi",
+          "slug": "ngoi-lp-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.334",
+      "lon": "102.426"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1663145",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Hathouan",
+      "en": "Ban Hathouan",
+      "slug": "ban-hathouan-1663145"
+    },
+    "code": {
+      "id": "1663145",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-05",
+      "level": 2,
+      "name": {
+        "local": "Ngoi",
+        "en": "Ngoi",
+        "slug": "ngoi-lp-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-05",
+        "level": 2,
+        "name": {
+          "local": "Ngoi",
+          "en": "Ngoi",
+          "slug": "ngoi-lp-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.55",
+      "lon": "102.573"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1663498",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Hatkham",
+      "en": "Ban Hatkham",
+      "slug": "ban-hatkham-1663498"
+    },
+    "code": {
+      "id": "1663498",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-05",
+      "level": 2,
+      "name": {
+        "local": "Ngoi",
+        "en": "Ngoi",
+        "slug": "ngoi-lp-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-05",
+        "level": 2,
+        "name": {
+          "local": "Ngoi",
+          "en": "Ngoi",
+          "slug": "ngoi-lp-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.826",
+      "lon": "102.689"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1954559",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Hatkham",
+      "en": "Ban Hatkham",
+      "slug": "ban-hatkham-1954559"
+    },
+    "code": {
+      "id": "1954559",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-05",
+      "level": 2,
+      "name": {
+        "local": "Ngoi",
+        "en": "Ngoi",
+        "slug": "ngoi-lp-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-05",
+        "level": 2,
+        "name": {
+          "local": "Ngoi",
+          "en": "Ngoi",
+          "slug": "ngoi-lp-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.827",
+      "lon": "102.688"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1664151",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Hatkhip",
+      "en": "Ban Hatkhip",
+      "slug": "ban-hatkhip-1664151"
+    },
+    "code": {
+      "id": "1664151",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-05",
+      "level": 2,
+      "name": {
+        "local": "Ngoi",
+        "en": "Ngoi",
+        "slug": "ngoi-lp-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-05",
+        "level": 2,
+        "name": {
+          "local": "Ngoi",
+          "en": "Ngoi",
+          "slug": "ngoi-lp-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.383",
+      "lon": "102.446"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1664130",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Hatphang",
+      "en": "Ban Hatphang",
+      "slug": "ban-hatphang-1664130"
+    },
+    "code": {
+      "id": "1664130",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-05",
+      "level": 2,
+      "name": {
+        "local": "Ngoi",
+        "en": "Ngoi",
+        "slug": "ngoi-lp-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-05",
+        "level": 2,
+        "name": {
+          "local": "Ngoi",
+          "en": "Ngoi",
+          "slug": "ngoi-lp-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.398",
+      "lon": "102.463"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1657316",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Hatsa",
+      "en": "Ban Hatsa",
+      "slug": "ban-hatsa-1657316"
+    },
+    "code": {
+      "id": "1657316",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-05",
+      "level": 2,
+      "name": {
+        "local": "Ngoi",
+        "en": "Ngoi",
+        "slug": "ngoi-lp-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-05",
+        "level": 2,
+        "name": {
+          "local": "Ngoi",
+          "en": "Ngoi",
+          "slug": "ngoi-lp-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.927",
+      "lon": "102.766"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1954480",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Hatsapheuy",
+      "en": "Ban Hatsapheuy",
+      "slug": "ban-hatsapheuy-1954480"
+    },
+    "code": {
+      "id": "1954480",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-05",
+      "level": 2,
+      "name": {
+        "local": "Ngoi",
+        "en": "Ngoi",
+        "slug": "ngoi-lp-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-05",
+        "level": 2,
+        "name": {
+          "local": "Ngoi",
+          "en": "Ngoi",
+          "slug": "ngoi-lp-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.785",
+      "lon": "102.659"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1657314",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Hatxao",
+      "en": "Ban Hatxao",
+      "slug": "ban-hatxao-1657314"
+    },
+    "code": {
+      "id": "1657314",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-05",
+      "level": 2,
+      "name": {
+        "local": "Ngoi",
+        "en": "Ngoi",
+        "slug": "ngoi-lp-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-05",
+        "level": 2,
+        "name": {
+          "local": "Ngoi",
+          "en": "Ngoi",
+          "slug": "ngoi-lp-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.571",
+      "lon": "102.611"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1663739",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houay Moum Noi",
+      "en": "Ban Houay Moum Noi",
+      "slug": "ban-houay-moum-noi-1663739"
+    },
+    "code": {
+      "id": "1663739",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-05",
+      "level": 2,
+      "name": {
+        "local": "Ngoi",
+        "en": "Ngoi",
+        "slug": "ngoi-lp-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-05",
+        "level": 2,
+        "name": {
+          "local": "Ngoi",
+          "en": "Ngoi",
+          "slug": "ngoi-lp-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.517",
+      "lon": "102.667"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1663600",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houay Séo",
+      "en": "Ban Houay Seo",
+      "slug": "ban-houay-seo-1663600"
+    },
+    "code": {
+      "id": "1663600",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-05",
+      "level": 2,
+      "name": {
+        "local": "Ngoi",
+        "en": "Ngoi",
+        "slug": "ngoi-lp-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-05",
+        "level": 2,
+        "name": {
+          "local": "Ngoi",
+          "en": "Ngoi",
+          "slug": "ngoi-lp-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.617",
+      "lon": "102.817"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1954461",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houay-En",
+      "en": "Ban Houay-En",
+      "slug": "ban-houay-en-1954461"
+    },
+    "code": {
+      "id": "1954461",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-05",
+      "level": 2,
+      "name": {
+        "local": "Ngoi",
+        "en": "Ngoi",
+        "slug": "ngoi-lp-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-05",
+        "level": 2,
+        "name": {
+          "local": "Ngoi",
+          "en": "Ngoi",
+          "slug": "ngoi-lp-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.47",
+      "lon": "102.587"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1954460",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houay-En-Noy",
+      "en": "Ban Houay-En-Noy",
+      "slug": "ban-houay-en-noy-1954460"
+    },
+    "code": {
+      "id": "1954460",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-05",
+      "level": 2,
+      "name": {
+        "local": "Ngoi",
+        "en": "Ngoi",
+        "slug": "ngoi-lp-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-05",
+        "level": 2,
+        "name": {
+          "local": "Ngoi",
+          "en": "Ngoi",
+          "slug": "ngoi-lp-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.475",
+      "lon": "102.619"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1954508",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houaychay",
+      "en": "Ban Houaychay",
+      "slug": "ban-houaychay-1954508"
+    },
+    "code": {
+      "id": "1954508",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-05",
+      "level": 2,
+      "name": {
+        "local": "Ngoi",
+        "en": "Ngoi",
+        "slug": "ngoi-lp-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-05",
+        "level": 2,
+        "name": {
+          "local": "Ngoi",
+          "en": "Ngoi",
+          "slug": "ngoi-lp-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.391",
+      "lon": "102.519"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1954396",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houayhang",
+      "en": "Ban Houayhang",
+      "slug": "ban-houayhang-1954396"
+    },
+    "code": {
+      "id": "1954396",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-05",
+      "level": 2,
+      "name": {
+        "local": "Ngoi",
+        "en": "Ngoi",
+        "slug": "ngoi-lp-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-05",
+        "level": 2,
+        "name": {
+          "local": "Ngoi",
+          "en": "Ngoi",
+          "slug": "ngoi-lp-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.501",
+      "lon": "102.577"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1663881",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houayhoy",
+      "en": "Ban Houayhoy",
+      "slug": "ban-houayhoy-1663881"
+    },
+    "code": {
+      "id": "1663881",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-05",
+      "level": 2,
+      "name": {
+        "local": "Ngoi",
+        "en": "Ngoi",
+        "slug": "ngoi-lp-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-05",
+        "level": 2,
+        "name": {
+          "local": "Ngoi",
+          "en": "Ngoi",
+          "slug": "ngoi-lp-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.643",
+      "lon": "102.657"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1663805",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houaykhong",
+      "en": "Ban Houaykhong",
+      "slug": "ban-houaykhong-1663805"
+    },
+    "code": {
+      "id": "1663805",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-05",
+      "level": 2,
+      "name": {
+        "local": "Ngoi",
+        "en": "Ngoi",
+        "slug": "ngoi-lp-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-05",
+        "level": 2,
+        "name": {
+          "local": "Ngoi",
+          "en": "Ngoi",
+          "slug": "ngoi-lp-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.59",
+      "lon": "102.692"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1954341",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houaylan",
+      "en": "Ban Houaylan",
+      "slug": "ban-houaylan-1954341"
+    },
+    "code": {
+      "id": "1954341",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-05",
+      "level": 2,
+      "name": {
+        "local": "Ngoi",
+        "en": "Ngoi",
+        "slug": "ngoi-lp-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-05",
+        "level": 2,
+        "name": {
+          "local": "Ngoi",
+          "en": "Ngoi",
+          "slug": "ngoi-lp-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.591",
+      "lon": "102.67"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1954378",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houaylèk",
+      "en": "Ban Houaylek",
+      "slug": "ban-houaylek-1954378"
+    },
+    "code": {
+      "id": "1954378",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-05",
+      "level": 2,
+      "name": {
+        "local": "Ngoi",
+        "en": "Ngoi",
+        "slug": "ngoi-lp-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-05",
+        "level": 2,
+        "name": {
+          "local": "Ngoi",
+          "en": "Ngoi",
+          "slug": "ngoi-lp-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.534",
+      "lon": "102.67"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1954551",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houaylo",
+      "en": "Ban Houaylo",
+      "slug": "ban-houaylo-1954551"
+    },
+    "code": {
+      "id": "1954551",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-05",
+      "level": 2,
+      "name": {
+        "local": "Ngoi",
+        "en": "Ngoi",
+        "slug": "ngoi-lp-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-05",
+        "level": 2,
+        "name": {
+          "local": "Ngoi",
+          "en": "Ngoi",
+          "slug": "ngoi-lp-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.987",
+      "lon": "102.743"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1954573",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houayna",
+      "en": "Ban Houayna",
+      "slug": "ban-houayna-1954573"
+    },
+    "code": {
+      "id": "1954573",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-05",
+      "level": 2,
+      "name": {
+        "local": "Ngoi",
+        "en": "Ngoi",
+        "slug": "ngoi-lp-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-05",
+        "level": 2,
+        "name": {
+          "local": "Ngoi",
+          "en": "Ngoi",
+          "slug": "ngoi-lp-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.68",
+      "lon": "102.852"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1954326",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houayngôn",
+      "en": "Ban Houayngon",
+      "slug": "ban-houayngon-1954326"
+    },
+    "code": {
+      "id": "1954326",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-05",
+      "level": 2,
+      "name": {
+        "local": "Ngoi",
+        "en": "Ngoi",
+        "slug": "ngoi-lp-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-05",
+        "level": 2,
+        "name": {
+          "local": "Ngoi",
+          "en": "Ngoi",
+          "slug": "ngoi-lp-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.619",
+      "lon": "102.78"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1954548",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houayngou",
+      "en": "Ban Houayngou",
+      "slug": "ban-houayngou-1954548"
+    },
+    "code": {
+      "id": "1954548",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-05",
+      "level": 2,
+      "name": {
+        "local": "Ngoi",
+        "en": "Ngoi",
+        "slug": "ngoi-lp-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-05",
+        "level": 2,
+        "name": {
+          "local": "Ngoi",
+          "en": "Ngoi",
+          "slug": "ngoi-lp-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.965",
+      "lon": "102.703"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1954380",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houaypong",
+      "en": "Ban Houaypong",
+      "slug": "ban-houaypong-1954380"
+    },
+    "code": {
+      "id": "1954380",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-05",
+      "level": 2,
+      "name": {
+        "local": "Ngoi",
+        "en": "Ngoi",
+        "slug": "ngoi-lp-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-05",
+        "level": 2,
+        "name": {
+          "local": "Ngoi",
+          "en": "Ngoi",
+          "slug": "ngoi-lp-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.535",
+      "lon": "102.708"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1954469",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houaysèn",
+      "en": "Ban Houaysen",
+      "slug": "ban-houaysen-1954469"
+    },
+    "code": {
+      "id": "1954469",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-05",
+      "level": 2,
+      "name": {
+        "local": "Ngoi",
+        "en": "Ngoi",
+        "slug": "ngoi-lp-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-05",
+        "level": 2,
+        "name": {
+          "local": "Ngoi",
+          "en": "Ngoi",
+          "slug": "ngoi-lp-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.713",
+      "lon": "102.723"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1954509",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houaytat",
+      "en": "Ban Houaytat",
+      "slug": "ban-houaytat-1954509"
+    },
+    "code": {
+      "id": "1954509",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-05",
+      "level": 2,
+      "name": {
+        "local": "Ngoi",
+        "en": "Ngoi",
+        "slug": "ngoi-lp-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-05",
+        "level": 2,
+        "name": {
+          "local": "Ngoi",
+          "en": "Ngoi",
+          "slug": "ngoi-lp-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.386",
+      "lon": "102.573"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1954479",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houaytèm",
+      "en": "Ban Houaytem",
+      "slug": "ban-houaytem-1954479"
+    },
+    "code": {
+      "id": "1954479",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-05",
+      "level": 2,
+      "name": {
+        "local": "Ngoi",
+        "en": "Ngoi",
+        "slug": "ngoi-lp-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-05",
+        "level": 2,
+        "name": {
+          "local": "Ngoi",
+          "en": "Ngoi",
+          "slug": "ngoi-lp-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.782",
+      "lon": "102.655"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1954475",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houaythong-Nua",
+      "en": "Ban Houaythong-Nua",
+      "slug": "ban-houaythong-nua-1954475"
+    },
+    "code": {
+      "id": "1954475",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-05",
+      "level": 2,
+      "name": {
+        "local": "Ngoi",
+        "en": "Ngoi",
+        "slug": "ngoi-lp-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-05",
+        "level": 2,
+        "name": {
+          "local": "Ngoi",
+          "en": "Ngoi",
+          "slug": "ngoi-lp-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.454",
+      "lon": "102.772"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1954501",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houaythung",
+      "en": "Ban Houaythung",
+      "slug": "ban-houaythung-1954501"
+    },
+    "code": {
+      "id": "1954501",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-05",
+      "level": 2,
+      "name": {
+        "local": "Ngoi",
+        "en": "Ngoi",
+        "slug": "ngoi-lp-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-05",
+        "level": 2,
+        "name": {
+          "local": "Ngoi",
+          "en": "Ngoi",
+          "slug": "ngoi-lp-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.407",
+      "lon": "102.605"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1663903",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houayxèo",
+      "en": "Ban Houayxeo",
+      "slug": "ban-houayxeo-1663903"
+    },
+    "code": {
+      "id": "1663903",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-05",
+      "level": 2,
+      "name": {
+        "local": "Ngoi",
+        "en": "Ngoi",
+        "slug": "ngoi-lp-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-05",
+        "level": 2,
+        "name": {
+          "local": "Ngoi",
+          "en": "Ngoi",
+          "slug": "ngoi-lp-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.528",
+      "lon": "102.805"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1954368",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houayxong",
+      "en": "Ban Houayxong",
+      "slug": "ban-houayxong-1954368"
+    },
+    "code": {
+      "id": "1954368",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-05",
+      "level": 2,
+      "name": {
+        "local": "Ngoi",
+        "en": "Ngoi",
+        "slug": "ngoi-lp-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-05",
+        "level": 2,
+        "name": {
+          "local": "Ngoi",
+          "en": "Ngoi",
+          "slug": "ngoi-lp-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.544",
+      "lon": "102.712"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1654970",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Kang",
+      "en": "Ban Kang",
+      "slug": "ban-kang-1654970"
+    },
+    "code": {
+      "id": "1654970",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-05",
+      "level": 2,
+      "name": {
+        "local": "Ngoi",
+        "en": "Ngoi",
+        "slug": "ngoi-lp-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-05",
+        "level": 2,
+        "name": {
+          "local": "Ngoi",
+          "en": "Ngoi",
+          "slug": "ngoi-lp-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.936",
+      "lon": "102.702"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1955588",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Kang",
+      "en": "Ban Kang",
+      "slug": "ban-kang-1955588"
+    },
+    "code": {
+      "id": "1955588",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-05",
+      "level": 2,
+      "name": {
+        "local": "Ngoi",
+        "en": "Ngoi",
+        "slug": "ngoi-lp-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-05",
+        "level": 2,
+        "name": {
+          "local": "Ngoi",
+          "en": "Ngoi",
+          "slug": "ngoi-lp-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.388",
+      "lon": "102.427"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1954472",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Kèngfa",
+      "en": "Ban Kengfa",
+      "slug": "ban-kengfa-1954472"
+    },
+    "code": {
+      "id": "1954472",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-05",
+      "level": 2,
+      "name": {
+        "local": "Ngoi",
+        "en": "Ngoi",
+        "slug": "ngoi-lp-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-05",
+        "level": 2,
+        "name": {
+          "local": "Ngoi",
+          "en": "Ngoi",
+          "slug": "ngoi-lp-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.719",
+      "lon": "102.747"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1955575",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Khonkeung",
+      "en": "Ban Khonkeung",
+      "slug": "ban-khonkeung-1955575"
+    },
+    "code": {
+      "id": "1955575",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-05",
+      "level": 2,
+      "name": {
+        "local": "Ngoi",
+        "en": "Ngoi",
+        "slug": "ngoi-lp-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-05",
+        "level": 2,
+        "name": {
+          "local": "Ngoi",
+          "en": "Ngoi",
+          "slug": "ngoi-lp-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.429",
+      "lon": "102.494"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1662894",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Khoueng Khoua",
+      "en": "Ban Khoueng Khoua",
+      "slug": "ban-khoueng-khoua-1662894"
+    },
+    "code": {
+      "id": "1662894",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-05",
+      "level": 2,
+      "name": {
+        "local": "Ngoi",
+        "en": "Ngoi",
+        "slug": "ngoi-lp-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-05",
+        "level": 2,
+        "name": {
+          "local": "Ngoi",
+          "en": "Ngoi",
+          "slug": "ngoi-lp-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.483",
+      "lon": "102.733"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1954571",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Kiouhia",
+      "en": "Ban Kiouhia",
+      "slug": "ban-kiouhia-1954571"
+    },
+    "code": {
+      "id": "1954571",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-05",
+      "level": 2,
+      "name": {
+        "local": "Ngoi",
+        "en": "Ngoi",
+        "slug": "ngoi-lp-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-05",
+        "level": 2,
+        "name": {
+          "local": "Ngoi",
+          "en": "Ngoi",
+          "slug": "ngoi-lp-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.711",
+      "lon": "102.797"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1954336",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Kioukat",
+      "en": "Ban Kioukat",
+      "slug": "ban-kioukat-1954336"
+    },
+    "code": {
+      "id": "1954336",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-05",
+      "level": 2,
+      "name": {
+        "local": "Ngoi",
+        "en": "Ngoi",
+        "slug": "ngoi-lp-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-05",
+        "level": 2,
+        "name": {
+          "local": "Ngoi",
+          "en": "Ngoi",
+          "slug": "ngoi-lp-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.602",
+      "lon": "102.723"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1656226",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Kioukhan",
+      "en": "Ban Kioukhan",
+      "slug": "ban-kioukhan-1656226"
+    },
+    "code": {
+      "id": "1656226",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-05",
+      "level": 2,
+      "name": {
+        "local": "Ngoi",
+        "en": "Ngoi",
+        "slug": "ngoi-lp-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-05",
+        "level": 2,
+        "name": {
+          "local": "Ngoi",
+          "en": "Ngoi",
+          "slug": "ngoi-lp-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.75",
+      "lon": "102.709"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1954339",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Kong",
+      "en": "Ban Kong",
+      "slug": "ban-kong-1954339"
+    },
+    "code": {
+      "id": "1954339",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-05",
+      "level": 2,
+      "name": {
+        "local": "Ngoi",
+        "en": "Ngoi",
+        "slug": "ngoi-lp-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-05",
+        "level": 2,
+        "name": {
+          "local": "Ngoi",
+          "en": "Ngoi",
+          "slug": "ngoi-lp-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.595",
+      "lon": "102.58"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1954550",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Kongmouan",
+      "en": "Ban Kongmouan",
+      "slug": "ban-kongmouan-1954550"
+    },
+    "code": {
+      "id": "1954550",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-05",
+      "level": 2,
+      "name": {
+        "local": "Ngoi",
+        "en": "Ngoi",
+        "slug": "ngoi-lp-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-05",
+        "level": 2,
+        "name": {
+          "local": "Ngoi",
+          "en": "Ngoi",
+          "slug": "ngoi-lp-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.966",
+      "lon": "102.732"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1954556",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Lang-Uat",
+      "en": "Ban Lang-Uat",
+      "slug": "ban-lang-uat-1954556"
+    },
+    "code": {
+      "id": "1954556",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-05",
+      "level": 2,
+      "name": {
+        "local": "Ngoi",
+        "en": "Ngoi",
+        "slug": "ngoi-lp-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-05",
+        "level": 2,
+        "name": {
+          "local": "Ngoi",
+          "en": "Ngoi",
+          "slug": "ngoi-lp-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.893",
+      "lon": "102.703"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1954474",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Laosao",
+      "en": "Ban Laosao",
+      "slug": "ban-laosao-1954474"
+    },
+    "code": {
+      "id": "1954474",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-05",
+      "level": 2,
+      "name": {
+        "local": "Ngoi",
+        "en": "Ngoi",
+        "slug": "ngoi-lp-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-05",
+        "level": 2,
+        "name": {
+          "local": "Ngoi",
+          "en": "Ngoi",
+          "slug": "ngoi-lp-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.455",
+      "lon": "102.747"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1662542",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Lassa",
+      "en": "Ban Lassa",
+      "slug": "ban-lassa-1662542"
+    },
+    "code": {
+      "id": "1662542",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-05",
+      "level": 2,
+      "name": {
+        "local": "Ngoi",
+        "en": "Ngoi",
+        "slug": "ngoi-lp-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-05",
+        "level": 2,
+        "name": {
+          "local": "Ngoi",
+          "en": "Ngoi",
+          "slug": "ngoi-lp-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21",
+      "lon": "102.717"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1954397",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Lat-En",
+      "en": "Ban Lat-En",
+      "slug": "ban-lat-en-1954397"
+    },
+    "code": {
+      "id": "1954397",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-05",
+      "level": 2,
+      "name": {
+        "local": "Ngoi",
+        "en": "Ngoi",
+        "slug": "ngoi-lp-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-05",
+        "level": 2,
+        "name": {
+          "local": "Ngoi",
+          "en": "Ngoi",
+          "slug": "ngoi-lp-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.488",
+      "lon": "102.577"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1954382",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Longkham",
+      "en": "Ban Longkham",
+      "slug": "ban-longkham-1954382"
+    },
+    "code": {
+      "id": "1954382",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-05",
+      "level": 2,
+      "name": {
+        "local": "Ngoi",
+        "en": "Ngoi",
+        "slug": "ngoi-lp-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-05",
+        "level": 2,
+        "name": {
+          "local": "Ngoi",
+          "en": "Ngoi",
+          "slug": "ngoi-lp-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.525",
+      "lon": "102.713"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1954471",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Louangkham",
+      "en": "Ban Louangkham",
+      "slug": "ban-louangkham-1954471"
+    },
+    "code": {
+      "id": "1954471",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-05",
+      "level": 2,
+      "name": {
+        "local": "Ngoi",
+        "en": "Ngoi",
+        "slug": "ngoi-lp-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-05",
+        "level": 2,
+        "name": {
+          "local": "Ngoi",
+          "en": "Ngoi",
+          "slug": "ngoi-lp-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.72",
+      "lon": "102.735"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1956742",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Mai",
+      "en": "Ban Mai",
+      "slug": "ban-mai-1956742"
+    },
+    "code": {
+      "id": "1956742",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-05",
+      "level": 2,
+      "name": {
+        "local": "Ngoi",
+        "en": "Ngoi",
+        "slug": "ngoi-lp-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-05",
+        "level": 2,
+        "name": {
+          "local": "Ngoi",
+          "en": "Ngoi",
+          "slug": "ngoi-lp-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.318",
+      "lon": "102.46"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11248184",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Mai",
+      "en": "Ban Mai",
+      "slug": "ban-mai-11248184"
+    },
+    "code": {
+      "id": "11248184",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-05",
+      "level": 2,
+      "name": {
+        "local": "Ngoi",
+        "en": "Ngoi",
+        "slug": "ngoi-lp-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-05",
+        "level": 2,
+        "name": {
+          "local": "Ngoi",
+          "en": "Ngoi",
+          "slug": "ngoi-lp-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.821",
+      "lon": "102.721"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1954554",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Môk-Uay",
+      "en": "Ban Mok-Uay",
+      "slug": "ban-mok-uay-1954554"
+    },
+    "code": {
+      "id": "1954554",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-05",
+      "level": 2,
+      "name": {
+        "local": "Ngoi",
+        "en": "Ngoi",
+        "slug": "ngoi-lp-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-05",
+        "level": 2,
+        "name": {
+          "local": "Ngoi",
+          "en": "Ngoi",
+          "slug": "ngoi-lp-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.921",
+      "lon": "102.745"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1662269",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Môkchông",
+      "en": "Ban Mokchong",
+      "slug": "ban-mokchong-1662269"
+    },
+    "code": {
+      "id": "1662269",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-05",
+      "level": 2,
+      "name": {
+        "local": "Ngoi",
+        "en": "Ngoi",
+        "slug": "ngoi-lp-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-05",
+        "level": 2,
+        "name": {
+          "local": "Ngoi",
+          "en": "Ngoi",
+          "slug": "ngoi-lp-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.403",
+      "lon": "102.703"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1954325",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Mokdou",
+      "en": "Ban Mokdou",
+      "slug": "ban-mokdou-1954325"
+    },
+    "code": {
+      "id": "1954325",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-05",
+      "level": 2,
+      "name": {
+        "local": "Ngoi",
+        "en": "Ngoi",
+        "slug": "ngoi-lp-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-05",
+        "level": 2,
+        "name": {
+          "local": "Ngoi",
+          "en": "Ngoi",
+          "slug": "ngoi-lp-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.617",
+      "lon": "102.713"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1662271",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Môkkachok-Nua",
+      "en": "Ban Mokkachok-Nua",
+      "slug": "ban-mokkachok-nua-1662271"
+    },
+    "code": {
+      "id": "1662271",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-05",
+      "level": 2,
+      "name": {
+        "local": "Ngoi",
+        "en": "Ngoi",
+        "slug": "ngoi-lp-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-05",
+        "level": 2,
+        "name": {
+          "local": "Ngoi",
+          "en": "Ngoi",
+          "slug": "ngoi-lp-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.588",
+      "lon": "102.809"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1954499",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Môklék",
+      "en": "Ban Moklek",
+      "slug": "ban-moklek-1954499"
+    },
+    "code": {
+      "id": "1954499",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-05",
+      "level": 2,
+      "name": {
+        "local": "Ngoi",
+        "en": "Ngoi",
+        "slug": "ngoi-lp-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-05",
+        "level": 2,
+        "name": {
+          "local": "Ngoi",
+          "en": "Ngoi",
+          "slug": "ngoi-lp-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.437",
+      "lon": "102.508"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1954555",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Môklep",
+      "en": "Ban Moklep",
+      "slug": "ban-moklep-1954555"
+    },
+    "code": {
+      "id": "1954555",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-05",
+      "level": 2,
+      "name": {
+        "local": "Ngoi",
+        "en": "Ngoi",
+        "slug": "ngoi-lp-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-05",
+        "level": 2,
+        "name": {
+          "local": "Ngoi",
+          "en": "Ngoi",
+          "slug": "ngoi-lp-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.898",
+      "lon": "102.726"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1655099",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Muangxun",
+      "en": "Ban Muangxun",
+      "slug": "ban-muangxun-1655099"
+    },
+    "code": {
+      "id": "1655099",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-05",
+      "level": 2,
+      "name": {
+        "local": "Ngoi",
+        "en": "Ngoi",
+        "slug": "ngoi-lp-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-05",
+        "level": 2,
+        "name": {
+          "local": "Ngoi",
+          "en": "Ngoi",
+          "slug": "ngoi-lp-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.322",
+      "lon": "102.435"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1954394",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Mun",
+      "en": "Ban Mun",
+      "slug": "ban-mun-1954394"
+    },
+    "code": {
+      "id": "1954394",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-05",
+      "level": 2,
+      "name": {
+        "local": "Ngoi",
+        "en": "Ngoi",
+        "slug": "ngoi-lp-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-05",
+        "level": 2,
+        "name": {
+          "local": "Ngoi",
+          "en": "Ngoi",
+          "slug": "ngoi-lp-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.52",
+      "lon": "102.737"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1662130",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nakang",
+      "en": "Ban Nakang",
+      "slug": "ban-nakang-1662130"
+    },
+    "code": {
+      "id": "1662130",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-05",
+      "level": 2,
+      "name": {
+        "local": "Ngoi",
+        "en": "Ngoi",
+        "slug": "ngoi-lp-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-05",
+        "level": 2,
+        "name": {
+          "local": "Ngoi",
+          "en": "Ngoi",
+          "slug": "ngoi-lp-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.696",
+      "lon": "102.71"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1955606",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nalè",
+      "en": "Ban Nale",
+      "slug": "ban-nale-1955606"
+    },
+    "code": {
+      "id": "1955606",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-05",
+      "level": 2,
+      "name": {
+        "local": "Ngoi",
+        "en": "Ngoi",
+        "slug": "ngoi-lp-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-05",
+        "level": 2,
+        "name": {
+          "local": "Ngoi",
+          "en": "Ngoi",
+          "slug": "ngoi-lp-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.334",
+      "lon": "102.442"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1954592",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nam-Eu",
+      "en": "Ban Nam-Eu",
+      "slug": "ban-nam-eu-1954592"
+    },
+    "code": {
+      "id": "1954592",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-05",
+      "level": 2,
+      "name": {
+        "local": "Ngoi",
+        "en": "Ngoi",
+        "slug": "ngoi-lp-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-05",
+        "level": 2,
+        "name": {
+          "local": "Ngoi",
+          "en": "Ngoi",
+          "slug": "ngoi-lp-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.835",
+      "lon": "102.835"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1954467",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Namai",
+      "en": "Ban Namai",
+      "slug": "ban-namai-1954467"
+    },
+    "code": {
+      "id": "1954467",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-05",
+      "level": 2,
+      "name": {
+        "local": "Ngoi",
+        "en": "Ngoi",
+        "slug": "ngoi-lp-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-05",
+        "level": 2,
+        "name": {
+          "local": "Ngoi",
+          "en": "Ngoi",
+          "slug": "ngoi-lp-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.691",
+      "lon": "102.734"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1656929",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Namtap",
+      "en": "Ban Namtap",
+      "slug": "ban-namtap-1656929"
+    },
+    "code": {
+      "id": "1656929",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-05",
+      "level": 2,
+      "name": {
+        "local": "Ngoi",
+        "en": "Ngoi",
+        "slug": "ngoi-lp-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-05",
+        "level": 2,
+        "name": {
+          "local": "Ngoi",
+          "en": "Ngoi",
+          "slug": "ngoi-lp-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.73",
+      "lon": "102.619"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1954450",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Namtap",
+      "en": "Ban Namtap",
+      "slug": "ban-namtap-1954450"
+    },
+    "code": {
+      "id": "1954450",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-05",
+      "level": 2,
+      "name": {
+        "local": "Ngoi",
+        "en": "Ngoi",
+        "slug": "ngoi-lp-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-05",
+        "level": 2,
+        "name": {
+          "local": "Ngoi",
+          "en": "Ngoi",
+          "slug": "ngoi-lp-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.731",
+      "lon": "102.618"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1655155",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Ngoy-Nua",
+      "en": "Ban Ngoy-Nua",
+      "slug": "ban-ngoy-nua-1655155"
+    },
+    "code": {
+      "id": "1655155",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-05",
+      "level": 2,
+      "name": {
+        "local": "Ngoi",
+        "en": "Ngoi",
+        "slug": "ngoi-lp-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-05",
+        "level": 2,
+        "name": {
+          "local": "Ngoi",
+          "en": "Ngoi",
+          "slug": "ngoi-lp-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.709",
+      "lon": "102.675"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1954455",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Ngoy-Tai",
+      "en": "Ban Ngoy-Tai",
+      "slug": "ban-ngoy-tai-1954455"
+    },
+    "code": {
+      "id": "1954455",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-05",
+      "level": 2,
+      "name": {
+        "local": "Ngoi",
+        "en": "Ngoi",
+        "slug": "ngoi-lp-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-05",
+        "level": 2,
+        "name": {
+          "local": "Ngoi",
+          "en": "Ngoi",
+          "slug": "ngoi-lp-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.68",
+      "lon": "102.663"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1954373",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nong-Ian",
+      "en": "Ban Nong-Ian",
+      "slug": "ban-nong-ian-1954373"
+    },
+    "code": {
+      "id": "1954373",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-05",
+      "level": 2,
+      "name": {
+        "local": "Ngoi",
+        "en": "Ngoi",
+        "slug": "ngoi-lp-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-05",
+        "level": 2,
+        "name": {
+          "local": "Ngoi",
+          "en": "Ngoi",
+          "slug": "ngoi-lp-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.545",
+      "lon": "102.644"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1954500",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nongkham",
+      "en": "Ban Nongkham",
+      "slug": "ban-nongkham-1954500"
+    },
+    "code": {
+      "id": "1954500",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-05",
+      "level": 2,
+      "name": {
+        "local": "Ngoi",
+        "en": "Ngoi",
+        "slug": "ngoi-lp-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-05",
+        "level": 2,
+        "name": {
+          "local": "Ngoi",
+          "en": "Ngoi",
+          "slug": "ngoi-lp-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.447",
+      "lon": "102.513"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1660614",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Not Nam",
+      "en": "Ban Not Nam",
+      "slug": "ban-not-nam-1660614"
+    },
+    "code": {
+      "id": "1660614",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-05",
+      "level": 2,
+      "name": {
+        "local": "Ngoi",
+        "en": "Ngoi",
+        "slug": "ngoi-lp-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-05",
+        "level": 2,
+        "name": {
+          "local": "Ngoi",
+          "en": "Ngoi",
+          "slug": "ngoi-lp-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.8",
+      "lon": "102.667"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1954564",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Pak-Eu",
+      "en": "Ban Pak-Eu",
+      "slug": "ban-pak-eu-1954564"
+    },
+    "code": {
+      "id": "1954564",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-05",
+      "level": 2,
+      "name": {
+        "local": "Ngoi",
+        "en": "Ngoi",
+        "slug": "ngoi-lp-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-05",
+        "level": 2,
+        "name": {
+          "local": "Ngoi",
+          "en": "Ngoi",
+          "slug": "ngoi-lp-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.842",
+      "lon": "102.737"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1660542",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Pakbak",
+      "en": "Ban Pakbak",
+      "slug": "ban-pakbak-1660542"
+    },
+    "code": {
+      "id": "1660542",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-05",
+      "level": 2,
+      "name": {
+        "local": "Ngoi",
+        "en": "Ngoi",
+        "slug": "ngoi-lp-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-05",
+        "level": 2,
+        "name": {
+          "local": "Ngoi",
+          "en": "Ngoi",
+          "slug": "ngoi-lp-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.586",
+      "lon": "102.584"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1954590",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Pakbông",
+      "en": "Ban Pakbong",
+      "slug": "ban-pakbong-1954590"
+    },
+    "code": {
+      "id": "1954590",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-05",
+      "level": 2,
+      "name": {
+        "local": "Ngoi",
+        "en": "Ngoi",
+        "slug": "ngoi-lp-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-05",
+        "level": 2,
+        "name": {
+          "local": "Ngoi",
+          "en": "Ngoi",
+          "slug": "ngoi-lp-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.818",
+      "lon": "102.842"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1654416",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Pakbout",
+      "en": "Ban Pakbout",
+      "slug": "ban-pakbout-1654416"
+    },
+    "code": {
+      "id": "1654416",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-05",
+      "level": 2,
+      "name": {
+        "local": "Ngoi",
+        "en": "Ngoi",
+        "slug": "ngoi-lp-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-05",
+        "level": 2,
+        "name": {
+          "local": "Ngoi",
+          "en": "Ngoi",
+          "slug": "ngoi-lp-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.987",
+      "lon": "102.749"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1660537",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Pakchim",
+      "en": "Ban Pakchim",
+      "slug": "ban-pakchim-1660537"
+    },
+    "code": {
+      "id": "1660537",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-05",
+      "level": 2,
+      "name": {
+        "local": "Ngoi",
+        "en": "Ngoi",
+        "slug": "ngoi-lp-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-05",
+        "level": 2,
+        "name": {
+          "local": "Ngoi",
+          "en": "Ngoi",
+          "slug": "ngoi-lp-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.432",
+      "lon": "102.491"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1654397",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Paklouang",
+      "en": "Ban Paklouang",
+      "slug": "ban-paklouang-1654397"
+    },
+    "code": {
+      "id": "1654397",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-05",
+      "level": 2,
+      "name": {
+        "local": "Ngoi",
+        "en": "Ngoi",
+        "slug": "ngoi-lp-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-05",
+        "level": 2,
+        "name": {
+          "local": "Ngoi",
+          "en": "Ngoi",
+          "slug": "ngoi-lp-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.942",
+      "lon": "102.758"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1660486",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Paknga",
+      "en": "Ban Paknga",
+      "slug": "ban-paknga-1660486"
+    },
+    "code": {
+      "id": "1660486",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-05",
+      "level": 2,
+      "name": {
+        "local": "Ngoi",
+        "en": "Ngoi",
+        "slug": "ngoi-lp-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-05",
+        "level": 2,
+        "name": {
+          "local": "Ngoi",
+          "en": "Ngoi",
+          "slug": "ngoi-lp-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.349",
+      "lon": "102.424"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1954470",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Pakngom",
+      "en": "Ban Pakngom",
+      "slug": "ban-pakngom-1954470"
+    },
+    "code": {
+      "id": "1954470",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-05",
+      "level": 2,
+      "name": {
+        "local": "Ngoi",
+        "en": "Ngoi",
+        "slug": "ngoi-lp-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-05",
+        "level": 2,
+        "name": {
+          "local": "Ngoi",
+          "en": "Ngoi",
+          "slug": "ngoi-lp-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.452",
+      "lon": "102.526"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1654141",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Pha-Ong",
+      "en": "Ban Pha-Ong",
+      "slug": "ban-pha-ong-1654141"
+    },
+    "code": {
+      "id": "1654141",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-05",
+      "level": 2,
+      "name": {
+        "local": "Ngoi",
+        "en": "Ngoi",
+        "slug": "ngoi-lp-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-05",
+        "level": 2,
+        "name": {
+          "local": "Ngoi",
+          "en": "Ngoi",
+          "slug": "ngoi-lp-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.92",
+      "lon": "102.671"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1665035",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phagnom",
+      "en": "Ban Phagnom",
+      "slug": "ban-phagnom-1665035"
+    },
+    "code": {
+      "id": "1665035",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-05",
+      "level": 2,
+      "name": {
+        "local": "Ngoi",
+        "en": "Ngoi",
+        "slug": "ngoi-lp-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-05",
+        "level": 2,
+        "name": {
+          "local": "Ngoi",
+          "en": "Ngoi",
+          "slug": "ngoi-lp-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.773",
+      "lon": "102.747"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1954477",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phagnom",
+      "en": "Ban Phagnom",
+      "slug": "ban-phagnom-1954477"
+    },
+    "code": {
+      "id": "1954477",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-05",
+      "level": 2,
+      "name": {
+        "local": "Ngoi",
+        "en": "Ngoi",
+        "slug": "ngoi-lp-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-05",
+        "level": 2,
+        "name": {
+          "local": "Ngoi",
+          "en": "Ngoi",
+          "slug": "ngoi-lp-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.774",
+      "lon": "102.746"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1954483",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phalèm",
+      "en": "Ban Phalem",
+      "slug": "ban-phalem-1954483"
+    },
+    "code": {
+      "id": "1954483",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-05",
+      "level": 2,
+      "name": {
+        "local": "Ngoi",
+        "en": "Ngoi",
+        "slug": "ngoi-lp-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-05",
+        "level": 2,
+        "name": {
+          "local": "Ngoi",
+          "en": "Ngoi",
+          "slug": "ngoi-lp-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.749",
+      "lon": "102.589"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1954465",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phatèm",
+      "en": "Ban Phatem",
+      "slug": "ban-phatem-1954465"
+    },
+    "code": {
+      "id": "1954465",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-05",
+      "level": 2,
+      "name": {
+        "local": "Ngoi",
+        "en": "Ngoi",
+        "slug": "ngoi-lp-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-05",
+        "level": 2,
+        "name": {
+          "local": "Ngoi",
+          "en": "Ngoi",
+          "slug": "ngoi-lp-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.47",
+      "lon": "102.559"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1954370",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phathok",
+      "en": "Ban Phathok",
+      "slug": "ban-phathok-1954370"
+    },
+    "code": {
+      "id": "1954370",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-05",
+      "level": 2,
+      "name": {
+        "local": "Ngoi",
+        "en": "Ngoi",
+        "slug": "ngoi-lp-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-05",
+        "level": 2,
+        "name": {
+          "local": "Ngoi",
+          "en": "Ngoi",
+          "slug": "ngoi-lp-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.555",
+      "lon": "102.633"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1954459",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phatoup-Nai",
+      "en": "Ban Phatoup-Nai",
+      "slug": "ban-phatoup-nai-1954459"
+    },
+    "code": {
+      "id": "1954459",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-05",
+      "level": 2,
+      "name": {
+        "local": "Ngoi",
+        "en": "Ngoi",
+        "slug": "ngoi-lp-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-05",
+        "level": 2,
+        "name": {
+          "local": "Ngoi",
+          "en": "Ngoi",
+          "slug": "ngoi-lp-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.485",
+      "lon": "102.648"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1954473",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phatoup-Nok",
+      "en": "Ban Phatoup-Nok",
+      "slug": "ban-phatoup-nok-1954473"
+    },
+    "code": {
+      "id": "1954473",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-05",
+      "level": 2,
+      "name": {
+        "local": "Ngoi",
+        "en": "Ngoi",
+        "slug": "ngoi-lp-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-05",
+        "level": 2,
+        "name": {
+          "local": "Ngoi",
+          "en": "Ngoi",
+          "slug": "ngoi-lp-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.456",
+      "lon": "102.612"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1660110",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phia Kang",
+      "en": "Ban Phia Kang",
+      "slug": "ban-phia-kang-1660110"
+    },
+    "code": {
+      "id": "1660110",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-05",
+      "level": 2,
+      "name": {
+        "local": "Ngoi",
+        "en": "Ngoi",
+        "slug": "ngoi-lp-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-05",
+        "level": 2,
+        "name": {
+          "local": "Ngoi",
+          "en": "Ngoi",
+          "slug": "ngoi-lp-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.6",
+      "lon": "102.783"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1954585",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phôn",
+      "en": "Ban Phon",
+      "slug": "ban-phon-1954585"
+    },
+    "code": {
+      "id": "1954585",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-05",
+      "level": 2,
+      "name": {
+        "local": "Ngoi",
+        "en": "Ngoi",
+        "slug": "ngoi-lp-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-05",
+        "level": 2,
+        "name": {
+          "local": "Ngoi",
+          "en": "Ngoi",
+          "slug": "ngoi-lp-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.732",
+      "lon": "102.794"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1954565",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phônsana",
+      "en": "Ban Phonsana",
+      "slug": "ban-phonsana-1954565"
+    },
+    "code": {
+      "id": "1954565",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-05",
+      "level": 2,
+      "name": {
+        "local": "Ngoi",
+        "en": "Ngoi",
+        "slug": "ngoi-lp-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-05",
+        "level": 2,
+        "name": {
+          "local": "Ngoi",
+          "en": "Ngoi",
+          "slug": "ngoi-lp-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.889",
+      "lon": "102.766"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1954583",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phônsavang",
+      "en": "Ban Phonsavang",
+      "slug": "ban-phonsavang-1954583"
+    },
+    "code": {
+      "id": "1954583",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-05",
+      "level": 2,
+      "name": {
+        "local": "Ngoi",
+        "en": "Ngoi",
+        "slug": "ngoi-lp-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-05",
+        "level": 2,
+        "name": {
+          "local": "Ngoi",
+          "en": "Ngoi",
+          "slug": "ngoi-lp-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.741",
+      "lon": "102.832"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1954452",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phônsiang",
+      "en": "Ban Phonsiang",
+      "slug": "ban-phonsiang-1954452"
+    },
+    "code": {
+      "id": "1954452",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-05",
+      "level": 2,
+      "name": {
+        "local": "Ngoi",
+        "en": "Ngoi",
+        "slug": "ngoi-lp-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-05",
+        "level": 2,
+        "name": {
+          "local": "Ngoi",
+          "en": "Ngoi",
+          "slug": "ngoi-lp-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.671",
+      "lon": "102.625"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1662541",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phônxai",
+      "en": "Ban Phonxai",
+      "slug": "ban-phonxai-1662541"
+    },
+    "code": {
+      "id": "1662541",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-05",
+      "level": 2,
+      "name": {
+        "local": "Ngoi",
+        "en": "Ngoi",
+        "slug": "ngoi-lp-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-05",
+        "level": 2,
+        "name": {
+          "local": "Ngoi",
+          "en": "Ngoi",
+          "slug": "ngoi-lp-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.86",
+      "lon": "102.78"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1954317",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phônxai",
+      "en": "Ban Phonxai",
+      "slug": "ban-phonxai-1954317"
+    },
+    "code": {
+      "id": "1954317",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-05",
+      "level": 2,
+      "name": {
+        "local": "Ngoi",
+        "en": "Ngoi",
+        "slug": "ngoi-lp-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-05",
+        "level": 2,
+        "name": {
+          "local": "Ngoi",
+          "en": "Ngoi",
+          "slug": "ngoi-lp-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.654",
+      "lon": "102.773"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1954582",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phônxai",
+      "en": "Ban Phonxai",
+      "slug": "ban-phonxai-1954582"
+    },
+    "code": {
+      "id": "1954582",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-05",
+      "level": 2,
+      "name": {
+        "local": "Ngoi",
+        "en": "Ngoi",
+        "slug": "ngoi-lp-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-05",
+        "level": 2,
+        "name": {
+          "local": "Ngoi",
+          "en": "Ngoi",
+          "slug": "ngoi-lp-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.711",
+      "lon": "102.859"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1955605",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phônxai",
+      "en": "Ban Phonxai",
+      "slug": "ban-phonxai-1955605"
+    },
+    "code": {
+      "id": "1955605",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-05",
+      "level": 2,
+      "name": {
+        "local": "Ngoi",
+        "en": "Ngoi",
+        "slug": "ngoi-lp-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-05",
+        "level": 2,
+        "name": {
+          "local": "Ngoi",
+          "en": "Ngoi",
+          "slug": "ngoi-lp-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.356",
+      "lon": "102.48"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1954316",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phônxiang-Tai",
+      "en": "Ban Phonxiang-Tai",
+      "slug": "ban-phonxiang-tai-1954316"
+    },
+    "code": {
+      "id": "1954316",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-05",
+      "level": 2,
+      "name": {
+        "local": "Ngoi",
+        "en": "Ngoi",
+        "slug": "ngoi-lp-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-05",
+        "level": 2,
+        "name": {
+          "local": "Ngoi",
+          "en": "Ngoi",
+          "slug": "ngoi-lp-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.656",
+      "lon": "102.635"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1659795",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phou Kha",
+      "en": "Ban Phou Kha",
+      "slug": "ban-phou-kha-1659795"
+    },
+    "code": {
+      "id": "1659795",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-05",
+      "level": 2,
+      "name": {
+        "local": "Ngoi",
+        "en": "Ngoi",
+        "slug": "ngoi-lp-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-05",
+        "level": 2,
+        "name": {
+          "local": "Ngoi",
+          "en": "Ngoi",
+          "slug": "ngoi-lp-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.483",
+      "lon": "102.65"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1659785",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phou Luong",
+      "en": "Ban Phou Luong",
+      "slug": "ban-phou-luong-1659785"
+    },
+    "code": {
+      "id": "1659785",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-05",
+      "level": 2,
+      "name": {
+        "local": "Ngoi",
+        "en": "Ngoi",
+        "slug": "ngoi-lp-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-05",
+        "level": 2,
+        "name": {
+          "local": "Ngoi",
+          "en": "Ngoi",
+          "slug": "ngoi-lp-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.517",
+      "lon": "102.75"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1956744",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phousoung",
+      "en": "Ban Phousoung",
+      "slug": "ban-phousoung-1956744"
+    },
+    "code": {
+      "id": "1956744",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-05",
+      "level": 2,
+      "name": {
+        "local": "Ngoi",
+        "en": "Ngoi",
+        "slug": "ngoi-lp-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-05",
+        "level": 2,
+        "name": {
+          "local": "Ngoi",
+          "en": "Ngoi",
+          "slug": "ngoi-lp-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.316",
+      "lon": "102.477"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1954393",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phoutit-Buang",
+      "en": "Ban Phoutit-Buang",
+      "slug": "ban-phoutit-buang-1954393"
+    },
+    "code": {
+      "id": "1954393",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-05",
+      "level": 2,
+      "name": {
+        "local": "Ngoi",
+        "en": "Ngoi",
+        "slug": "ngoi-lp-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-05",
+        "level": 2,
+        "name": {
+          "local": "Ngoi",
+          "en": "Ngoi",
+          "slug": "ngoi-lp-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.518",
+      "lon": "102.786"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1954398",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phouviang",
+      "en": "Ban Phouviang",
+      "slug": "ban-phouviang-1954398"
+    },
+    "code": {
+      "id": "1954398",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-05",
+      "level": 2,
+      "name": {
+        "local": "Ngoi",
+        "en": "Ngoi",
+        "slug": "ngoi-lp-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-05",
+        "level": 2,
+        "name": {
+          "local": "Ngoi",
+          "en": "Ngoi",
+          "slug": "ngoi-lp-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.497",
+      "lon": "102.723"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1954593",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Poungta",
+      "en": "Ban Poungta",
+      "slug": "ban-poungta-1954593"
+    },
+    "code": {
+      "id": "1954593",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-05",
+      "level": 2,
+      "name": {
+        "local": "Ngoi",
+        "en": "Ngoi",
+        "slug": "ngoi-lp-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-05",
+        "level": 2,
+        "name": {
+          "local": "Ngoi",
+          "en": "Ngoi",
+          "slug": "ngoi-lp-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.841",
+      "lon": "102.786"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1656931",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Sa-Ouy",
+      "en": "Ban Sa-Ouy",
+      "slug": "ban-sa-ouy-1656931"
+    },
+    "code": {
+      "id": "1656931",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-05",
+      "level": 2,
+      "name": {
+        "local": "Ngoi",
+        "en": "Ngoi",
+        "slug": "ngoi-lp-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-05",
+        "level": 2,
+        "name": {
+          "local": "Ngoi",
+          "en": "Ngoi",
+          "slug": "ngoi-lp-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.973",
+      "lon": "102.726"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1653448",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Samxoum",
+      "en": "Ban Samxoum",
+      "slug": "ban-samxoum-1653448"
+    },
+    "code": {
+      "id": "1653448",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-05",
+      "level": 2,
+      "name": {
+        "local": "Ngoi",
+        "en": "Ngoi",
+        "slug": "ngoi-lp-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-05",
+        "level": 2,
+        "name": {
+          "local": "Ngoi",
+          "en": "Ngoi",
+          "slug": "ngoi-lp-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.942",
+      "lon": "102.685"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1956464",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Sang-In-Gnai",
+      "en": "Ban Sang-In-Gnai",
+      "slug": "ban-sang-in-gnai-1956464"
+    },
+    "code": {
+      "id": "1956464",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-05",
+      "level": 2,
+      "name": {
+        "local": "Ngoi",
+        "en": "Ngoi",
+        "slug": "ngoi-lp-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-05",
+        "level": 2,
+        "name": {
+          "local": "Ngoi",
+          "en": "Ngoi",
+          "slug": "ngoi-lp-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.313",
+      "lon": "102.516"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1956743",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Seunghôk",
+      "en": "Ban Seunghok",
+      "slug": "ban-seunghok-1956743"
+    },
+    "code": {
+      "id": "1956743",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-05",
+      "level": 2,
+      "name": {
+        "local": "Ngoi",
+        "en": "Ngoi",
+        "slug": "ngoi-lp-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-05",
+        "level": 2,
+        "name": {
+          "local": "Ngoi",
+          "en": "Ngoi",
+          "slug": "ngoi-lp-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.323",
+      "lon": "102.461"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1954468",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Sisaat",
+      "en": "Ban Sisaat",
+      "slug": "ban-sisaat-1954468"
+    },
+    "code": {
+      "id": "1954468",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-05",
+      "level": 2,
+      "name": {
+        "local": "Ngoi",
+        "en": "Ngoi",
+        "slug": "ngoi-lp-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-05",
+        "level": 2,
+        "name": {
+          "local": "Ngoi",
+          "en": "Ngoi",
+          "slug": "ngoi-lp-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.46",
+      "lon": "102.529"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1661601",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Sômphou",
+      "en": "Ban Somphou",
+      "slug": "ban-somphou-1661601"
+    },
+    "code": {
+      "id": "1661601",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-05",
+      "level": 2,
+      "name": {
+        "local": "Ngoi",
+        "en": "Ngoi",
+        "slug": "ngoi-lp-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-05",
+        "level": 2,
+        "name": {
+          "local": "Ngoi",
+          "en": "Ngoi",
+          "slug": "ngoi-lp-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.96",
+      "lon": "102.682"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1954478",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Sôpchèm",
+      "en": "Ban Sopchem",
+      "slug": "ban-sopchem-1954478"
+    },
+    "code": {
+      "id": "1954478",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-05",
+      "level": 2,
+      "name": {
+        "local": "Ngoi",
+        "en": "Ngoi",
+        "slug": "ngoi-lp-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-05",
+        "level": 2,
+        "name": {
+          "local": "Ngoi",
+          "en": "Ngoi",
+          "slug": "ngoi-lp-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.779",
+      "lon": "102.648"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1954359",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Sôphoun",
+      "en": "Ban Sophoun",
+      "slug": "ban-sophoun-1954359"
+    },
+    "code": {
+      "id": "1954359",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-05",
+      "level": 2,
+      "name": {
+        "local": "Ngoi",
+        "en": "Ngoi",
+        "slug": "ngoi-lp-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-05",
+        "level": 2,
+        "name": {
+          "local": "Ngoi",
+          "en": "Ngoi",
+          "slug": "ngoi-lp-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.569",
+      "lon": "102.617"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1659109",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Sôpkhan",
+      "en": "Ban Sopkhan",
+      "slug": "ban-sopkhan-1659109"
+    },
+    "code": {
+      "id": "1659109",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-05",
+      "level": 2,
+      "name": {
+        "local": "Ngoi",
+        "en": "Ngoi",
+        "slug": "ngoi-lp-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-05",
+        "level": 2,
+        "name": {
+          "local": "Ngoi",
+          "en": "Ngoi",
+          "slug": "ngoi-lp-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.673",
+      "lon": "102.656"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1954453",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Sôpkhan",
+      "en": "Ban Sopkhan",
+      "slug": "ban-sopkhan-1954453"
+    },
+    "code": {
+      "id": "1954453",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-05",
+      "level": 2,
+      "name": {
+        "local": "Ngoi",
+        "en": "Ngoi",
+        "slug": "ngoi-lp-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-05",
+        "level": 2,
+        "name": {
+          "local": "Ngoi",
+          "en": "Ngoi",
+          "slug": "ngoi-lp-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.674",
+      "lon": "102.657"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1653055",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Sôpkhing",
+      "en": "Ban Sopkhing",
+      "slug": "ban-sopkhing-1653055"
+    },
+    "code": {
+      "id": "1653055",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-05",
+      "level": 2,
+      "name": {
+        "local": "Ngoi",
+        "en": "Ngoi",
+        "slug": "ngoi-lp-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-05",
+        "level": 2,
+        "name": {
+          "local": "Ngoi",
+          "en": "Ngoi",
+          "slug": "ngoi-lp-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.859",
+      "lon": "102.717"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1653058",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Sôpkong",
+      "en": "Ban Sopkong",
+      "slug": "ban-sopkong-1653058"
+    },
+    "code": {
+      "id": "1653058",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-05",
+      "level": 2,
+      "name": {
+        "local": "Ngoi",
+        "en": "Ngoi",
+        "slug": "ngoi-lp-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-05",
+        "level": 2,
+        "name": {
+          "local": "Ngoi",
+          "en": "Ngoi",
+          "slug": "ngoi-lp-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.652",
+      "lon": "102.66"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1659054",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Sôpvan",
+      "en": "Ban Sopvan",
+      "slug": "ban-sopvan-1659054"
+    },
+    "code": {
+      "id": "1659054",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-05",
+      "level": 2,
+      "name": {
+        "local": "Ngoi",
+        "en": "Ngoi",
+        "slug": "ngoi-lp-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-05",
+        "level": 2,
+        "name": {
+          "local": "Ngoi",
+          "en": "Ngoi",
+          "slug": "ngoi-lp-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.608",
+      "lon": "102.649"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1954335",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Thaokham",
+      "en": "Ban Thaokham",
+      "slug": "ban-thaokham-1954335"
+    },
+    "code": {
+      "id": "1954335",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-05",
+      "level": 2,
+      "name": {
+        "local": "Ngoi",
+        "en": "Ngoi",
+        "slug": "ngoi-lp-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-05",
+        "level": 2,
+        "name": {
+          "local": "Ngoi",
+          "en": "Ngoi",
+          "slug": "ngoi-lp-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.606",
+      "lon": "102.811"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1652801",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Thaoxai",
+      "en": "Ban Thaoxai",
+      "slug": "ban-thaoxai-1652801"
+    },
+    "code": {
+      "id": "1652801",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-05",
+      "level": 2,
+      "name": {
+        "local": "Ngoi",
+        "en": "Ngoi",
+        "slug": "ngoi-lp-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-05",
+        "level": 2,
+        "name": {
+          "local": "Ngoi",
+          "en": "Ngoi",
+          "slug": "ngoi-lp-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.657",
+      "lon": "102.8"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1658551",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Thènkhèn",
+      "en": "Ban Thenkhen",
+      "slug": "ban-thenkhen-1658551"
+    },
+    "code": {
+      "id": "1658551",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-05",
+      "level": 2,
+      "name": {
+        "local": "Ngoi",
+        "en": "Ngoi",
+        "slug": "ngoi-lp-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-05",
+        "level": 2,
+        "name": {
+          "local": "Ngoi",
+          "en": "Ngoi",
+          "slug": "ngoi-lp-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.464",
+      "lon": "102.527"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1955604",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Vangbông",
+      "en": "Ban Vangbong",
+      "slug": "ban-vangbong-1955604"
+    },
+    "code": {
+      "id": "1955604",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-05",
+      "level": 2,
+      "name": {
+        "local": "Ngoi",
+        "en": "Ngoi",
+        "slug": "ngoi-lp-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-05",
+        "level": 2,
+        "name": {
+          "local": "Ngoi",
+          "en": "Ngoi",
+          "slug": "ngoi-lp-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.339",
+      "lon": "102.465"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1659436",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Xang",
+      "en": "Ban Xang",
+      "slug": "ban-xang-1659436"
+    },
+    "code": {
+      "id": "1659436",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-05",
+      "level": 2,
+      "name": {
+        "local": "Ngoi",
+        "en": "Ngoi",
+        "slug": "ngoi-lp-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-05",
+        "level": 2,
+        "name": {
+          "local": "Ngoi",
+          "en": "Ngoi",
+          "slug": "ngoi-lp-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.741",
+      "lon": "102.812"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1954584",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Xang",
+      "en": "Ban Xang",
+      "slug": "ban-xang-1954584"
+    },
+    "code": {
+      "id": "1954584",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-05",
+      "level": 2,
+      "name": {
+        "local": "Ngoi",
+        "en": "Ngoi",
+        "slug": "ngoi-lp-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-05",
+        "level": 2,
+        "name": {
+          "local": "Ngoi",
+          "en": "Ngoi",
+          "slug": "ngoi-lp-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.741",
+      "lon": "102.812"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1657515",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Douane Teu",
+      "en": "Douane Teu",
+      "slug": "douane-teu-1657515"
+    },
+    "code": {
+      "id": "1657515",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-05",
+      "level": 2,
+      "name": {
+        "local": "Ngoi",
+        "en": "Ngoi",
+        "slug": "ngoi-lp-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-05",
+        "level": 2,
+        "name": {
+          "local": "Ngoi",
+          "en": "Ngoi",
+          "slug": "ngoi-lp-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.917",
+      "lon": "102.683"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1657113",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Houa Phou",
+      "en": "Houa Phou",
+      "slug": "houa-phou-1657113"
+    },
+    "code": {
+      "id": "1657113",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-05",
+      "level": 2,
+      "name": {
+        "local": "Ngoi",
+        "en": "Ngoi",
+        "slug": "ngoi-lp-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-05",
+        "level": 2,
+        "name": {
+          "local": "Ngoi",
+          "en": "Ngoi",
+          "slug": "ngoi-lp-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.983",
+      "lon": "102.767"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1657021",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Houay Nha",
+      "en": "Houay Nha",
+      "slug": "houay-nha-1657021"
+    },
+    "code": {
+      "id": "1657021",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-05",
+      "level": 2,
+      "name": {
+        "local": "Ngoi",
+        "en": "Ngoi",
+        "slug": "ngoi-lp-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-05",
+        "level": 2,
+        "name": {
+          "local": "Ngoi",
+          "en": "Ngoi",
+          "slug": "ngoi-lp-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.983",
+      "lon": "102.75"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1657003",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Houay Sanam",
+      "en": "Houay Sanam",
+      "slug": "houay-sanam-1657003"
+    },
+    "code": {
+      "id": "1657003",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-05",
+      "level": 2,
+      "name": {
+        "local": "Ngoi",
+        "en": "Ngoi",
+        "slug": "ngoi-lp-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-05",
+        "level": 2,
+        "name": {
+          "local": "Ngoi",
+          "en": "Ngoi",
+          "slug": "ngoi-lp-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.883",
+      "lon": "102.717"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1954497",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Housavang",
+      "en": "Housavang",
+      "slug": "housavang-1954497"
+    },
+    "code": {
+      "id": "1954497",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-05",
+      "level": 2,
+      "name": {
+        "local": "Ngoi",
+        "en": "Ngoi",
+        "slug": "ngoi-lp-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-05",
+        "level": 2,
+        "name": {
+          "local": "Ngoi",
+          "en": "Ngoi",
+          "slug": "ngoi-lp-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.44",
+      "lon": "102.699"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1656355",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kho Khuai",
+      "en": "Kho Khuai",
+      "slug": "kho-khuai-1656355"
+    },
+    "code": {
+      "id": "1656355",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-05",
+      "level": 2,
+      "name": {
+        "local": "Ngoi",
+        "en": "Ngoi",
+        "slug": "ngoi-lp-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-05",
+        "level": 2,
+        "name": {
+          "local": "Ngoi",
+          "en": "Ngoi",
+          "slug": "ngoi-lp-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.867",
+      "lon": "102.667"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1655745",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Lessainh",
+      "en": "Lessainh",
+      "slug": "lessainh-1655745"
+    },
+    "code": {
+      "id": "1655745",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-05",
+      "level": 2,
+      "name": {
+        "local": "Ngoi",
+        "en": "Ngoi",
+        "slug": "ngoi-lp-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-05",
+        "level": 2,
+        "name": {
+          "local": "Ngoi",
+          "en": "Ngoi",
+          "slug": "ngoi-lp-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.667",
+      "lon": "102.817"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1954343",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Môkkachok",
+      "en": "Mokkachok",
+      "slug": "mokkachok-1954343"
+    },
+    "code": {
+      "id": "1954343",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-05",
+      "level": 2,
+      "name": {
+        "local": "Ngoi",
+        "en": "Ngoi",
+        "slug": "ngoi-lp-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-05",
+        "level": 2,
+        "name": {
+          "local": "Ngoi",
+          "en": "Ngoi",
+          "slug": "ngoi-lp-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.582",
+      "lon": "102.768"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1654882",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Nam Phou",
+      "en": "Nam Phou",
+      "slug": "nam-phou-1654882"
+    },
+    "code": {
+      "id": "1654882",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-05",
+      "level": 2,
+      "name": {
+        "local": "Ngoi",
+        "en": "Ngoi",
+        "slug": "ngoi-lp-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-05",
+        "level": 2,
+        "name": {
+          "local": "Ngoi",
+          "en": "Ngoi",
+          "slug": "ngoi-lp-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.95",
+      "lon": "102.733"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1653939",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Phe Yinh",
+      "en": "Phe Yinh",
+      "slug": "phe-yinh-1653939"
+    },
+    "code": {
+      "id": "1653939",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-05",
+      "level": 2,
+      "name": {
+        "local": "Ngoi",
+        "en": "Ngoi",
+        "slug": "ngoi-lp-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-05",
+        "level": 2,
+        "name": {
+          "local": "Ngoi",
+          "en": "Ngoi",
+          "slug": "ngoi-lp-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.533",
+      "lon": "102.783"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1653740",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Pong Cha",
+      "en": "Pong Cha",
+      "slug": "pong-cha-1653740"
+    },
+    "code": {
+      "id": "1653740",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-05",
+      "level": 2,
+      "name": {
+        "local": "Ngoi",
+        "en": "Ngoi",
+        "slug": "ngoi-lp-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-05",
+        "level": 2,
+        "name": {
+          "local": "Ngoi",
+          "en": "Ngoi",
+          "slug": "ngoi-lp-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.75",
+      "lon": "102.767"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1653458",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Sam Phou",
+      "en": "Sam Phou",
+      "slug": "sam-phou-1653458"
+    },
+    "code": {
+      "id": "1653458",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-05",
+      "level": 2,
+      "name": {
+        "local": "Ngoi",
+        "en": "Ngoi",
+        "slug": "ngoi-lp-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-05",
+        "level": 2,
+        "name": {
+          "local": "Ngoi",
+          "en": "Ngoi",
+          "slug": "ngoi-lp-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.933",
+      "lon": "102.65"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1653370",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Sang Ou",
+      "en": "Sang Ou",
+      "slug": "sang-ou-1653370"
+    },
+    "code": {
+      "id": "1653370",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-05",
+      "level": 2,
+      "name": {
+        "local": "Ngoi",
+        "en": "Ngoi",
+        "slug": "ngoi-lp-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-05",
+        "level": 2,
+        "name": {
+          "local": "Ngoi",
+          "en": "Ngoi",
+          "slug": "ngoi-lp-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.7",
+      "lon": "102.633"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1653347",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Sao Phai",
+      "en": "Sao Phai",
+      "slug": "sao-phai-1653347"
+    },
+    "code": {
+      "id": "1653347",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-05",
+      "level": 2,
+      "name": {
+        "local": "Ngoi",
+        "en": "Ngoi",
+        "slug": "ngoi-lp-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-05",
+        "level": 2,
+        "name": {
+          "local": "Ngoi",
+          "en": "Ngoi",
+          "slug": "ngoi-lp-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.817",
+      "lon": "102.8"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1653204",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Sen Vo",
+      "en": "Sen Vo",
+      "slug": "sen-vo-1653204"
+    },
+    "code": {
+      "id": "1653204",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-05",
+      "level": 2,
+      "name": {
+        "local": "Ngoi",
+        "en": "Ngoi",
+        "slug": "ngoi-lp-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-05",
+        "level": 2,
+        "name": {
+          "local": "Ngoi",
+          "en": "Ngoi",
+          "slug": "ngoi-lp-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.95",
+      "lon": "102.683"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1653201",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Sen Yo Higna",
+      "en": "Sen Yo Higna",
+      "slug": "sen-yo-higna-1653201"
+    },
+    "code": {
+      "id": "1653201",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-05",
+      "level": 2,
+      "name": {
+        "local": "Ngoi",
+        "en": "Ngoi",
+        "slug": "ngoi-lp-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-05",
+        "level": 2,
+        "name": {
+          "local": "Ngoi",
+          "en": "Ngoi",
+          "slug": "ngoi-lp-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.7",
+      "lon": "102.883"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1653057",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Sop Khan Nua",
+      "en": "Sop Khan Nua",
+      "slug": "sop-khan-nua-1653057"
+    },
+    "code": {
+      "id": "1653057",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-05",
+      "level": 2,
+      "name": {
+        "local": "Ngoi",
+        "en": "Ngoi",
+        "slug": "ngoi-lp-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-05",
+        "level": 2,
+        "name": {
+          "local": "Ngoi",
+          "en": "Ngoi",
+          "slug": "ngoi-lp-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.667",
+      "lon": "102.667"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1652873",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Tamong",
+      "en": "Tamong",
+      "slug": "tamong-1652873"
+    },
+    "code": {
+      "id": "1652873",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-05",
+      "level": 2,
+      "name": {
+        "local": "Ngoi",
+        "en": "Ngoi",
+        "slug": "ngoi-lp-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-05",
+        "level": 2,
+        "name": {
+          "local": "Ngoi",
+          "en": "Ngoi",
+          "slug": "ngoi-lp-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.583",
+      "lon": "102.7"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1652799",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Tao Than",
+      "en": "Tao Than",
+      "slug": "tao-than-1652799"
+    },
+    "code": {
+      "id": "1652799",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-05",
+      "level": 2,
+      "name": {
+        "local": "Ngoi",
+        "en": "Ngoi",
+        "slug": "ngoi-lp-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-05",
+        "level": 2,
+        "name": {
+          "local": "Ngoi",
+          "en": "Ngoi",
+          "slug": "ngoi-lp-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.75",
+      "lon": "102.85"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1652597",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Tha Souk",
+      "en": "Tha Souk",
+      "slug": "tha-souk-1652597"
+    },
+    "code": {
+      "id": "1652597",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-05",
+      "level": 2,
+      "name": {
+        "local": "Ngoi",
+        "en": "Ngoi",
+        "slug": "ngoi-lp-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-05",
+        "level": 2,
+        "name": {
+          "local": "Ngoi",
+          "en": "Ngoi",
+          "slug": "ngoi-lp-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.817",
+      "lon": "102.717"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1652600",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Thao Sakhim",
+      "en": "Thao Sakhim",
+      "slug": "thao-sakhim-1652600"
+    },
+    "code": {
+      "id": "1652600",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-05",
+      "level": 2,
+      "name": {
+        "local": "Ngoi",
+        "en": "Ngoi",
+        "slug": "ngoi-lp-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-05",
+        "level": 2,
+        "name": {
+          "local": "Ngoi",
+          "en": "Ngoi",
+          "slug": "ngoi-lp-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.617",
+      "lon": "102.85"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1652377",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Tong Veng",
+      "en": "Tong Veng",
+      "slug": "tong-veng-1652377"
+    },
+    "code": {
+      "id": "1652377",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-05",
+      "level": 2,
+      "name": {
+        "local": "Ngoi",
+        "en": "Ngoi",
+        "slug": "ngoi-lp-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-05",
+        "level": 2,
+        "name": {
+          "local": "Ngoi",
+          "en": "Ngoi",
+          "slug": "ngoi-lp-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.583",
+      "lon": "102.7"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1652232",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Vo Mgou",
+      "en": "Vo Mgou",
+      "slug": "vo-mgou-1652232"
+    },
+    "code": {
+      "id": "1652232",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-05",
+      "level": 2,
+      "name": {
+        "local": "Ngoi",
+        "en": "Ngoi",
+        "slug": "ngoi-lp-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-05",
+        "level": 2,
+        "name": {
+          "local": "Ngoi",
+          "en": "Ngoi",
+          "slug": "ngoi-lp-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.9",
+      "lon": "102.75"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

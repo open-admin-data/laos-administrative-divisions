@@ -1,0 +1,47 @@
+{
+  "id": "VT-08",
+  "level": 2,
+  "level_name": {
+    "local": "ເມືອງ",
+    "en": "District"
+  },
+  "name": {
+    "local": "Xaysetha",
+    "en": "Xaysetha",
+    "slug": "xaysetha-vt-08"
+  },
+  "code": {
+    "id": "VT-08",
+    "iso": null
+  },
+  "parent": {
+    "id": "VT",
+    "level": 1,
+    "name": {
+      "local": "Vientiane Capital",
+      "en": "Vientiane Capital",
+      "slug": "vientiane-capital-vt"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "VT",
+      "level": 1,
+      "name": {
+        "local": "Vientiane Capital",
+        "en": "Vientiane Capital",
+        "slug": "vientiane-capital-vt"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 0
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.978",
+    "lon": "102.674"
+  },
+  "metadata": {},
+  "source": {}
+}

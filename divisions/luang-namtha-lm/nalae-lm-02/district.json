@@ -1,0 +1,47 @@
+{
+  "id": "LM-02",
+  "level": 2,
+  "level_name": {
+    "local": "ເມືອງ",
+    "en": "District"
+  },
+  "name": {
+    "local": "Nalae",
+    "en": "Nalae",
+    "slug": "nalae-lm-02"
+  },
+  "code": {
+    "id": "LM-02",
+    "iso": null
+  },
+  "parent": {
+    "id": "LM",
+    "level": 1,
+    "name": {
+      "local": "Luang Namtha",
+      "en": "Luang Namtha",
+      "slug": "luang-namtha-lm"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "LM",
+      "level": 1,
+      "name": {
+        "local": "Luang Namtha",
+        "en": "Luang Namtha",
+        "slug": "luang-namtha-lm"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 115
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "20.512",
+    "lon": "101.371"
+  },
+  "metadata": {},
+  "source": {}
+}

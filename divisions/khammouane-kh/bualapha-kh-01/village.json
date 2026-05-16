@@ -1,0 +1,6752 @@
+[
+  {
+    "id": "1957260",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Alao",
+      "en": "Ban Alao",
+      "slug": "ban-alao-1957260"
+    },
+    "code": {
+      "id": "1957260",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-01",
+      "level": 2,
+      "name": {
+        "local": "Bualapha",
+        "en": "Bualapha",
+        "slug": "bualapha-kh-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-01",
+        "level": 2,
+        "name": {
+          "local": "Bualapha",
+          "en": "Bualapha",
+          "slug": "bualapha-kh-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.185",
+      "lon": "106.163"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1664969",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Athôm",
+      "en": "Ban Athom",
+      "slug": "ban-athom-1664969"
+    },
+    "code": {
+      "id": "1664969",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-01",
+      "level": 2,
+      "name": {
+        "local": "Bualapha",
+        "en": "Bualapha",
+        "slug": "bualapha-kh-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-01",
+        "level": 2,
+        "name": {
+          "local": "Bualapha",
+          "en": "Bualapha",
+          "slug": "bualapha-kh-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.059",
+      "lon": "106.031"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1957256",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Bounggnalao",
+      "en": "Ban Bounggnalao",
+      "slug": "ban-bounggnalao-1957256"
+    },
+    "code": {
+      "id": "1957256",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-01",
+      "level": 2,
+      "name": {
+        "local": "Bualapha",
+        "en": "Bualapha",
+        "slug": "bualapha-kh-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-01",
+        "level": 2,
+        "name": {
+          "local": "Bualapha",
+          "en": "Bualapha",
+          "slug": "bualapha-kh-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.248",
+      "lon": "106.18"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1957259",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Bounggnalao-Tai",
+      "en": "Ban Bounggnalao-Tai",
+      "slug": "ban-bounggnalao-tai-1957259"
+    },
+    "code": {
+      "id": "1957259",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-01",
+      "level": 2,
+      "name": {
+        "local": "Bualapha",
+        "en": "Bualapha",
+        "slug": "bualapha-kh-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-01",
+        "level": 2,
+        "name": {
+          "local": "Bualapha",
+          "en": "Bualapha",
+          "slug": "bualapha-kh-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.217",
+      "lon": "106.138"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1664758",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Chala",
+      "en": "Ban Chala",
+      "slug": "ban-chala-1664758"
+    },
+    "code": {
+      "id": "1664758",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-01",
+      "level": 2,
+      "name": {
+        "local": "Bualapha",
+        "en": "Bualapha",
+        "slug": "bualapha-kh-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-01",
+        "level": 2,
+        "name": {
+          "local": "Bualapha",
+          "en": "Bualapha",
+          "slug": "bualapha-kh-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.177",
+      "lon": "106.085"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1664757",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Chalèt",
+      "en": "Ban Chalet",
+      "slug": "ban-chalet-1664757"
+    },
+    "code": {
+      "id": "1664757",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-01",
+      "level": 2,
+      "name": {
+        "local": "Bualapha",
+        "en": "Bualapha",
+        "slug": "bualapha-kh-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-01",
+        "level": 2,
+        "name": {
+          "local": "Bualapha",
+          "en": "Bualapha",
+          "slug": "bualapha-kh-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.078",
+      "lon": "106.088"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1664754",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Chalou",
+      "en": "Ban Chalou",
+      "slug": "ban-chalou-1664754"
+    },
+    "code": {
+      "id": "1664754",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-01",
+      "level": 2,
+      "name": {
+        "local": "Bualapha",
+        "en": "Bualapha",
+        "slug": "bualapha-kh-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-01",
+        "level": 2,
+        "name": {
+          "local": "Bualapha",
+          "en": "Bualapha",
+          "slug": "bualapha-kh-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.291",
+      "lon": "105.951"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11234124",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Chamnak",
+      "en": "Ban Chamnak",
+      "slug": "ban-chamnak-11234124"
+    },
+    "code": {
+      "id": "11234124",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-01",
+      "level": 2,
+      "name": {
+        "local": "Bualapha",
+        "en": "Bualapha",
+        "slug": "bualapha-kh-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-01",
+        "level": 2,
+        "name": {
+          "local": "Bualapha",
+          "en": "Bualapha",
+          "slug": "bualapha-kh-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.449",
+      "lon": "105.645"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1664360",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Dou",
+      "en": "Ban Dou",
+      "slug": "ban-dou-1664360"
+    },
+    "code": {
+      "id": "1664360",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-01",
+      "level": 2,
+      "name": {
+        "local": "Bualapha",
+        "en": "Bualapha",
+        "slug": "bualapha-kh-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-01",
+        "level": 2,
+        "name": {
+          "local": "Bualapha",
+          "en": "Bualapha",
+          "slug": "bualapha-kh-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.545",
+      "lon": "105.813"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1664287",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Gnavay",
+      "en": "Ban Gnavay",
+      "slug": "ban-gnavay-1664287"
+    },
+    "code": {
+      "id": "1664287",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-01",
+      "level": 2,
+      "name": {
+        "local": "Bualapha",
+        "en": "Bualapha",
+        "slug": "bualapha-kh-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-01",
+        "level": 2,
+        "name": {
+          "local": "Bualapha",
+          "en": "Bualapha",
+          "slug": "bualapha-kh-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.41",
+      "lon": "105.754"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1664286",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Gnavèt",
+      "en": "Ban Gnavet",
+      "slug": "ban-gnavet-1664286"
+    },
+    "code": {
+      "id": "1664286",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-01",
+      "level": 2,
+      "name": {
+        "local": "Bualapha",
+        "en": "Bualapha",
+        "slug": "bualapha-kh-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-01",
+        "level": 2,
+        "name": {
+          "local": "Bualapha",
+          "en": "Bualapha",
+          "slug": "bualapha-kh-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.344",
+      "lon": "105.83"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1664178",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Hatgnang",
+      "en": "Ban Hatgnang",
+      "slug": "ban-hatgnang-1664178"
+    },
+    "code": {
+      "id": "1664178",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-01",
+      "level": 2,
+      "name": {
+        "local": "Bualapha",
+        "en": "Bualapha",
+        "slug": "bualapha-kh-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-01",
+        "level": 2,
+        "name": {
+          "local": "Bualapha",
+          "en": "Bualapha",
+          "slug": "bualapha-kh-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.458",
+      "lon": "105.676"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11234138",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Heu",
+      "en": "Ban Heu",
+      "slug": "ban-heu-11234138"
+    },
+    "code": {
+      "id": "11234138",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-01",
+      "level": 2,
+      "name": {
+        "local": "Bualapha",
+        "en": "Bualapha",
+        "slug": "bualapha-kh-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-01",
+        "level": 2,
+        "name": {
+          "local": "Bualapha",
+          "en": "Bualapha",
+          "slug": "bualapha-kh-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.583",
+      "lon": "105.744"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1957264",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Hinlap",
+      "en": "Ban Hinlap",
+      "slug": "ban-hinlap-1957264"
+    },
+    "code": {
+      "id": "1957264",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-01",
+      "level": 2,
+      "name": {
+        "local": "Bualapha",
+        "en": "Bualapha",
+        "slug": "bualapha-kh-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-01",
+        "level": 2,
+        "name": {
+          "local": "Bualapha",
+          "en": "Bualapha",
+          "slug": "bualapha-kh-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.154",
+      "lon": "106.051"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1957267",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houayhét",
+      "en": "Ban Houayhet",
+      "slug": "ban-houayhet-1957267"
+    },
+    "code": {
+      "id": "1957267",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-01",
+      "level": 2,
+      "name": {
+        "local": "Bualapha",
+        "en": "Bualapha",
+        "slug": "bualapha-kh-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-01",
+        "level": 2,
+        "name": {
+          "local": "Bualapha",
+          "en": "Bualapha",
+          "slug": "bualapha-kh-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.114",
+      "lon": "106.223"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1663843",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houaykha",
+      "en": "Ban Houaykha",
+      "slug": "ban-houaykha-1663843"
+    },
+    "code": {
+      "id": "1663843",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-01",
+      "level": 2,
+      "name": {
+        "local": "Bualapha",
+        "en": "Bualapha",
+        "slug": "bualapha-kh-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-01",
+        "level": 2,
+        "name": {
+          "local": "Bualapha",
+          "en": "Bualapha",
+          "slug": "bualapha-kh-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.222",
+      "lon": "105.916"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1663688",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houaypa",
+      "en": "Ban Houaypa",
+      "slug": "ban-houaypa-1663688"
+    },
+    "code": {
+      "id": "1663688",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-01",
+      "level": 2,
+      "name": {
+        "local": "Bualapha",
+        "en": "Bualapha",
+        "slug": "bualapha-kh-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-01",
+        "level": 2,
+        "name": {
+          "local": "Bualapha",
+          "en": "Bualapha",
+          "slug": "bualapha-kh-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.091",
+      "lon": "106.046"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1663588",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houaysout",
+      "en": "Ban Houaysout",
+      "slug": "ban-houaysout-1663588"
+    },
+    "code": {
+      "id": "1663588",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-01",
+      "level": 2,
+      "name": {
+        "local": "Bualapha",
+        "en": "Bualapha",
+        "slug": "bualapha-kh-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-01",
+        "level": 2,
+        "name": {
+          "local": "Bualapha",
+          "en": "Bualapha",
+          "slug": "bualapha-kh-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.067",
+      "lon": "106.1"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1663572",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houaytha",
+      "en": "Ban Houaytha",
+      "slug": "ban-houaytha-1663572"
+    },
+    "code": {
+      "id": "1663572",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-01",
+      "level": 2,
+      "name": {
+        "local": "Bualapha",
+        "en": "Bualapha",
+        "slug": "bualapha-kh-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-01",
+        "level": 2,
+        "name": {
+          "local": "Bualapha",
+          "en": "Bualapha",
+          "slug": "bualapha-kh-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.175",
+      "lon": "105.96"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1663434",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Ka-I",
+      "en": "Ban Ka-I",
+      "slug": "ban-ka-i-1663434"
+    },
+    "code": {
+      "id": "1663434",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-01",
+      "level": 2,
+      "name": {
+        "local": "Bualapha",
+        "en": "Bualapha",
+        "slug": "bualapha-kh-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-01",
+        "level": 2,
+        "name": {
+          "local": "Bualapha",
+          "en": "Bualapha",
+          "slug": "bualapha-kh-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.216",
+      "lon": "106.052"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11234131",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Kacham-Noy",
+      "en": "Ban Kacham-Noy",
+      "slug": "ban-kacham-noy-11234131"
+    },
+    "code": {
+      "id": "11234131",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-01",
+      "level": 2,
+      "name": {
+        "local": "Bualapha",
+        "en": "Bualapha",
+        "slug": "bualapha-kh-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-01",
+        "level": 2,
+        "name": {
+          "local": "Bualapha",
+          "en": "Bualapha",
+          "slug": "bualapha-kh-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.48",
+      "lon": "105.637"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1663375",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Kang",
+      "en": "Ban Kang",
+      "slug": "ban-kang-1663375"
+    },
+    "code": {
+      "id": "1663375",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-01",
+      "level": 2,
+      "name": {
+        "local": "Bualapha",
+        "en": "Bualapha",
+        "slug": "bualapha-kh-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-01",
+        "level": 2,
+        "name": {
+          "local": "Bualapha",
+          "en": "Bualapha",
+          "slug": "bualapha-kh-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.101",
+      "lon": "105.89"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1663395",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Kang",
+      "en": "Ban Kang",
+      "slug": "ban-kang-1663395"
+    },
+    "code": {
+      "id": "1663395",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-01",
+      "level": 2,
+      "name": {
+        "local": "Bualapha",
+        "en": "Bualapha",
+        "slug": "bualapha-kh-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-01",
+        "level": 2,
+        "name": {
+          "local": "Bualapha",
+          "en": "Bualapha",
+          "slug": "bualapha-kh-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.42",
+      "lon": "105.671"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1663377",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Kangtaloung",
+      "en": "Ban Kangtaloung",
+      "slug": "ban-kangtaloung-1663377"
+    },
+    "code": {
+      "id": "1663377",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-01",
+      "level": 2,
+      "name": {
+        "local": "Bualapha",
+        "en": "Bualapha",
+        "slug": "bualapha-kh-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-01",
+        "level": 2,
+        "name": {
+          "local": "Bualapha",
+          "en": "Bualapha",
+          "slug": "bualapha-kh-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.097",
+      "lon": "106.206"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1663316",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Katok",
+      "en": "Ban Katok",
+      "slug": "ban-katok-1663316"
+    },
+    "code": {
+      "id": "1663316",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-01",
+      "level": 2,
+      "name": {
+        "local": "Bualapha",
+        "en": "Bualapha",
+        "slug": "bualapha-kh-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-01",
+        "level": 2,
+        "name": {
+          "local": "Bualapha",
+          "en": "Bualapha",
+          "slug": "bualapha-kh-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.122",
+      "lon": "106.042"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11214131",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Kengtapa",
+      "en": "Ban Kengtapa",
+      "slug": "ban-kengtapa-11214131"
+    },
+    "code": {
+      "id": "11214131",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-01",
+      "level": 2,
+      "name": {
+        "local": "Bualapha",
+        "en": "Bualapha",
+        "slug": "bualapha-kh-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-01",
+        "level": 2,
+        "name": {
+          "local": "Bualapha",
+          "en": "Bualapha",
+          "slug": "bualapha-kh-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.114",
+      "lon": "105.871"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1663194",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Kèngvak",
+      "en": "Ban Kengvak",
+      "slug": "ban-kengvak-1663194"
+    },
+    "code": {
+      "id": "1663194",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-01",
+      "level": 2,
+      "name": {
+        "local": "Bualapha",
+        "en": "Bualapha",
+        "slug": "bualapha-kh-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-01",
+        "level": 2,
+        "name": {
+          "local": "Bualapha",
+          "en": "Bualapha",
+          "slug": "bualapha-kh-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.462",
+      "lon": "105.686"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1663146",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Khagnou",
+      "en": "Ban Khagnou",
+      "slug": "ban-khagnou-1663146"
+    },
+    "code": {
+      "id": "1663146",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-01",
+      "level": 2,
+      "name": {
+        "local": "Bualapha",
+        "en": "Bualapha",
+        "slug": "bualapha-kh-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-01",
+        "level": 2,
+        "name": {
+          "local": "Bualapha",
+          "en": "Bualapha",
+          "slug": "bualapha-kh-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.447",
+      "lon": "105.7"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11214128",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Khai",
+      "en": "Ban Khai",
+      "slug": "ban-khai-11214128"
+    },
+    "code": {
+      "id": "11214128",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-01",
+      "level": 2,
+      "name": {
+        "local": "Bualapha",
+        "en": "Bualapha",
+        "slug": "bualapha-kh-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-01",
+        "level": 2,
+        "name": {
+          "local": "Bualapha",
+          "en": "Bualapha",
+          "slug": "bualapha-kh-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.156",
+      "lon": "105.821"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11214143",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Khè",
+      "en": "Ban Khe",
+      "slug": "ban-khe-11214143"
+    },
+    "code": {
+      "id": "11214143",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-01",
+      "level": 2,
+      "name": {
+        "local": "Bualapha",
+        "en": "Bualapha",
+        "slug": "bualapha-kh-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-01",
+        "level": 2,
+        "name": {
+          "local": "Bualapha",
+          "en": "Bualapha",
+          "slug": "bualapha-kh-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.129",
+      "lon": "105.968"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11214148",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Khôk",
+      "en": "Ban Khok",
+      "slug": "ban-khok-11214148"
+    },
+    "code": {
+      "id": "11214148",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-01",
+      "level": 2,
+      "name": {
+        "local": "Bualapha",
+        "en": "Bualapha",
+        "slug": "bualapha-kh-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-01",
+        "level": 2,
+        "name": {
+          "local": "Bualapha",
+          "en": "Bualapha",
+          "slug": "bualapha-kh-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.24",
+      "lon": "105.826"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1662762",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Kouankapoung",
+      "en": "Ban Kouankapoung",
+      "slug": "ban-kouankapoung-1662762"
+    },
+    "code": {
+      "id": "1662762",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-01",
+      "level": 2,
+      "name": {
+        "local": "Bualapha",
+        "en": "Bualapha",
+        "slug": "bualapha-kh-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-01",
+        "level": 2,
+        "name": {
+          "local": "Bualapha",
+          "en": "Bualapha",
+          "slug": "bualapha-kh-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.37",
+      "lon": "105.821"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1662761",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Kouankhagnôm",
+      "en": "Ban Kouankhagnom",
+      "slug": "ban-kouankhagnom-1662761"
+    },
+    "code": {
+      "id": "1662761",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-01",
+      "level": 2,
+      "name": {
+        "local": "Bualapha",
+        "en": "Bualapha",
+        "slug": "bualapha-kh-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-01",
+        "level": 2,
+        "name": {
+          "local": "Bualapha",
+          "en": "Bualapha",
+          "slug": "bualapha-kh-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.389",
+      "lon": "105.791"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1657163",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Kouk",
+      "en": "Ban Kouk",
+      "slug": "ban-kouk-1657163"
+    },
+    "code": {
+      "id": "1657163",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-01",
+      "level": 2,
+      "name": {
+        "local": "Bualapha",
+        "en": "Bualapha",
+        "slug": "bualapha-kh-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-01",
+        "level": 2,
+        "name": {
+          "local": "Bualapha",
+          "en": "Bualapha",
+          "slug": "bualapha-kh-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.161",
+      "lon": "106.221"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1957265",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Kouk",
+      "en": "Ban Kouk",
+      "slug": "ban-kouk-1957265"
+    },
+    "code": {
+      "id": "1957265",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-01",
+      "level": 2,
+      "name": {
+        "local": "Bualapha",
+        "en": "Bualapha",
+        "slug": "bualapha-kh-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-01",
+        "level": 2,
+        "name": {
+          "local": "Bualapha",
+          "en": "Bualapha",
+          "slug": "bualapha-kh-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.161",
+      "lon": "106.219"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11214120",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Koutboun",
+      "en": "Ban Koutboun",
+      "slug": "ban-koutboun-11214120"
+    },
+    "code": {
+      "id": "11214120",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-01",
+      "level": 2,
+      "name": {
+        "local": "Bualapha",
+        "en": "Bualapha",
+        "slug": "bualapha-kh-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-01",
+        "level": 2,
+        "name": {
+          "local": "Bualapha",
+          "en": "Bualapha",
+          "slug": "bualapha-kh-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.305",
+      "lon": "105.74"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1662635",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Langkhang",
+      "en": "Ban Langkhang",
+      "slug": "ban-langkhang-1662635"
+    },
+    "code": {
+      "id": "1662635",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-01",
+      "level": 2,
+      "name": {
+        "local": "Bualapha",
+        "en": "Bualapha",
+        "slug": "bualapha-kh-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-01",
+        "level": 2,
+        "name": {
+          "local": "Bualapha",
+          "en": "Bualapha",
+          "slug": "bualapha-kh-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.563",
+      "lon": "105.727"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1662630",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Langôk",
+      "en": "Ban Langok",
+      "slug": "ban-langok-1662630"
+    },
+    "code": {
+      "id": "1662630",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-01",
+      "level": 2,
+      "name": {
+        "local": "Bualapha",
+        "en": "Bualapha",
+        "slug": "bualapha-kh-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-01",
+        "level": 2,
+        "name": {
+          "local": "Bualapha",
+          "en": "Bualapha",
+          "slug": "bualapha-kh-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.127",
+      "lon": "105.854"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11214144",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Lathama",
+      "en": "Ban Lathama",
+      "slug": "ban-lathama-11214144"
+    },
+    "code": {
+      "id": "11214144",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-01",
+      "level": 2,
+      "name": {
+        "local": "Bualapha",
+        "en": "Bualapha",
+        "slug": "bualapha-kh-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-01",
+        "level": 2,
+        "name": {
+          "local": "Bualapha",
+          "en": "Bualapha",
+          "slug": "bualapha-kh-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.132",
+      "lon": "105.917"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11214145",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Lay",
+      "en": "Ban Lay",
+      "slug": "ban-lay-11214145"
+    },
+    "code": {
+      "id": "11214145",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-01",
+      "level": 2,
+      "name": {
+        "local": "Bualapha",
+        "en": "Bualapha",
+        "slug": "bualapha-kh-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-01",
+        "level": 2,
+        "name": {
+          "local": "Bualapha",
+          "en": "Bualapha",
+          "slug": "bualapha-kh-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.123",
+      "lon": "105.896"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1662459",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Lobôy",
+      "en": "Ban Loboy",
+      "slug": "ban-loboy-1662459"
+    },
+    "code": {
+      "id": "1662459",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-01",
+      "level": 2,
+      "name": {
+        "local": "Bualapha",
+        "en": "Bualapha",
+        "slug": "bualapha-kh-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-01",
+        "level": 2,
+        "name": {
+          "local": "Bualapha",
+          "en": "Bualapha",
+          "slug": "bualapha-kh-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.2",
+      "lon": "106.167"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1662460",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Lobôy",
+      "en": "Ban Loboy",
+      "slug": "ban-loboy-1662460"
+    },
+    "code": {
+      "id": "1662460",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-01",
+      "level": 2,
+      "name": {
+        "local": "Bualapha",
+        "en": "Bualapha",
+        "slug": "bualapha-kh-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-01",
+        "level": 2,
+        "name": {
+          "local": "Bualapha",
+          "en": "Bualapha",
+          "slug": "bualapha-kh-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.217",
+      "lon": "106.133"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11214146",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Mouangsoum",
+      "en": "Ban Mouangsoum",
+      "slug": "ban-mouangsoum-11214146"
+    },
+    "code": {
+      "id": "11214146",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-01",
+      "level": 2,
+      "name": {
+        "local": "Bualapha",
+        "en": "Bualapha",
+        "slug": "bualapha-kh-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-01",
+        "level": 2,
+        "name": {
+          "local": "Bualapha",
+          "en": "Bualapha",
+          "slug": "bualapha-kh-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.149",
+      "lon": "105.957"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1661270",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Na Phao",
+      "en": "Ban Na Phao",
+      "slug": "ban-na-phao-1661270"
+    },
+    "code": {
+      "id": "1661270",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-01",
+      "level": 2,
+      "name": {
+        "local": "Bualapha",
+        "en": "Bualapha",
+        "slug": "bualapha-kh-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-01",
+        "level": 2,
+        "name": {
+          "local": "Bualapha",
+          "en": "Bualapha",
+          "slug": "bualapha-kh-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.583",
+      "lon": "105.733"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1662090",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nachaling",
+      "en": "Ban Nachaling",
+      "slug": "ban-nachaling-1662090"
+    },
+    "code": {
+      "id": "1662090",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-01",
+      "level": 2,
+      "name": {
+        "local": "Bualapha",
+        "en": "Bualapha",
+        "slug": "bualapha-kh-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-01",
+        "level": 2,
+        "name": {
+          "local": "Bualapha",
+          "en": "Bualapha",
+          "slug": "bualapha-kh-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.071",
+      "lon": "106.1"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1662071",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nachat",
+      "en": "Ban Nachat",
+      "slug": "ban-nachat-1662071"
+    },
+    "code": {
+      "id": "1662071",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-01",
+      "level": 2,
+      "name": {
+        "local": "Bualapha",
+        "en": "Bualapha",
+        "slug": "bualapha-kh-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-01",
+        "level": 2,
+        "name": {
+          "local": "Bualapha",
+          "en": "Bualapha",
+          "slug": "bualapha-kh-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.545",
+      "lon": "105.686"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1661937",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nahom",
+      "en": "Ban Nahom",
+      "slug": "ban-nahom-1661937"
+    },
+    "code": {
+      "id": "1661937",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-01",
+      "level": 2,
+      "name": {
+        "local": "Bualapha",
+        "en": "Bualapha",
+        "slug": "bualapha-kh-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-01",
+        "level": 2,
+        "name": {
+          "local": "Bualapha",
+          "en": "Bualapha",
+          "slug": "bualapha-kh-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.544",
+      "lon": "105.697"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11234127",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nahuang",
+      "en": "Ban Nahuang",
+      "slug": "ban-nahuang-11234127"
+    },
+    "code": {
+      "id": "11234127",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-01",
+      "level": 2,
+      "name": {
+        "local": "Bualapha",
+        "en": "Bualapha",
+        "slug": "bualapha-kh-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-01",
+        "level": 2,
+        "name": {
+          "local": "Bualapha",
+          "en": "Bualapha",
+          "slug": "bualapha-kh-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.569",
+      "lon": "105.671"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13433872",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nakachan",
+      "en": "Ban Nakachan",
+      "slug": "ban-nakachan-13433872"
+    },
+    "code": {
+      "id": "13433872",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-01",
+      "level": 2,
+      "name": {
+        "local": "Bualapha",
+        "en": "Bualapha",
+        "slug": "bualapha-kh-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-01",
+        "level": 2,
+        "name": {
+          "local": "Bualapha",
+          "en": "Bualapha",
+          "slug": "bualapha-kh-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.375",
+      "lon": "105.73"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11214109",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nakachan-Tha",
+      "en": "Ban Nakachan-Tha",
+      "slug": "ban-nakachan-tha-11214109"
+    },
+    "code": {
+      "id": "11214109",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-01",
+      "level": 2,
+      "name": {
+        "local": "Bualapha",
+        "en": "Bualapha",
+        "slug": "bualapha-kh-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-01",
+        "level": 2,
+        "name": {
+          "local": "Bualapha",
+          "en": "Bualapha",
+          "slug": "bualapha-kh-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.327",
+      "lon": "105.719"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1661901",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nakachan-Thong",
+      "en": "Ban Nakachan-Thong",
+      "slug": "ban-nakachan-thong-1661901"
+    },
+    "code": {
+      "id": "1661901",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-01",
+      "level": 2,
+      "name": {
+        "local": "Bualapha",
+        "en": "Bualapha",
+        "slug": "bualapha-kh-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-01",
+        "level": 2,
+        "name": {
+          "local": "Bualapha",
+          "en": "Bualapha",
+          "slug": "bualapha-kh-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.321",
+      "lon": "105.706"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1661834",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nakhagnôm",
+      "en": "Ban Nakhagnom",
+      "slug": "ban-nakhagnom-1661834"
+    },
+    "code": {
+      "id": "1661834",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-01",
+      "level": 2,
+      "name": {
+        "local": "Bualapha",
+        "en": "Bualapha",
+        "slug": "bualapha-kh-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-01",
+        "level": 2,
+        "name": {
+          "local": "Bualapha",
+          "en": "Bualapha",
+          "slug": "bualapha-kh-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.374",
+      "lon": "105.777"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1661644",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nalouang",
+      "en": "Ban Nalouang",
+      "slug": "ban-nalouang-1661644"
+    },
+    "code": {
+      "id": "1661644",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-01",
+      "level": 2,
+      "name": {
+        "local": "Bualapha",
+        "en": "Bualapha",
+        "slug": "bualapha-kh-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-01",
+        "level": 2,
+        "name": {
+          "local": "Bualapha",
+          "en": "Bualapha",
+          "slug": "bualapha-kh-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.303",
+      "lon": "105.743"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1661640",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nalouang-Nua",
+      "en": "Ban Nalouang-Nua",
+      "slug": "ban-nalouang-nua-1661640"
+    },
+    "code": {
+      "id": "1661640",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-01",
+      "level": 2,
+      "name": {
+        "local": "Bualapha",
+        "en": "Bualapha",
+        "slug": "bualapha-kh-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-01",
+        "level": 2,
+        "name": {
+          "local": "Bualapha",
+          "en": "Bualapha",
+          "slug": "bualapha-kh-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.191",
+      "lon": "105.963"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1661522",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Namlin",
+      "en": "Ban Namlin",
+      "slug": "ban-namlin-1661522"
+    },
+    "code": {
+      "id": "1661522",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-01",
+      "level": 2,
+      "name": {
+        "local": "Bualapha",
+        "en": "Bualapha",
+        "slug": "bualapha-kh-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-01",
+        "level": 2,
+        "name": {
+          "local": "Bualapha",
+          "en": "Bualapha",
+          "slug": "bualapha-kh-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.066",
+      "lon": "106.08"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1662204",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Namoun",
+      "en": "Ban Namoun",
+      "slug": "ban-namoun-1662204"
+    },
+    "code": {
+      "id": "1662204",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-01",
+      "level": 2,
+      "name": {
+        "local": "Bualapha",
+        "en": "Bualapha",
+        "slug": "bualapha-kh-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-01",
+        "level": 2,
+        "name": {
+          "local": "Bualapha",
+          "en": "Bualapha",
+          "slug": "bualapha-kh-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.143",
+      "lon": "106.098"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11214129",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Namthông",
+      "en": "Ban Namthong",
+      "slug": "ban-namthong-11214129"
+    },
+    "code": {
+      "id": "11214129",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-01",
+      "level": 2,
+      "name": {
+        "local": "Bualapha",
+        "en": "Bualapha",
+        "slug": "bualapha-kh-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-01",
+        "level": 2,
+        "name": {
+          "local": "Bualapha",
+          "en": "Bualapha",
+          "slug": "bualapha-kh-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.125",
+      "lon": "105.816"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1661285",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Napang",
+      "en": "Ban Napang",
+      "slug": "ban-napang-1661285"
+    },
+    "code": {
+      "id": "1661285",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-01",
+      "level": 2,
+      "name": {
+        "local": "Bualapha",
+        "en": "Bualapha",
+        "slug": "bualapha-kh-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-01",
+        "level": 2,
+        "name": {
+          "local": "Bualapha",
+          "en": "Bualapha",
+          "slug": "bualapha-kh-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.365",
+      "lon": "105.725"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1661281",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Napéng",
+      "en": "Ban Napeng",
+      "slug": "ban-napeng-1661281"
+    },
+    "code": {
+      "id": "1661281",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-01",
+      "level": 2,
+      "name": {
+        "local": "Bualapha",
+        "en": "Bualapha",
+        "slug": "bualapha-kh-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-01",
+        "level": 2,
+        "name": {
+          "local": "Bualapha",
+          "en": "Bualapha",
+          "slug": "bualapha-kh-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.324",
+      "lon": "105.675"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1661274",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Naphanang",
+      "en": "Ban Naphanang",
+      "slug": "ban-naphanang-1661274"
+    },
+    "code": {
+      "id": "1661274",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-01",
+      "level": 2,
+      "name": {
+        "local": "Bualapha",
+        "en": "Bualapha",
+        "slug": "bualapha-kh-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-01",
+        "level": 2,
+        "name": {
+          "local": "Bualapha",
+          "en": "Bualapha",
+          "slug": "bualapha-kh-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.303",
+      "lon": "105.764"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11214126",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Naphianglan",
+      "en": "Ban Naphianglan",
+      "slug": "ban-naphianglan-11214126"
+    },
+    "code": {
+      "id": "11214126",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-01",
+      "level": 2,
+      "name": {
+        "local": "Bualapha",
+        "en": "Bualapha",
+        "slug": "bualapha-kh-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-01",
+        "level": 2,
+        "name": {
+          "local": "Bualapha",
+          "en": "Bualapha",
+          "slug": "bualapha-kh-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.187",
+      "lon": "105.991"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1661201",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Napoung",
+      "en": "Ban Napoung",
+      "slug": "ban-napoung-1661201"
+    },
+    "code": {
+      "id": "1661201",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-01",
+      "level": 2,
+      "name": {
+        "local": "Bualapha",
+        "en": "Bualapha",
+        "slug": "bualapha-kh-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-01",
+        "level": 2,
+        "name": {
+          "local": "Bualapha",
+          "en": "Bualapha",
+          "slug": "bualapha-kh-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.303",
+      "lon": "105.775"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1661185",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nasalon",
+      "en": "Ban Nasalon",
+      "slug": "ban-nasalon-1661185"
+    },
+    "code": {
+      "id": "1661185",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-01",
+      "level": 2,
+      "name": {
+        "local": "Bualapha",
+        "en": "Bualapha",
+        "slug": "bualapha-kh-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-01",
+        "level": 2,
+        "name": {
+          "local": "Bualapha",
+          "en": "Bualapha",
+          "slug": "bualapha-kh-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.074",
+      "lon": "105.904"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1661120",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Natangchai",
+      "en": "Ban Natangchai",
+      "slug": "ban-natangchai-1661120"
+    },
+    "code": {
+      "id": "1661120",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-01",
+      "level": 2,
+      "name": {
+        "local": "Bualapha",
+        "en": "Bualapha",
+        "slug": "bualapha-kh-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-01",
+        "level": 2,
+        "name": {
+          "local": "Bualapha",
+          "en": "Bualapha",
+          "slug": "bualapha-kh-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.484",
+      "lon": "105.649"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1661050",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Natông",
+      "en": "Ban Natong",
+      "slug": "ban-natong-1661050"
+    },
+    "code": {
+      "id": "1661050",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-01",
+      "level": 2,
+      "name": {
+        "local": "Bualapha",
+        "en": "Bualapha",
+        "slug": "bualapha-kh-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-01",
+        "level": 2,
+        "name": {
+          "local": "Bualapha",
+          "en": "Bualapha",
+          "slug": "bualapha-kh-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.55",
+      "lon": "105.752"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1661036",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Natoy",
+      "en": "Ban Natoy",
+      "slug": "ban-natoy-1661036"
+    },
+    "code": {
+      "id": "1661036",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-01",
+      "level": 2,
+      "name": {
+        "local": "Bualapha",
+        "en": "Bualapha",
+        "slug": "bualapha-kh-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-01",
+        "level": 2,
+        "name": {
+          "local": "Bualapha",
+          "en": "Bualapha",
+          "slug": "bualapha-kh-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.305",
+      "lon": "105.796"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11234116",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Navè",
+      "en": "Ban Nave",
+      "slug": "ban-nave-11234116"
+    },
+    "code": {
+      "id": "11234116",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-01",
+      "level": 2,
+      "name": {
+        "local": "Bualapha",
+        "en": "Bualapha",
+        "slug": "bualapha-kh-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-01",
+        "level": 2,
+        "name": {
+          "local": "Bualapha",
+          "en": "Bualapha",
+          "slug": "bualapha-kh-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.374",
+      "lon": "105.792"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11234150",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nga",
+      "en": "Ban Nga",
+      "slug": "ban-nga-11234150"
+    },
+    "code": {
+      "id": "11234150",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-01",
+      "level": 2,
+      "name": {
+        "local": "Bualapha",
+        "en": "Bualapha",
+        "slug": "bualapha-kh-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-01",
+        "level": 2,
+        "name": {
+          "local": "Bualapha",
+          "en": "Bualapha",
+          "slug": "bualapha-kh-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.509",
+      "lon": "105.842"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1660872",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nongboua",
+      "en": "Ban Nongboua",
+      "slug": "ban-nongboua-1660872"
+    },
+    "code": {
+      "id": "1660872",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-01",
+      "level": 2,
+      "name": {
+        "local": "Bualapha",
+        "en": "Bualapha",
+        "slug": "bualapha-kh-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-01",
+        "level": 2,
+        "name": {
+          "local": "Bualapha",
+          "en": "Bualapha",
+          "slug": "bualapha-kh-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.56",
+      "lon": "105.752"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1662081",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nongchan",
+      "en": "Ban Nongchan",
+      "slug": "ban-nongchan-1662081"
+    },
+    "code": {
+      "id": "1662081",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-01",
+      "level": 2,
+      "name": {
+        "local": "Bualapha",
+        "en": "Bualapha",
+        "slug": "bualapha-kh-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-01",
+        "level": 2,
+        "name": {
+          "local": "Bualapha",
+          "en": "Bualapha",
+          "slug": "bualapha-kh-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.556",
+      "lon": "105.721"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11214127",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nongkapat",
+      "en": "Ban Nongkapat",
+      "slug": "ban-nongkapat-11214127"
+    },
+    "code": {
+      "id": "11214127",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-01",
+      "level": 2,
+      "name": {
+        "local": "Bualapha",
+        "en": "Bualapha",
+        "slug": "bualapha-kh-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-01",
+        "level": 2,
+        "name": {
+          "local": "Bualapha",
+          "en": "Bualapha",
+          "slug": "bualapha-kh-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.133",
+      "lon": "105.844"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1660738",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nongnô",
+      "en": "Ban Nongno",
+      "slug": "ban-nongno-1660738"
+    },
+    "code": {
+      "id": "1660738",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-01",
+      "level": 2,
+      "name": {
+        "local": "Bualapha",
+        "en": "Bualapha",
+        "slug": "bualapha-kh-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-01",
+        "level": 2,
+        "name": {
+          "local": "Bualapha",
+          "en": "Bualapha",
+          "slug": "bualapha-kh-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.535",
+      "lon": "105.804"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11234113",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nongnô-Tai",
+      "en": "Ban Nongno-Tai",
+      "slug": "ban-nongno-tai-11234113"
+    },
+    "code": {
+      "id": "11234113",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-01",
+      "level": 2,
+      "name": {
+        "local": "Bualapha",
+        "en": "Bualapha",
+        "slug": "bualapha-kh-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-01",
+        "level": 2,
+        "name": {
+          "local": "Bualapha",
+          "en": "Bualapha",
+          "slug": "bualapha-kh-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.528",
+      "lon": "105.81"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11234151",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nongping",
+      "en": "Ban Nongping",
+      "slug": "ban-nongping-11234151"
+    },
+    "code": {
+      "id": "11234151",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-01",
+      "level": 2,
+      "name": {
+        "local": "Bualapha",
+        "en": "Bualapha",
+        "slug": "bualapha-kh-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-01",
+        "level": 2,
+        "name": {
+          "local": "Bualapha",
+          "en": "Bualapha",
+          "slug": "bualapha-kh-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.341",
+      "lon": "105.844"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11234148",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nongsèng",
+      "en": "Ban Nongseng",
+      "slug": "ban-nongseng-11234148"
+    },
+    "code": {
+      "id": "11234148",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-01",
+      "level": 2,
+      "name": {
+        "local": "Bualapha",
+        "en": "Bualapha",
+        "slug": "bualapha-kh-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-01",
+        "level": 2,
+        "name": {
+          "local": "Bualapha",
+          "en": "Bualapha",
+          "slug": "bualapha-kh-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.532",
+      "lon": "105.801"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1957255",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Paak",
+      "en": "Ban Paak",
+      "slug": "ban-paak-1957255"
+    },
+    "code": {
+      "id": "1957255",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-01",
+      "level": 2,
+      "name": {
+        "local": "Bualapha",
+        "en": "Bualapha",
+        "slug": "bualapha-kh-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-01",
+        "level": 2,
+        "name": {
+          "local": "Bualapha",
+          "en": "Bualapha",
+          "slug": "bualapha-kh-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.254",
+      "lon": "106.145"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1660521",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Pakhiat",
+      "en": "Ban Pakhiat",
+      "slug": "ban-pakhiat-1660521"
+    },
+    "code": {
+      "id": "1660521",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-01",
+      "level": 2,
+      "name": {
+        "local": "Bualapha",
+        "en": "Bualapha",
+        "slug": "bualapha-kh-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-01",
+        "level": 2,
+        "name": {
+          "local": "Bualapha",
+          "en": "Bualapha",
+          "slug": "bualapha-kh-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.218",
+      "lon": "105.895"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11234130",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Pakngo",
+      "en": "Ban Pakngo",
+      "slug": "ban-pakngo-11234130"
+    },
+    "code": {
+      "id": "11234130",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-01",
+      "level": 2,
+      "name": {
+        "local": "Bualapha",
+        "en": "Bualapha",
+        "slug": "bualapha-kh-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-01",
+        "level": 2,
+        "name": {
+          "local": "Bualapha",
+          "en": "Bualapha",
+          "slug": "bualapha-kh-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.486",
+      "lon": "105.654"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11214130",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Pakouay",
+      "en": "Ban Pakouay",
+      "slug": "ban-pakouay-11214130"
+    },
+    "code": {
+      "id": "11214130",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-01",
+      "level": 2,
+      "name": {
+        "local": "Bualapha",
+        "en": "Bualapha",
+        "slug": "bualapha-kh-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-01",
+        "level": 2,
+        "name": {
+          "local": "Bualapha",
+          "en": "Bualapha",
+          "slug": "bualapha-kh-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.107",
+      "lon": "105.845"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1660475",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Pakouay-Nua",
+      "en": "Ban Pakouay-Nua",
+      "slug": "ban-pakouay-nua-1660475"
+    },
+    "code": {
+      "id": "1660475",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-01",
+      "level": 2,
+      "name": {
+        "local": "Bualapha",
+        "en": "Bualapha",
+        "slug": "bualapha-kh-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-01",
+        "level": 2,
+        "name": {
+          "local": "Bualapha",
+          "en": "Bualapha",
+          "slug": "bualapha-kh-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.306",
+      "lon": "105.747"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1660474",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Pakouay-Tai",
+      "en": "Ban Pakouay-Tai",
+      "slug": "ban-pakouay-tai-1660474"
+    },
+    "code": {
+      "id": "1660474",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-01",
+      "level": 2,
+      "name": {
+        "local": "Bualapha",
+        "en": "Bualapha",
+        "slug": "bualapha-kh-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-01",
+        "level": 2,
+        "name": {
+          "local": "Bualapha",
+          "en": "Bualapha",
+          "slug": "bualapha-kh-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.315",
+      "lon": "105.73"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1660464",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Pakphanang",
+      "en": "Ban Pakphanang",
+      "slug": "ban-pakphanang-1660464"
+    },
+    "code": {
+      "id": "1660464",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-01",
+      "level": 2,
+      "name": {
+        "local": "Bualapha",
+        "en": "Bualapha",
+        "slug": "bualapha-kh-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-01",
+        "level": 2,
+        "name": {
+          "local": "Bualapha",
+          "en": "Bualapha",
+          "slug": "bualapha-kh-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.399",
+      "lon": "105.732"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1660362",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Patan",
+      "en": "Ban Patan",
+      "slug": "ban-patan-1660362"
+    },
+    "code": {
+      "id": "1660362",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-01",
+      "level": 2,
+      "name": {
+        "local": "Bualapha",
+        "en": "Bualapha",
+        "slug": "bualapha-kh-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-01",
+        "level": 2,
+        "name": {
+          "local": "Bualapha",
+          "en": "Bualapha",
+          "slug": "bualapha-kh-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.136",
+      "lon": "106.061"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1957257",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phathoung",
+      "en": "Ban Phathoung",
+      "slug": "ban-phathoung-1957257"
+    },
+    "code": {
+      "id": "1957257",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-01",
+      "level": 2,
+      "name": {
+        "local": "Bualapha",
+        "en": "Bualapha",
+        "slug": "bualapha-kh-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-01",
+        "level": 2,
+        "name": {
+          "local": "Bualapha",
+          "en": "Bualapha",
+          "slug": "bualapha-kh-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.25",
+      "lon": "106.184"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11214122",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phathoung",
+      "en": "Ban Phathoung",
+      "slug": "ban-phathoung-11214122"
+    },
+    "code": {
+      "id": "11214122",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-01",
+      "level": 2,
+      "name": {
+        "local": "Bualapha",
+        "en": "Bualapha",
+        "slug": "bualapha-kh-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-01",
+        "level": 2,
+        "name": {
+          "local": "Bualapha",
+          "en": "Bualapha",
+          "slug": "bualapha-kh-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.311",
+      "lon": "105.912"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1659967",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phôndua",
+      "en": "Ban Phondua",
+      "slug": "ban-phondua-1659967"
+    },
+    "code": {
+      "id": "1659967",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-01",
+      "level": 2,
+      "name": {
+        "local": "Bualapha",
+        "en": "Bualapha",
+        "slug": "bualapha-kh-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-01",
+        "level": 2,
+        "name": {
+          "local": "Bualapha",
+          "en": "Bualapha",
+          "slug": "bualapha-kh-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.557",
+      "lon": "105.684"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1659947",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phônhinhè",
+      "en": "Ban Phonhinhe",
+      "slug": "ban-phonhinhe-1659947"
+    },
+    "code": {
+      "id": "1659947",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-01",
+      "level": 2,
+      "name": {
+        "local": "Bualapha",
+        "en": "Bualapha",
+        "slug": "bualapha-kh-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-01",
+        "level": 2,
+        "name": {
+          "local": "Bualapha",
+          "en": "Bualapha",
+          "slug": "bualapha-kh-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.459",
+      "lon": "105.653"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11234112",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phônkatè",
+      "en": "Ban Phonkate",
+      "slug": "ban-phonkate-11234112"
+    },
+    "code": {
+      "id": "11234112",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-01",
+      "level": 2,
+      "name": {
+        "local": "Bualapha",
+        "en": "Bualapha",
+        "slug": "bualapha-kh-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-01",
+        "level": 2,
+        "name": {
+          "local": "Bualapha",
+          "en": "Bualapha",
+          "slug": "bualapha-kh-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.471",
+      "lon": "105.657"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1659921",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phônmouang",
+      "en": "Ban Phonmouang",
+      "slug": "ban-phonmouang-1659921"
+    },
+    "code": {
+      "id": "1659921",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-01",
+      "level": 2,
+      "name": {
+        "local": "Bualapha",
+        "en": "Bualapha",
+        "slug": "bualapha-kh-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-01",
+        "level": 2,
+        "name": {
+          "local": "Bualapha",
+          "en": "Bualapha",
+          "slug": "bualapha-kh-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.487",
+      "lon": "105.614"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1659894",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phônsangphai",
+      "en": "Ban Phonsangphai",
+      "slug": "ban-phonsangphai-1659894"
+    },
+    "code": {
+      "id": "1659894",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-01",
+      "level": 2,
+      "name": {
+        "local": "Bualapha",
+        "en": "Bualapha",
+        "slug": "bualapha-kh-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-01",
+        "level": 2,
+        "name": {
+          "local": "Bualapha",
+          "en": "Bualapha",
+          "slug": "bualapha-kh-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.429",
+      "lon": "105.661"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1957270",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phouhang",
+      "en": "Ban Phouhang",
+      "slug": "ban-phouhang-1957270"
+    },
+    "code": {
+      "id": "1957270",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-01",
+      "level": 2,
+      "name": {
+        "local": "Bualapha",
+        "en": "Bualapha",
+        "slug": "bualapha-kh-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-01",
+        "level": 2,
+        "name": {
+          "local": "Bualapha",
+          "en": "Bualapha",
+          "slug": "bualapha-kh-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.059",
+      "lon": "106.059"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1659666",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Pôngdông",
+      "en": "Ban Pongdong",
+      "slug": "ban-pongdong-1659666"
+    },
+    "code": {
+      "id": "1659666",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-01",
+      "level": 2,
+      "name": {
+        "local": "Bualapha",
+        "en": "Bualapha",
+        "slug": "bualapha-kh-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-01",
+        "level": 2,
+        "name": {
+          "local": "Bualapha",
+          "en": "Bualapha",
+          "slug": "bualapha-kh-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.569",
+      "lon": "105.678"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1659632",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Poungbon",
+      "en": "Ban Poungbon",
+      "slug": "ban-poungbon-1659632"
+    },
+    "code": {
+      "id": "1659632",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-01",
+      "level": 2,
+      "name": {
+        "local": "Bualapha",
+        "en": "Bualapha",
+        "slug": "bualapha-kh-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-01",
+        "level": 2,
+        "name": {
+          "local": "Bualapha",
+          "en": "Bualapha",
+          "slug": "bualapha-kh-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.226",
+      "lon": "105.863"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1659563",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Saang",
+      "en": "Ban Saang",
+      "slug": "ban-saang-1659563"
+    },
+    "code": {
+      "id": "1659563",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-01",
+      "level": 2,
+      "name": {
+        "local": "Bualapha",
+        "en": "Bualapha",
+        "slug": "bualapha-kh-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-01",
+        "level": 2,
+        "name": {
+          "local": "Bualapha",
+          "en": "Bualapha",
+          "slug": "bualapha-kh-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.434",
+      "lon": "105.723"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1659552",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Saeum",
+      "en": "Ban Saeum",
+      "slug": "ban-saeum-1659552"
+    },
+    "code": {
+      "id": "1659552",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-01",
+      "level": 2,
+      "name": {
+        "local": "Bualapha",
+        "en": "Bualapha",
+        "slug": "bualapha-kh-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-01",
+        "level": 2,
+        "name": {
+          "local": "Bualapha",
+          "en": "Bualapha",
+          "slug": "bualapha-kh-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.197",
+      "lon": "105.942"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1659462",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban San",
+      "en": "Ban San",
+      "slug": "ban-san-1659462"
+    },
+    "code": {
+      "id": "1659462",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-01",
+      "level": 2,
+      "name": {
+        "local": "Bualapha",
+        "en": "Bualapha",
+        "slug": "bualapha-kh-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-01",
+        "level": 2,
+        "name": {
+          "local": "Bualapha",
+          "en": "Bualapha",
+          "slug": "bualapha-kh-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.243",
+      "lon": "106.165"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1659271",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Sènphan",
+      "en": "Ban Senphan",
+      "slug": "ban-senphan-1659271"
+    },
+    "code": {
+      "id": "1659271",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-01",
+      "level": 2,
+      "name": {
+        "local": "Bualapha",
+        "en": "Bualapha",
+        "slug": "bualapha-kh-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-01",
+        "level": 2,
+        "name": {
+          "local": "Bualapha",
+          "en": "Bualapha",
+          "slug": "bualapha-kh-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.489",
+      "lon": "105.697"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1659086",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Sôppéng",
+      "en": "Ban Soppeng",
+      "slug": "ban-soppeng-1659086"
+    },
+    "code": {
+      "id": "1659086",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-01",
+      "level": 2,
+      "name": {
+        "local": "Bualapha",
+        "en": "Bualapha",
+        "slug": "bualapha-kh-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-01",
+        "level": 2,
+        "name": {
+          "local": "Bualapha",
+          "en": "Bualapha",
+          "slug": "bualapha-kh-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.355",
+      "lon": "105.715"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1659037",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Soub Phé",
+      "en": "Ban Soub Phe",
+      "slug": "ban-soub-phe-1659037"
+    },
+    "code": {
+      "id": "1659037",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-01",
+      "level": 2,
+      "name": {
+        "local": "Bualapha",
+        "en": "Bualapha",
+        "slug": "bualapha-kh-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-01",
+        "level": 2,
+        "name": {
+          "local": "Bualapha",
+          "en": "Bualapha",
+          "slug": "bualapha-kh-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.117",
+      "lon": "106.133"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1659021",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Sôy",
+      "en": "Ban Soy",
+      "slug": "ban-soy-1659021"
+    },
+    "code": {
+      "id": "1659021",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-01",
+      "level": 2,
+      "name": {
+        "local": "Bualapha",
+        "en": "Bualapha",
+        "slug": "bualapha-kh-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-01",
+        "level": 2,
+        "name": {
+          "local": "Bualapha",
+          "en": "Bualapha",
+          "slug": "bualapha-kh-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.41",
+      "lon": "105.695"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1658963",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Talék-Alam",
+      "en": "Ban Talek-Alam",
+      "slug": "ban-talek-alam-1658963"
+    },
+    "code": {
+      "id": "1658963",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-01",
+      "level": 2,
+      "name": {
+        "local": "Bualapha",
+        "en": "Bualapha",
+        "slug": "bualapha-kh-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-01",
+        "level": 2,
+        "name": {
+          "local": "Bualapha",
+          "en": "Bualapha",
+          "slug": "bualapha-kh-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.156",
+      "lon": "106.163"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1658947",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Talong",
+      "en": "Ban Talong",
+      "slug": "ban-talong-1658947"
+    },
+    "code": {
+      "id": "1658947",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-01",
+      "level": 2,
+      "name": {
+        "local": "Bualapha",
+        "en": "Bualapha",
+        "slug": "bualapha-kh-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-01",
+        "level": 2,
+        "name": {
+          "local": "Bualapha",
+          "en": "Bualapha",
+          "slug": "bualapha-kh-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.362",
+      "lon": "105.661"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11234149",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Tang",
+      "en": "Ban Tang",
+      "slug": "ban-tang-11234149"
+    },
+    "code": {
+      "id": "11234149",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-01",
+      "level": 2,
+      "name": {
+        "local": "Bualapha",
+        "en": "Bualapha",
+        "slug": "bualapha-kh-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-01",
+        "level": 2,
+        "name": {
+          "local": "Bualapha",
+          "en": "Bualapha",
+          "slug": "bualapha-kh-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.517",
+      "lon": "105.825"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1658826",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Taplao",
+      "en": "Ban Taplao",
+      "slug": "ban-taplao-1658826"
+    },
+    "code": {
+      "id": "1658826",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-01",
+      "level": 2,
+      "name": {
+        "local": "Bualapha",
+        "en": "Bualapha",
+        "slug": "bualapha-kh-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-01",
+        "level": 2,
+        "name": {
+          "local": "Bualapha",
+          "en": "Bualapha",
+          "slug": "bualapha-kh-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.269",
+      "lon": "105.977"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11214119",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Thahè",
+      "en": "Ban Thahe",
+      "slug": "ban-thahe-11214119"
+    },
+    "code": {
+      "id": "11214119",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-01",
+      "level": 2,
+      "name": {
+        "local": "Bualapha",
+        "en": "Bualapha",
+        "slug": "bualapha-kh-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-01",
+        "level": 2,
+        "name": {
+          "local": "Bualapha",
+          "en": "Bualapha",
+          "slug": "bualapha-kh-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.299",
+      "lon": "105.755"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1658605",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Thapachôn",
+      "en": "Ban Thapachon",
+      "slug": "ban-thapachon-1658605"
+    },
+    "code": {
+      "id": "1658605",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-01",
+      "level": 2,
+      "name": {
+        "local": "Bualapha",
+        "en": "Bualapha",
+        "slug": "bualapha-kh-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-01",
+        "level": 2,
+        "name": {
+          "local": "Bualapha",
+          "en": "Bualapha",
+          "slug": "bualapha-kh-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.235",
+      "lon": "105.821"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1658576",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban That",
+      "en": "Ban That",
+      "slug": "ban-that-1658576"
+    },
+    "code": {
+      "id": "1658576",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-01",
+      "level": 2,
+      "name": {
+        "local": "Bualapha",
+        "en": "Bualapha",
+        "slug": "bualapha-kh-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-01",
+        "level": 2,
+        "name": {
+          "local": "Bualapha",
+          "en": "Bualapha",
+          "slug": "bualapha-kh-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.554",
+      "lon": "105.678"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1658497",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Thôngkham",
+      "en": "Ban Thongkham",
+      "slug": "ban-thongkham-1658497"
+    },
+    "code": {
+      "id": "1658497",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-01",
+      "level": 2,
+      "name": {
+        "local": "Bualapha",
+        "en": "Bualapha",
+        "slug": "bualapha-kh-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-01",
+        "level": 2,
+        "name": {
+          "local": "Bualapha",
+          "en": "Bualapha",
+          "slug": "bualapha-kh-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.555",
+      "lon": "105.689"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1957261",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Tong",
+      "en": "Ban Tong",
+      "slug": "ban-tong-1957261"
+    },
+    "code": {
+      "id": "1957261",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-01",
+      "level": 2,
+      "name": {
+        "local": "Bualapha",
+        "en": "Bualapha",
+        "slug": "bualapha-kh-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-01",
+        "level": 2,
+        "name": {
+          "local": "Bualapha",
+          "en": "Bualapha",
+          "slug": "bualapha-kh-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.223",
+      "lon": "106.032"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1658369",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Tônphao",
+      "en": "Ban Tonphao",
+      "slug": "ban-tonphao-1658369"
+    },
+    "code": {
+      "id": "1658369",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-01",
+      "level": 2,
+      "name": {
+        "local": "Bualapha",
+        "en": "Bualapha",
+        "slug": "bualapha-kh-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-01",
+        "level": 2,
+        "name": {
+          "local": "Bualapha",
+          "en": "Bualapha",
+          "slug": "bualapha-kh-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.436",
+      "lon": "105.712"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1658360",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Topèn",
+      "en": "Ban Topen",
+      "slug": "ban-topen-1658360"
+    },
+    "code": {
+      "id": "1658360",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-01",
+      "level": 2,
+      "name": {
+        "local": "Bualapha",
+        "en": "Bualapha",
+        "slug": "bualapha-kh-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-01",
+        "level": 2,
+        "name": {
+          "local": "Bualapha",
+          "en": "Bualapha",
+          "slug": "bualapha-kh-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.15",
+      "lon": "106.05"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1957254",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Tou",
+      "en": "Ban Tou",
+      "slug": "ban-tou-1957254"
+    },
+    "code": {
+      "id": "1957254",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-01",
+      "level": 2,
+      "name": {
+        "local": "Bualapha",
+        "en": "Bualapha",
+        "slug": "bualapha-kh-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-01",
+        "level": 2,
+        "name": {
+          "local": "Bualapha",
+          "en": "Bualapha",
+          "slug": "bualapha-kh-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.259",
+      "lon": "106.152"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1658277",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Vangkhôn",
+      "en": "Ban Vangkhon",
+      "slug": "ban-vangkhon-1658277"
+    },
+    "code": {
+      "id": "1658277",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-01",
+      "level": 2,
+      "name": {
+        "local": "Bualapha",
+        "en": "Bualapha",
+        "slug": "bualapha-kh-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-01",
+        "level": 2,
+        "name": {
+          "local": "Bualapha",
+          "en": "Bualapha",
+          "slug": "bualapha-kh-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.537",
+      "lon": "105.742"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1957268",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Vat",
+      "en": "Ban Vat",
+      "slug": "ban-vat-1957268"
+    },
+    "code": {
+      "id": "1957268",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-01",
+      "level": 2,
+      "name": {
+        "local": "Bualapha",
+        "en": "Bualapha",
+        "slug": "bualapha-kh-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-01",
+        "level": 2,
+        "name": {
+          "local": "Bualapha",
+          "en": "Bualapha",
+          "slug": "bualapha-kh-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.123",
+      "lon": "106.129"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1658128",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Xam-Kang",
+      "en": "Ban Xam-Kang",
+      "slug": "ban-xam-kang-1658128"
+    },
+    "code": {
+      "id": "1658128",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-01",
+      "level": 2,
+      "name": {
+        "local": "Bualapha",
+        "en": "Bualapha",
+        "slug": "bualapha-kh-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-01",
+        "level": 2,
+        "name": {
+          "local": "Bualapha",
+          "en": "Bualapha",
+          "slug": "bualapha-kh-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.532",
+      "lon": "105.833"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1658124",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Xam-Nua",
+      "en": "Ban Xam-Nua",
+      "slug": "ban-xam-nua-1658124"
+    },
+    "code": {
+      "id": "1658124",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-01",
+      "level": 2,
+      "name": {
+        "local": "Bualapha",
+        "en": "Bualapha",
+        "slug": "bualapha-kh-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-01",
+        "level": 2,
+        "name": {
+          "local": "Bualapha",
+          "en": "Bualapha",
+          "slug": "bualapha-kh-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.552",
+      "lon": "105.839"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1658123",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Xam-Tai",
+      "en": "Ban Xam-Tai",
+      "slug": "ban-xam-tai-1658123"
+    },
+    "code": {
+      "id": "1658123",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-01",
+      "level": 2,
+      "name": {
+        "local": "Bualapha",
+        "en": "Bualapha",
+        "slug": "bualapha-kh-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-01",
+        "level": 2,
+        "name": {
+          "local": "Bualapha",
+          "en": "Bualapha",
+          "slug": "bualapha-kh-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.528",
+      "lon": "105.821"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1658071",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Xénua",
+      "en": "Ban Xenua",
+      "slug": "ban-xenua-1658071"
+    },
+    "code": {
+      "id": "1658071",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-01",
+      "level": 2,
+      "name": {
+        "local": "Bualapha",
+        "en": "Bualapha",
+        "slug": "bualapha-kh-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-01",
+        "level": 2,
+        "name": {
+          "local": "Bualapha",
+          "en": "Bualapha",
+          "slug": "bualapha-kh-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.377",
+      "lon": "105.904"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13433404",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Xénua",
+      "en": "Ban Xenua",
+      "slug": "ban-xenua-13433404"
+    },
+    "code": {
+      "id": "13433404",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-01",
+      "level": 2,
+      "name": {
+        "local": "Bualapha",
+        "en": "Bualapha",
+        "slug": "bualapha-kh-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-01",
+        "level": 2,
+        "name": {
+          "local": "Bualapha",
+          "en": "Bualapha",
+          "slug": "bualapha-kh-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.33",
+      "lon": "105.96"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1658006",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Xok",
+      "en": "Ban Xok",
+      "slug": "ban-xok-1658006"
+    },
+    "code": {
+      "id": "1658006",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-01",
+      "level": 2,
+      "name": {
+        "local": "Bualapha",
+        "en": "Bualapha",
+        "slug": "bualapha-kh-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-01",
+        "level": 2,
+        "name": {
+          "local": "Bualapha",
+          "en": "Bualapha",
+          "slug": "bualapha-kh-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.478",
+      "lon": "105.604"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1658005",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Xokbo-Noi",
+      "en": "Ban Xokbo-Noi",
+      "slug": "ban-xokbo-noi-1658005"
+    },
+    "code": {
+      "id": "1658005",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-01",
+      "level": 2,
+      "name": {
+        "local": "Bualapha",
+        "en": "Bualapha",
+        "slug": "bualapha-kh-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-01",
+        "level": 2,
+        "name": {
+          "local": "Bualapha",
+          "en": "Bualapha",
+          "slug": "bualapha-kh-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.096",
+      "lon": "105.837"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1657998",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Xon",
+      "en": "Ban Xon",
+      "slug": "ban-xon-1657998"
+    },
+    "code": {
+      "id": "1657998",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-01",
+      "level": 2,
+      "name": {
+        "local": "Bualapha",
+        "en": "Bualapha",
+        "slug": "bualapha-kh-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-01",
+        "level": 2,
+        "name": {
+          "local": "Bualapha",
+          "en": "Bualapha",
+          "slug": "bualapha-kh-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.598",
+      "lon": "105.831"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1957266",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Chakeun",
+      "en": "Chakeun",
+      "slug": "chakeun-1957266"
+    },
+    "code": {
+      "id": "1957266",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-01",
+      "level": 2,
+      "name": {
+        "local": "Bualapha",
+        "en": "Bualapha",
+        "slug": "bualapha-kh-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-01",
+        "level": 2,
+        "name": {
+          "local": "Bualapha",
+          "en": "Bualapha",
+          "slug": "bualapha-kh-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.154",
+      "lon": "106.237"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1957258",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Nonggnama",
+      "en": "Nonggnama",
+      "slug": "nonggnama-1957258"
+    },
+    "code": {
+      "id": "1957258",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-01",
+      "level": 2,
+      "name": {
+        "local": "Bualapha",
+        "en": "Bualapha",
+        "slug": "bualapha-kh-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-01",
+        "level": 2,
+        "name": {
+          "local": "Bualapha",
+          "en": "Bualapha",
+          "slug": "bualapha-kh-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.248",
+      "lon": "106.125"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1652930",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Tailé",
+      "en": "Taile",
+      "slug": "taile-1652930"
+    },
+    "code": {
+      "id": "1652930",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-01",
+      "level": 2,
+      "name": {
+        "local": "Bualapha",
+        "en": "Bualapha",
+        "slug": "bualapha-kh-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-01",
+        "level": 2,
+        "name": {
+          "local": "Bualapha",
+          "en": "Bualapha",
+          "slug": "bualapha-kh-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.15",
+      "lon": "106.267"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

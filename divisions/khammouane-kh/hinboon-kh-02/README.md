@@ -1,0 +1,146 @@
+# Hinboon
+
+[Home](../../../) &gt; [Khammouane](../) > **Hinboon**
+
+Hinboon is a district in Laos, under Khammouane.
+
+## Overview
+
+| Item | Details |
+|------|---------|
+| Villages | 117 |
+| Code | KH-02 |
+| Coordinates | 17.838, 104.427 |
+| Parent | Khammouane |
+
+## Villages
+
+| # | Name | Coordinates | Code |
+|---|------|-------------|------|
+| 1 | Ban Bôk (Ban Bok) | 17.937, 104.331 | 1664902 |
+| 2 | Ban Bonèng (Ban Boneng) | 17.961, 104.581 | 1664886 |
+| 3 | Ban Bông (Ban Bong) | 17.811, 104.633 | 1664885 |
+| 4 | Ban Bonongxun | 17.944, 104.517 | 11233320 |
+| 5 | Ban Boumlou | 17.767, 104.715 | 1664839 |
+| 6 | Ban Choutxong | 17.586, 104.689 | 11233886 |
+| 7 | Ban Dan | 17.793, 104.414 | 11233262 |
+| 8 | Ban Dondou | 17.626, 104.642 | 11233877 |
+| 9 | Ban Dông-Kang (Ban Dong-Kang) | 17.706, 104.491 | 11233268 |
+| 10 | Ban Donlap | 17.764, 104.402 | 11233263 |
+| 11 | Ban Hat | 17.651, 104.488 | 1664191 |
+| 12 | Ban Hat-Hè (Ban Hat-He) | 17.575, 104.637 | 1664175 |
+| 13 | Ban Hat-Ikom | 17.603, 104.579 | 1664170 |
+| 14 | Ban Hathan | 17.641, 104.813 | 11233918 |
+| 15 | Ban Hatxaykham | 17.862, 104.288 | 11233244 |
+| 16 | Ban Hinboun | 17.725, 104.572 | 11233335 |
+| 17 | Ban Hinkhan | 17.745, 104.585 | 1664076 |
+| 18 | Ban Hinlat | 17.872, 104.277 | 11233243 |
+| 19 | Ban Houahat | 17.67, 104.464 | 1664016 |
+| 20 | Ban Houana | 17.851, 104.657 | 1663993 |
+| 21 | Ban Houaybon | 17.838, 104.423 | 11233260 |
+| 22 | Ban Houaybungkuang | 17.638, 104.51 | 11233871 |
+| 23 | Ban Houaydua | 17.662, 104.473 | 1663485 |
+| 24 | Ban Houayhou | 17.765, 104.417 | 11233264 |
+| 25 | Ban Houayhua | 17.821, 104.431 | 1663860 |
+| 26 | Ban Houaykaxa | 17.842, 104.386 | 11233259 |
+| 27 | Ban Houaykhaomin-Gnai | 17.625, 104.533 | 11242170 |
+| 28 | Ban Houaykhaomin-Noy | 17.619, 104.545 | 1663830 |
+| 29 | Ban Houaykhiao | 17.741, 104.411 | 1663827 |
+| 30 | Ban Houayphipèng (Ban Houayphipeng) | 17.83, 104.622 | 1663666 |
+| 31 | Ban Houaysakoup | 17.749, 104.524 | 11233332 |
+| 32 | Ban Houayxay | 17.86, 104.644 | 1663527 |
+| 33 | Ban Kang | 17.619, 104.65 | 11233876 |
+| 34 | Ban Katèp (Ban Katep) | 17.992, 104.345 | 1663325 |
+| 35 | Ban Kava-Nua | 17.715, 104.432 | 1663307 |
+| 36 | Ban Kava-Tai | 17.708, 104.438 | 1663306 |
+| 37 | Ban Kôngkèo (Ban Kongkeo) | 17.688, 104.702 | 1662919 |
+| 38 | Ban Kouankacha | 17.868, 104.684 | 1662763 |
+| 39 | Ban Laokha | 17.908, 104.372 | 11233255 |
+| 40 | Ban Laolouang | 17.799, 104.49 | 11233269 |
+| 41 | Ban Mèng (Ban Meng) | 17.886, 104.282 | 1662311 |
+| 42 | Ban Mouangkhai | 17.9, 104.598 | 11233344 |
+| 43 | Ban Na-On | 17.844, 104.63 | 1662127 |
+| 44 | Ban Nadôn (Ban Nadon) | 17.9, 104.605 | 1662041 |
+| 45 | Ban Nahang | 17.785, 104.642 | 1661976 |
+| 46 | Ban Nahi | 17.864, 104.618 | 1661954 |
+| 47 | Ban Nahuang | 17.709, 104.55 | 11233334 |
+| 48 | Ban Nakan | 17.65, 104.8 | 1661889 |
+| 49 | Ban Nakathat | 17.614, 104.61 | 1661866 |
+| 50 | Ban Nakham | 17.915, 104.594 | 1661822 |
+| 51 | Ban Nakhu | 17.642, 104.799 | 1661739 |
+| 52 | Ban Nakhu | 17.68, 104.812 | 13433860 |
+| 53 | Ban Nakoum | 17.669, 104.744 | 1661711 |
+| 54 | Ban Namdik | 17.606, 104.697 | 1661594 |
+| 55 | Ban Namuang | 17.835, 104.634 | 11233342 |
+| 56 | Ban Nanô (Ban Nano) | 17.796, 104.619 | 1661324 |
+| 57 | Ban Nanua | 17.821, 104.363 | 1661302 |
+| 58 | Ban Naphô (Ban Napho) | 17.686, 104.695 | 1661243 |
+| 59 | Ban Natèo (Ban Nateo) | 17.921, 104.341 | 1661111 |
+| 60 | Ban Nateuy | 17.812, 104.567 | 1661107 |
+| 61 | Ban Nathan | 17.762, 104.663 | 1661098 |
+| 62 | Ban Nathan | 17.933, 104.305 | 11233246 |
+| 63 | Ban Ngiou | 17.565, 104.649 | 1660936 |
+| 64 | Ban Nongboua | 17.758, 104.562 | 1660871 |
+| 65 | Ban Nongboua-Noy | 17.638, 104.663 | 11233828 |
+| 66 | Ban Nongchang | 17.744, 104.621 | 1660856 |
+| 67 | Ban Nongchanla | 17.697, 104.595 | 1660855 |
+| 68 | Ban Nongdông (Ban Nongdong) | 17.828, 104.549 | 1660842 |
+| 69 | Ban Nonghoun | 17.748, 104.599 | 1664243 |
+| 70 | Ban Nonghoy | 17.69, 104.614 | 1660809 |
+| 71 | Ban Nonglao | 17.962, 104.574 | 1660764 |
+| 72 | Ban Nongphu | 17.621, 104.659 | 1660702 |
+| 73 | Ban Nongxun-Noy | 17.962, 104.518 | 1660643 |
+| 74 | Ban Noy | 17.903, 104.594 | 11233362 |
+| 75 | Ban Pak-Hinboun-Nua | 17.593, 104.623 | 11233880 |
+| 76 | Ban Pak-Hinboun-Tai | 17.589, 104.612 | 11233881 |
+| 77 | Ban Pakpakan | 17.645, 104.619 | 1660471 |
+| 78 | Ban Pakthuk | 17.842, 104.505 | 1660444 |
+| 79 | Ban Pakvèng (Ban Pakveng) | 17.814, 104.524 | 11233325 |
+| 80 | Ban Phadèng (Ban Phadeng) | 17.643, 104.704 | 1660312 |
+| 81 | Ban Phalèm (Ban Phalem) | 17.935, 104.534 | 1660226 |
+| 82 | Ban Phavang | 17.712, 104.566 | 1660136 |
+| 83 | Ban Phôkham-Nua (Ban Phokham-Nua) | 17.556, 104.665 | 1660020 |
+| 84 | Ban Phông (Ban Phong) | 17.848, 104.332 | 1659964 |
+| 85 | Ban Phônkham (Ban Phonkham) | 17.634, 104.689 | 1659940 |
+| 86 | Ban Phônkho (Ban Phonkho) | 17.832, 104.354 | 11233245 |
+| 87 | Ban Phônkho (Ban Phonkho) | 17.651, 104.784 | 11233888 |
+| 88 | Ban Phônmèn (Ban Phonmen) | 17.775, 104.583 | 1659924 |
+| 89 | Ban Phônphèng (Ban Phonpheng) | 17.645, 104.788 | 11233889 |
+| 90 | Ban Phônsa-At (Ban Phonsa-At) | 17.883, 104.404 | 11233257 |
+| 91 | Ban Phônsavang (Ban Phonsavang) | 17.714, 104.547 | 11233333 |
+| 92 | Ban Phôntieu (Ban Phontieu) | 17.892, 104.61 | 1659862 |
+| 93 | Ban Phôsi (Ban Phosi) | 17.621, 104.683 | 1659836 |
+| 94 | Ban Pôngfan (Ban Pongfan) | 17.769, 104.516 | 11233330 |
+| 95 | Ban Poung | 17.798, 104.378 | 1659639 |
+| 96 | Ban Poung-Tai | 17.599, 104.659 | 1659616 |
+| 97 | Ban Sanak | 17.801, 104.679 | 1659456 |
+| 98 | Ban Songhong | 17.728, 104.565 | 11233331 |
+| 99 | Ban Songkhôn (Ban Songkhon) | 17.845, 104.497 | 11233270 |
+| 100 | Ban Tahon | 18.001, 104.54 | 1955838 |
+| 101 | Ban Thagno | 17.943, 104.583 | 1658741 |
+| 102 | Ban Thakhèn (Ban Thakhen) | 17.688, 104.696 | 1658717 |
+| 103 | Ban Thami | 17.663, 104.774 | 1658684 |
+| 104 | Ban Thanamkèo (Ban Thanamkeo) | 17.707, 104.465 | 1658646 |
+| 105 | Ban Thangbèng (Ban Thangbeng) | 17.715, 104.588 | 11233337 |
+| 106 | Ban Thasavang | 17.723, 104.424 | 11233266 |
+| 107 | Ban Thôngkha (Ban Thongkha) | 17.971, 104.52 | 1658499 |
+| 108 | Ban Ton | 17.619, 104.65 | 1658400 |
+| 109 | Ban Vanghouapa | 17.66, 104.611 | 11233873 |
+| 110 | Ban Vangkhong | 17.599, 104.623 | 11233879 |
+| 111 | Ban Vangmôn (Ban Vangmon) | 17.88, 104.465 | 1658260 |
+| 112 | Ban Vangpheung | 18, 104.567 | 1658236 |
+| 113 | Ban Xambon | 18.007, 104.558 | 1955839 |
+| 114 | Ban Xang | 17.861, 104.492 | 11233272 |
+| 115 | Ban Xao | 17.907, 104.57 | 1658105 |
+| 116 | Muang Hinboun | 17.591, 104.604 | 1655212 |
+| 117 | Poungphai Nok | 17.683, 104.533 | 1653684 |
+
+## Data Files
+
+- [district.json](district.json) — District metadata
+- [village.json](village.json) — All villages (JSON)
+- [village.csv](village.csv) — CSV format
+
+---
+
+<- Back to [Khammouane](../)

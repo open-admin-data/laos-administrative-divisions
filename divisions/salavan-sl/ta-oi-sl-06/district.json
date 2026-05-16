@@ -1,0 +1,47 @@
+{
+  "id": "SL-06",
+  "level": 2,
+  "level_name": {
+    "local": "ເມືອງ",
+    "en": "District"
+  },
+  "name": {
+    "local": "Ta Oi",
+    "en": "Ta Oi",
+    "slug": "ta-oi-sl-06"
+  },
+  "code": {
+    "id": "SL-06",
+    "iso": null
+  },
+  "parent": {
+    "id": "SL",
+    "level": 1,
+    "name": {
+      "local": "Salavan",
+      "en": "Salavan",
+      "slug": "salavan-sl"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "SL",
+      "level": 1,
+      "name": {
+        "local": "Salavan",
+        "en": "Salavan",
+        "slug": "salavan-sl"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 137
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.149",
+    "lon": "106.796"
+  },
+  "metadata": {},
+  "source": {}
+}

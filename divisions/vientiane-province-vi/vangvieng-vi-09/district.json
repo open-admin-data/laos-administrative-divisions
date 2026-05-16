@@ -1,0 +1,47 @@
+{
+  "id": "VI-09",
+  "level": 2,
+  "level_name": {
+    "local": "ເມືອງ",
+    "en": "District"
+  },
+  "name": {
+    "local": "Vangvieng",
+    "en": "Vangvieng",
+    "slug": "vangvieng-vi-09"
+  },
+  "code": {
+    "id": "VI-09",
+    "iso": null
+  },
+  "parent": {
+    "id": "VI",
+    "level": 1,
+    "name": {
+      "local": "Vientiane",
+      "en": "Vientiane Province",
+      "slug": "vientiane-province-vi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "VI",
+      "level": 1,
+      "name": {
+        "local": "Vientiane",
+        "en": "Vientiane Province",
+        "slug": "vientiane-province-vi"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 99
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "18.949",
+    "lon": "102.424"
+  },
+  "metadata": {},
+  "source": {}
+}

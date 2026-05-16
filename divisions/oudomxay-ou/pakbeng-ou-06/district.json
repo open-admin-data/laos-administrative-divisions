@@ -1,0 +1,47 @@
+{
+  "id": "OU-06",
+  "level": 2,
+  "level_name": {
+    "local": "ເມືອງ",
+    "en": "District"
+  },
+  "name": {
+    "local": "Pakbeng",
+    "en": "Pakbeng",
+    "slug": "pakbeng-ou-06"
+  },
+  "code": {
+    "id": "OU-06",
+    "iso": null
+  },
+  "parent": {
+    "id": "OU",
+    "level": 1,
+    "name": {
+      "local": "Oudomxay",
+      "en": "Oudomxay",
+      "slug": "oudomxay-ou"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "OU",
+      "level": 1,
+      "name": {
+        "local": "Oudomxay",
+        "en": "Oudomxay",
+        "slug": "oudomxay-ou"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 108
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "19.906",
+    "lon": "101.13"
+  },
+  "metadata": {},
+  "source": {}
+}

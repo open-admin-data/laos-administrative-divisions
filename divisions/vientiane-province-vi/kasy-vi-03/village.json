@@ -1,0 +1,4484 @@
+[
+  {
+    "id": "1664859",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Bouakmèo",
+      "en": "Ban Bouakmeo",
+      "slug": "ban-bouakmeo-1664859"
+    },
+    "code": {
+      "id": "1664859",
+      "iso": null
+    },
+    "parent": {
+      "id": "VI-03",
+      "level": 2,
+      "name": {
+        "local": "Kasy",
+        "en": "Kasy",
+        "slug": "kasy-vi-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VI",
+        "level": 1,
+        "name": {
+          "local": "Vientiane",
+          "en": "Vientiane Province",
+          "slug": "vientiane-province-vi"
+        }
+      },
+      {
+        "id": "VI-03",
+        "level": 2,
+        "name": {
+          "local": "Kasy",
+          "en": "Kasy",
+          "slug": "kasy-vi-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.264",
+      "lon": "102.457"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1664851",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Bouamphèk",
+      "en": "Ban Bouamphek",
+      "slug": "ban-bouamphek-1664851"
+    },
+    "code": {
+      "id": "1664851",
+      "iso": null
+    },
+    "parent": {
+      "id": "VI-03",
+      "level": 2,
+      "name": {
+        "local": "Kasy",
+        "en": "Kasy",
+        "slug": "kasy-vi-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VI",
+        "level": 1,
+        "name": {
+          "local": "Vientiane",
+          "en": "Vientiane Province",
+          "slug": "vientiane-province-vi"
+        }
+      },
+      {
+        "id": "VI-03",
+        "level": 2,
+        "name": {
+          "local": "Kasy",
+          "en": "Kasy",
+          "slug": "kasy-vi-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.15",
+      "lon": "102.317"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1664849",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Bouamphouk",
+      "en": "Ban Bouamphouk",
+      "slug": "ban-bouamphouk-1664849"
+    },
+    "code": {
+      "id": "1664849",
+      "iso": null
+    },
+    "parent": {
+      "id": "VI-03",
+      "level": 2,
+      "name": {
+        "local": "Kasy",
+        "en": "Kasy",
+        "slug": "kasy-vi-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VI",
+        "level": 1,
+        "name": {
+          "local": "Vientiane",
+          "en": "Vientiane Province",
+          "slug": "vientiane-province-vi"
+        }
+      },
+      {
+        "id": "VI-03",
+        "level": 2,
+        "name": {
+          "local": "Kasy",
+          "en": "Kasy",
+          "slug": "kasy-vi-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.124",
+      "lon": "102.253"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1664712",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Chiang",
+      "en": "Ban Chiang",
+      "slug": "ban-chiang-1664712"
+    },
+    "code": {
+      "id": "1664712",
+      "iso": null
+    },
+    "parent": {
+      "id": "VI-03",
+      "level": 2,
+      "name": {
+        "local": "Kasy",
+        "en": "Kasy",
+        "slug": "kasy-vi-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VI",
+        "level": 1,
+        "name": {
+          "local": "Vientiane",
+          "en": "Vientiane Province",
+          "slug": "vientiane-province-vi"
+        }
+      },
+      {
+        "id": "VI-03",
+        "level": 2,
+        "name": {
+          "local": "Kasy",
+          "en": "Kasy",
+          "slug": "kasy-vi-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.14",
+      "lon": "102.204"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11227512",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Dèndin",
+      "en": "Ban Dendin",
+      "slug": "ban-dendin-11227512"
+    },
+    "code": {
+      "id": "11227512",
+      "iso": null
+    },
+    "parent": {
+      "id": "VI-03",
+      "level": 2,
+      "name": {
+        "local": "Kasy",
+        "en": "Kasy",
+        "slug": "kasy-vi-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VI",
+        "level": 1,
+        "name": {
+          "local": "Vientiane",
+          "en": "Vientiane Province",
+          "slug": "vientiane-province-vi"
+        }
+      },
+      {
+        "id": "VI-03",
+        "level": 2,
+        "name": {
+          "local": "Kasy",
+          "en": "Kasy",
+          "slug": "kasy-vi-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.14",
+      "lon": "102.31"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13433682",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Hai",
+      "en": "Ban Hai",
+      "slug": "ban-hai-13433682"
+    },
+    "code": {
+      "id": "13433682",
+      "iso": null
+    },
+    "parent": {
+      "id": "VI-03",
+      "level": 2,
+      "name": {
+        "local": "Kasy",
+        "en": "Kasy",
+        "slug": "kasy-vi-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VI",
+        "level": 1,
+        "name": {
+          "local": "Vientiane",
+          "en": "Vientiane Province",
+          "slug": "vientiane-province-vi"
+        }
+      },
+      {
+        "id": "VI-03",
+        "level": 2,
+        "name": {
+          "local": "Kasy",
+          "en": "Kasy",
+          "slug": "kasy-vi-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.223",
+      "lon": "102.22"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1664230",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Hai Vong",
+      "en": "Ban Hai Vong",
+      "slug": "ban-hai-vong-1664230"
+    },
+    "code": {
+      "id": "1664230",
+      "iso": null
+    },
+    "parent": {
+      "id": "VI-03",
+      "level": 2,
+      "name": {
+        "local": "Kasy",
+        "en": "Kasy",
+        "slug": "kasy-vi-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VI",
+        "level": 1,
+        "name": {
+          "local": "Vientiane",
+          "en": "Vientiane Province",
+          "slug": "vientiane-province-vi"
+        }
+      },
+      {
+        "id": "VI-03",
+        "level": 2,
+        "name": {
+          "local": "Kasy",
+          "en": "Kasy",
+          "slug": "kasy-vi-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.222",
+      "lon": "102.256"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1952537",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Hinngôn-Kang",
+      "en": "Ban Hinngon-Kang",
+      "slug": "ban-hinngon-kang-1952537"
+    },
+    "code": {
+      "id": "1952537",
+      "iso": null
+    },
+    "parent": {
+      "id": "VI-03",
+      "level": 2,
+      "name": {
+        "local": "Kasy",
+        "en": "Kasy",
+        "slug": "kasy-vi-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VI",
+        "level": 1,
+        "name": {
+          "local": "Vientiane",
+          "en": "Vientiane Province",
+          "slug": "vientiane-province-vi"
+        }
+      },
+      {
+        "id": "VI-03",
+        "level": 2,
+        "name": {
+          "local": "Kasy",
+          "en": "Kasy",
+          "slug": "kasy-vi-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.361",
+      "lon": "102.421"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1952532",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Hinngôn-Nua",
+      "en": "Ban Hinngon-Nua",
+      "slug": "ban-hinngon-nua-1952532"
+    },
+    "code": {
+      "id": "1952532",
+      "iso": null
+    },
+    "parent": {
+      "id": "VI-03",
+      "level": 2,
+      "name": {
+        "local": "Kasy",
+        "en": "Kasy",
+        "slug": "kasy-vi-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VI",
+        "level": 1,
+        "name": {
+          "local": "Vientiane",
+          "en": "Vientiane Province",
+          "slug": "vientiane-province-vi"
+        }
+      },
+      {
+        "id": "VI-03",
+        "level": 2,
+        "name": {
+          "local": "Kasy",
+          "en": "Kasy",
+          "slug": "kasy-vi-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.364",
+      "lon": "102.425"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1952536",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Hinngôn-Tai",
+      "en": "Ban Hinngon-Tai",
+      "slug": "ban-hinngon-tai-1952536"
+    },
+    "code": {
+      "id": "1952536",
+      "iso": null
+    },
+    "parent": {
+      "id": "VI-03",
+      "level": 2,
+      "name": {
+        "local": "Kasy",
+        "en": "Kasy",
+        "slug": "kasy-vi-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VI",
+        "level": 1,
+        "name": {
+          "local": "Vientiane",
+          "en": "Vientiane Province",
+          "slug": "vientiane-province-vi"
+        }
+      },
+      {
+        "id": "VI-03",
+        "level": 2,
+        "name": {
+          "local": "Kasy",
+          "en": "Kasy",
+          "slug": "kasy-vi-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.357",
+      "lon": "102.421"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11227526",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houamuang",
+      "en": "Ban Houamuang",
+      "slug": "ban-houamuang-11227526"
+    },
+    "code": {
+      "id": "11227526",
+      "iso": null
+    },
+    "parent": {
+      "id": "VI-03",
+      "level": 2,
+      "name": {
+        "local": "Kasy",
+        "en": "Kasy",
+        "slug": "kasy-vi-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VI",
+        "level": 1,
+        "name": {
+          "local": "Vientiane",
+          "en": "Vientiane Province",
+          "slug": "vientiane-province-vi"
+        }
+      },
+      {
+        "id": "VI-03",
+        "level": 2,
+        "name": {
+          "local": "Kasy",
+          "en": "Kasy",
+          "slug": "kasy-vi-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.275",
+      "lon": "102.305"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1663544",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houay Toum",
+      "en": "Ban Houay Toum",
+      "slug": "ban-houay-toum-1663544"
+    },
+    "code": {
+      "id": "1663544",
+      "iso": null
+    },
+    "parent": {
+      "id": "VI-03",
+      "level": 2,
+      "name": {
+        "local": "Kasy",
+        "en": "Kasy",
+        "slug": "kasy-vi-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VI",
+        "level": 1,
+        "name": {
+          "local": "Vientiane",
+          "en": "Vientiane Province",
+          "slug": "vientiane-province-vi"
+        }
+      },
+      {
+        "id": "VI-03",
+        "level": 2,
+        "name": {
+          "local": "Kasy",
+          "en": "Kasy",
+          "slug": "kasy-vi-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.05",
+      "lon": "102.067"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1663887",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houayhinluang",
+      "en": "Ban Houayhinluang",
+      "slug": "ban-houayhinluang-1663887"
+    },
+    "code": {
+      "id": "1663887",
+      "iso": null
+    },
+    "parent": {
+      "id": "VI-03",
+      "level": 2,
+      "name": {
+        "local": "Kasy",
+        "en": "Kasy",
+        "slug": "kasy-vi-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VI",
+        "level": 1,
+        "name": {
+          "local": "Vientiane",
+          "en": "Vientiane Province",
+          "slug": "vientiane-province-vi"
+        }
+      },
+      {
+        "id": "VI-03",
+        "level": 2,
+        "name": {
+          "local": "Kasy",
+          "en": "Kasy",
+          "slug": "kasy-vi-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.293",
+      "lon": "102.479"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11227511",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houayhôk",
+      "en": "Ban Houayhok",
+      "slug": "ban-houayhok-11227511"
+    },
+    "code": {
+      "id": "11227511",
+      "iso": null
+    },
+    "parent": {
+      "id": "VI-03",
+      "level": 2,
+      "name": {
+        "local": "Kasy",
+        "en": "Kasy",
+        "slug": "kasy-vi-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VI",
+        "level": 1,
+        "name": {
+          "local": "Vientiane",
+          "en": "Vientiane Province",
+          "slug": "vientiane-province-vi"
+        }
+      },
+      {
+        "id": "VI-03",
+        "level": 2,
+        "name": {
+          "local": "Kasy",
+          "en": "Kasy",
+          "slug": "kasy-vi-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.132",
+      "lon": "102.28"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11227470",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houaykhaokhoay",
+      "en": "Ban Houaykhaokhoay",
+      "slug": "ban-houaykhaokhoay-11227470"
+    },
+    "code": {
+      "id": "11227470",
+      "iso": null
+    },
+    "parent": {
+      "id": "VI-03",
+      "level": 2,
+      "name": {
+        "local": "Kasy",
+        "en": "Kasy",
+        "slug": "kasy-vi-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VI",
+        "level": 1,
+        "name": {
+          "local": "Vientiane",
+          "en": "Vientiane Province",
+          "slug": "vientiane-province-vi"
+        }
+      },
+      {
+        "id": "VI-03",
+        "level": 2,
+        "name": {
+          "local": "Kasy",
+          "en": "Kasy",
+          "slug": "kasy-vi-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.275",
+      "lon": "102.2"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1663726",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houaynam",
+      "en": "Ban Houaynam",
+      "slug": "ban-houaynam-1663726"
+    },
+    "code": {
+      "id": "1663726",
+      "iso": null
+    },
+    "parent": {
+      "id": "VI-03",
+      "level": 2,
+      "name": {
+        "local": "Kasy",
+        "en": "Kasy",
+        "slug": "kasy-vi-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VI",
+        "level": 1,
+        "name": {
+          "local": "Vientiane",
+          "en": "Vientiane Province",
+          "slug": "vientiane-province-vi"
+        }
+      },
+      {
+        "id": "VI-03",
+        "level": 2,
+        "name": {
+          "local": "Kasy",
+          "en": "Kasy",
+          "slug": "kasy-vi-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.281",
+      "lon": "102.479"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11221733",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houaytangnay",
+      "en": "Ban Houaytangnay",
+      "slug": "ban-houaytangnay-11221733"
+    },
+    "code": {
+      "id": "11221733",
+      "iso": null
+    },
+    "parent": {
+      "id": "VI-03",
+      "level": 2,
+      "name": {
+        "local": "Kasy",
+        "en": "Kasy",
+        "slug": "kasy-vi-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VI",
+        "level": 1,
+        "name": {
+          "local": "Vientiane",
+          "en": "Vientiane Province",
+          "slug": "vientiane-province-vi"
+        }
+      },
+      {
+        "id": "VI-03",
+        "level": 2,
+        "name": {
+          "local": "Kasy",
+          "en": "Kasy",
+          "slug": "kasy-vi-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.989",
+      "lon": "101.959"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1662412",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Longyèn",
+      "en": "Ban Longyen",
+      "slug": "ban-longyen-1662412"
+    },
+    "code": {
+      "id": "1662412",
+      "iso": null
+    },
+    "parent": {
+      "id": "VI-03",
+      "level": 2,
+      "name": {
+        "local": "Kasy",
+        "en": "Kasy",
+        "slug": "kasy-vi-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VI",
+        "level": 1,
+        "name": {
+          "local": "Vientiane",
+          "en": "Vientiane Province",
+          "slug": "vientiane-province-vi"
+        }
+      },
+      {
+        "id": "VI-03",
+        "level": 2,
+        "name": {
+          "local": "Kasy",
+          "en": "Kasy",
+          "slug": "kasy-vi-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.235",
+      "lon": "102.401"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11227521",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Mènmang",
+      "en": "Ban Menmang",
+      "slug": "ban-menmang-11227521"
+    },
+    "code": {
+      "id": "11227521",
+      "iso": null
+    },
+    "parent": {
+      "id": "VI-03",
+      "level": 2,
+      "name": {
+        "local": "Kasy",
+        "en": "Kasy",
+        "slug": "kasy-vi-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VI",
+        "level": 1,
+        "name": {
+          "local": "Vientiane",
+          "en": "Vientiane Province",
+          "slug": "vientiane-province-vi"
+        }
+      },
+      {
+        "id": "VI-03",
+        "level": 2,
+        "name": {
+          "local": "Kasy",
+          "en": "Kasy",
+          "slug": "kasy-vi-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.244",
+      "lon": "102.274"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1662157",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Mun",
+      "en": "Ban Mun",
+      "slug": "ban-mun-1662157"
+    },
+    "code": {
+      "id": "1662157",
+      "iso": null
+    },
+    "parent": {
+      "id": "VI-03",
+      "level": 2,
+      "name": {
+        "local": "Kasy",
+        "en": "Kasy",
+        "slug": "kasy-vi-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VI",
+        "level": 1,
+        "name": {
+          "local": "Vientiane",
+          "en": "Vientiane Province",
+          "slug": "vientiane-province-vi"
+        }
+      },
+      {
+        "id": "VI-03",
+        "level": 2,
+        "name": {
+          "local": "Kasy",
+          "en": "Kasy",
+          "slug": "kasy-vi-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.199",
+      "lon": "102.278"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13433683",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Na",
+      "en": "Ban Na",
+      "slug": "ban-na-13433683"
+    },
+    "code": {
+      "id": "13433683",
+      "iso": null
+    },
+    "parent": {
+      "id": "VI-03",
+      "level": 2,
+      "name": {
+        "local": "Kasy",
+        "en": "Kasy",
+        "slug": "kasy-vi-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VI",
+        "level": 1,
+        "name": {
+          "local": "Vientiane",
+          "en": "Vientiane Province",
+          "slug": "vientiane-province-vi"
+        }
+      },
+      {
+        "id": "VI-03",
+        "level": 2,
+        "name": {
+          "local": "Kasy",
+          "en": "Kasy",
+          "slug": "kasy-vi-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.12",
+      "lon": "102.191"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1661933",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nahông",
+      "en": "Ban Nahong",
+      "slug": "ban-nahong-1661933"
+    },
+    "code": {
+      "id": "1661933",
+      "iso": null
+    },
+    "parent": {
+      "id": "VI-03",
+      "level": 2,
+      "name": {
+        "local": "Kasy",
+        "en": "Kasy",
+        "slug": "kasy-vi-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VI",
+        "level": 1,
+        "name": {
+          "local": "Vientiane",
+          "en": "Vientiane Province",
+          "slug": "vientiane-province-vi"
+        }
+      },
+      {
+        "id": "VI-03",
+        "level": 2,
+        "name": {
+          "local": "Kasy",
+          "en": "Kasy",
+          "slug": "kasy-vi-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.216",
+      "lon": "102.231"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11227489",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nakhôm",
+      "en": "Ban Nakhom",
+      "slug": "ban-nakhom-11227489"
+    },
+    "code": {
+      "id": "11227489",
+      "iso": null
+    },
+    "parent": {
+      "id": "VI-03",
+      "level": 2,
+      "name": {
+        "local": "Kasy",
+        "en": "Kasy",
+        "slug": "kasy-vi-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VI",
+        "level": 1,
+        "name": {
+          "local": "Vientiane",
+          "en": "Vientiane Province",
+          "slug": "vientiane-province-vi"
+        }
+      },
+      {
+        "id": "VI-03",
+        "level": 2,
+        "name": {
+          "local": "Kasy",
+          "en": "Kasy",
+          "slug": "kasy-vi-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.171",
+      "lon": "102.226"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11227325",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nakhoun",
+      "en": "Ban Nakhoun",
+      "slug": "ban-nakhoun-11227325"
+    },
+    "code": {
+      "id": "11227325",
+      "iso": null
+    },
+    "parent": {
+      "id": "VI-03",
+      "level": 2,
+      "name": {
+        "local": "Kasy",
+        "en": "Kasy",
+        "slug": "kasy-vi-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VI",
+        "level": 1,
+        "name": {
+          "local": "Vientiane",
+          "en": "Vientiane Province",
+          "slug": "vientiane-province-vi"
+        }
+      },
+      {
+        "id": "VI-03",
+        "level": 2,
+        "name": {
+          "local": "Kasy",
+          "en": "Kasy",
+          "slug": "kasy-vi-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.049",
+      "lon": "102.063"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1952538",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nam-Ung",
+      "en": "Ban Nam-Ung",
+      "slug": "ban-nam-ung-1952538"
+    },
+    "code": {
+      "id": "1952538",
+      "iso": null
+    },
+    "parent": {
+      "id": "VI-03",
+      "level": 2,
+      "name": {
+        "local": "Kasy",
+        "en": "Kasy",
+        "slug": "kasy-vi-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VI",
+        "level": 1,
+        "name": {
+          "local": "Vientiane",
+          "en": "Vientiane Province",
+          "slug": "vientiane-province-vi"
+        }
+      },
+      {
+        "id": "VI-03",
+        "level": 2,
+        "name": {
+          "local": "Kasy",
+          "en": "Kasy",
+          "slug": "kasy-vi-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.347",
+      "lon": "102.41"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1661613",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Naman Noy",
+      "en": "Ban Naman Noy",
+      "slug": "ban-naman-noy-1661613"
+    },
+    "code": {
+      "id": "1661613",
+      "iso": null
+    },
+    "parent": {
+      "id": "VI-03",
+      "level": 2,
+      "name": {
+        "local": "Kasy",
+        "en": "Kasy",
+        "slug": "kasy-vi-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VI",
+        "level": 1,
+        "name": {
+          "local": "Vientiane",
+          "en": "Vientiane Province",
+          "slug": "vientiane-province-vi"
+        }
+      },
+      {
+        "id": "VI-03",
+        "level": 2,
+        "name": {
+          "local": "Kasy",
+          "en": "Kasy",
+          "slug": "kasy-vi-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.25",
+      "lon": "102.283"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11227479",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nami",
+      "en": "Ban Nami",
+      "slug": "ban-nami-11227479"
+    },
+    "code": {
+      "id": "11227479",
+      "iso": null
+    },
+    "parent": {
+      "id": "VI-03",
+      "level": 2,
+      "name": {
+        "local": "Kasy",
+        "en": "Kasy",
+        "slug": "kasy-vi-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VI",
+        "level": 1,
+        "name": {
+          "local": "Vientiane",
+          "en": "Vientiane Province",
+          "slug": "vientiane-province-vi"
+        }
+      },
+      {
+        "id": "VI-03",
+        "level": 2,
+        "name": {
+          "local": "Kasy",
+          "en": "Kasy",
+          "slug": "kasy-vi-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.246",
+      "lon": "102.226"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11229581",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Namka",
+      "en": "Ban Namka",
+      "slug": "ban-namka-11229581"
+    },
+    "code": {
+      "id": "11229581",
+      "iso": null
+    },
+    "parent": {
+      "id": "VI-03",
+      "level": 2,
+      "name": {
+        "local": "Kasy",
+        "en": "Kasy",
+        "slug": "kasy-vi-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VI",
+        "level": 1,
+        "name": {
+          "local": "Vientiane",
+          "en": "Vientiane Province",
+          "slug": "vientiane-province-vi"
+        }
+      },
+      {
+        "id": "VI-03",
+        "level": 2,
+        "name": {
+          "local": "Kasy",
+          "en": "Kasy",
+          "slug": "kasy-vi-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.851",
+      "lon": "102.168"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11229580",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Namkamu",
+      "en": "Ban Namkamu",
+      "slug": "ban-namkamu-11229580"
+    },
+    "code": {
+      "id": "11229580",
+      "iso": null
+    },
+    "parent": {
+      "id": "VI-03",
+      "level": 2,
+      "name": {
+        "local": "Kasy",
+        "en": "Kasy",
+        "slug": "kasy-vi-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VI",
+        "level": 1,
+        "name": {
+          "local": "Vientiane",
+          "en": "Vientiane Province",
+          "slug": "vientiane-province-vi"
+        }
+      },
+      {
+        "id": "VI-03",
+        "level": 2,
+        "name": {
+          "local": "Kasy",
+          "en": "Kasy",
+          "slug": "kasy-vi-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.822",
+      "lon": "102.107"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1952542",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Namkèn",
+      "en": "Ban Namken",
+      "slug": "ban-namken-1952542"
+    },
+    "code": {
+      "id": "1952542",
+      "iso": null
+    },
+    "parent": {
+      "id": "VI-03",
+      "level": 2,
+      "name": {
+        "local": "Kasy",
+        "en": "Kasy",
+        "slug": "kasy-vi-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VI",
+        "level": 1,
+        "name": {
+          "local": "Vientiane",
+          "en": "Vientiane Province",
+          "slug": "vientiane-province-vi"
+        }
+      },
+      {
+        "id": "VI-03",
+        "level": 2,
+        "name": {
+          "local": "Kasy",
+          "en": "Kasy",
+          "slug": "kasy-vi-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.339",
+      "lon": "102.377"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11227472",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Namkhèng",
+      "en": "Ban Namkheng",
+      "slug": "ban-namkheng-11227472"
+    },
+    "code": {
+      "id": "11227472",
+      "iso": null
+    },
+    "parent": {
+      "id": "VI-03",
+      "level": 2,
+      "name": {
+        "local": "Kasy",
+        "en": "Kasy",
+        "slug": "kasy-vi-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VI",
+        "level": 1,
+        "name": {
+          "local": "Vientiane",
+          "en": "Vientiane Province",
+          "slug": "vientiane-province-vi"
+        }
+      },
+      {
+        "id": "VI-03",
+        "level": 2,
+        "name": {
+          "local": "Kasy",
+          "en": "Kasy",
+          "slug": "kasy-vi-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.296",
+      "lon": "102.261"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11229558",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Namkoy",
+      "en": "Ban Namkoy",
+      "slug": "ban-namkoy-11229558"
+    },
+    "code": {
+      "id": "11229558",
+      "iso": null
+    },
+    "parent": {
+      "id": "VI-03",
+      "level": 2,
+      "name": {
+        "local": "Kasy",
+        "en": "Kasy",
+        "slug": "kasy-vi-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VI",
+        "level": 1,
+        "name": {
+          "local": "Vientiane",
+          "en": "Vientiane Province",
+          "slug": "vientiane-province-vi"
+        }
+      },
+      {
+        "id": "VI-03",
+        "level": 2,
+        "name": {
+          "local": "Kasy",
+          "en": "Kasy",
+          "slug": "kasy-vi-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.807",
+      "lon": "102.089"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1661480",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Namon",
+      "en": "Ban Namon",
+      "slug": "ban-namon-1661480"
+    },
+    "code": {
+      "id": "1661480",
+      "iso": null
+    },
+    "parent": {
+      "id": "VI-03",
+      "level": 2,
+      "name": {
+        "local": "Kasy",
+        "en": "Kasy",
+        "slug": "kasy-vi-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VI",
+        "level": 1,
+        "name": {
+          "local": "Vientiane",
+          "en": "Vientiane Province",
+          "slug": "vientiane-province-vi"
+        }
+      },
+      {
+        "id": "VI-03",
+        "level": 2,
+        "name": {
+          "local": "Kasy",
+          "en": "Kasy",
+          "slug": "kasy-vi-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.077",
+      "lon": "102.142"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11227480",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Namôn-Kao",
+      "en": "Ban Namon-Kao",
+      "slug": "ban-namon-kao-11227480"
+    },
+    "code": {
+      "id": "11227480",
+      "iso": null
+    },
+    "parent": {
+      "id": "VI-03",
+      "level": 2,
+      "name": {
+        "local": "Kasy",
+        "en": "Kasy",
+        "slug": "kasy-vi-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VI",
+        "level": 1,
+        "name": {
+          "local": "Vientiane",
+          "en": "Vientiane Province",
+          "slug": "vientiane-province-vi"
+        }
+      },
+      {
+        "id": "VI-03",
+        "level": 2,
+        "name": {
+          "local": "Kasy",
+          "en": "Kasy",
+          "slug": "kasy-vi-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.238",
+      "lon": "102.251"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11227477",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Namôn-Mai",
+      "en": "Ban Namon-Mai",
+      "slug": "ban-namon-mai-11227477"
+    },
+    "code": {
+      "id": "11227477",
+      "iso": null
+    },
+    "parent": {
+      "id": "VI-03",
+      "level": 2,
+      "name": {
+        "local": "Kasy",
+        "en": "Kasy",
+        "slug": "kasy-vi-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VI",
+        "level": 1,
+        "name": {
+          "local": "Vientiane",
+          "en": "Vientiane Province",
+          "slug": "vientiane-province-vi"
+        }
+      },
+      {
+        "id": "VI-03",
+        "level": 2,
+        "name": {
+          "local": "Kasy",
+          "en": "Kasy",
+          "slug": "kasy-vi-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.246",
+      "lon": "102.249"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11227546",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Namphouk",
+      "en": "Ban Namphouk",
+      "slug": "ban-namphouk-11227546"
+    },
+    "code": {
+      "id": "11227546",
+      "iso": null
+    },
+    "parent": {
+      "id": "VI-03",
+      "level": 2,
+      "name": {
+        "local": "Kasy",
+        "en": "Kasy",
+        "slug": "kasy-vi-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VI",
+        "level": 1,
+        "name": {
+          "local": "Vientiane",
+          "en": "Vientiane Province",
+          "slug": "vientiane-province-vi"
+        }
+      },
+      {
+        "id": "VI-03",
+        "level": 2,
+        "name": {
+          "local": "Kasy",
+          "en": "Kasy",
+          "slug": "kasy-vi-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.306",
+      "lon": "102.286"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13433676",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Namxa",
+      "en": "Ban Namxa",
+      "slug": "ban-namxa-13433676"
+    },
+    "code": {
+      "id": "13433676",
+      "iso": null
+    },
+    "parent": {
+      "id": "VI-03",
+      "level": 2,
+      "name": {
+        "local": "Kasy",
+        "en": "Kasy",
+        "slug": "kasy-vi-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VI",
+        "level": 1,
+        "name": {
+          "local": "Vientiane",
+          "en": "Vientiane Province",
+          "slug": "vientiane-province-vi"
+        }
+      },
+      {
+        "id": "VI-03",
+        "level": 2,
+        "name": {
+          "local": "Kasy",
+          "en": "Kasy",
+          "slug": "kasy-vi-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.385",
+      "lon": "102.343"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1952541",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Namxa-Gnai",
+      "en": "Ban Namxa-Gnai",
+      "slug": "ban-namxa-gnai-1952541"
+    },
+    "code": {
+      "id": "1952541",
+      "iso": null
+    },
+    "parent": {
+      "id": "VI-03",
+      "level": 2,
+      "name": {
+        "local": "Kasy",
+        "en": "Kasy",
+        "slug": "kasy-vi-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VI",
+        "level": 1,
+        "name": {
+          "local": "Vientiane",
+          "en": "Vientiane Province",
+          "slug": "vientiane-province-vi"
+        }
+      },
+      {
+        "id": "VI-03",
+        "level": 2,
+        "name": {
+          "local": "Kasy",
+          "en": "Kasy",
+          "slug": "kasy-vi-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.334",
+      "lon": "102.338"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1661412",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Namxa-Noy",
+      "en": "Ban Namxa-Noy",
+      "slug": "ban-namxa-noy-1661412"
+    },
+    "code": {
+      "id": "1661412",
+      "iso": null
+    },
+    "parent": {
+      "id": "VI-03",
+      "level": 2,
+      "name": {
+        "local": "Kasy",
+        "en": "Kasy",
+        "slug": "kasy-vi-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VI",
+        "level": 1,
+        "name": {
+          "local": "Vientiane",
+          "en": "Vientiane Province",
+          "slug": "vientiane-province-vi"
+        }
+      },
+      {
+        "id": "VI-03",
+        "level": 2,
+        "name": {
+          "local": "Kasy",
+          "en": "Kasy",
+          "slug": "kasy-vi-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.321",
+      "lon": "102.33"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1661088",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Natfièn-Mai",
+      "en": "Ban Natfien-Mai",
+      "slug": "ban-natfien-mai-1661088"
+    },
+    "code": {
+      "id": "1661088",
+      "iso": null
+    },
+    "parent": {
+      "id": "VI-03",
+      "level": 2,
+      "name": {
+        "local": "Kasy",
+        "en": "Kasy",
+        "slug": "kasy-vi-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VI",
+        "level": 1,
+        "name": {
+          "local": "Vientiane",
+          "en": "Vientiane Province",
+          "slug": "vientiane-province-vi"
+        }
+      },
+      {
+        "id": "VI-03",
+        "level": 2,
+        "name": {
+          "local": "Kasy",
+          "en": "Kasy",
+          "slug": "kasy-vi-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.178",
+      "lon": "102.235"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11227486",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nathèn-Kao",
+      "en": "Ban Nathen-Kao",
+      "slug": "ban-nathen-kao-11227486"
+    },
+    "code": {
+      "id": "11227486",
+      "iso": null
+    },
+    "parent": {
+      "id": "VI-03",
+      "level": 2,
+      "name": {
+        "local": "Kasy",
+        "en": "Kasy",
+        "slug": "kasy-vi-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VI",
+        "level": 1,
+        "name": {
+          "local": "Vientiane",
+          "en": "Vientiane Province",
+          "slug": "vientiane-province-vi"
+        }
+      },
+      {
+        "id": "VI-03",
+        "level": 2,
+        "name": {
+          "local": "Kasy",
+          "en": "Kasy",
+          "slug": "kasy-vi-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.19",
+      "lon": "102.238"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11227482",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Naxaykhao",
+      "en": "Ban Naxaykhao",
+      "slug": "ban-naxaykhao-11227482"
+    },
+    "code": {
+      "id": "11227482",
+      "iso": null
+    },
+    "parent": {
+      "id": "VI-03",
+      "level": 2,
+      "name": {
+        "local": "Kasy",
+        "en": "Kasy",
+        "slug": "kasy-vi-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VI",
+        "level": 1,
+        "name": {
+          "local": "Vientiane",
+          "en": "Vientiane Province",
+          "slug": "vientiane-province-vi"
+        }
+      },
+      {
+        "id": "VI-03",
+        "level": 2,
+        "name": {
+          "local": "Kasy",
+          "en": "Kasy",
+          "slug": "kasy-vi-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.228",
+      "lon": "102.21"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11227481",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Naxou",
+      "en": "Ban Naxou",
+      "slug": "ban-naxou-11227481"
+    },
+    "code": {
+      "id": "11227481",
+      "iso": null
+    },
+    "parent": {
+      "id": "VI-03",
+      "level": 2,
+      "name": {
+        "local": "Kasy",
+        "en": "Kasy",
+        "slug": "kasy-vi-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VI",
+        "level": 1,
+        "name": {
+          "local": "Vientiane",
+          "en": "Vientiane Province",
+          "slug": "vientiane-province-vi"
+        }
+      },
+      {
+        "id": "VI-03",
+        "level": 2,
+        "name": {
+          "local": "Kasy",
+          "en": "Kasy",
+          "slug": "kasy-vi-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.24",
+      "lon": "102.271"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11227478",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nongbouathong",
+      "en": "Ban Nongbouathong",
+      "slug": "ban-nongbouathong-11227478"
+    },
+    "code": {
+      "id": "11227478",
+      "iso": null
+    },
+    "parent": {
+      "id": "VI-03",
+      "level": 2,
+      "name": {
+        "local": "Kasy",
+        "en": "Kasy",
+        "slug": "kasy-vi-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VI",
+        "level": 1,
+        "name": {
+          "local": "Vientiane",
+          "en": "Vientiane Province",
+          "slug": "vientiane-province-vi"
+        }
+      },
+      {
+        "id": "VI-03",
+        "level": 2,
+        "name": {
+          "local": "Kasy",
+          "en": "Kasy",
+          "slug": "kasy-vi-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.253",
+      "lon": "102.237"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11227539",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Pagnakha",
+      "en": "Ban Pagnakha",
+      "slug": "ban-pagnakha-11227539"
+    },
+    "code": {
+      "id": "11227539",
+      "iso": null
+    },
+    "parent": {
+      "id": "VI-03",
+      "level": 2,
+      "name": {
+        "local": "Kasy",
+        "en": "Kasy",
+        "slug": "kasy-vi-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VI",
+        "level": 1,
+        "name": {
+          "local": "Vientiane",
+          "en": "Vientiane Province",
+          "slug": "vientiane-province-vi"
+        }
+      },
+      {
+        "id": "VI-03",
+        "level": 2,
+        "name": {
+          "local": "Kasy",
+          "en": "Kasy",
+          "slug": "kasy-vi-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.312",
+      "lon": "102.328"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11227495",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Pakha",
+      "en": "Ban Pakha",
+      "slug": "ban-pakha-11227495"
+    },
+    "code": {
+      "id": "11227495",
+      "iso": null
+    },
+    "parent": {
+      "id": "VI-03",
+      "level": 2,
+      "name": {
+        "local": "Kasy",
+        "en": "Kasy",
+        "slug": "kasy-vi-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VI",
+        "level": 1,
+        "name": {
+          "local": "Vientiane",
+          "en": "Vientiane Province",
+          "slug": "vientiane-province-vi"
+        }
+      },
+      {
+        "id": "VI-03",
+        "level": 2,
+        "name": {
+          "local": "Kasy",
+          "en": "Kasy",
+          "slug": "kasy-vi-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.129",
+      "lon": "102.265"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11227540",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phachao",
+      "en": "Ban Phachao",
+      "slug": "ban-phachao-11227540"
+    },
+    "code": {
+      "id": "11227540",
+      "iso": null
+    },
+    "parent": {
+      "id": "VI-03",
+      "level": 2,
+      "name": {
+        "local": "Kasy",
+        "en": "Kasy",
+        "slug": "kasy-vi-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VI",
+        "level": 1,
+        "name": {
+          "local": "Vientiane",
+          "en": "Vientiane Province",
+          "slug": "vientiane-province-vi"
+        }
+      },
+      {
+        "id": "VI-03",
+        "level": 2,
+        "name": {
+          "local": "Kasy",
+          "en": "Kasy",
+          "slug": "kasy-vi-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.305",
+      "lon": "102.34"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1660311",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phadèng",
+      "en": "Ban Phadeng",
+      "slug": "ban-phadeng-1660311"
+    },
+    "code": {
+      "id": "1660311",
+      "iso": null
+    },
+    "parent": {
+      "id": "VI-03",
+      "level": 2,
+      "name": {
+        "local": "Kasy",
+        "en": "Kasy",
+        "slug": "kasy-vi-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VI",
+        "level": 1,
+        "name": {
+          "local": "Vientiane",
+          "en": "Vientiane Province",
+          "slug": "vientiane-province-vi"
+        }
+      },
+      {
+        "id": "VI-03",
+        "level": 2,
+        "name": {
+          "local": "Kasy",
+          "en": "Kasy",
+          "slug": "kasy-vi-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.237",
+      "lon": "102.453"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11227469",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phakhiling",
+      "en": "Ban Phakhiling",
+      "slug": "ban-phakhiling-11227469"
+    },
+    "code": {
+      "id": "11227469",
+      "iso": null
+    },
+    "parent": {
+      "id": "VI-03",
+      "level": 2,
+      "name": {
+        "local": "Kasy",
+        "en": "Kasy",
+        "slug": "kasy-vi-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VI",
+        "level": 1,
+        "name": {
+          "local": "Vientiane",
+          "en": "Vientiane Province",
+          "slug": "vientiane-province-vi"
+        }
+      },
+      {
+        "id": "VI-03",
+        "level": 2,
+        "name": {
+          "local": "Kasy",
+          "en": "Kasy",
+          "slug": "kasy-vi-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.123",
+      "lon": "102.167"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1660232",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phalam",
+      "en": "Ban Phalam",
+      "slug": "ban-phalam-1660232"
+    },
+    "code": {
+      "id": "1660232",
+      "iso": null
+    },
+    "parent": {
+      "id": "VI-03",
+      "level": 2,
+      "name": {
+        "local": "Kasy",
+        "en": "Kasy",
+        "slug": "kasy-vi-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VI",
+        "level": 1,
+        "name": {
+          "local": "Vientiane",
+          "en": "Vientiane Province",
+          "slug": "vientiane-province-vi"
+        }
+      },
+      {
+        "id": "VI-03",
+        "level": 2,
+        "name": {
+          "local": "Kasy",
+          "en": "Kasy",
+          "slug": "kasy-vi-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.205",
+      "lon": "102.187"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13433684",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phalam",
+      "en": "Ban Phalam",
+      "slug": "ban-phalam-13433684"
+    },
+    "code": {
+      "id": "13433684",
+      "iso": null
+    },
+    "parent": {
+      "id": "VI-03",
+      "level": 2,
+      "name": {
+        "local": "Kasy",
+        "en": "Kasy",
+        "slug": "kasy-vi-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VI",
+        "level": 1,
+        "name": {
+          "local": "Vientiane",
+          "en": "Vientiane Province",
+          "slug": "vientiane-province-vi"
+        }
+      },
+      {
+        "id": "VI-03",
+        "level": 2,
+        "name": {
+          "local": "Kasy",
+          "en": "Kasy",
+          "slug": "kasy-vi-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.282",
+      "lon": "102.219"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1660233",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phalamphan",
+      "en": "Ban Phalamphan",
+      "slug": "ban-phalamphan-1660233"
+    },
+    "code": {
+      "id": "1660233",
+      "iso": null
+    },
+    "parent": {
+      "id": "VI-03",
+      "level": 2,
+      "name": {
+        "local": "Kasy",
+        "en": "Kasy",
+        "slug": "kasy-vi-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VI",
+        "level": 1,
+        "name": {
+          "local": "Vientiane",
+          "en": "Vientiane Province",
+          "slug": "vientiane-province-vi"
+        }
+      },
+      {
+        "id": "VI-03",
+        "level": 2,
+        "name": {
+          "local": "Kasy",
+          "en": "Kasy",
+          "slug": "kasy-vi-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.304",
+      "lon": "102.077"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1660207",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phanam Ôk",
+      "en": "Ban Phanam Ok",
+      "slug": "ban-phanam-ok-1660207"
+    },
+    "code": {
+      "id": "1660207",
+      "iso": null
+    },
+    "parent": {
+      "id": "VI-03",
+      "level": 2,
+      "name": {
+        "local": "Kasy",
+        "en": "Kasy",
+        "slug": "kasy-vi-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VI",
+        "level": 1,
+        "name": {
+          "local": "Vientiane",
+          "en": "Vientiane Province",
+          "slug": "vientiane-province-vi"
+        }
+      },
+      {
+        "id": "VI-03",
+        "level": 2,
+        "name": {
+          "local": "Kasy",
+          "en": "Kasy",
+          "slug": "kasy-vi-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.181",
+      "lon": "102.343"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11227324",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phanda",
+      "en": "Ban Phanda",
+      "slug": "ban-phanda-11227324"
+    },
+    "code": {
+      "id": "11227324",
+      "iso": null
+    },
+    "parent": {
+      "id": "VI-03",
+      "level": 2,
+      "name": {
+        "local": "Kasy",
+        "en": "Kasy",
+        "slug": "kasy-vi-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VI",
+        "level": 1,
+        "name": {
+          "local": "Vientiane",
+          "en": "Vientiane Province",
+          "slug": "vientiane-province-vi"
+        }
+      },
+      {
+        "id": "VI-03",
+        "level": 2,
+        "name": {
+          "local": "Kasy",
+          "en": "Kasy",
+          "slug": "kasy-vi-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.072",
+      "lon": "102.035"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1952528",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phanông",
+      "en": "Ban Phanong",
+      "slug": "ban-phanong-1952528"
+    },
+    "code": {
+      "id": "1952528",
+      "iso": null
+    },
+    "parent": {
+      "id": "VI-03",
+      "level": 2,
+      "name": {
+        "local": "Kasy",
+        "en": "Kasy",
+        "slug": "kasy-vi-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VI",
+        "level": 1,
+        "name": {
+          "local": "Vientiane",
+          "en": "Vientiane Province",
+          "slug": "vientiane-province-vi"
+        }
+      },
+      {
+        "id": "VI-03",
+        "level": 2,
+        "name": {
+          "local": "Kasy",
+          "en": "Kasy",
+          "slug": "kasy-vi-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.367",
+      "lon": "102.376"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1952543",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phatonglôm",
+      "en": "Ban Phatonglom",
+      "slug": "ban-phatonglom-1952543"
+    },
+    "code": {
+      "id": "1952543",
+      "iso": null
+    },
+    "parent": {
+      "id": "VI-03",
+      "level": 2,
+      "name": {
+        "local": "Kasy",
+        "en": "Kasy",
+        "slug": "kasy-vi-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VI",
+        "level": 1,
+        "name": {
+          "local": "Vientiane",
+          "en": "Vientiane Province",
+          "slug": "vientiane-province-vi"
+        }
+      },
+      {
+        "id": "VI-03",
+        "level": 2,
+        "name": {
+          "local": "Kasy",
+          "en": "Kasy",
+          "slug": "kasy-vi-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.341",
+      "lon": "102.396"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1660043",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Pho Bua",
+      "en": "Ban Pho Bua",
+      "slug": "ban-pho-bua-1660043"
+    },
+    "code": {
+      "id": "1660043",
+      "iso": null
+    },
+    "parent": {
+      "id": "VI-03",
+      "level": 2,
+      "name": {
+        "local": "Kasy",
+        "en": "Kasy",
+        "slug": "kasy-vi-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VI",
+        "level": 1,
+        "name": {
+          "local": "Vientiane",
+          "en": "Vientiane Province",
+          "slug": "vientiane-province-vi"
+        }
+      },
+      {
+        "id": "VI-03",
+        "level": 2,
+        "name": {
+          "local": "Kasy",
+          "en": "Kasy",
+          "slug": "kasy-vi-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.383",
+      "lon": "102.367"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11227520",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phôn-Ngam",
+      "en": "Ban Phon-Ngam",
+      "slug": "ban-phon-ngam-11227520"
+    },
+    "code": {
+      "id": "11227520",
+      "iso": null
+    },
+    "parent": {
+      "id": "VI-03",
+      "level": 2,
+      "name": {
+        "local": "Kasy",
+        "en": "Kasy",
+        "slug": "kasy-vi-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VI",
+        "level": 1,
+        "name": {
+          "local": "Vientiane",
+          "en": "Vientiane Province",
+          "slug": "vientiane-province-vi"
+        }
+      },
+      {
+        "id": "VI-03",
+        "level": 2,
+        "name": {
+          "local": "Kasy",
+          "en": "Kasy",
+          "slug": "kasy-vi-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.25",
+      "lon": "102.288"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11227488",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phônsa-At",
+      "en": "Ban Phonsa-At",
+      "slug": "ban-phonsa-at-11227488"
+    },
+    "code": {
+      "id": "11227488",
+      "iso": null
+    },
+    "parent": {
+      "id": "VI-03",
+      "level": 2,
+      "name": {
+        "local": "Kasy",
+        "en": "Kasy",
+        "slug": "kasy-vi-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VI",
+        "level": 1,
+        "name": {
+          "local": "Vientiane",
+          "en": "Vientiane Province",
+          "slug": "vientiane-province-vi"
+        }
+      },
+      {
+        "id": "VI-03",
+        "level": 2,
+        "name": {
+          "local": "Kasy",
+          "en": "Kasy",
+          "slug": "kasy-vi-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.171",
+      "lon": "102.209"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11227473",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phônsavat",
+      "en": "Ban Phonsavat",
+      "slug": "ban-phonsavat-11227473"
+    },
+    "code": {
+      "id": "11227473",
+      "iso": null
+    },
+    "parent": {
+      "id": "VI-03",
+      "level": 2,
+      "name": {
+        "local": "Kasy",
+        "en": "Kasy",
+        "slug": "kasy-vi-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VI",
+        "level": 1,
+        "name": {
+          "local": "Vientiane",
+          "en": "Vientiane Province",
+          "slug": "vientiane-province-vi"
+        }
+      },
+      {
+        "id": "VI-03",
+        "level": 2,
+        "name": {
+          "local": "Kasy",
+          "en": "Kasy",
+          "slug": "kasy-vi-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.265",
+      "lon": "102.23"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11227328",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phônthiang",
+      "en": "Ban Phonthiang",
+      "slug": "ban-phonthiang-11227328"
+    },
+    "code": {
+      "id": "11227328",
+      "iso": null
+    },
+    "parent": {
+      "id": "VI-03",
+      "level": 2,
+      "name": {
+        "local": "Kasy",
+        "en": "Kasy",
+        "slug": "kasy-vi-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VI",
+        "level": 1,
+        "name": {
+          "local": "Vientiane",
+          "en": "Vientiane Province",
+          "slug": "vientiane-province-vi"
+        }
+      },
+      {
+        "id": "VI-03",
+        "level": 2,
+        "name": {
+          "local": "Kasy",
+          "en": "Kasy",
+          "slug": "kasy-vi-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.066",
+      "lon": "102.122"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11227522",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phônxai",
+      "en": "Ban Phonxai",
+      "slug": "ban-phonxai-11227522"
+    },
+    "code": {
+      "id": "11227522",
+      "iso": null
+    },
+    "parent": {
+      "id": "VI-03",
+      "level": 2,
+      "name": {
+        "local": "Kasy",
+        "en": "Kasy",
+        "slug": "kasy-vi-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VI",
+        "level": 1,
+        "name": {
+          "local": "Vientiane",
+          "en": "Vientiane Province",
+          "slug": "vientiane-province-vi"
+        }
+      },
+      {
+        "id": "VI-03",
+        "level": 2,
+        "name": {
+          "local": "Kasy",
+          "en": "Kasy",
+          "slug": "kasy-vi-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.248",
+      "lon": "102.276"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11227525",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phouchia",
+      "en": "Ban Phouchia",
+      "slug": "ban-phouchia-11227525"
+    },
+    "code": {
+      "id": "11227525",
+      "iso": null
+    },
+    "parent": {
+      "id": "VI-03",
+      "level": 2,
+      "name": {
+        "local": "Kasy",
+        "en": "Kasy",
+        "slug": "kasy-vi-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VI",
+        "level": 1,
+        "name": {
+          "local": "Vientiane",
+          "en": "Vientiane Province",
+          "slug": "vientiane-province-vi"
+        }
+      },
+      {
+        "id": "VI-03",
+        "level": 2,
+        "name": {
+          "local": "Kasy",
+          "en": "Kasy",
+          "slug": "kasy-vi-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.269",
+      "lon": "102.305"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11227523",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phousida",
+      "en": "Ban Phousida",
+      "slug": "ban-phousida-11227523"
+    },
+    "code": {
+      "id": "11227523",
+      "iso": null
+    },
+    "parent": {
+      "id": "VI-03",
+      "level": 2,
+      "name": {
+        "local": "Kasy",
+        "en": "Kasy",
+        "slug": "kasy-vi-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VI",
+        "level": 1,
+        "name": {
+          "local": "Vientiane",
+          "en": "Vientiane Province",
+          "slug": "vientiane-province-vi"
+        }
+      },
+      {
+        "id": "VI-03",
+        "level": 2,
+        "name": {
+          "local": "Kasy",
+          "en": "Kasy",
+          "slug": "kasy-vi-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.26",
+      "lon": "102.29"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1659725",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phoxoum",
+      "en": "Ban Phoxoum",
+      "slug": "ban-phoxoum-1659725"
+    },
+    "code": {
+      "id": "1659725",
+      "iso": null
+    },
+    "parent": {
+      "id": "VI-03",
+      "level": 2,
+      "name": {
+        "local": "Kasy",
+        "en": "Kasy",
+        "slug": "kasy-vi-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VI",
+        "level": 1,
+        "name": {
+          "local": "Vientiane",
+          "en": "Vientiane Province",
+          "slug": "vientiane-province-vi"
+        }
+      },
+      {
+        "id": "VI-03",
+        "level": 2,
+        "name": {
+          "local": "Kasy",
+          "en": "Kasy",
+          "slug": "kasy-vi-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.174",
+      "lon": "102.299"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1659659",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Pong Ngoa",
+      "en": "Ban Pong Ngoa",
+      "slug": "ban-pong-ngoa-1659659"
+    },
+    "code": {
+      "id": "1659659",
+      "iso": null
+    },
+    "parent": {
+      "id": "VI-03",
+      "level": 2,
+      "name": {
+        "local": "Kasy",
+        "en": "Kasy",
+        "slug": "kasy-vi-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VI",
+        "level": 1,
+        "name": {
+          "local": "Vientiane",
+          "en": "Vientiane Province",
+          "slug": "vientiane-province-vi"
+        }
+      },
+      {
+        "id": "VI-03",
+        "level": 2,
+        "name": {
+          "local": "Kasy",
+          "en": "Kasy",
+          "slug": "kasy-vi-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.808",
+      "lon": "102.09"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11227323",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Pounglak",
+      "en": "Ban Pounglak",
+      "slug": "ban-pounglak-11227323"
+    },
+    "code": {
+      "id": "11227323",
+      "iso": null
+    },
+    "parent": {
+      "id": "VI-03",
+      "level": 2,
+      "name": {
+        "local": "Kasy",
+        "en": "Kasy",
+        "slug": "kasy-vi-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VI",
+        "level": 1,
+        "name": {
+          "local": "Vientiane",
+          "en": "Vientiane Province",
+          "slug": "vientiane-province-vi"
+        }
+      },
+      {
+        "id": "VI-03",
+        "level": 2,
+        "name": {
+          "local": "Kasy",
+          "en": "Kasy",
+          "slug": "kasy-vi-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.073",
+      "lon": "102.055"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11227612",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Sala",
+      "en": "Ban Sala",
+      "slug": "ban-sala-11227612"
+    },
+    "code": {
+      "id": "11227612",
+      "iso": null
+    },
+    "parent": {
+      "id": "VI-03",
+      "level": 2,
+      "name": {
+        "local": "Kasy",
+        "en": "Kasy",
+        "slug": "kasy-vi-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VI",
+        "level": 1,
+        "name": {
+          "local": "Vientiane",
+          "en": "Vientiane Province",
+          "slug": "vientiane-province-vi"
+        }
+      },
+      {
+        "id": "VI-03",
+        "level": 2,
+        "name": {
+          "local": "Kasy",
+          "en": "Kasy",
+          "slug": "kasy-vi-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.063",
+      "lon": "102.073"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11227544",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Sala Tintôk",
+      "en": "Ban Sala Tintok",
+      "slug": "ban-sala-tintok-11227544"
+    },
+    "code": {
+      "id": "11227544",
+      "iso": null
+    },
+    "parent": {
+      "id": "VI-03",
+      "level": 2,
+      "name": {
+        "local": "Kasy",
+        "en": "Kasy",
+        "slug": "kasy-vi-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VI",
+        "level": 1,
+        "name": {
+          "local": "Vientiane",
+          "en": "Vientiane Province",
+          "slug": "vientiane-province-vi"
+        }
+      },
+      {
+        "id": "VI-03",
+        "level": 2,
+        "name": {
+          "local": "Kasy",
+          "en": "Kasy",
+          "slug": "kasy-vi-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.327",
+      "lon": "102.308"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11227468",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Samphôn",
+      "en": "Ban Samphon",
+      "slug": "ban-samphon-11227468"
+    },
+    "code": {
+      "id": "11227468",
+      "iso": null
+    },
+    "parent": {
+      "id": "VI-03",
+      "level": 2,
+      "name": {
+        "local": "Kasy",
+        "en": "Kasy",
+        "slug": "kasy-vi-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VI",
+        "level": 1,
+        "name": {
+          "local": "Vientiane",
+          "en": "Vientiane Province",
+          "slug": "vientiane-province-vi"
+        }
+      },
+      {
+        "id": "VI-03",
+        "level": 2,
+        "name": {
+          "local": "Kasy",
+          "en": "Kasy",
+          "slug": "kasy-vi-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.126",
+      "lon": "102.191"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1659306",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Sèn Lat Nua",
+      "en": "Ban Sen Lat Nua",
+      "slug": "ban-sen-lat-nua-1659306"
+    },
+    "code": {
+      "id": "1659306",
+      "iso": null
+    },
+    "parent": {
+      "id": "VI-03",
+      "level": 2,
+      "name": {
+        "local": "Kasy",
+        "en": "Kasy",
+        "slug": "kasy-vi-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VI",
+        "level": 1,
+        "name": {
+          "local": "Vientiane",
+          "en": "Vientiane Province",
+          "slug": "vientiane-province-vi"
+        }
+      },
+      {
+        "id": "VI-03",
+        "level": 2,
+        "name": {
+          "local": "Kasy",
+          "en": "Kasy",
+          "slug": "kasy-vi-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.367",
+      "lon": "102.383"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11227467",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Sisangvon",
+      "en": "Ban Sisangvon",
+      "slug": "ban-sisangvon-11227467"
+    },
+    "code": {
+      "id": "11227467",
+      "iso": null
+    },
+    "parent": {
+      "id": "VI-03",
+      "level": 2,
+      "name": {
+        "local": "Kasy",
+        "en": "Kasy",
+        "slug": "kasy-vi-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VI",
+        "level": 1,
+        "name": {
+          "local": "Vientiane",
+          "en": "Vientiane Province",
+          "slug": "vientiane-province-vi"
+        }
+      },
+      {
+        "id": "VI-03",
+        "level": 2,
+        "name": {
+          "local": "Kasy",
+          "en": "Kasy",
+          "slug": "kasy-vi-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.106",
+      "lon": "102.175"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1659101",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Sôpkouan",
+      "en": "Ban Sopkouan",
+      "slug": "ban-sopkouan-1659101"
+    },
+    "code": {
+      "id": "1659101",
+      "iso": null
+    },
+    "parent": {
+      "id": "VI-03",
+      "level": 2,
+      "name": {
+        "local": "Kasy",
+        "en": "Kasy",
+        "slug": "kasy-vi-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VI",
+        "level": 1,
+        "name": {
+          "local": "Vientiane",
+          "en": "Vientiane Province",
+          "slug": "vientiane-province-vi"
+        }
+      },
+      {
+        "id": "VI-03",
+        "level": 2,
+        "name": {
+          "local": "Kasy",
+          "en": "Kasy",
+          "slug": "kasy-vi-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.241",
+      "lon": "102.237"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1658677",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Thamlék",
+      "en": "Ban Thamlek",
+      "slug": "ban-thamlek-1658677"
+    },
+    "code": {
+      "id": "1658677",
+      "iso": null
+    },
+    "parent": {
+      "id": "VI-03",
+      "level": 2,
+      "name": {
+        "local": "Kasy",
+        "en": "Kasy",
+        "slug": "kasy-vi-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VI",
+        "level": 1,
+        "name": {
+          "local": "Vientiane",
+          "en": "Vientiane Province",
+          "slug": "vientiane-province-vi"
+        }
+      },
+      {
+        "id": "VI-03",
+        "level": 2,
+        "name": {
+          "local": "Kasy",
+          "en": "Kasy",
+          "slug": "kasy-vi-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.209",
+      "lon": "102.459"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1952540",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Thamlung",
+      "en": "Ban Thamlung",
+      "slug": "ban-thamlung-1952540"
+    },
+    "code": {
+      "id": "1952540",
+      "iso": null
+    },
+    "parent": {
+      "id": "VI-03",
+      "level": 2,
+      "name": {
+        "local": "Kasy",
+        "en": "Kasy",
+        "slug": "kasy-vi-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VI",
+        "level": 1,
+        "name": {
+          "local": "Vientiane",
+          "en": "Vientiane Province",
+          "slug": "vientiane-province-vi"
+        }
+      },
+      {
+        "id": "VI-03",
+        "level": 2,
+        "name": {
+          "local": "Kasy",
+          "en": "Kasy",
+          "slug": "kasy-vi-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.341",
+      "lon": "102.339"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1658535",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Thieng",
+      "en": "Ban Thieng",
+      "slug": "ban-thieng-1658535"
+    },
+    "code": {
+      "id": "1658535",
+      "iso": null
+    },
+    "parent": {
+      "id": "VI-03",
+      "level": 2,
+      "name": {
+        "local": "Kasy",
+        "en": "Kasy",
+        "slug": "kasy-vi-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VI",
+        "level": 1,
+        "name": {
+          "local": "Vientiane",
+          "en": "Vientiane Province",
+          "slug": "vientiane-province-vi"
+        }
+      },
+      {
+        "id": "VI-03",
+        "level": 2,
+        "name": {
+          "local": "Kasy",
+          "en": "Kasy",
+          "slug": "kasy-vi-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.133",
+      "lon": "102.233"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11227507",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Thin-Oudôm",
+      "en": "Ban Thin-Oudom",
+      "slug": "ban-thin-oudom-11227507"
+    },
+    "code": {
+      "id": "11227507",
+      "iso": null
+    },
+    "parent": {
+      "id": "VI-03",
+      "level": 2,
+      "name": {
+        "local": "Kasy",
+        "en": "Kasy",
+        "slug": "kasy-vi-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VI",
+        "level": 1,
+        "name": {
+          "local": "Vientiane",
+          "en": "Vientiane Province",
+          "slug": "vientiane-province-vi"
+        }
+      },
+      {
+        "id": "VI-03",
+        "level": 2,
+        "name": {
+          "local": "Kasy",
+          "en": "Kasy",
+          "slug": "kasy-vi-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.137",
+      "lon": "102.326"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1658536",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Tiang",
+      "en": "Ban Tiang",
+      "slug": "ban-tiang-1658536"
+    },
+    "code": {
+      "id": "1658536",
+      "iso": null
+    },
+    "parent": {
+      "id": "VI-03",
+      "level": 2,
+      "name": {
+        "local": "Kasy",
+        "en": "Kasy",
+        "slug": "kasy-vi-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VI",
+        "level": 1,
+        "name": {
+          "local": "Vientiane",
+          "en": "Vientiane Province",
+          "slug": "vientiane-province-vi"
+        }
+      },
+      {
+        "id": "VI-03",
+        "level": 2,
+        "name": {
+          "local": "Kasy",
+          "en": "Kasy",
+          "slug": "kasy-vi-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.142",
+      "lon": "102.203"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1658366",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Tônphoung",
+      "en": "Ban Tonphoung",
+      "slug": "ban-tonphoung-1658366"
+    },
+    "code": {
+      "id": "1658366",
+      "iso": null
+    },
+    "parent": {
+      "id": "VI-03",
+      "level": 2,
+      "name": {
+        "local": "Kasy",
+        "en": "Kasy",
+        "slug": "kasy-vi-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VI",
+        "level": 1,
+        "name": {
+          "local": "Vientiane",
+          "en": "Vientiane Province",
+          "slug": "vientiane-province-vi"
+        }
+      },
+      {
+        "id": "VI-03",
+        "level": 2,
+        "name": {
+          "local": "Kasy",
+          "en": "Kasy",
+          "slug": "kasy-vi-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.133",
+      "lon": "102.283"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11227537",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Vangbuak",
+      "en": "Ban Vangbuak",
+      "slug": "ban-vangbuak-11227537"
+    },
+    "code": {
+      "id": "11227537",
+      "iso": null
+    },
+    "parent": {
+      "id": "VI-03",
+      "level": 2,
+      "name": {
+        "local": "Kasy",
+        "en": "Kasy",
+        "slug": "kasy-vi-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VI",
+        "level": 1,
+        "name": {
+          "local": "Vientiane",
+          "en": "Vientiane Province",
+          "slug": "vientiane-province-vi"
+        }
+      },
+      {
+        "id": "VI-03",
+        "level": 2,
+        "name": {
+          "local": "Kasy",
+          "en": "Kasy",
+          "slug": "kasy-vi-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.279",
+      "lon": "102.316"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1659438",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Xang",
+      "en": "Ban Xang",
+      "slug": "ban-xang-1659438"
+    },
+    "code": {
+      "id": "1659438",
+      "iso": null
+    },
+    "parent": {
+      "id": "VI-03",
+      "level": 2,
+      "name": {
+        "local": "Kasy",
+        "en": "Kasy",
+        "slug": "kasy-vi-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VI",
+        "level": 1,
+        "name": {
+          "local": "Vientiane",
+          "en": "Vientiane Province",
+          "slug": "vientiane-province-vi"
+        }
+      },
+      {
+        "id": "VI-03",
+        "level": 2,
+        "name": {
+          "local": "Kasy",
+          "en": "Kasy",
+          "slug": "kasy-vi-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.131",
+      "lon": "102.225"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1655203",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Muang Kasi",
+      "en": "Muang Kasi",
+      "slug": "muang-kasi-1655203"
+    },
+    "code": {
+      "id": "1655203",
+      "iso": null
+    },
+    "parent": {
+      "id": "VI-03",
+      "level": 2,
+      "name": {
+        "local": "Kasy",
+        "en": "Kasy",
+        "slug": "kasy-vi-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VI",
+        "level": 1,
+        "name": {
+          "local": "Vientiane",
+          "en": "Vientiane Province",
+          "slug": "vientiane-province-vi"
+        }
+      },
+      {
+        "id": "VI-03",
+        "level": 2,
+        "name": {
+          "local": "Kasy",
+          "en": "Kasy",
+          "slug": "kasy-vi-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.229",
+      "lon": "102.253"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1655195",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Muang Kheung",
+      "en": "Muang Kheung",
+      "slug": "muang-kheung-1655195"
+    },
+    "code": {
+      "id": "1655195",
+      "iso": null
+    },
+    "parent": {
+      "id": "VI-03",
+      "level": 2,
+      "name": {
+        "local": "Kasy",
+        "en": "Kasy",
+        "slug": "kasy-vi-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "VI",
+        "level": 1,
+        "name": {
+          "local": "Vientiane",
+          "en": "Vientiane Province",
+          "slug": "vientiane-province-vi"
+        }
+      },
+      {
+        "id": "VI-03",
+        "level": 2,
+        "name": {
+          "local": "Kasy",
+          "en": "Kasy",
+          "slug": "kasy-vi-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.067",
+      "lon": "102.133"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

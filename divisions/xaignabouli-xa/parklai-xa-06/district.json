@@ -1,0 +1,47 @@
+{
+  "id": "XA-06",
+  "level": 2,
+  "level_name": {
+    "local": "ເມືອງ",
+    "en": "District"
+  },
+  "name": {
+    "local": "Parklai",
+    "en": "Parklai",
+    "slug": "parklai-xa-06"
+  },
+  "code": {
+    "id": "XA-06",
+    "iso": null
+  },
+  "parent": {
+    "id": "XA",
+    "level": 1,
+    "name": {
+      "local": "Xaignabouli",
+      "en": "Xaignabouli",
+      "slug": "xaignabouli-xa"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "XA",
+      "level": 1,
+      "name": {
+        "local": "Xaignabouli",
+        "en": "Xaignabouli",
+        "slug": "xaignabouli-xa"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 104
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "18.473",
+    "lon": "101.569"
+  },
+  "metadata": {},
+  "source": {}
+}

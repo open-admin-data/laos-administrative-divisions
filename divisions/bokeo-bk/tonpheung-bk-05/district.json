@@ -1,0 +1,47 @@
+{
+  "id": "BK-05",
+  "level": 2,
+  "level_name": {
+    "local": "ເມືອງ",
+    "en": "District"
+  },
+  "name": {
+    "local": "Tonpheung",
+    "en": "Tonpheung",
+    "slug": "tonpheung-bk-05"
+  },
+  "code": {
+    "id": "BK-05",
+    "iso": null
+  },
+  "parent": {
+    "id": "BK",
+    "level": 1,
+    "name": {
+      "local": "Bokeo",
+      "en": "Bokeo",
+      "slug": "bokeo-bk"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BK",
+      "level": 1,
+      "name": {
+        "local": "Bokeo",
+        "en": "Bokeo",
+        "slug": "bokeo-bk"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 47
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "20.476",
+    "lon": "100.271"
+  },
+  "metadata": {},
+  "source": {}
+}

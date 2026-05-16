@@ -1,0 +1,287 @@
+# Sepone
+
+[Home](../../../) &gt; [Savannakhet](../) > **Sepone**
+
+Sepone is a district in Laos, under Savannakhet.
+
+## Overview
+
+| Item | Details |
+|------|---------|
+| Villages | 258 |
+| Code | SV-10 |
+| Coordinates | 16.83, 106.495 |
+| Parent | Savannakhet |
+
+## Villages
+
+| # | Name | Coordinates | Code |
+|---|------|-------------|------|
+| 1 | Ban Ala | 16.804, 106.511 | 1665011 |
+| 2 | Ban Alai | 16.654, 106.355 | 1665010 |
+| 3 | Ban Alai-Gnai | 16.676, 106.356 | 13433968 |
+| 4 | Ban Alai-Noy | 16.699, 106.386 | 1665009 |
+| 5 | Ban Alang-Gnai | 16.639, 106.348 | 1956414 |
+| 6 | Ban Alang-Noy | 16.635, 106.327 | 1665005 |
+| 7 | Ban Alang-Noy | 16.657, 106.334 | 1956400 |
+| 8 | Ban Aleun | 16.768, 106.367 | 1657975 |
+| 9 | Ban Along | 16.623, 106.581 | 11236501 |
+| 10 | Ban Asing | 16.571, 106.552 | 11236518 |
+| 11 | Ban Avian | 16.834, 106.537 | 11226481 |
+| 12 | Ban Avin | 16.764, 106.432 | 1664966 |
+| 13 | Ban Bamlan | 16.848, 106.447 | 1664947 |
+| 14 | Ban Bangkalô (Ban Bangkalo) | 16.695, 106.229 | 11235597 |
+| 15 | Ban Bangkhoun | 16.713, 106.196 | 11235590 |
+| 16 | Ban But | 16.748, 106.515 | 1664781 |
+| 17 | Ban Chahua | 16.74, 106.455 | 1664759 |
+| 18 | Ban Chakèng (Ban Chakeng) | 16.739, 106.18 | 11235584 |
+| 19 | Ban Chakiphin | 16.608, 106.456 | 1664765 |
+| 20 | Ban Dansavan | 16.625, 106.578 | 13546106 |
+| 21 | Ban Dinmo | 16.808, 106.343 | 1664576 |
+| 22 | Ban Dông (Ban Dong) | 16.631, 106.425 | 1664524 |
+| 23 | Ban Dônghai (Ban Donghai) | 16.632, 106.389 | 1664505 |
+| 24 | Ban Dôngsoun (Ban Dongsoun) | 16.688, 106.199 | 1664444 |
+| 25 | Ban Douan | 16.583, 106.517 | 1664357 |
+| 26 | Ban Fuang | 16.617, 106.56 | 1659720 |
+| 27 | Ban Hangxeung | 16.632, 106.38 | 1664202 |
+| 28 | Ban Hènba (Ban Henba) | 16.653, 106.393 | 1956402 |
+| 29 | Ban Hèngho (Ban Hengho) | 16.712, 106.358 | 1664094 |
+| 30 | Ban Hènglouang (Ban Henglouang) | 16.714, 106.341 | 1664093 |
+| 31 | Ban Houay Sung | 16.767, 106.217 | 1663585 |
+| 32 | Ban Houaychô (Ban Houaycho) | 16.722, 106.192 | 1663941 |
+| 33 | Ban Houaykôk (Ban Houaykok) | 16.691, 106.274 | 1663874 |
+| 34 | Ban Houaykouy | 16.683, 106.15 | 1663801 |
+| 35 | Ban Houayla | 16.663, 106.305 | 1956398 |
+| 36 | Ban Houayloua | 16.626, 106.523 | 11236503 |
+| 37 | Ban Houaypanga | 16.804, 106.169 | 1663681 |
+| 38 | Ban Houaysan | 16.6, 106.539 | 1663616 |
+| 39 | Ban Houaythôn (Ban Houaython) | 16.796, 106.251 | 1663560 |
+| 40 | Ban Houayton | 16.717, 106.237 | 1663549 |
+| 41 | Ban Houayyung | 16.719, 106.218 | 1663515 |
+| 42 | Ban Houklao | 16.579, 106.661 | 11236515 |
+| 43 | Ban Huk | 16.593, 106.499 | 1956452 |
+| 44 | Ban Kachoun | 16.835, 106.089 | 1663448 |
+| 45 | Ban Kachoun | 16.8, 106.167 | 1663449 |
+| 46 | Ban Kadap | 16.605, 106.472 | 1663443 |
+| 47 | Ban Kadô (Ban Kado) | 16.893, 106.351 | 11235611 |
+| 48 | Ban Kahan | 16.621, 106.551 | 11236502 |
+| 49 | Ban Kalèng (Ban Kaleng) | 16.684, 106.329 | 1663429 |
+| 50 | Ban Kalông (Ban Kalong) | 16.85, 106.383 | 1663425 |
+| 51 | Ban Kalouk | 16.694, 106.335 | 13433967 |
+| 52 | Ban Kalouk-Kao | 16.684, 106.315 | 1663423 |
+| 53 | Ban Kalouk-Mai | 16.693, 106.315 | 1663422 |
+| 54 | Ban Kanap | 16.756, 106.377 | 1663410 |
+| 55 | Ban Kanèp (Ban Kanep) | 16.783, 106.35 | 1663404 |
+| 56 | Ban Kapay | 16.893, 106.524 | 1663359 |
+| 57 | Ban Kapay | 16.882, 106.515 | 1663361 |
+| 58 | Ban Kapay (2) | 16.8, 106.117 | 1663360 |
+| 59 | Ban Katai | 16.617, 106.533 | 1663341 |
+| 60 | Ban Katan | 16.727, 106.384 | 13433966 |
+| 61 | Ban Katan-Gnai | 16.738, 106.356 | 1663335 |
+| 62 | Ban Katan-Noy | 16.743, 106.34 | 1663334 |
+| 63 | Ban Katar | 16.833, 106.35 | 1663332 |
+| 64 | Ban Kateng Xieng | 16.567, 106.6 | 1663328 |
+| 65 | Ban Katèp (Ban Katep) | 16.736, 106.362 | 11235632 |
+| 66 | Ban Katoup-Gnai | 16.598, 106.623 | 11236511 |
+| 67 | Ban Katoup-Noy | 16.603, 106.595 | 11236512 |
+| 68 | Ban Kèng-Nang (Ban Keng-Nang) | 16.58, 106.512 | 11236508 |
+| 69 | Ban Kèngchalong (Ban Kengchalong) | 16.764, 106.275 | 1663288 |
+| 70 | Ban Kèngdôm (Ban Kengdom) | 16.725, 106.127 | 1663281 |
+| 71 | Ban Kènggnang (Ban Kenggnang) | 16.603, 106.487 | 1663278 |
+| 72 | Ban Kènghouapa (Ban Kenghouapa) | 16.671, 106.197 | 1663271 |
+| 73 | Ban Kèngkhai (Ban Kengkhai) | 16.642, 106.344 | 1663258 |
+| 74 | Ban Kèngkhan Kao (Ban Kengkhan Kao) | 16.767, 106.133 | 1663256 |
+| 75 | Ban Kèngkhan-Mai (Ban Kengkhan-Mai) | 16.762, 106.133 | 1663255 |
+| 76 | Ban Kèngkhông (Ban Kengkhong) | 16.707, 106.221 | 11235588 |
+| 77 | Ban Kèngkhup (Ban Kengkhup) | 16.799, 106.097 | 1663248 |
+| 78 | Ban Kèngkouy (Ban Kengkouy) | 16.642, 106.199 | 1956419 |
+| 79 | Ban Kènglong (Ban Kenglong) | 16.635, 106.397 | 1663293 |
+| 80 | Ban Kènglouang (Ban Kenglouang) | 16.645, 106.358 | 1956413 |
+| 81 | Ban Kèngsép (Ban Kengsep) | 16.805, 106.096 | 1663204 |
+| 82 | Ban Kèngthong (Ban Kengthong) | 16.651, 106.325 | 1663283 |
+| 83 | Ban Khadao-Duy | 16.636, 106.49 | 1956404 |
+| 84 | Ban Khôk (Ban Khok) | 16.609, 106.155 | 1956438 |
+| 85 | Ban Khounthôn (Ban Khounthon) | 16.816, 106.274 | 1662886 |
+| 86 | Ban Khôving (Ban Khoving) | 16.739, 106.255 | 1662883 |
+| 87 | Ban Khung | 16.9, 106.367 | 1662876 |
+| 88 | Ban Koai | 16.75, 106.383 | 1662847 |
+| 89 | Ban Kok | 16.891, 106.463 | 1662831 |
+| 90 | Ban Kôkkou (Ban Kokkou) | 16.602, 106.556 | 11236505 |
+| 91 | Ban Konghin | 16.662, 106.115 | 1956395 |
+| 92 | Ban Kôt (Ban Kot) | 16.855, 106.314 | 11235606 |
+| 93 | Ban Kouli | 16.774, 106.363 | 1662745 |
+| 94 | Ban La-Ô-Kao (Ban La-O-Kao) | 16.611, 106.158 | 11236022 |
+| 95 | Ban La-Ô-Noy (Ban La-O-Noy) | 16.633, 106.159 | 1662617 |
+| 96 | Ban Labôkang (Ban Labokang) | 16.685, 106.129 | 11235559 |
+| 97 | Ban Labotham | 16.668, 106.115 | 11235557 |
+| 98 | Ban Lahip | 16.8, 106.333 | 1662676 |
+| 99 | Ban Laho | 16.692, 106.429 | 1662674 |
+| 100 | Ban Lakhum-Nua | 16.557, 106.418 | 1956494 |
+| 101 | Ban Lakhum-Tai | 16.552, 106.408 | 1659584 |
+| 102 | Ban Lakông (Ban Lakong) | 16.656, 106.49 | 1662663 |
+| 103 | Ban Lalou | 16.903, 106.448 | 1659579 |
+| 104 | Ban Lalou | 16.931, 106.446 | 1662659 |
+| 105 | Ban Lamay | 16.914, 106.44 | 1659581 |
+| 106 | Ban Langhô (Ban Langho) | 16.788, 106.506 | 1662640 |
+| 107 | Ban Langi | 16.8, 106.45 | 1662638 |
+| 108 | Ban Langkon | 16.893, 106.393 | 11235666 |
+| 109 | Ban Laniam | 16.81, 106.337 | 11235624 |
+| 110 | Ban Lanian | 16.73, 106.417 | 1662627 |
+| 111 | Ban Lat | 16.877, 106.12 | 11235571 |
+| 112 | Ban Lat-Ho | 16.806, 106.204 | 1662533 |
+| 113 | Ban Lat-Hosông-Tai (Ban Lat-Hosong-Tai) | 16.801, 106.191 | 11235583 |
+| 114 | Ban Lataha | 16.848, 106.529 | 1659000 |
+| 115 | Ban Latèp (Ban Latep) | 16.813, 106.397 | 1659578 |
+| 116 | Ban Latiat | 16.737, 106.4 | 1659577 |
+| 117 | Ban Latouang | 16.723, 106.431 | 1662526 |
+| 118 | Ban Latsan | 16.81, 106.212 | 1662525 |
+| 119 | Ban Latthôn (Ban Latthon) | 16.798, 106.228 | 1662520 |
+| 120 | Ban Mahak | 16.59, 106.637 | 11236513 |
+| 121 | Ban Mahak-Nua | 16.59, 106.641 | 11236514 |
+| 122 | Ban Muangchan | 16.665, 106.289 | 1662182 |
+| 123 | Ban Muangsèn (Ban Muangsen) | 16.668, 106.261 | 1655109 |
+| 124 | Ban Na | 16.902, 106.423 | 1662141 |
+| 125 | Ban Na | 16.767, 106.383 | 1662142 |
+| 126 | Ban Na | 16.744, 106.518 | 1662143 |
+| 127 | Ban Nabo | 16.72, 106.165 | 1662116 |
+| 128 | Ban Naboua | 16.768, 106.344 | 11235628 |
+| 129 | Ban Nahi | 16.746, 106.128 | 1661956 |
+| 130 | Ban Nahouanam | 16.658, 106.152 | 1661923 |
+| 131 | Ban Nakatèn (Ban Nakaten) | 16.639, 106.181 | 1663330 |
+| 132 | Ban Nakatin | 16.664, 106.166 | 1661863 |
+| 133 | Ban Nalouang | 16.677, 106.15 | 1661646 |
+| 134 | Ban Nalouang-Gnai | 16.635, 106.183 | 1661647 |
+| 135 | Ban Namkhang | 16.804, 106.135 | 1661553 |
+| 136 | Ban Nang-Nèo (Ban Nang-Neo) | 16.587, 106.503 | 11236507 |
+| 137 | Ban Navahoun | 16.685, 106.252 | 11235596 |
+| 138 | Ban Niang-Gnai | 16.738, 106.273 | 1658302 |
+| 139 | Ban Niang-Noy | 16.745, 106.272 | 11235602 |
+| 140 | Ban Pakouay | 16.811, 106.153 | 1660476 |
+| 141 | Ban Palai | 16.607, 106.439 | 1660425 |
+| 142 | Ban Palai | 16.709, 106.242 | 1660429 |
+| 143 | Ban Palat | 16.628, 106.58 | 1655896 |
+| 144 | Ban Panai | 16.751, 106.424 | 11235649 |
+| 145 | Ban Payout | 16.688, 106.477 | 1660345 |
+| 146 | Ban Phabang-Nua | 16.886, 106.333 | 1660317 |
+| 147 | Ban Phabang-Tai | 16.877, 106.312 | 1660315 |
+| 148 | Ban Phangdèng (Ban Phangdeng) | 16.855, 106.283 | 11235604 |
+| 149 | Ban Phin | 16.625, 106.445 | 1956430 |
+| 150 | Ban Phonhay | 16.764, 106.126 | 11235566 |
+| 151 | Ban Phônmoung (Ban Phonmoung) | 16.705, 106.193 | 11235591 |
+| 152 | Ban Phouhom | 16.872, 106.134 | 1659802 |
+| 153 | Ban Phoukacha | 16.86, 106.155 | 1659799 |
+| 154 | Ban Phuang | 16.807, 106.528 | 11226482 |
+| 155 | Ban Piakplông (Ban Piakplong) | 16.809, 106.425 | 1659712 |
+| 156 | Ban Plai | 16.558, 106.376 | 1659600 |
+| 157 | Ban Plai | 16.559, 106.378 | 1956492 |
+| 158 | Ban Plông (Ban Plong) | 16.853, 106.464 | 1659699 |
+| 159 | Ban Plouan | 16.595, 106.367 | 1956435 |
+| 160 | Ban Pongchik | 16.933, 106.283 | 1659668 |
+| 161 | Ban Poung | 16.778, 106.351 | 1659641 |
+| 162 | Ban Rôl (Ban Rol) | 16.817, 106.433 | 1659569 |
+| 163 | Ban Sa-I | 16.736, 106.247 | 1659550 |
+| 164 | Ban Sabông (Ban Sabong) | 16.731, 106.113 | 1659560 |
+| 165 | Ban Sadoun | 16.821, 106.538 | 1658811 |
+| 166 | Ban Sakhouay | 16.733, 106.2 | 1659536 |
+| 167 | Ban Sakhouay | 16.717, 106.233 | 1659537 |
+| 168 | Ban Salang | 16.783, 106.167 | 1659517 |
+| 169 | Ban Salang | 16.675, 106.438 | 1659520 |
+| 170 | Ban Salèo (Ban Saleo) | 16.633, 106.44 | 1956408 |
+| 171 | Ban Salèo (Ban Saleo) | 16.679, 106.272 | 11235594 |
+| 172 | Ban Salia | 16.926, 106.488 | 1659392 |
+| 173 | Ban Saloun | 16.73, 106.506 | 11226483 |
+| 174 | Ban Saloung | 16.793, 106.306 | 11235603 |
+| 175 | Ban Samang | 16.689, 106.298 | 1659492 |
+| 176 | Ban Sang | 16.77, 106.161 | 1659518 |
+| 177 | Ban Sanong | 16.833, 106.117 | 1659414 |
+| 178 | Ban Sanong | 16.763, 106.224 | 1659415 |
+| 179 | Ban Savèng (Ban Saveng) | 16.749, 106.304 | 1659378 |
+| 180 | Ban Savèt-Nua (Ban Savet-Nua) | 16.78, 106.138 | 11235567 |
+| 181 | Ban Savèt-Tai (Ban Savet-Tai) | 16.783, 106.151 | 11235568 |
+| 182 | Ban Saxai Noy (1) | 16.7, 106.383 | 1659377 |
+| 183 | Ban Sén (Ban Sen) | 16.727, 106.47 | 1659243 |
+| 184 | Ban Sènsèn (Ban Sensen) | 16.723, 106.397 | 1659261 |
+| 185 | Ban Songkhè (Ban Songkhe) | 16.823, 106.101 | 1659154 |
+| 186 | Ban Sonsali | 16.747, 106.275 | 1659507 |
+| 187 | Ban Sôpchang (Ban Sopchang) | 16.65, 106.333 | 1659120 |
+| 188 | Ban Sôpchang (Ban Sopchang) | 16.667, 106.35 | 1659122 |
+| 189 | Ban Sôpkôk-Kao (Ban Sopkok-Kao) | 16.725, 106.205 | 1659104 |
+| 190 | Ban Sôpkôk-Mai (Ban Sopkok-Mai) | 16.709, 106.197 | 1659103 |
+| 191 | Ban Sôpkonti (Ban Sopkonti) | 16.883, 106.35 | 1659102 |
+| 192 | Ban Sôplouan (Ban Soplouan) | 16.896, 106.458 | 11235664 |
+| 193 | Ban Sôpmi (Ban Sopmi) | 16.817, 106.093 | 11235570 |
+| 194 | Ban Sôpnam (Ban Sopnam) | 16.688, 106.215 | 1659094 |
+| 195 | Ban Soung | 16.575, 106.505 | 11236509 |
+| 196 | Ban Taboua | 16.86, 106.414 | 1659008 |
+| 197 | Ban Taki | 16.632, 106.493 | 1956405 |
+| 198 | Ban Taklak | 16.833, 106.55 | 1658981 |
+| 199 | Ban Takôk (Ban Takok) | 16.734, 106.452 | 1658979 |
+| 200 | Ban Talao | 16.819, 106.256 | 1658969 |
+| 201 | Ban Talao | 16.822, 106.217 | 1658970 |
+| 202 | Ban Talia | 16.741, 106.473 | 1658817 |
+| 203 | Ban Taliak | 16.885, 106.491 | 1658815 |
+| 204 | Ban Talouang | 16.633, 106.183 | 1658945 |
+| 205 | Ban Talouay | 16.85, 106.26 | 1658943 |
+| 206 | Ban Taloy | 16.794, 106.47 | 1658935 |
+| 207 | Ban Taloy (4) | 16.783, 106.483 | 1658934 |
+| 208 | Ban Tamba | 16.567, 106.5 | 1658930 |
+| 209 | Ban Tamplang | 16.75, 106.433 | 1658915 |
+| 210 | Ban Tan-A | 16.855, 106.51 | 1658894 |
+| 211 | Ban Tanang | 16.706, 106.428 | 1658906 |
+| 212 | Ban Tanghuy | 16.813, 106.377 | 1658887 |
+| 213 | Ban Tapang | 16.909, 106.517 | 1658834 |
+| 214 | Ban Taphing | 16.916, 106.343 | 1658829 |
+| 215 | Ban Tapia | 16.863, 106.401 | 1658827 |
+| 216 | Ban Tapou | 16.854, 106.36 | 1658823 |
+| 217 | Ban Tapou | 16.748, 106.315 | 11235630 |
+| 218 | Ban Tapoy | 16.916, 106.517 | 1658821 |
+| 219 | Ban Tatreu | 16.867, 106.4 | 1658788 |
+| 220 | Ban Tèk (Ban Tek) | 16.749, 106.399 | 11235647 |
+| 221 | Ban Tèp (Ban Tep) | 16.763, 106.482 | 1658767 |
+| 222 | Ban Thakhông (Ban Thakhong) | 16.698, 106.222 | 1658713 |
+| 223 | Ban Thamô (Ban Thamo) | 16.806, 106.07 | 1658665 |
+| 224 | Ban Thava | 16.833, 106.294 | 1658565 |
+| 225 | Ban Thou | 16.577, 106.59 | 11236510 |
+| 226 | Ban Thouy | 16.767, 106.5 | 1658447 |
+| 227 | Ban Tiouang | 16.815, 106.543 | 1658326 |
+| 228 | Ban Tlai | 16.624, 106.36 | 1956426 |
+| 229 | Ban Tliang | 16.861, 106.382 | 1658330 |
+| 230 | Ban Tloua | 16.905, 106.451 | 1658327 |
+| 231 | Ban Vangboun | 16.681, 106.27 | 1658309 |
+| 232 | Ban Vanghai | 16.79, 106.285 | 1661072 |
+| 233 | Ban Vanghin | 16.776, 106.317 | 1658265 |
+| 234 | Ban Vangkhoay | 16.742, 106.165 | 1658281 |
+| 235 | Ban Vangkoung | 16.639, 106.11 | 1956420 |
+| 236 | Ban Vangmèo (Ban Vangmeo) | 16.804, 106.111 | 1658264 |
+| 237 | Ban Vangmothoum | 16.836, 106.076 | 1658258 |
+| 238 | Ban Vangmuang | 16.895, 106.404 | 11235665 |
+| 239 | Ban Vangpha | 16.776, 106.27 | 1658240 |
+| 240 | Ban Vangphao | 16.816, 106.314 | 1658238 |
+| 241 | Ban Vangthông (Ban Vangthong) | 16.671, 106.285 | 1658221 |
+| 242 | Ban Vangthoum | 16.603, 106.457 | 1956433 |
+| 243 | Ban Vangveun | 16.767, 106.367 | 1658215 |
+| 244 | Ban Vat | 16.9, 106.417 | 1658202 |
+| 245 | Ban Viang | 16.867, 106.411 | 1658168 |
+| 246 | Ban Xang-Nam | 16.602, 106.466 | 1956434 |
+| 247 | Ban Xémoun (Ban Xemoun) | 16.621, 106.498 | 1956431 |
+| 248 | Ban Xèpôn (Ban Xepon) | 16.681, 106.239 | 1655076 |
+| 249 | Ban Xépong (Ban Xepong) | 16.918, 106.378 | 1658066 |
+| 250 | Ban Xianghôm (Ban Xianghom) | 16.775, 106.33 | 1658053 |
+| 251 | Ban Xoaymuang | 16.733, 106.5 | 1658008 |
+| 252 | Ban Yanghin | 16.784, 106.339 | 1657974 |
+| 253 | Keng Kok | 16.85, 106.083 | 1656638 |
+| 254 | Làng Ha (3) (Lang Ha (3)) | 16.6, 106.617 | 1655910 |
+| 255 | Làng Klor (Lang Klor) | 16.733, 106.517 | 1655905 |
+| 256 | Làng Seu Moun (Lang Seu Moun) | 16.717, 106.517 | 1655887 |
+| 257 | Muang Xèpôn-Mai (Muang Xepon-Mai) | 16.7, 106.209 | 11235592 |
+| 258 | Tatyarai | 16.733, 106.517 | 1652734 |
+
+## Data Files
+
+- [district.json](district.json) — District metadata
+- [village.json](village.json) — All villages (JSON)
+- [village.csv](village.csv) — CSV format
+
+---
+
+<- Back to [Savannakhet](../)

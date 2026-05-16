@@ -1,0 +1,47 @@
+{
+  "id": "SV-12",
+  "level": 2,
+  "level_name": {
+    "local": "ເມືອງ",
+    "en": "District"
+  },
+  "name": {
+    "local": "Thapangthong",
+    "en": "Thapangthong",
+    "slug": "thapangthong-sv-12"
+  },
+  "code": {
+    "id": "SV-12",
+    "iso": null
+  },
+  "parent": {
+    "id": "SV",
+    "level": 1,
+    "name": {
+      "local": "Savannakhet",
+      "en": "Savannakhet",
+      "slug": "savannakhet-sv"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "SV",
+      "level": 1,
+      "name": {
+        "local": "Savannakhet",
+        "en": "Savannakhet",
+        "slug": "savannakhet-sv"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 81
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.02",
+    "lon": "105.786"
+  },
+  "metadata": {},
+  "source": {}
+}

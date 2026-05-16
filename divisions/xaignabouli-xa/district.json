@@ -1,0 +1,519 @@
+[
+  {
+    "id": "XA-01",
+    "level": 2,
+    "level_name": {
+      "local": "ເມືອງ",
+      "en": "District"
+    },
+    "name": {
+      "local": "Botene",
+      "en": "Botene",
+      "slug": "botene-xa-01"
+    },
+    "code": {
+      "id": "XA-01",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA",
+      "level": 1,
+      "name": {
+        "local": "Xaignabouli",
+        "en": "Xaignabouli",
+        "slug": "xaignabouli-xa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 37
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.619",
+      "lon": "101.063"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "XA-02",
+    "level": 2,
+    "level_name": {
+      "local": "ເມືອງ",
+      "en": "District"
+    },
+    "name": {
+      "local": "Hongsa",
+      "en": "Hongsa",
+      "slug": "hongsa-xa-02"
+    },
+    "code": {
+      "id": "XA-02",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA",
+      "level": 1,
+      "name": {
+        "local": "Xaignabouli",
+        "en": "Xaignabouli",
+        "slug": "xaignabouli-xa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 61
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.724",
+      "lon": "101.47"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "XA-03",
+    "level": 2,
+    "level_name": {
+      "local": "ເມືອງ",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kenethao",
+      "en": "Kenethao",
+      "slug": "kenethao-xa-03"
+    },
+    "code": {
+      "id": "XA-03",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA",
+      "level": 1,
+      "name": {
+        "local": "Xaignabouli",
+        "en": "Xaignabouli",
+        "slug": "xaignabouli-xa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 44
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.808",
+      "lon": "101.393"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "XA-04",
+    "level": 2,
+    "level_name": {
+      "local": "ເມືອງ",
+      "en": "District"
+    },
+    "name": {
+      "local": "Khop",
+      "en": "Khop",
+      "slug": "khop-xa-04"
+    },
+    "code": {
+      "id": "XA-04",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA",
+      "level": 1,
+      "name": {
+        "local": "Xaignabouli",
+        "en": "Xaignabouli",
+        "slug": "xaignabouli-xa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 43
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.693",
+      "lon": "100.561"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "XA-05",
+    "level": 2,
+    "level_name": {
+      "local": "ເມືອງ",
+      "en": "District"
+    },
+    "name": {
+      "local": "Ngeun",
+      "en": "Ngeun",
+      "slug": "ngeun-xa-05"
+    },
+    "code": {
+      "id": "XA-05",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA",
+      "level": 1,
+      "name": {
+        "local": "Xaignabouli",
+        "en": "Xaignabouli",
+        "slug": "xaignabouli-xa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 38
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.776",
+      "lon": "101.129"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "XA-06",
+    "level": 2,
+    "level_name": {
+      "local": "ເມືອງ",
+      "en": "District"
+    },
+    "name": {
+      "local": "Parklai",
+      "en": "Parklai",
+      "slug": "parklai-xa-06"
+    },
+    "code": {
+      "id": "XA-06",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA",
+      "level": 1,
+      "name": {
+        "local": "Xaignabouli",
+        "en": "Xaignabouli",
+        "slug": "xaignabouli-xa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 104
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.473",
+      "lon": "101.569"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "XA-07",
+    "level": 2,
+    "level_name": {
+      "local": "ເມືອງ",
+      "en": "District"
+    },
+    "name": {
+      "local": "Phiang",
+      "en": "Phiang",
+      "slug": "phiang-xa-07"
+    },
+    "code": {
+      "id": "XA-07",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA",
+      "level": 1,
+      "name": {
+        "local": "Xaignabouli",
+        "en": "Xaignabouli",
+        "slug": "xaignabouli-xa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 57
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.929",
+      "lon": "101.454"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "XA-08",
+    "level": 2,
+    "level_name": {
+      "local": "ເມືອງ",
+      "en": "District"
+    },
+    "name": {
+      "local": "Thongmyxay",
+      "en": "Thongmyxay",
+      "slug": "thongmyxay-xa-08"
+    },
+    "code": {
+      "id": "XA-08",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA",
+      "level": 1,
+      "name": {
+        "local": "Xaignabouli",
+        "en": "Xaignabouli",
+        "slug": "xaignabouli-xa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 17
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.423",
+      "lon": "101.179"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "XA-09",
+    "level": 2,
+    "level_name": {
+      "local": "ເມືອງ",
+      "en": "District"
+    },
+    "name": {
+      "local": "Xayabury",
+      "en": "Xayabury",
+      "slug": "xayabury-xa-09"
+    },
+    "code": {
+      "id": "XA-09",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA",
+      "level": 1,
+      "name": {
+        "local": "Xaignabouli",
+        "en": "Xaignabouli",
+        "slug": "xaignabouli-xa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 97
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.223",
+      "lon": "101.662"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "XA-10",
+    "level": 2,
+    "level_name": {
+      "local": "ເມືອງ",
+      "en": "District"
+    },
+    "name": {
+      "local": "Xaysathan",
+      "en": "Xaysathan",
+      "slug": "xaysathan-xa-10"
+    },
+    "code": {
+      "id": "XA-10",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA",
+      "level": 1,
+      "name": {
+        "local": "Xaignabouli",
+        "en": "Xaignabouli",
+        "slug": "xaignabouli-xa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 15
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.444",
+      "lon": "101.39"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "XA-11",
+    "level": 2,
+    "level_name": {
+      "local": "ເມືອງ",
+      "en": "District"
+    },
+    "name": {
+      "local": "Xienghone",
+      "en": "Xienghone",
+      "slug": "xienghone-xa-11"
+    },
+    "code": {
+      "id": "XA-11",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA",
+      "level": 1,
+      "name": {
+        "local": "Xaignabouli",
+        "en": "Xaignabouli",
+        "slug": "xaignabouli-xa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 97
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.73",
+      "lon": "100.862"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

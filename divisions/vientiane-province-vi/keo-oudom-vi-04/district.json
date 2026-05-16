@@ -1,0 +1,47 @@
+{
+  "id": "VI-04",
+  "level": 2,
+  "level_name": {
+    "local": "ເມືອງ",
+    "en": "District"
+  },
+  "name": {
+    "local": "Keo Oudom",
+    "en": "Keo Oudom",
+    "slug": "keo-oudom-vi-04"
+  },
+  "code": {
+    "id": "VI-04",
+    "iso": null
+  },
+  "parent": {
+    "id": "VI",
+    "level": 1,
+    "name": {
+      "local": "Vientiane",
+      "en": "Vientiane Province",
+      "slug": "vientiane-province-vi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "VI",
+      "level": 1,
+      "name": {
+        "local": "Vientiane",
+        "en": "Vientiane Province",
+        "slug": "vientiane-province-vi"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 44
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "18.599",
+    "lon": "102.503"
+  },
+  "metadata": {},
+  "source": {}
+}

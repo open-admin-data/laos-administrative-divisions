@@ -1,0 +1,8696 @@
+[
+  {
+    "id": "1665095",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Angkouan",
+      "en": "Ban Angkouan",
+      "slug": "ban-angkouan-1665095"
+    },
+    "code": {
+      "id": "1665095",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-05",
+      "level": 2,
+      "name": {
+        "local": "Viengxay",
+        "en": "Viengxay",
+        "slug": "viengxay-ho-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-05",
+        "level": 2,
+        "name": {
+          "local": "Viengxay",
+          "en": "Viengxay",
+          "slug": "viengxay-ho-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.311",
+      "lon": "104.293"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1659003",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Anglong",
+      "en": "Ban Anglong",
+      "slug": "ban-anglong-1659003"
+    },
+    "code": {
+      "id": "1659003",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-05",
+      "level": 2,
+      "name": {
+        "local": "Viengxay",
+        "en": "Viengxay",
+        "slug": "viengxay-ho-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-05",
+        "level": 2,
+        "name": {
+          "local": "Viengxay",
+          "en": "Viengxay",
+          "slug": "viengxay-ho-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.289",
+      "lon": "104.225"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1665094",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Angmok",
+      "en": "Ban Angmok",
+      "slug": "ban-angmok-1665094"
+    },
+    "code": {
+      "id": "1665094",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-05",
+      "level": 2,
+      "name": {
+        "local": "Viengxay",
+        "en": "Viengxay",
+        "slug": "viengxay-ho-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-05",
+        "level": 2,
+        "name": {
+          "local": "Viengxay",
+          "en": "Viengxay",
+          "slug": "viengxay-ho-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.301",
+      "lon": "104.32"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1665093",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Angxang",
+      "en": "Ban Angxang",
+      "slug": "ban-angxang-1665093"
+    },
+    "code": {
+      "id": "1665093",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-05",
+      "level": 2,
+      "name": {
+        "local": "Viengxay",
+        "en": "Viengxay",
+        "slug": "viengxay-ho-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-05",
+        "level": 2,
+        "name": {
+          "local": "Viengxay",
+          "en": "Viengxay",
+          "slug": "viengxay-ho-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.306",
+      "lon": "104.267"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1664809",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Bo",
+      "en": "Ban Bo",
+      "slug": "ban-bo-1664809"
+    },
+    "code": {
+      "id": "1664809",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-05",
+      "level": 2,
+      "name": {
+        "local": "Viengxay",
+        "en": "Viengxay",
+        "slug": "viengxay-ho-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-05",
+        "level": 2,
+        "name": {
+          "local": "Viengxay",
+          "en": "Viengxay",
+          "slug": "viengxay-ho-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.409",
+      "lon": "104.402"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1664915",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Bo",
+      "en": "Ban Bo",
+      "slug": "ban-bo-1664915"
+    },
+    "code": {
+      "id": "1664915",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-05",
+      "level": 2,
+      "name": {
+        "local": "Viengxay",
+        "en": "Viengxay",
+        "slug": "viengxay-ho-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-05",
+        "level": 2,
+        "name": {
+          "local": "Viengxay",
+          "en": "Viengxay",
+          "slug": "viengxay-ho-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.45",
+      "lon": "104.217"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1664876",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Bo Pha Teu",
+      "en": "Ban Bo Pha Teu",
+      "slug": "ban-bo-pha-teu-1664876"
+    },
+    "code": {
+      "id": "1664876",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-05",
+      "level": 2,
+      "name": {
+        "local": "Viengxay",
+        "en": "Viengxay",
+        "slug": "viengxay-ho-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-05",
+        "level": 2,
+        "name": {
+          "local": "Viengxay",
+          "en": "Viengxay",
+          "slug": "viengxay-ho-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.367",
+      "lon": "104.35"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1664808",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Bo-Sam",
+      "en": "Ban Bo-Sam",
+      "slug": "ban-bo-sam-1664808"
+    },
+    "code": {
+      "id": "1664808",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-05",
+      "level": 2,
+      "name": {
+        "local": "Viengxay",
+        "en": "Viengxay",
+        "slug": "viengxay-ho-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-05",
+        "level": 2,
+        "name": {
+          "local": "Viengxay",
+          "en": "Viengxay",
+          "slug": "viengxay-ho-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.404",
+      "lon": "104.426"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1657917",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Bokay",
+      "en": "Ban Bokay",
+      "slug": "ban-bokay-1657917"
+    },
+    "code": {
+      "id": "1657917",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-05",
+      "level": 2,
+      "name": {
+        "local": "Viengxay",
+        "en": "Viengxay",
+        "slug": "viengxay-ho-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-05",
+        "level": 2,
+        "name": {
+          "local": "Viengxay",
+          "en": "Viengxay",
+          "slug": "viengxay-ho-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.355",
+      "lon": "104.361"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1664877",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Bopha",
+      "en": "Ban Bopha",
+      "slug": "ban-bopha-1664877"
+    },
+    "code": {
+      "id": "1664877",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-05",
+      "level": 2,
+      "name": {
+        "local": "Viengxay",
+        "en": "Viengxay",
+        "slug": "viengxay-ho-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-05",
+        "level": 2,
+        "name": {
+          "local": "Viengxay",
+          "en": "Viengxay",
+          "slug": "viengxay-ho-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.381",
+      "lon": "104.327"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1664778",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Cha Do",
+      "en": "Ban Cha Do",
+      "slug": "ban-cha-do-1664778"
+    },
+    "code": {
+      "id": "1664778",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-05",
+      "level": 2,
+      "name": {
+        "local": "Viengxay",
+        "en": "Viengxay",
+        "slug": "viengxay-ho-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-05",
+        "level": 2,
+        "name": {
+          "local": "Viengxay",
+          "en": "Viengxay",
+          "slug": "viengxay-ho-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.433",
+      "lon": "104.317"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1664779",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Cha Do",
+      "en": "Ban Cha Do",
+      "slug": "ban-cha-do-1664779"
+    },
+    "code": {
+      "id": "1664779",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-05",
+      "level": 2,
+      "name": {
+        "local": "Viengxay",
+        "en": "Viengxay",
+        "slug": "viengxay-ho-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-05",
+        "level": 2,
+        "name": {
+          "local": "Viengxay",
+          "en": "Viengxay",
+          "slug": "viengxay-ho-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.4",
+      "lon": "104.183"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1655227",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Chat",
+      "en": "Ban Chat",
+      "slug": "ban-chat-1655227"
+    },
+    "code": {
+      "id": "1655227",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-05",
+      "level": 2,
+      "name": {
+        "local": "Viengxay",
+        "en": "Viengxay",
+        "slug": "viengxay-ho-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-05",
+        "level": 2,
+        "name": {
+          "local": "Viengxay",
+          "en": "Viengxay",
+          "slug": "viengxay-ho-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.243",
+      "lon": "104.477"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1955357",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Chèfay",
+      "en": "Ban Chefay",
+      "slug": "ban-chefay-1955357"
+    },
+    "code": {
+      "id": "1955357",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-05",
+      "level": 2,
+      "name": {
+        "local": "Viengxay",
+        "en": "Viengxay",
+        "slug": "viengxay-ho-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-05",
+        "level": 2,
+        "name": {
+          "local": "Viengxay",
+          "en": "Viengxay",
+          "slug": "viengxay-ho-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.344",
+      "lon": "104.484"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1657624",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Donphao-Nua",
+      "en": "Ban Donphao-Nua",
+      "slug": "ban-donphao-nua-1657624"
+    },
+    "code": {
+      "id": "1657624",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-05",
+      "level": 2,
+      "name": {
+        "local": "Viengxay",
+        "en": "Viengxay",
+        "slug": "viengxay-ho-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-05",
+        "level": 2,
+        "name": {
+          "local": "Viengxay",
+          "en": "Viengxay",
+          "slug": "viengxay-ho-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.367",
+      "lon": "104.388"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1662024",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Eun",
+      "en": "Ban Eun",
+      "slug": "ban-eun-1662024"
+    },
+    "code": {
+      "id": "1662024",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-05",
+      "level": 2,
+      "name": {
+        "local": "Viengxay",
+        "en": "Viengxay",
+        "slug": "viengxay-ho-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-05",
+        "level": 2,
+        "name": {
+          "local": "Viengxay",
+          "en": "Viengxay",
+          "slug": "viengxay-ho-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.429",
+      "lon": "104.258"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1955529",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Fat",
+      "en": "Ban Fat",
+      "slug": "ban-fat-1955529"
+    },
+    "code": {
+      "id": "1955529",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-05",
+      "level": 2,
+      "name": {
+        "local": "Viengxay",
+        "en": "Viengxay",
+        "slug": "viengxay-ho-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-05",
+        "level": 2,
+        "name": {
+          "local": "Viengxay",
+          "en": "Viengxay",
+          "slug": "viengxay-ho-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.548",
+      "lon": "104.17"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1956907",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Gnat-Ang",
+      "en": "Ban Gnat-Ang",
+      "slug": "ban-gnat-ang-1956907"
+    },
+    "code": {
+      "id": "1956907",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-05",
+      "level": 2,
+      "name": {
+        "local": "Viengxay",
+        "en": "Viengxay",
+        "slug": "viengxay-ho-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-05",
+        "level": 2,
+        "name": {
+          "local": "Viengxay",
+          "en": "Viengxay",
+          "slug": "viengxay-ho-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.28",
+      "lon": "104.288"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11401868",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Gniou",
+      "en": "Ban Gniou",
+      "slug": "ban-gniou-11401868"
+    },
+    "code": {
+      "id": "11401868",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-05",
+      "level": 2,
+      "name": {
+        "local": "Viengxay",
+        "en": "Viengxay",
+        "slug": "viengxay-ho-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-05",
+        "level": 2,
+        "name": {
+          "local": "Viengxay",
+          "en": "Viengxay",
+          "slug": "viengxay-ho-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.266",
+      "lon": "104.594"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1955438",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Hanglong",
+      "en": "Ban Hanglong",
+      "slug": "ban-hanglong-1955438"
+    },
+    "code": {
+      "id": "1955438",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-05",
+      "level": 2,
+      "name": {
+        "local": "Viengxay",
+        "en": "Viengxay",
+        "slug": "viengxay-ho-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-05",
+        "level": 2,
+        "name": {
+          "local": "Viengxay",
+          "en": "Viengxay",
+          "slug": "viengxay-ho-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.466",
+      "lon": "104.164"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1956914",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Hèo",
+      "en": "Ban Heo",
+      "slug": "ban-heo-1956914"
+    },
+    "code": {
+      "id": "1956914",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-05",
+      "level": 2,
+      "name": {
+        "local": "Viengxay",
+        "en": "Viengxay",
+        "slug": "viengxay-ho-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-05",
+        "level": 2,
+        "name": {
+          "local": "Viengxay",
+          "en": "Viengxay",
+          "slug": "viengxay-ho-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.262",
+      "lon": "104.423"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1955540",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Hinkèo",
+      "en": "Ban Hinkeo",
+      "slug": "ban-hinkeo-1955540"
+    },
+    "code": {
+      "id": "1955540",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-05",
+      "level": 2,
+      "name": {
+        "local": "Viengxay",
+        "en": "Viengxay",
+        "slug": "viengxay-ho-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-05",
+        "level": 2,
+        "name": {
+          "local": "Viengxay",
+          "en": "Viengxay",
+          "slug": "viengxay-ho-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.488",
+      "lon": "104.14"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11401635",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Hinpèn",
+      "en": "Ban Hinpen",
+      "slug": "ban-hinpen-11401635"
+    },
+    "code": {
+      "id": "11401635",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-05",
+      "level": 2,
+      "name": {
+        "local": "Viengxay",
+        "en": "Viengxay",
+        "slug": "viengxay-ho-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-05",
+        "level": 2,
+        "name": {
+          "local": "Viengxay",
+          "en": "Viengxay",
+          "slug": "viengxay-ho-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.397",
+      "lon": "104.6"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1664053",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Hô",
+      "en": "Ban Ho",
+      "slug": "ban-ho-1664053"
+    },
+    "code": {
+      "id": "1664053",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-05",
+      "level": 2,
+      "name": {
+        "local": "Viengxay",
+        "en": "Viengxay",
+        "slug": "viengxay-ho-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-05",
+        "level": 2,
+        "name": {
+          "local": "Viengxay",
+          "en": "Viengxay",
+          "slug": "viengxay-ho-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.533",
+      "lon": "104.183"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1664052",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Hôc",
+      "en": "Ban Hoc",
+      "slug": "ban-hoc-1664052"
+    },
+    "code": {
+      "id": "1664052",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-05",
+      "level": 2,
+      "name": {
+        "local": "Viengxay",
+        "en": "Viengxay",
+        "slug": "viengxay-ho-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-05",
+        "level": 2,
+        "name": {
+          "local": "Viengxay",
+          "en": "Viengxay",
+          "slug": "viengxay-ho-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.533",
+      "lon": "104.2"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1664049",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Hok",
+      "en": "Ban Hok",
+      "slug": "ban-hok-1664049"
+    },
+    "code": {
+      "id": "1664049",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-05",
+      "level": 2,
+      "name": {
+        "local": "Viengxay",
+        "en": "Viengxay",
+        "slug": "viengxay-ho-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-05",
+        "level": 2,
+        "name": {
+          "local": "Viengxay",
+          "en": "Viengxay",
+          "slug": "viengxay-ho-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.467",
+      "lon": "104.3"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11401847",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Hôngmo",
+      "en": "Ban Hongmo",
+      "slug": "ban-hongmo-11401847"
+    },
+    "code": {
+      "id": "11401847",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-05",
+      "level": 2,
+      "name": {
+        "local": "Viengxay",
+        "en": "Viengxay",
+        "slug": "viengxay-ho-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-05",
+        "level": 2,
+        "name": {
+          "local": "Viengxay",
+          "en": "Viengxay",
+          "slug": "viengxay-ho-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.269",
+      "lon": "104.526"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11401853",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houatangoua",
+      "en": "Ban Houatangoua",
+      "slug": "ban-houatangoua-11401853"
+    },
+    "code": {
+      "id": "11401853",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-05",
+      "level": 2,
+      "name": {
+        "local": "Viengxay",
+        "en": "Viengxay",
+        "slug": "viengxay-ho-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-05",
+        "level": 2,
+        "name": {
+          "local": "Viengxay",
+          "en": "Viengxay",
+          "slug": "viengxay-ho-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.157",
+      "lon": "104.548"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1663940",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houay Cho",
+      "en": "Ban Houay Cho",
+      "slug": "ban-houay-cho-1663940"
+    },
+    "code": {
+      "id": "1663940",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-05",
+      "level": 2,
+      "name": {
+        "local": "Viengxay",
+        "en": "Viengxay",
+        "slug": "viengxay-ho-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-05",
+        "level": 2,
+        "name": {
+          "local": "Viengxay",
+          "en": "Viengxay",
+          "slug": "viengxay-ho-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.533",
+      "lon": "104.267"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1663791",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houay Lai",
+      "en": "Ban Houay Lai",
+      "slug": "ban-houay-lai-1663791"
+    },
+    "code": {
+      "id": "1663791",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-05",
+      "level": 2,
+      "name": {
+        "local": "Viengxay",
+        "en": "Viengxay",
+        "slug": "viengxay-ho-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-05",
+        "level": 2,
+        "name": {
+          "local": "Viengxay",
+          "en": "Viengxay",
+          "slug": "viengxay-ho-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.35",
+      "lon": "104.4"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1663958",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houaybao",
+      "en": "Ban Houaybao",
+      "slug": "ban-houaybao-1663958"
+    },
+    "code": {
+      "id": "1663958",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-05",
+      "level": 2,
+      "name": {
+        "local": "Viengxay",
+        "en": "Viengxay",
+        "slug": "viengxay-ho-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-05",
+        "level": 2,
+        "name": {
+          "local": "Viengxay",
+          "en": "Viengxay",
+          "slug": "viengxay-ho-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.323",
+      "lon": "104.558"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1956903",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houayphông",
+      "en": "Ban Houayphong",
+      "slug": "ban-houayphong-1956903"
+    },
+    "code": {
+      "id": "1956903",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-05",
+      "level": 2,
+      "name": {
+        "local": "Viengxay",
+        "en": "Viengxay",
+        "slug": "viengxay-ho-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-05",
+        "level": 2,
+        "name": {
+          "local": "Viengxay",
+          "en": "Viengxay",
+          "slug": "viengxay-ho-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.268",
+      "lon": "104.493"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1955524",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houayva",
+      "en": "Ban Houayva",
+      "slug": "ban-houayva-1955524"
+    },
+    "code": {
+      "id": "1955524",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-05",
+      "level": 2,
+      "name": {
+        "local": "Viengxay",
+        "en": "Viengxay",
+        "slug": "viengxay-ho-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-05",
+        "level": 2,
+        "name": {
+          "local": "Viengxay",
+          "en": "Viengxay",
+          "slug": "viengxay-ho-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.538",
+      "lon": "104.232"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1955358",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houayxai",
+      "en": "Ban Houayxai",
+      "slug": "ban-houayxai-1955358"
+    },
+    "code": {
+      "id": "1955358",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-05",
+      "level": 2,
+      "name": {
+        "local": "Viengxay",
+        "en": "Viengxay",
+        "slug": "viengxay-ho-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-05",
+        "level": 2,
+        "name": {
+          "local": "Viengxay",
+          "en": "Viengxay",
+          "slug": "viengxay-ho-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.36",
+      "lon": "104.409"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1955497",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houayxay",
+      "en": "Ban Houayxay",
+      "slug": "ban-houayxay-1955497"
+    },
+    "code": {
+      "id": "1955497",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-05",
+      "level": 2,
+      "name": {
+        "local": "Viengxay",
+        "en": "Viengxay",
+        "slug": "viengxay-ho-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-05",
+        "level": 2,
+        "name": {
+          "local": "Viengxay",
+          "en": "Viengxay",
+          "slug": "viengxay-ho-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.511",
+      "lon": "104.14"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1663507",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houeï Nha",
+      "en": "Ban Houei Nha",
+      "slug": "ban-houei-nha-1663507"
+    },
+    "code": {
+      "id": "1663507",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-05",
+      "level": 2,
+      "name": {
+        "local": "Viengxay",
+        "en": "Viengxay",
+        "slug": "viengxay-ho-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-05",
+        "level": 2,
+        "name": {
+          "local": "Viengxay",
+          "en": "Viengxay",
+          "slug": "viengxay-ho-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.467",
+      "lon": "104.167"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1656812",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Kangmông",
+      "en": "Ban Kangmong",
+      "slug": "ban-kangmong-1656812"
+    },
+    "code": {
+      "id": "1656812",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-05",
+      "level": 2,
+      "name": {
+        "local": "Viengxay",
+        "en": "Viengxay",
+        "slug": "viengxay-ho-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-05",
+        "level": 2,
+        "name": {
+          "local": "Viengxay",
+          "en": "Viengxay",
+          "slug": "viengxay-ho-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.328",
+      "lon": "104.397"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1656811",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Kangmuang",
+      "en": "Ban Kangmuang",
+      "slug": "ban-kangmuang-1656811"
+    },
+    "code": {
+      "id": "1656811",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-05",
+      "level": 2,
+      "name": {
+        "local": "Viengxay",
+        "en": "Viengxay",
+        "slug": "viengxay-ho-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-05",
+        "level": 2,
+        "name": {
+          "local": "Viengxay",
+          "en": "Viengxay",
+          "slug": "viengxay-ho-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.332",
+      "lon": "104.384"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1656807",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Kangpabông",
+      "en": "Ban Kangpabong",
+      "slug": "ban-kangpabong-1656807"
+    },
+    "code": {
+      "id": "1656807",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-05",
+      "level": 2,
+      "name": {
+        "local": "Viengxay",
+        "en": "Viengxay",
+        "slug": "viengxay-ho-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-05",
+        "level": 2,
+        "name": {
+          "local": "Viengxay",
+          "en": "Viengxay",
+          "slug": "viengxay-ho-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.324",
+      "lon": "104.406"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1956898",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Kangthat",
+      "en": "Ban Kangthat",
+      "slug": "ban-kangthat-1956898"
+    },
+    "code": {
+      "id": "1956898",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-05",
+      "level": 2,
+      "name": {
+        "local": "Viengxay",
+        "en": "Viengxay",
+        "slug": "viengxay-ho-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-05",
+        "level": 2,
+        "name": {
+          "local": "Viengxay",
+          "en": "Viengxay",
+          "slug": "viengxay-ho-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.332",
+      "lon": "104.38"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1656745",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Kaxeung",
+      "en": "Ban Kaxeung",
+      "slug": "ban-kaxeung-1656745"
+    },
+    "code": {
+      "id": "1656745",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-05",
+      "level": 2,
+      "name": {
+        "local": "Viengxay",
+        "en": "Viengxay",
+        "slug": "viengxay-ho-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-05",
+        "level": 2,
+        "name": {
+          "local": "Viengxay",
+          "en": "Viengxay",
+          "slug": "viengxay-ho-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.315",
+      "lon": "104.216"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1955355",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Kèngphoun",
+      "en": "Ban Kengphoun",
+      "slug": "ban-kengphoun-1955355"
+    },
+    "code": {
+      "id": "1955355",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-05",
+      "level": 2,
+      "name": {
+        "local": "Viengxay",
+        "en": "Viengxay",
+        "slug": "viengxay-ho-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-05",
+        "level": 2,
+        "name": {
+          "local": "Viengxay",
+          "en": "Viengxay",
+          "slug": "viengxay-ho-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.349",
+      "lon": "104.468"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11401850",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Kèobokhuang",
+      "en": "Ban Keobokhuang",
+      "slug": "ban-keobokhuang-11401850"
+    },
+    "code": {
+      "id": "11401850",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-05",
+      "level": 2,
+      "name": {
+        "local": "Viengxay",
+        "en": "Viengxay",
+        "slug": "viengxay-ho-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-05",
+        "level": 2,
+        "name": {
+          "local": "Viengxay",
+          "en": "Viengxay",
+          "slug": "viengxay-ho-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.204",
+      "lon": "104.536"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1955322",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Kèocha",
+      "en": "Ban Keocha",
+      "slug": "ban-keocha-1955322"
+    },
+    "code": {
+      "id": "1955322",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-05",
+      "level": 2,
+      "name": {
+        "local": "Viengxay",
+        "en": "Viengxay",
+        "slug": "viengxay-ho-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-05",
+        "level": 2,
+        "name": {
+          "local": "Viengxay",
+          "en": "Viengxay",
+          "slug": "viengxay-ho-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.382",
+      "lon": "104.173"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1662985",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Kho",
+      "en": "Ban Kho",
+      "slug": "ban-kho-1662985"
+    },
+    "code": {
+      "id": "1662985",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-05",
+      "level": 2,
+      "name": {
+        "local": "Viengxay",
+        "en": "Viengxay",
+        "slug": "viengxay-ho-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-05",
+        "level": 2,
+        "name": {
+          "local": "Viengxay",
+          "en": "Viengxay",
+          "slug": "viengxay-ho-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.338",
+      "lon": "104.352"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11401869",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Kian",
+      "en": "Ban Kian",
+      "slug": "ban-kian-11401869"
+    },
+    "code": {
+      "id": "11401869",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-05",
+      "level": 2,
+      "name": {
+        "local": "Viengxay",
+        "en": "Viengxay",
+        "slug": "viengxay-ho-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-05",
+        "level": 2,
+        "name": {
+          "local": "Viengxay",
+          "en": "Viengxay",
+          "slug": "viengxay-ho-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.268",
+      "lon": "104.576"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11401867",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Lan",
+      "en": "Ban Lan",
+      "slug": "ban-lan-11401867"
+    },
+    "code": {
+      "id": "11401867",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-05",
+      "level": 2,
+      "name": {
+        "local": "Viengxay",
+        "en": "Viengxay",
+        "slug": "viengxay-ho-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-05",
+        "level": 2,
+        "name": {
+          "local": "Viengxay",
+          "en": "Viengxay",
+          "slug": "viengxay-ho-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.266",
+      "lon": "104.602"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1662641",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Lang",
+      "en": "Ban Lang",
+      "slug": "ban-lang-1662641"
+    },
+    "code": {
+      "id": "1662641",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-05",
+      "level": 2,
+      "name": {
+        "local": "Viengxay",
+        "en": "Viengxay",
+        "slug": "viengxay-ho-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-05",
+        "level": 2,
+        "name": {
+          "local": "Viengxay",
+          "en": "Viengxay",
+          "slug": "viengxay-ho-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.283",
+      "lon": "104.2"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1955523",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Lao",
+      "en": "Ban Lao",
+      "slug": "ban-lao-1955523"
+    },
+    "code": {
+      "id": "1955523",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-05",
+      "level": 2,
+      "name": {
+        "local": "Viengxay",
+        "en": "Viengxay",
+        "slug": "viengxay-ho-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-05",
+        "level": 2,
+        "name": {
+          "local": "Viengxay",
+          "en": "Viengxay",
+          "slug": "viengxay-ho-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.531",
+      "lon": "104.255"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11401840",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Leuy",
+      "en": "Ban Leuy",
+      "slug": "ban-leuy-11401840"
+    },
+    "code": {
+      "id": "11401840",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-05",
+      "level": 2,
+      "name": {
+        "local": "Viengxay",
+        "en": "Viengxay",
+        "slug": "viengxay-ho-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-05",
+        "level": 2,
+        "name": {
+          "local": "Viengxay",
+          "en": "Viengxay",
+          "slug": "viengxay-ho-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.313",
+      "lon": "104.549"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1955374",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Longlao",
+      "en": "Ban Longlao",
+      "slug": "ban-longlao-1955374"
+    },
+    "code": {
+      "id": "1955374",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-05",
+      "level": 2,
+      "name": {
+        "local": "Viengxay",
+        "en": "Viengxay",
+        "slug": "viengxay-ho-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-05",
+        "level": 2,
+        "name": {
+          "local": "Viengxay",
+          "en": "Viengxay",
+          "slug": "viengxay-ho-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.403",
+      "lon": "104.348"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1662392",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Loun",
+      "en": "Ban Loun",
+      "slug": "ban-loun-1662392"
+    },
+    "code": {
+      "id": "1662392",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-05",
+      "level": 2,
+      "name": {
+        "local": "Viengxay",
+        "en": "Viengxay",
+        "slug": "viengxay-ho-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-05",
+        "level": 2,
+        "name": {
+          "local": "Viengxay",
+          "en": "Viengxay",
+          "slug": "viengxay-ho-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.513",
+      "lon": "104.197"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1655179",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Muangliat",
+      "en": "Ban Muangliat",
+      "slug": "ban-muangliat-1655179"
+    },
+    "code": {
+      "id": "1655179",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-05",
+      "level": 2,
+      "name": {
+        "local": "Viengxay",
+        "en": "Viengxay",
+        "slug": "viengxay-ho-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-05",
+        "level": 2,
+        "name": {
+          "local": "Viengxay",
+          "en": "Viengxay",
+          "slug": "viengxay-ho-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.473",
+      "lon": "104.143"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1655161",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Muangnga",
+      "en": "Ban Muangnga",
+      "slug": "ban-muangnga-1655161"
+    },
+    "code": {
+      "id": "1655161",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-05",
+      "level": 2,
+      "name": {
+        "local": "Viengxay",
+        "en": "Viengxay",
+        "slug": "viengxay-ho-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-05",
+        "level": 2,
+        "name": {
+          "local": "Viengxay",
+          "en": "Viengxay",
+          "slug": "viengxay-ho-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.433",
+      "lon": "104.181"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1655138",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Muangpan",
+      "en": "Ban Muangpan",
+      "slug": "ban-muangpan-1655138"
+    },
+    "code": {
+      "id": "1655138",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-05",
+      "level": 2,
+      "name": {
+        "local": "Viengxay",
+        "en": "Viengxay",
+        "slug": "viengxay-ho-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-05",
+        "level": 2,
+        "name": {
+          "local": "Viengxay",
+          "en": "Viengxay",
+          "slug": "viengxay-ho-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.521",
+      "lon": "104.175"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1655117",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Muangpoua",
+      "en": "Ban Muangpoua",
+      "slug": "ban-muangpoua-1655117"
+    },
+    "code": {
+      "id": "1655117",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-05",
+      "level": 2,
+      "name": {
+        "local": "Viengxay",
+        "en": "Viengxay",
+        "slug": "viengxay-ho-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-05",
+        "level": 2,
+        "name": {
+          "local": "Viengxay",
+          "en": "Viengxay",
+          "slug": "viengxay-ho-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.481",
+      "lon": "104.253"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1662290",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Muat",
+      "en": "Ban Muat",
+      "slug": "ban-muat-1662290"
+    },
+    "code": {
+      "id": "1662290",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-05",
+      "level": 2,
+      "name": {
+        "local": "Viengxay",
+        "en": "Viengxay",
+        "slug": "viengxay-ho-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-05",
+        "level": 2,
+        "name": {
+          "local": "Viengxay",
+          "en": "Viengxay",
+          "slug": "viengxay-ho-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.508",
+      "lon": "104.165"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1661959",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Na Heng",
+      "en": "Ban Na Heng",
+      "slug": "ban-na-heng-1661959"
+    },
+    "code": {
+      "id": "1661959",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-05",
+      "level": 2,
+      "name": {
+        "local": "Viengxay",
+        "en": "Viengxay",
+        "slug": "viengxay-ho-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-05",
+        "level": 2,
+        "name": {
+          "local": "Viengxay",
+          "en": "Viengxay",
+          "slug": "viengxay-ho-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.483",
+      "lon": "104.233"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1661842",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Na Kèo",
+      "en": "Ban Na Keo",
+      "slug": "ban-na-keo-1661842"
+    },
+    "code": {
+      "id": "1661842",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-05",
+      "level": 2,
+      "name": {
+        "local": "Viengxay",
+        "en": "Viengxay",
+        "slug": "viengxay-ho-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-05",
+        "level": 2,
+        "name": {
+          "local": "Viengxay",
+          "en": "Viengxay",
+          "slug": "viengxay-ho-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.467",
+      "lon": "104.3"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1661812",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Na Khamong",
+      "en": "Ban Na Khamong",
+      "slug": "ban-na-khamong-1661812"
+    },
+    "code": {
+      "id": "1661812",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-05",
+      "level": 2,
+      "name": {
+        "local": "Viengxay",
+        "en": "Viengxay",
+        "slug": "viengxay-ho-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-05",
+        "level": 2,
+        "name": {
+          "local": "Viengxay",
+          "en": "Viengxay",
+          "slug": "viengxay-ho-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.433",
+      "lon": "104.35"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1661615",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Na Mang",
+      "en": "Ban Na Mang",
+      "slug": "ban-na-mang-1661615"
+    },
+    "code": {
+      "id": "1661615",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-05",
+      "level": 2,
+      "name": {
+        "local": "Viengxay",
+        "en": "Viengxay",
+        "slug": "viengxay-ho-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-05",
+        "level": 2,
+        "name": {
+          "local": "Viengxay",
+          "en": "Viengxay",
+          "slug": "viengxay-ho-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.3",
+      "lon": "104.6"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1662064",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nachong",
+      "en": "Ban Nachong",
+      "slug": "ban-nachong-1662064"
+    },
+    "code": {
+      "id": "1662064",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-05",
+      "level": 2,
+      "name": {
+        "local": "Viengxay",
+        "en": "Viengxay",
+        "slug": "viengxay-ho-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-05",
+        "level": 2,
+        "name": {
+          "local": "Viengxay",
+          "en": "Viengxay",
+          "slug": "viengxay-ho-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.575",
+      "lon": "104.207"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1662054",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nadua",
+      "en": "Ban Nadua",
+      "slug": "ban-nadua-1662054"
+    },
+    "code": {
+      "id": "1662054",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-05",
+      "level": 2,
+      "name": {
+        "local": "Viengxay",
+        "en": "Viengxay",
+        "slug": "viengxay-ho-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-05",
+        "level": 2,
+        "name": {
+          "local": "Viengxay",
+          "en": "Viengxay",
+          "slug": "viengxay-ho-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.455",
+      "lon": "104.325"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11401848",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nafoung",
+      "en": "Ban Nafoung",
+      "slug": "ban-nafoung-11401848"
+    },
+    "code": {
+      "id": "11401848",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-05",
+      "level": 2,
+      "name": {
+        "local": "Viengxay",
+        "en": "Viengxay",
+        "slug": "viengxay-ho-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-05",
+        "level": 2,
+        "name": {
+          "local": "Viengxay",
+          "en": "Viengxay",
+          "slug": "viengxay-ho-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.267",
+      "lon": "104.51"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1655025",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Naham",
+      "en": "Ban Naham",
+      "slug": "ban-naham-1655025"
+    },
+    "code": {
+      "id": "1655025",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-05",
+      "level": 2,
+      "name": {
+        "local": "Viengxay",
+        "en": "Viengxay",
+        "slug": "viengxay-ho-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-05",
+        "level": 2,
+        "name": {
+          "local": "Viengxay",
+          "en": "Viengxay",
+          "slug": "viengxay-ho-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.323",
+      "lon": "104.675"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1661951",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nahia-Mai",
+      "en": "Ban Nahia-Mai",
+      "slug": "ban-nahia-mai-1661951"
+    },
+    "code": {
+      "id": "1661951",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-05",
+      "level": 2,
+      "name": {
+        "local": "Viengxay",
+        "en": "Viengxay",
+        "slug": "viengxay-ho-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-05",
+        "level": 2,
+        "name": {
+          "local": "Viengxay",
+          "en": "Viengxay",
+          "slug": "viengxay-ho-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.346",
+      "lon": "104.331"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1661948",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nahin",
+      "en": "Ban Nahin",
+      "slug": "ban-nahin-1661948"
+    },
+    "code": {
+      "id": "1661948",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-05",
+      "level": 2,
+      "name": {
+        "local": "Viengxay",
+        "en": "Viengxay",
+        "slug": "viengxay-ho-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-05",
+        "level": 2,
+        "name": {
+          "local": "Viengxay",
+          "en": "Viengxay",
+          "slug": "viengxay-ho-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.408",
+      "lon": "104.417"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1655020",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nahoa",
+      "en": "Ban Nahoa",
+      "slug": "ban-nahoa-1655020"
+    },
+    "code": {
+      "id": "1655020",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-05",
+      "level": 2,
+      "name": {
+        "local": "Viengxay",
+        "en": "Viengxay",
+        "slug": "viengxay-ho-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-05",
+        "level": 2,
+        "name": {
+          "local": "Viengxay",
+          "en": "Viengxay",
+          "slug": "viengxay-ho-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.335",
+      "lon": "104.372"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11401636",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nahua",
+      "en": "Ban Nahua",
+      "slug": "ban-nahua-11401636"
+    },
+    "code": {
+      "id": "11401636",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-05",
+      "level": 2,
+      "name": {
+        "local": "Viengxay",
+        "en": "Viengxay",
+        "slug": "viengxay-ho-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-05",
+        "level": 2,
+        "name": {
+          "local": "Viengxay",
+          "en": "Viengxay",
+          "slug": "viengxay-ho-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.357",
+      "lon": "104.572"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1655854",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Naka",
+      "en": "Ban Naka",
+      "slug": "ban-naka-1655854"
+    },
+    "code": {
+      "id": "1655854",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-05",
+      "level": 2,
+      "name": {
+        "local": "Viengxay",
+        "en": "Viengxay",
+        "slug": "viengxay-ho-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-05",
+        "level": 2,
+        "name": {
+          "local": "Viengxay",
+          "en": "Viengxay",
+          "slug": "viengxay-ho-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.271",
+      "lon": "104.303"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1661856",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nakay Neua",
+      "en": "Ban Nakay Neua",
+      "slug": "ban-nakay-neua-1661856"
+    },
+    "code": {
+      "id": "1661856",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-05",
+      "level": 2,
+      "name": {
+        "local": "Viengxay",
+        "en": "Viengxay",
+        "slug": "viengxay-ho-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-05",
+        "level": 2,
+        "name": {
+          "local": "Viengxay",
+          "en": "Viengxay",
+          "slug": "viengxay-ho-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.417",
+      "lon": "104.233"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1661852",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nakay Teu",
+      "en": "Ban Nakay Teu",
+      "slug": "ban-nakay-teu-1661852"
+    },
+    "code": {
+      "id": "1661852",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-05",
+      "level": 2,
+      "name": {
+        "local": "Viengxay",
+        "en": "Viengxay",
+        "slug": "viengxay-ho-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-05",
+        "level": 2,
+        "name": {
+          "local": "Viengxay",
+          "en": "Viengxay",
+          "slug": "viengxay-ho-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.4",
+      "lon": "104.233"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1654993",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nalouang",
+      "en": "Ban Nalouang",
+      "slug": "ban-nalouang-1654993"
+    },
+    "code": {
+      "id": "1654993",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-05",
+      "level": 2,
+      "name": {
+        "local": "Viengxay",
+        "en": "Viengxay",
+        "slug": "viengxay-ho-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-05",
+        "level": 2,
+        "name": {
+          "local": "Viengxay",
+          "en": "Viengxay",
+          "slug": "viengxay-ho-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.366",
+      "lon": "104.281"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1661638",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Naloung",
+      "en": "Ban Naloung",
+      "slug": "ban-naloung-1661638"
+    },
+    "code": {
+      "id": "1661638",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-05",
+      "level": 2,
+      "name": {
+        "local": "Viengxay",
+        "en": "Viengxay",
+        "slug": "viengxay-ho-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-05",
+        "level": 2,
+        "name": {
+          "local": "Viengxay",
+          "en": "Viengxay",
+          "slug": "viengxay-ho-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.471",
+      "lon": "104.23"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11401634",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Naman",
+      "en": "Ban Naman",
+      "slug": "ban-naman-11401634"
+    },
+    "code": {
+      "id": "11401634",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-05",
+      "level": 2,
+      "name": {
+        "local": "Viengxay",
+        "en": "Viengxay",
+        "slug": "viengxay-ho-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-05",
+        "level": 2,
+        "name": {
+          "local": "Viengxay",
+          "en": "Viengxay",
+          "slug": "viengxay-ho-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.38",
+      "lon": "104.573"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1661579",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Namao",
+      "en": "Ban Namao",
+      "slug": "ban-namao-1661579"
+    },
+    "code": {
+      "id": "1661579",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-05",
+      "level": 2,
+      "name": {
+        "local": "Viengxay",
+        "en": "Viengxay",
+        "slug": "viengxay-ho-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-05",
+        "level": 2,
+        "name": {
+          "local": "Viengxay",
+          "en": "Viengxay",
+          "slug": "viengxay-ho-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.483",
+      "lon": "104.243"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1955526",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nambông",
+      "en": "Ban Nambong",
+      "slug": "ban-nambong-1955526"
+    },
+    "code": {
+      "id": "1955526",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-05",
+      "level": 2,
+      "name": {
+        "local": "Viengxay",
+        "en": "Viengxay",
+        "slug": "viengxay-ho-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-05",
+        "level": 2,
+        "name": {
+          "local": "Viengxay",
+          "en": "Viengxay",
+          "slug": "viengxay-ho-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.548",
+      "lon": "104.229"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11401870",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Namèo",
+      "en": "Ban Nameo",
+      "slug": "ban-nameo-11401870"
+    },
+    "code": {
+      "id": "11401870",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-05",
+      "level": 2,
+      "name": {
+        "local": "Viengxay",
+        "en": "Viengxay",
+        "slug": "viengxay-ho-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-05",
+        "level": 2,
+        "name": {
+          "local": "Viengxay",
+          "en": "Viengxay",
+          "slug": "viengxay-ho-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.301",
+      "lon": "104.594"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1654895",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Namon",
+      "en": "Ban Namon",
+      "slug": "ban-namon-1654895"
+    },
+    "code": {
+      "id": "1654895",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-05",
+      "level": 2,
+      "name": {
+        "local": "Viengxay",
+        "en": "Viengxay",
+        "slug": "viengxay-ho-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-05",
+        "level": 2,
+        "name": {
+          "local": "Viengxay",
+          "en": "Viengxay",
+          "slug": "viengxay-ho-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.356",
+      "lon": "104.301"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1654844",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Namuang",
+      "en": "Ban Namuang",
+      "slug": "ban-namuang-1654844"
+    },
+    "code": {
+      "id": "1654844",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-05",
+      "level": 2,
+      "name": {
+        "local": "Viengxay",
+        "en": "Viengxay",
+        "slug": "viengxay-ho-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-05",
+        "level": 2,
+        "name": {
+          "local": "Viengxay",
+          "en": "Viengxay",
+          "slug": "viengxay-ho-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.374",
+      "lon": "104.241"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11401849",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nangoua",
+      "en": "Ban Nangoua",
+      "slug": "ban-nangoua-11401849"
+    },
+    "code": {
+      "id": "11401849",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-05",
+      "level": 2,
+      "name": {
+        "local": "Viengxay",
+        "en": "Viengxay",
+        "slug": "viengxay-ho-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-05",
+        "level": 2,
+        "name": {
+          "local": "Viengxay",
+          "en": "Viengxay",
+          "slug": "viengxay-ho-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.267",
+      "lon": "104.502"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1654799",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Napha",
+      "en": "Ban Napha",
+      "slug": "ban-napha-1654799"
+    },
+    "code": {
+      "id": "1654799",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-05",
+      "level": 2,
+      "name": {
+        "local": "Viengxay",
+        "en": "Viengxay",
+        "slug": "viengxay-ho-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-05",
+        "level": 2,
+        "name": {
+          "local": "Viengxay",
+          "en": "Viengxay",
+          "slug": "viengxay-ho-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.369",
+      "lon": "104.259"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1955434",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Napha",
+      "en": "Ban Napha",
+      "slug": "ban-napha-1955434"
+    },
+    "code": {
+      "id": "1955434",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-05",
+      "level": 2,
+      "name": {
+        "local": "Viengxay",
+        "en": "Viengxay",
+        "slug": "viengxay-ho-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-05",
+        "level": 2,
+        "name": {
+          "local": "Viengxay",
+          "en": "Viengxay",
+          "slug": "viengxay-ho-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.481",
+      "lon": "104.264"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1661238",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Naphô",
+      "en": "Ban Napho",
+      "slug": "ban-napho-1661238"
+    },
+    "code": {
+      "id": "1661238",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-05",
+      "level": 2,
+      "name": {
+        "local": "Viengxay",
+        "en": "Viengxay",
+        "slug": "viengxay-ho-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-05",
+        "level": 2,
+        "name": {
+          "local": "Viengxay",
+          "en": "Viengxay",
+          "slug": "viengxay-ho-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.539",
+      "lon": "104.144"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1661087",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nathèn",
+      "en": "Ban Nathen",
+      "slug": "ban-nathen-1661087"
+    },
+    "code": {
+      "id": "1661087",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-05",
+      "level": 2,
+      "name": {
+        "local": "Viengxay",
+        "en": "Viengxay",
+        "slug": "viengxay-ho-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-05",
+        "level": 2,
+        "name": {
+          "local": "Viengxay",
+          "en": "Viengxay",
+          "slug": "viengxay-ho-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.434",
+      "lon": "104.186"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1661081",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nathok",
+      "en": "Ban Nathok",
+      "slug": "ban-nathok-1661081"
+    },
+    "code": {
+      "id": "1661081",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-05",
+      "level": 2,
+      "name": {
+        "local": "Viengxay",
+        "en": "Viengxay",
+        "slug": "viengxay-ho-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-05",
+        "level": 2,
+        "name": {
+          "local": "Viengxay",
+          "en": "Viengxay",
+          "slug": "viengxay-ho-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.498",
+      "lon": "104.275"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1661046",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Natong",
+      "en": "Ban Natong",
+      "slug": "ban-natong-1661046"
+    },
+    "code": {
+      "id": "1661046",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-05",
+      "level": 2,
+      "name": {
+        "local": "Viengxay",
+        "en": "Viengxay",
+        "slug": "viengxay-ho-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-05",
+        "level": 2,
+        "name": {
+          "local": "Viengxay",
+          "en": "Viengxay",
+          "slug": "viengxay-ho-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.42",
+      "lon": "104.393"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1956904",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nayang",
+      "en": "Ban Nayang",
+      "slug": "ban-nayang-1956904"
+    },
+    "code": {
+      "id": "1956904",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-05",
+      "level": 2,
+      "name": {
+        "local": "Viengxay",
+        "en": "Viengxay",
+        "slug": "viengxay-ho-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-05",
+        "level": 2,
+        "name": {
+          "local": "Viengxay",
+          "en": "Viengxay",
+          "slug": "viengxay-ho-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.262",
+      "lon": "104.483"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13434602",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nayang",
+      "en": "Ban Nayang",
+      "slug": "ban-nayang-13434602"
+    },
+    "code": {
+      "id": "13434602",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-05",
+      "level": 2,
+      "name": {
+        "local": "Viengxay",
+        "en": "Viengxay",
+        "slug": "viengxay-ho-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-05",
+        "level": 2,
+        "name": {
+          "local": "Viengxay",
+          "en": "Viengxay",
+          "slug": "viengxay-ho-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.213",
+      "lon": "104.525"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1660921",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nhôm",
+      "en": "Ban Nhom",
+      "slug": "ban-nhom-1660921"
+    },
+    "code": {
+      "id": "1660921",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-05",
+      "level": 2,
+      "name": {
+        "local": "Viengxay",
+        "en": "Viengxay",
+        "slug": "viengxay-ho-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-05",
+        "level": 2,
+        "name": {
+          "local": "Viengxay",
+          "en": "Viengxay",
+          "slug": "viengxay-ho-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.5",
+      "lon": "104.183"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11401844",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nikhôm",
+      "en": "Ban Nikhom",
+      "slug": "ban-nikhom-11401844"
+    },
+    "code": {
+      "id": "11401844",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-05",
+      "level": 2,
+      "name": {
+        "local": "Viengxay",
+        "en": "Viengxay",
+        "slug": "viengxay-ho-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-05",
+        "level": 2,
+        "name": {
+          "local": "Viengxay",
+          "en": "Viengxay",
+          "slug": "viengxay-ho-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.304",
+      "lon": "104.56"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11401845",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nikhôm-Mai",
+      "en": "Ban Nikhom-Mai",
+      "slug": "ban-nikhom-mai-11401845"
+    },
+    "code": {
+      "id": "11401845",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-05",
+      "level": 2,
+      "name": {
+        "local": "Viengxay",
+        "en": "Viengxay",
+        "slug": "viengxay-ho-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-05",
+        "level": 2,
+        "name": {
+          "local": "Viengxay",
+          "en": "Viengxay",
+          "slug": "viengxay-ho-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.302",
+      "lon": "104.57"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1660890",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nong",
+      "en": "Ban Nong",
+      "slug": "ban-nong-1660890"
+    },
+    "code": {
+      "id": "1660890",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-05",
+      "level": 2,
+      "name": {
+        "local": "Viengxay",
+        "en": "Viengxay",
+        "slug": "viengxay-ho-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-05",
+        "level": 2,
+        "name": {
+          "local": "Viengxay",
+          "en": "Viengxay",
+          "slug": "viengxay-ho-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.383",
+      "lon": "104.383"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1660770",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nong Kou",
+      "en": "Ban Nong Kou",
+      "slug": "ban-nong-kou-1660770"
+    },
+    "code": {
+      "id": "1660770",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-05",
+      "level": 2,
+      "name": {
+        "local": "Viengxay",
+        "en": "Viengxay",
+        "slug": "viengxay-ho-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-05",
+        "level": 2,
+        "name": {
+          "local": "Viengxay",
+          "en": "Viengxay",
+          "slug": "viengxay-ho-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.417",
+      "lon": "104.233"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1660595",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban O Lai",
+      "en": "Ban O Lai",
+      "slug": "ban-o-lai-1660595"
+    },
+    "code": {
+      "id": "1660595",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-05",
+      "level": 2,
+      "name": {
+        "local": "Viengxay",
+        "en": "Viengxay",
+        "slug": "viengxay-ho-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-05",
+        "level": 2,
+        "name": {
+          "local": "Viengxay",
+          "en": "Viengxay",
+          "slug": "viengxay-ho-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.35",
+      "lon": "104.417"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1660325",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Peum",
+      "en": "Ban Peum",
+      "slug": "ban-peum-1660325"
+    },
+    "code": {
+      "id": "1660325",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-05",
+      "level": 2,
+      "name": {
+        "local": "Viengxay",
+        "en": "Viengxay",
+        "slug": "viengxay-ho-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-05",
+        "level": 2,
+        "name": {
+          "local": "Viengxay",
+          "en": "Viengxay",
+          "slug": "viengxay-ho-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.419",
+      "lon": "104.269"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1657625",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phao-Tai",
+      "en": "Ban Phao-Tai",
+      "slug": "ban-phao-tai-1657625"
+    },
+    "code": {
+      "id": "1657625",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-05",
+      "level": 2,
+      "name": {
+        "local": "Viengxay",
+        "en": "Viengxay",
+        "slug": "viengxay-ho-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-05",
+        "level": 2,
+        "name": {
+          "local": "Viengxay",
+          "en": "Viengxay",
+          "slug": "viengxay-ho-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.387",
+      "lon": "104.388"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1955425",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phapheung-Nua",
+      "en": "Ban Phapheung-Nua",
+      "slug": "ban-phapheung-nua-1955425"
+    },
+    "code": {
+      "id": "1955425",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-05",
+      "level": 2,
+      "name": {
+        "local": "Viengxay",
+        "en": "Viengxay",
+        "slug": "viengxay-ho-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-05",
+        "level": 2,
+        "name": {
+          "local": "Viengxay",
+          "en": "Viengxay",
+          "slug": "viengxay-ho-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.482",
+      "lon": "104.359"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1955426",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phapheung-Tai",
+      "en": "Ban Phapheung-Tai",
+      "slug": "ban-phapheung-tai-1955426"
+    },
+    "code": {
+      "id": "1955426",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-05",
+      "level": 2,
+      "name": {
+        "local": "Viengxay",
+        "en": "Viengxay",
+        "slug": "viengxay-ho-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-05",
+        "level": 2,
+        "name": {
+          "local": "Viengxay",
+          "en": "Viengxay",
+          "slug": "viengxay-ho-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.464",
+      "lon": "104.358"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1653925",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phiangchia",
+      "en": "Ban Phiangchia",
+      "slug": "ban-phiangchia-1653925"
+    },
+    "code": {
+      "id": "1653925",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-05",
+      "level": 2,
+      "name": {
+        "local": "Viengxay",
+        "en": "Viengxay",
+        "slug": "viengxay-ho-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-05",
+        "level": 2,
+        "name": {
+          "local": "Viengxay",
+          "en": "Viengxay",
+          "slug": "viengxay-ho-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.302",
+      "lon": "104.187"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11401633",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phiangkhai-Nua",
+      "en": "Ban Phiangkhai-Nua",
+      "slug": "ban-phiangkhai-nua-11401633"
+    },
+    "code": {
+      "id": "11401633",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-05",
+      "level": 2,
+      "name": {
+        "local": "Viengxay",
+        "en": "Viengxay",
+        "slug": "viengxay-ho-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-05",
+        "level": 2,
+        "name": {
+          "local": "Viengxay",
+          "en": "Viengxay",
+          "slug": "viengxay-ho-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.395",
+      "lon": "104.536"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1955370",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phiangliang",
+      "en": "Ban Phiangliang",
+      "slug": "ban-phiangliang-1955370"
+    },
+    "code": {
+      "id": "1955370",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-05",
+      "level": 2,
+      "name": {
+        "local": "Viengxay",
+        "en": "Viengxay",
+        "slug": "viengxay-ho-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-05",
+        "level": 2,
+        "name": {
+          "local": "Viengxay",
+          "en": "Viengxay",
+          "slug": "viengxay-ho-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.384",
+      "lon": "104.362"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1955432",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phianglôn",
+      "en": "Ban Phianglon",
+      "slug": "ban-phianglon-1955432"
+    },
+    "code": {
+      "id": "1955432",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-05",
+      "level": 2,
+      "name": {
+        "local": "Viengxay",
+        "en": "Viengxay",
+        "slug": "viengxay-ho-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-05",
+        "level": 2,
+        "name": {
+          "local": "Viengxay",
+          "en": "Viengxay",
+          "slug": "viengxay-ho-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.47",
+      "lon": "104.299"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1652055",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phônthong",
+      "en": "Ban Phonthong",
+      "slug": "ban-phonthong-1652055"
+    },
+    "code": {
+      "id": "1652055",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-05",
+      "level": 2,
+      "name": {
+        "local": "Viengxay",
+        "en": "Viengxay",
+        "slug": "viengxay-ho-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-05",
+        "level": 2,
+        "name": {
+          "local": "Viengxay",
+          "en": "Viengxay",
+          "slug": "viengxay-ho-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.474",
+      "lon": "104.297"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1659788",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phou Lôm",
+      "en": "Ban Phou Lom",
+      "slug": "ban-phou-lom-1659788"
+    },
+    "code": {
+      "id": "1659788",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-05",
+      "level": 2,
+      "name": {
+        "local": "Viengxay",
+        "en": "Viengxay",
+        "slug": "viengxay-ho-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-05",
+        "level": 2,
+        "name": {
+          "local": "Viengxay",
+          "en": "Viengxay",
+          "slug": "viengxay-ho-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.467",
+      "lon": "104.35"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1955333",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phoulon",
+      "en": "Ban Phoulon",
+      "slug": "ban-phoulon-1955333"
+    },
+    "code": {
+      "id": "1955333",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-05",
+      "level": 2,
+      "name": {
+        "local": "Viengxay",
+        "en": "Viengxay",
+        "slug": "viengxay-ho-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-05",
+        "level": 2,
+        "name": {
+          "local": "Viengxay",
+          "en": "Viengxay",
+          "slug": "viengxay-ho-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.369",
+      "lon": "104.199"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1955538",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phoumuat",
+      "en": "Ban Phoumuat",
+      "slug": "ban-phoumuat-1955538"
+    },
+    "code": {
+      "id": "1955538",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-05",
+      "level": 2,
+      "name": {
+        "local": "Viengxay",
+        "en": "Viengxay",
+        "slug": "viengxay-ho-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-05",
+        "level": 2,
+        "name": {
+          "local": "Viengxay",
+          "en": "Viengxay",
+          "slug": "viengxay-ho-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.488",
+      "lon": "104.157"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1659689",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Pok",
+      "en": "Ban Pok",
+      "slug": "ban-pok-1659689"
+    },
+    "code": {
+      "id": "1659689",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-05",
+      "level": 2,
+      "name": {
+        "local": "Viengxay",
+        "en": "Viengxay",
+        "slug": "viengxay-ho-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-05",
+        "level": 2,
+        "name": {
+          "local": "Viengxay",
+          "en": "Viengxay",
+          "slug": "viengxay-ho-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.506",
+      "lon": "104.256"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1955525",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Pok",
+      "en": "Ban Pok",
+      "slug": "ban-pok-1955525"
+    },
+    "code": {
+      "id": "1955525",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-05",
+      "level": 2,
+      "name": {
+        "local": "Viengxay",
+        "en": "Viengxay",
+        "slug": "viengxay-ho-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-05",
+        "level": 2,
+        "name": {
+          "local": "Viengxay",
+          "en": "Viengxay",
+          "slug": "viengxay-ho-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.508",
+      "lon": "104.258"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1955356",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Pongxang",
+      "en": "Ban Pongxang",
+      "slug": "ban-pongxang-1955356"
+    },
+    "code": {
+      "id": "1955356",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-05",
+      "level": 2,
+      "name": {
+        "local": "Viengxay",
+        "en": "Viengxay",
+        "slug": "viengxay-ho-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-05",
+        "level": 2,
+        "name": {
+          "local": "Viengxay",
+          "en": "Viengxay",
+          "slug": "viengxay-ho-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.34",
+      "lon": "104.491"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1659646",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Pou",
+      "en": "Ban Pou",
+      "slug": "ban-pou-1659646"
+    },
+    "code": {
+      "id": "1659646",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-05",
+      "level": 2,
+      "name": {
+        "local": "Viengxay",
+        "en": "Viengxay",
+        "slug": "viengxay-ho-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-05",
+        "level": 2,
+        "name": {
+          "local": "Viengxay",
+          "en": "Viengxay",
+          "slug": "viengxay-ho-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.174",
+      "lon": "104.682"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1659690",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Pouak",
+      "en": "Ban Pouak",
+      "slug": "ban-pouak-1659690"
+    },
+    "code": {
+      "id": "1659690",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-05",
+      "level": 2,
+      "name": {
+        "local": "Viengxay",
+        "en": "Viengxay",
+        "slug": "viengxay-ho-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-05",
+        "level": 2,
+        "name": {
+          "local": "Viengxay",
+          "en": "Viengxay",
+          "slug": "viengxay-ho-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.463",
+      "lon": "104.254"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1659604",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Poun Song",
+      "en": "Ban Poun Song",
+      "slug": "ban-poun-song-1659604"
+    },
+    "code": {
+      "id": "1659604",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-05",
+      "level": 2,
+      "name": {
+        "local": "Viengxay",
+        "en": "Viengxay",
+        "slug": "viengxay-ho-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-05",
+        "level": 2,
+        "name": {
+          "local": "Viengxay",
+          "en": "Viengxay",
+          "slug": "viengxay-ho-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.417",
+      "lon": "104.617"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1655116",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Poun-Kang",
+      "en": "Ban Poun-Kang",
+      "slug": "ban-poun-kang-1655116"
+    },
+    "code": {
+      "id": "1655116",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-05",
+      "level": 2,
+      "name": {
+        "local": "Viengxay",
+        "en": "Viengxay",
+        "slug": "viengxay-ho-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-05",
+        "level": 2,
+        "name": {
+          "local": "Viengxay",
+          "en": "Viengxay",
+          "slug": "viengxay-ho-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.321",
+      "lon": "104.533"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11401842",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Poun-Kao",
+      "en": "Ban Poun-Kao",
+      "slug": "ban-poun-kao-11401842"
+    },
+    "code": {
+      "id": "11401842",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-05",
+      "level": 2,
+      "name": {
+        "local": "Viengxay",
+        "en": "Viengxay",
+        "slug": "viengxay-ho-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-05",
+        "level": 2,
+        "name": {
+          "local": "Viengxay",
+          "en": "Viengxay",
+          "slug": "viengxay-ho-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.319",
+      "lon": "104.542"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11401838",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Poun-Mai",
+      "en": "Ban Poun-Mai",
+      "slug": "ban-poun-mai-11401838"
+    },
+    "code": {
+      "id": "11401838",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-05",
+      "level": 2,
+      "name": {
+        "local": "Viengxay",
+        "en": "Viengxay",
+        "slug": "viengxay-ho-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-05",
+        "level": 2,
+        "name": {
+          "local": "Viengxay",
+          "en": "Viengxay",
+          "slug": "viengxay-ho-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.321",
+      "lon": "104.546"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1956902",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Poun-Nua",
+      "en": "Ban Poun-Nua",
+      "slug": "ban-poun-nua-1956902"
+    },
+    "code": {
+      "id": "1956902",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-05",
+      "level": 2,
+      "name": {
+        "local": "Viengxay",
+        "en": "Viengxay",
+        "slug": "viengxay-ho-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-05",
+        "level": 2,
+        "name": {
+          "local": "Viengxay",
+          "en": "Viengxay",
+          "slug": "viengxay-ho-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.312",
+      "lon": "104.489"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13434601",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Poun-Nua",
+      "en": "Ban Poun-Nua",
+      "slug": "ban-poun-nua-13434601"
+    },
+    "code": {
+      "id": "13434601",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-05",
+      "level": 2,
+      "name": {
+        "local": "Viengxay",
+        "en": "Viengxay",
+        "slug": "viengxay-ho-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-05",
+        "level": 2,
+        "name": {
+          "local": "Viengxay",
+          "en": "Viengxay",
+          "slug": "viengxay-ho-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.323",
+      "lon": "104.523"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1659607",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Poung",
+      "en": "Ban Poung",
+      "slug": "ban-poung-1659607"
+    },
+    "code": {
+      "id": "1659607",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-05",
+      "level": 2,
+      "name": {
+        "local": "Viengxay",
+        "en": "Viengxay",
+        "slug": "viengxay-ho-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-05",
+        "level": 2,
+        "name": {
+          "local": "Viengxay",
+          "en": "Viengxay",
+          "slug": "viengxay-ho-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.348",
+      "lon": "104.317"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1659608",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Poung",
+      "en": "Ban Poung",
+      "slug": "ban-poung-1659608"
+    },
+    "code": {
+      "id": "1659608",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-05",
+      "level": 2,
+      "name": {
+        "local": "Viengxay",
+        "en": "Viengxay",
+        "slug": "viengxay-ho-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-05",
+        "level": 2,
+        "name": {
+          "local": "Viengxay",
+          "en": "Viengxay",
+          "slug": "viengxay-ho-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.477",
+      "lon": "104.286"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1955439",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Poung",
+      "en": "Ban Poung",
+      "slug": "ban-poung-1955439"
+    },
+    "code": {
+      "id": "1955439",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-05",
+      "level": 2,
+      "name": {
+        "local": "Viengxay",
+        "en": "Viengxay",
+        "slug": "viengxay-ho-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-05",
+        "level": 2,
+        "name": {
+          "local": "Viengxay",
+          "en": "Viengxay",
+          "slug": "viengxay-ho-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.471",
+      "lon": "104.156"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1659610",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Poung (1)",
+      "en": "Ban Poung (1)",
+      "slug": "ban-poung-1-1659610"
+    },
+    "code": {
+      "id": "1659610",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-05",
+      "level": 2,
+      "name": {
+        "local": "Viengxay",
+        "en": "Viengxay",
+        "slug": "viengxay-ho-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-05",
+        "level": 2,
+        "name": {
+          "local": "Viengxay",
+          "en": "Viengxay",
+          "slug": "viengxay-ho-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.467",
+      "lon": "104.3"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1659626",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Poung Kèng",
+      "en": "Ban Poung Keng",
+      "slug": "ban-poung-keng-1659626"
+    },
+    "code": {
+      "id": "1659626",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-05",
+      "level": 2,
+      "name": {
+        "local": "Viengxay",
+        "en": "Viengxay",
+        "slug": "viengxay-ho-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-05",
+        "level": 2,
+        "name": {
+          "local": "Viengxay",
+          "en": "Viengxay",
+          "slug": "viengxay-ho-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.467",
+      "lon": "104.217"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11401882",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban San",
+      "en": "Ban San",
+      "slug": "ban-san-11401882"
+    },
+    "code": {
+      "id": "11401882",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-05",
+      "level": 2,
+      "name": {
+        "local": "Viengxay",
+        "en": "Viengxay",
+        "slug": "viengxay-ho-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-05",
+        "level": 2,
+        "name": {
+          "local": "Viengxay",
+          "en": "Viengxay",
+          "slug": "viengxay-ho-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.32",
+      "lon": "104.513"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1657950",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Saylia",
+      "en": "Ban Saylia",
+      "slug": "ban-saylia-1657950"
+    },
+    "code": {
+      "id": "1657950",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-05",
+      "level": 2,
+      "name": {
+        "local": "Viengxay",
+        "en": "Viengxay",
+        "slug": "viengxay-ho-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-05",
+        "level": 2,
+        "name": {
+          "local": "Viengxay",
+          "en": "Viengxay",
+          "slug": "viengxay-ho-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.385",
+      "lon": "104.195"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1653239",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Sènlouang",
+      "en": "Ban Senlouang",
+      "slug": "ban-senlouang-1653239"
+    },
+    "code": {
+      "id": "1653239",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-05",
+      "level": 2,
+      "name": {
+        "local": "Viengxay",
+        "en": "Viengxay",
+        "slug": "viengxay-ho-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-05",
+        "level": 2,
+        "name": {
+          "local": "Viengxay",
+          "en": "Viengxay",
+          "slug": "viengxay-ho-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.274",
+      "lon": "104.286"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1653087",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Sômpoy",
+      "en": "Ban Sompoy",
+      "slug": "ban-sompoy-1653087"
+    },
+    "code": {
+      "id": "1653087",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-05",
+      "level": 2,
+      "name": {
+        "local": "Viengxay",
+        "en": "Viengxay",
+        "slug": "viengxay-ho-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-05",
+        "level": 2,
+        "name": {
+          "local": "Viengxay",
+          "en": "Viengxay",
+          "slug": "viengxay-ho-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.33",
+      "lon": "104.39"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1955514",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Sôppan",
+      "en": "Ban Soppan",
+      "slug": "ban-soppan-1955514"
+    },
+    "code": {
+      "id": "1955514",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-05",
+      "level": 2,
+      "name": {
+        "local": "Viengxay",
+        "en": "Viengxay",
+        "slug": "viengxay-ho-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-05",
+        "level": 2,
+        "name": {
+          "local": "Viengxay",
+          "en": "Viengxay",
+          "slug": "viengxay-ho-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.48",
+      "lon": "104.225"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1655100",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Sôy",
+      "en": "Ban Soy",
+      "slug": "ban-soy-1655100"
+    },
+    "code": {
+      "id": "1655100",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-05",
+      "level": 2,
+      "name": {
+        "local": "Viengxay",
+        "en": "Viengxay",
+        "slug": "viengxay-ho-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-05",
+        "level": 2,
+        "name": {
+          "local": "Viengxay",
+          "en": "Viengxay",
+          "slug": "viengxay-ho-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.272",
+      "lon": "104.538"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1652939",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Taén",
+      "en": "Ban Taen",
+      "slug": "ban-taen-1652939"
+    },
+    "code": {
+      "id": "1652939",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-05",
+      "level": 2,
+      "name": {
+        "local": "Viengxay",
+        "en": "Viengxay",
+        "slug": "viengxay-ho-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-05",
+        "level": 2,
+        "name": {
+          "local": "Viengxay",
+          "en": "Viengxay",
+          "slug": "viengxay-ho-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.588",
+      "lon": "104.162"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1658553",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Tèn",
+      "en": "Ban Ten",
+      "slug": "ban-ten-1658553"
+    },
+    "code": {
+      "id": "1658553",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-05",
+      "level": 2,
+      "name": {
+        "local": "Viengxay",
+        "en": "Viengxay",
+        "slug": "viengxay-ho-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-05",
+        "level": 2,
+        "name": {
+          "local": "Viengxay",
+          "en": "Viengxay",
+          "slug": "viengxay-ho-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.266",
+      "lon": "104.583"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1658430",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Tieng",
+      "en": "Ban Tieng",
+      "slug": "ban-tieng-1658430"
+    },
+    "code": {
+      "id": "1658430",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-05",
+      "level": 2,
+      "name": {
+        "local": "Viengxay",
+        "en": "Viengxay",
+        "slug": "viengxay-ho-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-05",
+        "level": 2,
+        "name": {
+          "local": "Viengxay",
+          "en": "Viengxay",
+          "slug": "viengxay-ho-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.267",
+      "lon": "104.583"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1658392",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Tong",
+      "en": "Ban Tong",
+      "slug": "ban-tong-1658392"
+    },
+    "code": {
+      "id": "1658392",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-05",
+      "level": 2,
+      "name": {
+        "local": "Viengxay",
+        "en": "Viengxay",
+        "slug": "viengxay-ho-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-05",
+        "level": 2,
+        "name": {
+          "local": "Viengxay",
+          "en": "Viengxay",
+          "slug": "viengxay-ho-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.45",
+      "lon": "104.3"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1658383",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Tong-Nua",
+      "en": "Ban Tong-Nua",
+      "slug": "ban-tong-nua-1658383"
+    },
+    "code": {
+      "id": "1658383",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-05",
+      "level": 2,
+      "name": {
+        "local": "Viengxay",
+        "en": "Viengxay",
+        "slug": "viengxay-ho-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-05",
+        "level": 2,
+        "name": {
+          "local": "Viengxay",
+          "en": "Viengxay",
+          "slug": "viengxay-ho-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.449",
+      "lon": "104.304"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1955380",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Tong-Tai",
+      "en": "Ban Tong-Tai",
+      "slug": "ban-tong-tai-1955380"
+    },
+    "code": {
+      "id": "1955380",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-05",
+      "level": 2,
+      "name": {
+        "local": "Viengxay",
+        "en": "Viengxay",
+        "slug": "viengxay-ho-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-05",
+        "level": 2,
+        "name": {
+          "local": "Viengxay",
+          "en": "Viengxay",
+          "slug": "viengxay-ho-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.438",
+      "lon": "104.292"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1658298",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Vanghai",
+      "en": "Ban Vanghai",
+      "slug": "ban-vanghai-1658298"
+    },
+    "code": {
+      "id": "1658298",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-05",
+      "level": 2,
+      "name": {
+        "local": "Viengxay",
+        "en": "Viengxay",
+        "slug": "viengxay-ho-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-05",
+        "level": 2,
+        "name": {
+          "local": "Viengxay",
+          "en": "Viengxay",
+          "slug": "viengxay-ho-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.461",
+      "lon": "104.196"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1652279",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Vangxèng",
+      "en": "Ban Vangxeng",
+      "slug": "ban-vangxeng-1652279"
+    },
+    "code": {
+      "id": "1652279",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-05",
+      "level": 2,
+      "name": {
+        "local": "Viengxay",
+        "en": "Viengxay",
+        "slug": "viengxay-ho-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-05",
+        "level": 2,
+        "name": {
+          "local": "Viengxay",
+          "en": "Viengxay",
+          "slug": "viengxay-ho-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.486",
+      "lon": "104.326"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1658155",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Viang",
+      "en": "Ban Viang",
+      "slug": "ban-viang-1658155"
+    },
+    "code": {
+      "id": "1658155",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-05",
+      "level": 2,
+      "name": {
+        "local": "Viengxay",
+        "en": "Viengxay",
+        "slug": "viengxay-ho-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-05",
+        "level": 2,
+        "name": {
+          "local": "Viengxay",
+          "en": "Viengxay",
+          "slug": "viengxay-ho-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.27",
+      "lon": "104.383"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1956900",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Xan",
+      "en": "Ban Xan",
+      "slug": "ban-xan-1956900"
+    },
+    "code": {
+      "id": "1956900",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-05",
+      "level": 2,
+      "name": {
+        "local": "Viengxay",
+        "en": "Viengxay",
+        "slug": "viengxay-ho-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-05",
+        "level": 2,
+        "name": {
+          "local": "Viengxay",
+          "en": "Viengxay",
+          "slug": "viengxay-ho-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.316",
+      "lon": "104.475"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1956915",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Xang",
+      "en": "Ban Xang",
+      "slug": "ban-xang-1956915"
+    },
+    "code": {
+      "id": "1956915",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-05",
+      "level": 2,
+      "name": {
+        "local": "Viengxay",
+        "en": "Viengxay",
+        "slug": "viengxay-ho-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-05",
+        "level": 2,
+        "name": {
+          "local": "Viengxay",
+          "en": "Viengxay",
+          "slug": "viengxay-ho-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.253",
+      "lon": "104.44"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11401841",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Xiang",
+      "en": "Ban Xiang",
+      "slug": "ban-xiang-11401841"
+    },
+    "code": {
+      "id": "11401841",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-05",
+      "level": 2,
+      "name": {
+        "local": "Viengxay",
+        "en": "Viengxay",
+        "slug": "viengxay-ho-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-05",
+        "level": 2,
+        "name": {
+          "local": "Viengxay",
+          "en": "Viengxay",
+          "slug": "viengxay-ho-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.32",
+      "lon": "104.549"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1955381",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Xiangkèn",
+      "en": "Ban Xiangken",
+      "slug": "ban-xiangken-1955381"
+    },
+    "code": {
+      "id": "1955381",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-05",
+      "level": 2,
+      "name": {
+        "local": "Viengxay",
+        "en": "Viengxay",
+        "slug": "viengxay-ho-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-05",
+        "level": 2,
+        "name": {
+          "local": "Viengxay",
+          "en": "Viengxay",
+          "slug": "viengxay-ho-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.438",
+      "lon": "104.337"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1652072",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Xianglouang",
+      "en": "Ban Xianglouang",
+      "slug": "ban-xianglouang-1652072"
+    },
+    "code": {
+      "id": "1652072",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-05",
+      "level": 2,
+      "name": {
+        "local": "Viengxay",
+        "en": "Viengxay",
+        "slug": "viengxay-ho-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-05",
+        "level": 2,
+        "name": {
+          "local": "Viengxay",
+          "en": "Viengxay",
+          "slug": "viengxay-ho-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.367",
+      "lon": "104.289"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1652071",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Xiangmèn",
+      "en": "Ban Xiangmen",
+      "slug": "ban-xiangmen-1652071"
+    },
+    "code": {
+      "id": "1652071",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-05",
+      "level": 2,
+      "name": {
+        "local": "Viengxay",
+        "en": "Viengxay",
+        "slug": "viengxay-ho-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-05",
+        "level": 2,
+        "name": {
+          "local": "Viengxay",
+          "en": "Viengxay",
+          "slug": "viengxay-ho-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.34",
+      "lon": "104.338"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1652060",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Xiangxu",
+      "en": "Ban Xiangxu",
+      "slug": "ban-xiangxu-1652060"
+    },
+    "code": {
+      "id": "1652060",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-05",
+      "level": 2,
+      "name": {
+        "local": "Viengxay",
+        "en": "Viengxay",
+        "slug": "viengxay-ho-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-05",
+        "level": 2,
+        "name": {
+          "local": "Viengxay",
+          "en": "Viengxay",
+          "slug": "viengxay-ho-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.375",
+      "lon": "104.222"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1657954",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Yè",
+      "en": "Ban Ye",
+      "slug": "ban-ye-1657954"
+    },
+    "code": {
+      "id": "1657954",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-05",
+      "level": 2,
+      "name": {
+        "local": "Viengxay",
+        "en": "Viengxay",
+        "slug": "viengxay-ho-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-05",
+        "level": 2,
+        "name": {
+          "local": "Viengxay",
+          "en": "Viengxay",
+          "slug": "viengxay-ho-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.276",
+      "lon": "104.362"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1657104",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Houa Thông",
+      "en": "Houa Thong",
+      "slug": "houa-thong-1657104"
+    },
+    "code": {
+      "id": "1657104",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-05",
+      "level": 2,
+      "name": {
+        "local": "Viengxay",
+        "en": "Viengxay",
+        "slug": "viengxay-ho-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-05",
+        "level": 2,
+        "name": {
+          "local": "Viengxay",
+          "en": "Viengxay",
+          "slug": "viengxay-ho-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.35",
+      "lon": "104.35"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1656973",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Houay Ye",
+      "en": "Houay Ye",
+      "slug": "houay-ye-1656973"
+    },
+    "code": {
+      "id": "1656973",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-05",
+      "level": 2,
+      "name": {
+        "local": "Viengxay",
+        "en": "Viengxay",
+        "slug": "viengxay-ho-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-05",
+        "level": 2,
+        "name": {
+          "local": "Viengxay",
+          "en": "Viengxay",
+          "slug": "viengxay-ho-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.283",
+      "lon": "104.333"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1651945",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Muang Dai",
+      "en": "Muang Dai",
+      "slug": "muang-dai-1651945"
+    },
+    "code": {
+      "id": "1651945",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-05",
+      "level": 2,
+      "name": {
+        "local": "Viengxay",
+        "en": "Viengxay",
+        "slug": "viengxay-ho-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-05",
+        "level": 2,
+        "name": {
+          "local": "Viengxay",
+          "en": "Viengxay",
+          "slug": "viengxay-ho-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.333",
+      "lon": "104.65"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1655008",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Na Khao",
+      "en": "Na Khao",
+      "slug": "na-khao-1655008"
+    },
+    "code": {
+      "id": "1655008",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-05",
+      "level": 2,
+      "name": {
+        "local": "Viengxay",
+        "en": "Viengxay",
+        "slug": "viengxay-ho-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-05",
+        "level": 2,
+        "name": {
+          "local": "Viengxay",
+          "en": "Viengxay",
+          "slug": "viengxay-ho-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.35",
+      "lon": "104.333"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1654998",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Na Le",
+      "en": "Na Le",
+      "slug": "na-le-1654998"
+    },
+    "code": {
+      "id": "1654998",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-05",
+      "level": 2,
+      "name": {
+        "local": "Viengxay",
+        "en": "Viengxay",
+        "slug": "viengxay-ho-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-05",
+        "level": 2,
+        "name": {
+          "local": "Viengxay",
+          "en": "Viengxay",
+          "slug": "viengxay-ho-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.367",
+      "lon": "104.283"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1654894",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Na Mone Teu",
+      "en": "Na Mone Teu",
+      "slug": "na-mone-teu-1654894"
+    },
+    "code": {
+      "id": "1654894",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-05",
+      "level": 2,
+      "name": {
+        "local": "Viengxay",
+        "en": "Viengxay",
+        "slug": "viengxay-ho-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-05",
+        "level": 2,
+        "name": {
+          "local": "Viengxay",
+          "en": "Viengxay",
+          "slug": "viengxay-ho-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.35",
+      "lon": "104.3"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1654789",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Na Sane",
+      "en": "Na Sane",
+      "slug": "na-sane-1654789"
+    },
+    "code": {
+      "id": "1654789",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-05",
+      "level": 2,
+      "name": {
+        "local": "Viengxay",
+        "en": "Viengxay",
+        "slug": "viengxay-ho-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-05",
+        "level": 2,
+        "name": {
+          "local": "Viengxay",
+          "en": "Viengxay",
+          "slug": "viengxay-ho-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.333",
+      "lon": "104.367"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1654755",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Na Vit Teu",
+      "en": "Na Vit Teu",
+      "slug": "na-vit-teu-1654755"
+    },
+    "code": {
+      "id": "1654755",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-05",
+      "level": 2,
+      "name": {
+        "local": "Viengxay",
+        "en": "Viengxay",
+        "slug": "viengxay-ho-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-05",
+        "level": 2,
+        "name": {
+          "local": "Viengxay",
+          "en": "Viengxay",
+          "slug": "viengxay-ho-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.383",
+      "lon": "104.267"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1654937",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Nam Khong",
+      "en": "Nam Khong",
+      "slug": "nam-khong-1654937"
+    },
+    "code": {
+      "id": "1654937",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-05",
+      "level": 2,
+      "name": {
+        "local": "Viengxay",
+        "en": "Viengxay",
+        "slug": "viengxay-ho-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-05",
+        "level": 2,
+        "name": {
+          "local": "Viengxay",
+          "en": "Viengxay",
+          "slug": "viengxay-ho-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.367",
+      "lon": "104.25"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "8740896",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Nam Soi",
+      "en": "Nam Soi",
+      "slug": "nam-soi-8740896"
+    },
+    "code": {
+      "id": "8740896",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-05",
+      "level": 2,
+      "name": {
+        "local": "Viengxay",
+        "en": "Viengxay",
+        "slug": "viengxay-ho-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-05",
+        "level": 2,
+        "name": {
+          "local": "Viengxay",
+          "en": "Viengxay",
+          "slug": "viengxay-ho-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.299",
+      "lon": "104.608"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1654756",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Navid",
+      "en": "Navid",
+      "slug": "navid-1654756"
+    },
+    "code": {
+      "id": "1654756",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-05",
+      "level": 2,
+      "name": {
+        "local": "Viengxay",
+        "en": "Viengxay",
+        "slug": "viengxay-ho-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-05",
+        "level": 2,
+        "name": {
+          "local": "Viengxay",
+          "en": "Viengxay",
+          "slug": "viengxay-ho-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.379",
+      "lon": "104.272"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1653244",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Sèn Khoun",
+      "en": "Sen Khoun",
+      "slug": "sen-khoun-1653244"
+    },
+    "code": {
+      "id": "1653244",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-05",
+      "level": 2,
+      "name": {
+        "local": "Viengxay",
+        "en": "Viengxay",
+        "slug": "viengxay-ho-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-05",
+        "level": 2,
+        "name": {
+          "local": "Viengxay",
+          "en": "Viengxay",
+          "slug": "viengxay-ho-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.383",
+      "lon": "104.2"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1653228",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Sèn Nam",
+      "en": "Sen Nam",
+      "slug": "sen-nam-1653228"
+    },
+    "code": {
+      "id": "1653228",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-05",
+      "level": 2,
+      "name": {
+        "local": "Viengxay",
+        "en": "Viengxay",
+        "slug": "viengxay-ho-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-05",
+        "level": 2,
+        "name": {
+          "local": "Viengxay",
+          "en": "Viengxay",
+          "slug": "viengxay-ho-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.383",
+      "lon": "104.183"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1955334",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Viangxai",
+      "en": "Viangxai",
+      "slug": "viangxai-1955334"
+    },
+    "code": {
+      "id": "1955334",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-05",
+      "level": 2,
+      "name": {
+        "local": "Viengxay",
+        "en": "Viengxay",
+        "slug": "viengxay-ho-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-05",
+        "level": 2,
+        "name": {
+          "local": "Viengxay",
+          "en": "Viengxay",
+          "slug": "viengxay-ho-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.407",
+      "lon": "104.224"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7648323",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Viengxay",
+      "en": "Viengxay",
+      "slug": "viengxay-7648323"
+    },
+    "code": {
+      "id": "7648323",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-05",
+      "level": 2,
+      "name": {
+        "local": "Viengxay",
+        "en": "Viengxay",
+        "slug": "viengxay-ho-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-05",
+        "level": 2,
+        "name": {
+          "local": "Viengxay",
+          "en": "Viengxay",
+          "slug": "viengxay-ho-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.342",
+      "lon": "104.345"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

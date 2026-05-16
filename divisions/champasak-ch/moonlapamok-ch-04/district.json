@@ -1,0 +1,47 @@
+{
+  "id": "CH-04",
+  "level": 2,
+  "level_name": {
+    "local": "ເມືອງ",
+    "en": "District"
+  },
+  "name": {
+    "local": "Moonlapamok",
+    "en": "Moonlapamok",
+    "slug": "moonlapamok-ch-04"
+  },
+  "code": {
+    "id": "CH-04",
+    "iso": null
+  },
+  "parent": {
+    "id": "CH",
+    "level": 1,
+    "name": {
+      "local": "Champasak",
+      "en": "Champasak",
+      "slug": "champasak-ch"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CH",
+      "level": 1,
+      "name": {
+        "local": "Champasak",
+        "en": "Champasak",
+        "slug": "champasak-ch"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 56
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.177",
+    "lon": "105.451"
+  },
+  "metadata": {},
+  "source": {}
+}

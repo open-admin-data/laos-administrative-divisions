@@ -1,0 +1,30 @@
+{
+  "id": "HO",
+  "level": 1,
+  "level_name": {
+    "local": "ແຂວງ",
+    "en": "Province"
+  },
+  "name": {
+    "local": "Houaphan",
+    "en": "Houaphan",
+    "slug": "houaphan-ho"
+  },
+  "code": {
+    "id": "HO",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 9,
+    "village": 1003
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "20.274",
+    "lon": "104.317"
+  },
+  "metadata": {},
+  "source": {}
+}

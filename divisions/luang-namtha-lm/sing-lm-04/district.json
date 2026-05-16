@@ -1,0 +1,47 @@
+{
+  "id": "LM-04",
+  "level": 2,
+  "level_name": {
+    "local": "ເມືອງ",
+    "en": "District"
+  },
+  "name": {
+    "local": "Sing",
+    "en": "Sing",
+    "slug": "sing-lm-04"
+  },
+  "code": {
+    "id": "LM-04",
+    "iso": null
+  },
+  "parent": {
+    "id": "LM",
+    "level": 1,
+    "name": {
+      "local": "Luang Namtha",
+      "en": "Luang Namtha",
+      "slug": "luang-namtha-lm"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "LM",
+      "level": 1,
+      "name": {
+        "local": "Luang Namtha",
+        "en": "Luang Namtha",
+        "slug": "luang-namtha-lm"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 106
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "21.363",
+    "lon": "101.175"
+  },
+  "metadata": {},
+  "source": {}
+}

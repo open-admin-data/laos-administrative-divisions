@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite as below"
+type: dataset
+authors:
+  - name: "jakkrapongt"
+title: "Laos Administrative Divisions Dataset"
+version: "2026.05"
+date-released: "2026-05-16"
+url: "https://github.com/open-admin-data/laos-administrative-divisions"
+repository-code: "https://github.com/open-admin-data/laos-administrative-divisions"
+license: CC-BY-4.0
+keywords:
+  - laos
+  - administrative-divisions
+  - geography
+  - open-data
+  - dataset
+  - multilingual
+abstract: >
+  Open dataset of Laos's administrative hierarchy:
+  18 provinces, 148 districts, 13,330 villages.
+  Bilingual with coordinates and postal codes where available.

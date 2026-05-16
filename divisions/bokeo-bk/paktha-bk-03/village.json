@@ -1,0 +1,2378 @@
+[
+  {
+    "id": "1941625",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Dông",
+      "en": "Ban Dong",
+      "slug": "ban-dong-1941625"
+    },
+    "code": {
+      "id": "1941625",
+      "iso": null
+    },
+    "parent": {
+      "id": "BK-03",
+      "level": 2,
+      "name": {
+        "local": "Paktha",
+        "en": "Paktha",
+        "slug": "paktha-bk-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BK",
+        "level": 1,
+        "name": {
+          "local": "Bokeo",
+          "en": "Bokeo",
+          "slug": "bokeo-bk"
+        }
+      },
+      {
+        "id": "BK-03",
+        "level": 2,
+        "name": {
+          "local": "Paktha",
+          "en": "Paktha",
+          "slug": "paktha-bk-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.794",
+      "lon": "100.519"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1904458",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Hatliliap",
+      "en": "Ban Hatliliap",
+      "slug": "ban-hatliliap-1904458"
+    },
+    "code": {
+      "id": "1904458",
+      "iso": null
+    },
+    "parent": {
+      "id": "BK-03",
+      "level": 2,
+      "name": {
+        "local": "Paktha",
+        "en": "Paktha",
+        "slug": "paktha-bk-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BK",
+        "level": 1,
+        "name": {
+          "local": "Bokeo",
+          "en": "Bokeo",
+          "slug": "bokeo-bk"
+        }
+      },
+      {
+        "id": "BK-03",
+        "level": 2,
+        "name": {
+          "local": "Paktha",
+          "en": "Paktha",
+          "slug": "paktha-bk-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.13",
+      "lon": "100.651"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1664107",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Hatsa",
+      "en": "Ban Hatsa",
+      "slug": "ban-hatsa-1664107"
+    },
+    "code": {
+      "id": "1664107",
+      "iso": null
+    },
+    "parent": {
+      "id": "BK-03",
+      "level": 2,
+      "name": {
+        "local": "Paktha",
+        "en": "Paktha",
+        "slug": "paktha-bk-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BK",
+        "level": 1,
+        "name": {
+          "local": "Bokeo",
+          "en": "Bokeo",
+          "slug": "bokeo-bk"
+        }
+      },
+      {
+        "id": "BK-03",
+        "level": 2,
+        "name": {
+          "local": "Paktha",
+          "en": "Paktha",
+          "slug": "paktha-bk-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.923",
+      "lon": "100.582"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1664123",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Hatsak",
+      "en": "Ban Hatsak",
+      "slug": "ban-hatsak-1664123"
+    },
+    "code": {
+      "id": "1664123",
+      "iso": null
+    },
+    "parent": {
+      "id": "BK-03",
+      "level": 2,
+      "name": {
+        "local": "Paktha",
+        "en": "Paktha",
+        "slug": "paktha-bk-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BK",
+        "level": 1,
+        "name": {
+          "local": "Bokeo",
+          "en": "Bokeo",
+          "slug": "bokeo-bk"
+        }
+      },
+      {
+        "id": "BK-03",
+        "level": 2,
+        "name": {
+          "local": "Paktha",
+          "en": "Paktha",
+          "slug": "paktha-bk-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.86",
+      "lon": "100.588"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1664118",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Hatxat",
+      "en": "Ban Hatxat",
+      "slug": "ban-hatxat-1664118"
+    },
+    "code": {
+      "id": "1664118",
+      "iso": null
+    },
+    "parent": {
+      "id": "BK-03",
+      "level": 2,
+      "name": {
+        "local": "Paktha",
+        "en": "Paktha",
+        "slug": "paktha-bk-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BK",
+        "level": 1,
+        "name": {
+          "local": "Bokeo",
+          "en": "Bokeo",
+          "slug": "bokeo-bk"
+        }
+      },
+      {
+        "id": "BK-03",
+        "level": 2,
+        "name": {
+          "local": "Paktha",
+          "en": "Paktha",
+          "slug": "paktha-bk-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.888",
+      "lon": "100.585"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1941619",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houanam",
+      "en": "Ban Houanam",
+      "slug": "ban-houanam-1941619"
+    },
+    "code": {
+      "id": "1941619",
+      "iso": null
+    },
+    "parent": {
+      "id": "BK-03",
+      "level": 2,
+      "name": {
+        "local": "Paktha",
+        "en": "Paktha",
+        "slug": "paktha-bk-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BK",
+        "level": 1,
+        "name": {
+          "local": "Bokeo",
+          "en": "Bokeo",
+          "slug": "bokeo-bk"
+        }
+      },
+      {
+        "id": "BK-03",
+        "level": 2,
+        "name": {
+          "local": "Paktha",
+          "en": "Paktha",
+          "slug": "paktha-bk-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.885",
+      "lon": "100.54"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1941643",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houay-Èt",
+      "en": "Ban Houay-Et",
+      "slug": "ban-houay-et-1941643"
+    },
+    "code": {
+      "id": "1941643",
+      "iso": null
+    },
+    "parent": {
+      "id": "BK-03",
+      "level": 2,
+      "name": {
+        "local": "Paktha",
+        "en": "Paktha",
+        "slug": "paktha-bk-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BK",
+        "level": 1,
+        "name": {
+          "local": "Bokeo",
+          "en": "Bokeo",
+          "slug": "bokeo-bk"
+        }
+      },
+      {
+        "id": "BK-03",
+        "level": 2,
+        "name": {
+          "local": "Paktha",
+          "en": "Paktha",
+          "slug": "paktha-bk-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.872",
+      "lon": "100.738"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1663943",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houaychang",
+      "en": "Ban Houaychang",
+      "slug": "ban-houaychang-1663943"
+    },
+    "code": {
+      "id": "1663943",
+      "iso": null
+    },
+    "parent": {
+      "id": "BK-03",
+      "level": 2,
+      "name": {
+        "local": "Paktha",
+        "en": "Paktha",
+        "slug": "paktha-bk-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BK",
+        "level": 1,
+        "name": {
+          "local": "Bokeo",
+          "en": "Bokeo",
+          "slug": "bokeo-bk"
+        }
+      },
+      {
+        "id": "BK-03",
+        "level": 2,
+        "name": {
+          "local": "Paktha",
+          "en": "Paktha",
+          "slug": "paktha-bk-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.844",
+      "lon": "100.559"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1663944",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houaychang",
+      "en": "Ban Houaychang",
+      "slug": "ban-houaychang-1663944"
+    },
+    "code": {
+      "id": "1663944",
+      "iso": null
+    },
+    "parent": {
+      "id": "BK-03",
+      "level": 2,
+      "name": {
+        "local": "Paktha",
+        "en": "Paktha",
+        "slug": "paktha-bk-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BK",
+        "level": 1,
+        "name": {
+          "local": "Bokeo",
+          "en": "Bokeo",
+          "slug": "bokeo-bk"
+        }
+      },
+      {
+        "id": "BK-03",
+        "level": 2,
+        "name": {
+          "local": "Paktha",
+          "en": "Paktha",
+          "slug": "paktha-bk-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.845",
+      "lon": "100.565"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1941620",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houaygnèng",
+      "en": "Ban Houaygneng",
+      "slug": "ban-houaygneng-1941620"
+    },
+    "code": {
+      "id": "1941620",
+      "iso": null
+    },
+    "parent": {
+      "id": "BK-03",
+      "level": 2,
+      "name": {
+        "local": "Paktha",
+        "en": "Paktha",
+        "slug": "paktha-bk-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BK",
+        "level": 1,
+        "name": {
+          "local": "Bokeo",
+          "en": "Bokeo",
+          "slug": "bokeo-bk"
+        }
+      },
+      {
+        "id": "BK-03",
+        "level": 2,
+        "name": {
+          "local": "Paktha",
+          "en": "Paktha",
+          "slug": "paktha-bk-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.921",
+      "lon": "100.571"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1663849",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houaykèngphak",
+      "en": "Ban Houaykengphak",
+      "slug": "ban-houaykengphak-1663849"
+    },
+    "code": {
+      "id": "1663849",
+      "iso": null
+    },
+    "parent": {
+      "id": "BK-03",
+      "level": 2,
+      "name": {
+        "local": "Paktha",
+        "en": "Paktha",
+        "slug": "paktha-bk-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BK",
+        "level": 1,
+        "name": {
+          "local": "Bokeo",
+          "en": "Bokeo",
+          "slug": "bokeo-bk"
+        }
+      },
+      {
+        "id": "BK-03",
+        "level": 2,
+        "name": {
+          "local": "Paktha",
+          "en": "Paktha",
+          "slug": "paktha-bk-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.874",
+      "lon": "100.58"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1941483",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houaykhagnoung",
+      "en": "Ban Houaykhagnoung",
+      "slug": "ban-houaykhagnoung-1941483"
+    },
+    "code": {
+      "id": "1941483",
+      "iso": null
+    },
+    "parent": {
+      "id": "BK-03",
+      "level": 2,
+      "name": {
+        "local": "Paktha",
+        "en": "Paktha",
+        "slug": "paktha-bk-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BK",
+        "level": 1,
+        "name": {
+          "local": "Bokeo",
+          "en": "Bokeo",
+          "slug": "bokeo-bk"
+        }
+      },
+      {
+        "id": "BK-03",
+        "level": 2,
+        "name": {
+          "local": "Paktha",
+          "en": "Paktha",
+          "slug": "paktha-bk-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.98",
+      "lon": "100.635"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1904462",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houaykhiou",
+      "en": "Ban Houaykhiou",
+      "slug": "ban-houaykhiou-1904462"
+    },
+    "code": {
+      "id": "1904462",
+      "iso": null
+    },
+    "parent": {
+      "id": "BK-03",
+      "level": 2,
+      "name": {
+        "local": "Paktha",
+        "en": "Paktha",
+        "slug": "paktha-bk-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BK",
+        "level": 1,
+        "name": {
+          "local": "Bokeo",
+          "en": "Bokeo",
+          "slug": "bokeo-bk"
+        }
+      },
+      {
+        "id": "BK-03",
+        "level": 2,
+        "name": {
+          "local": "Paktha",
+          "en": "Paktha",
+          "slug": "paktha-bk-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.085",
+      "lon": "100.609"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1659391",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houaykhôt",
+      "en": "Ban Houaykhot",
+      "slug": "ban-houaykhot-1659391"
+    },
+    "code": {
+      "id": "1659391",
+      "iso": null
+    },
+    "parent": {
+      "id": "BK-03",
+      "level": 2,
+      "name": {
+        "local": "Paktha",
+        "en": "Paktha",
+        "slug": "paktha-bk-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BK",
+        "level": 1,
+        "name": {
+          "local": "Bokeo",
+          "en": "Bokeo",
+          "slug": "bokeo-bk"
+        }
+      },
+      {
+        "id": "BK-03",
+        "level": 2,
+        "name": {
+          "local": "Paktha",
+          "en": "Paktha",
+          "slug": "paktha-bk-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.856",
+      "lon": "100.502"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1941482",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houayphalam",
+      "en": "Ban Houayphalam",
+      "slug": "ban-houayphalam-1941482"
+    },
+    "code": {
+      "id": "1941482",
+      "iso": null
+    },
+    "parent": {
+      "id": "BK-03",
+      "level": 2,
+      "name": {
+        "local": "Paktha",
+        "en": "Paktha",
+        "slug": "paktha-bk-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BK",
+        "level": 1,
+        "name": {
+          "local": "Bokeo",
+          "en": "Bokeo",
+          "slug": "bokeo-bk"
+        }
+      },
+      {
+        "id": "BK-03",
+        "level": 2,
+        "name": {
+          "local": "Paktha",
+          "en": "Paktha",
+          "slug": "paktha-bk-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.966",
+      "lon": "100.581"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1662649",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houaysanguk",
+      "en": "Ban Houaysanguk",
+      "slug": "ban-houaysanguk-1662649"
+    },
+    "code": {
+      "id": "1662649",
+      "iso": null
+    },
+    "parent": {
+      "id": "BK-03",
+      "level": 2,
+      "name": {
+        "local": "Paktha",
+        "en": "Paktha",
+        "slug": "paktha-bk-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BK",
+        "level": 1,
+        "name": {
+          "local": "Bokeo",
+          "en": "Bokeo",
+          "slug": "bokeo-bk"
+        }
+      },
+      {
+        "id": "BK-03",
+        "level": 2,
+        "name": {
+          "local": "Paktha",
+          "en": "Paktha",
+          "slug": "paktha-bk-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.972",
+      "lon": "100.576"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1904467",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houaysouak",
+      "en": "Ban Houaysouak",
+      "slug": "ban-houaysouak-1904467"
+    },
+    "code": {
+      "id": "1904467",
+      "iso": null
+    },
+    "parent": {
+      "id": "BK-03",
+      "level": 2,
+      "name": {
+        "local": "Paktha",
+        "en": "Paktha",
+        "slug": "paktha-bk-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BK",
+        "level": 1,
+        "name": {
+          "local": "Bokeo",
+          "en": "Bokeo",
+          "slug": "bokeo-bk"
+        }
+      },
+      {
+        "id": "BK-03",
+        "level": 2,
+        "name": {
+          "local": "Paktha",
+          "en": "Paktha",
+          "slug": "paktha-bk-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.054",
+      "lon": "100.59"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1941613",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houaytheung",
+      "en": "Ban Houaytheung",
+      "slug": "ban-houaytheung-1941613"
+    },
+    "code": {
+      "id": "1941613",
+      "iso": null
+    },
+    "parent": {
+      "id": "BK-03",
+      "level": 2,
+      "name": {
+        "local": "Paktha",
+        "en": "Paktha",
+        "slug": "paktha-bk-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BK",
+        "level": 1,
+        "name": {
+          "local": "Bokeo",
+          "en": "Bokeo",
+          "slug": "bokeo-bk"
+        }
+      },
+      {
+        "id": "BK-03",
+        "level": 2,
+        "name": {
+          "local": "Paktha",
+          "en": "Paktha",
+          "slug": "paktha-bk-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.859",
+      "lon": "100.608"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1904454",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houaythong",
+      "en": "Ban Houaythong",
+      "slug": "ban-houaythong-1904454"
+    },
+    "code": {
+      "id": "1904454",
+      "iso": null
+    },
+    "parent": {
+      "id": "BK-03",
+      "level": 2,
+      "name": {
+        "local": "Paktha",
+        "en": "Paktha",
+        "slug": "paktha-bk-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BK",
+        "level": 1,
+        "name": {
+          "local": "Bokeo",
+          "en": "Bokeo",
+          "slug": "bokeo-bk"
+        }
+      },
+      {
+        "id": "BK-03",
+        "level": 2,
+        "name": {
+          "local": "Paktha",
+          "en": "Paktha",
+          "slug": "paktha-bk-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.154",
+      "lon": "100.59"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1663531",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houayxangkuak",
+      "en": "Ban Houayxangkuak",
+      "slug": "ban-houayxangkuak-1663531"
+    },
+    "code": {
+      "id": "1663531",
+      "iso": null
+    },
+    "parent": {
+      "id": "BK-03",
+      "level": 2,
+      "name": {
+        "local": "Paktha",
+        "en": "Paktha",
+        "slug": "paktha-bk-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BK",
+        "level": 1,
+        "name": {
+          "local": "Bokeo",
+          "en": "Bokeo",
+          "slug": "bokeo-bk"
+        }
+      },
+      {
+        "id": "BK-03",
+        "level": 2,
+        "name": {
+          "local": "Paktha",
+          "en": "Paktha",
+          "slug": "paktha-bk-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.971",
+      "lon": "100.602"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1953464",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Hung",
+      "en": "Ban Hung",
+      "slug": "ban-hung-1953464"
+    },
+    "code": {
+      "id": "1953464",
+      "iso": null
+    },
+    "parent": {
+      "id": "BK-03",
+      "level": 2,
+      "name": {
+        "local": "Paktha",
+        "en": "Paktha",
+        "slug": "paktha-bk-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BK",
+        "level": 1,
+        "name": {
+          "local": "Bokeo",
+          "en": "Bokeo",
+          "slug": "bokeo-bk"
+        }
+      },
+      {
+        "id": "BK-03",
+        "level": 2,
+        "name": {
+          "local": "Paktha",
+          "en": "Paktha",
+          "slug": "paktha-bk-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.913",
+      "lon": "100.759"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1663218",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Kèngfak",
+      "en": "Ban Kengfak",
+      "slug": "ban-kengfak-1663218"
+    },
+    "code": {
+      "id": "1663218",
+      "iso": null
+    },
+    "parent": {
+      "id": "BK-03",
+      "level": 2,
+      "name": {
+        "local": "Paktha",
+        "en": "Paktha",
+        "slug": "paktha-bk-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BK",
+        "level": 1,
+        "name": {
+          "local": "Bokeo",
+          "en": "Bokeo",
+          "slug": "bokeo-bk"
+        }
+      },
+      {
+        "id": "BK-03",
+        "level": 2,
+        "name": {
+          "local": "Paktha",
+          "en": "Paktha",
+          "slug": "paktha-bk-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.874",
+      "lon": "100.58"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "8530056",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Khâkka",
+      "en": "Ban Khakka",
+      "slug": "ban-khakka-8530056"
+    },
+    "code": {
+      "id": "8530056",
+      "iso": null
+    },
+    "parent": {
+      "id": "BK-03",
+      "level": 2,
+      "name": {
+        "local": "Paktha",
+        "en": "Paktha",
+        "slug": "paktha-bk-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BK",
+        "level": 1,
+        "name": {
+          "local": "Bokeo",
+          "en": "Bokeo",
+          "slug": "bokeo-bk"
+        }
+      },
+      {
+        "id": "BK-03",
+        "level": 2,
+        "name": {
+          "local": "Paktha",
+          "en": "Paktha",
+          "slug": "paktha-bk-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.918",
+      "lon": "100.587"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1941488",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Khè",
+      "en": "Ban Khe",
+      "slug": "ban-khe-1941488"
+    },
+    "code": {
+      "id": "1941488",
+      "iso": null
+    },
+    "parent": {
+      "id": "BK-03",
+      "level": 2,
+      "name": {
+        "local": "Paktha",
+        "en": "Paktha",
+        "slug": "paktha-bk-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BK",
+        "level": 1,
+        "name": {
+          "local": "Bokeo",
+          "en": "Bokeo",
+          "slug": "bokeo-bk"
+        }
+      },
+      {
+        "id": "BK-03",
+        "level": 2,
+        "name": {
+          "local": "Paktha",
+          "en": "Paktha",
+          "slug": "paktha-bk-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.926",
+      "lon": "100.643"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1662994",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Khmou",
+      "en": "Ban Khmou",
+      "slug": "ban-khmou-1662994"
+    },
+    "code": {
+      "id": "1662994",
+      "iso": null
+    },
+    "parent": {
+      "id": "BK-03",
+      "level": 2,
+      "name": {
+        "local": "Paktha",
+        "en": "Paktha",
+        "slug": "paktha-bk-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BK",
+        "level": 1,
+        "name": {
+          "local": "Bokeo",
+          "en": "Bokeo",
+          "slug": "bokeo-bk"
+        }
+      },
+      {
+        "id": "BK-03",
+        "level": 2,
+        "name": {
+          "local": "Paktha",
+          "en": "Paktha",
+          "slug": "paktha-bk-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.083",
+      "lon": "100.617"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1662995",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Khmou",
+      "en": "Ban Khmou",
+      "slug": "ban-khmou-1662995"
+    },
+    "code": {
+      "id": "1662995",
+      "iso": null
+    },
+    "parent": {
+      "id": "BK-03",
+      "level": 2,
+      "name": {
+        "local": "Paktha",
+        "en": "Paktha",
+        "slug": "paktha-bk-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BK",
+        "level": 1,
+        "name": {
+          "local": "Bokeo",
+          "en": "Bokeo",
+          "slug": "bokeo-bk"
+        }
+      },
+      {
+        "id": "BK-03",
+        "level": 2,
+        "name": {
+          "local": "Paktha",
+          "en": "Paktha",
+          "slug": "paktha-bk-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.849",
+      "lon": "100.539"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1662869",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Kimstang",
+      "en": "Ban Kimstang",
+      "slug": "ban-kimstang-1662869"
+    },
+    "code": {
+      "id": "1662869",
+      "iso": null
+    },
+    "parent": {
+      "id": "BK-03",
+      "level": 2,
+      "name": {
+        "local": "Paktha",
+        "en": "Paktha",
+        "slug": "paktha-bk-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BK",
+        "level": 1,
+        "name": {
+          "local": "Bokeo",
+          "en": "Bokeo",
+          "slug": "bokeo-bk"
+        }
+      },
+      {
+        "id": "BK-03",
+        "level": 2,
+        "name": {
+          "local": "Paktha",
+          "en": "Paktha",
+          "slug": "paktha-bk-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.83",
+      "lon": "100.457"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1662770",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Kontun",
+      "en": "Ban Kontun",
+      "slug": "ban-kontun-1662770"
+    },
+    "code": {
+      "id": "1662770",
+      "iso": null
+    },
+    "parent": {
+      "id": "BK-03",
+      "level": 2,
+      "name": {
+        "local": "Paktha",
+        "en": "Paktha",
+        "slug": "paktha-bk-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BK",
+        "level": 1,
+        "name": {
+          "local": "Bokeo",
+          "en": "Bokeo",
+          "slug": "bokeo-bk"
+        }
+      },
+      {
+        "id": "BK-03",
+        "level": 2,
+        "name": {
+          "local": "Paktha",
+          "en": "Paktha",
+          "slug": "paktha-bk-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.829",
+      "lon": "100.575"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1662609",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Laocho",
+      "en": "Ban Laocho",
+      "slug": "ban-laocho-1662609"
+    },
+    "code": {
+      "id": "1662609",
+      "iso": null
+    },
+    "parent": {
+      "id": "BK-03",
+      "level": 2,
+      "name": {
+        "local": "Paktha",
+        "en": "Paktha",
+        "slug": "paktha-bk-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BK",
+        "level": 1,
+        "name": {
+          "local": "Bokeo",
+          "en": "Bokeo",
+          "slug": "bokeo-bk"
+        }
+      },
+      {
+        "id": "BK-03",
+        "level": 2,
+        "name": {
+          "local": "Paktha",
+          "en": "Paktha",
+          "slug": "paktha-bk-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.807",
+      "lon": "100.484"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1941485",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Môkkachok",
+      "en": "Ban Mokkachok",
+      "slug": "ban-mokkachok-1941485"
+    },
+    "code": {
+      "id": "1941485",
+      "iso": null
+    },
+    "parent": {
+      "id": "BK-03",
+      "level": 2,
+      "name": {
+        "local": "Paktha",
+        "en": "Paktha",
+        "slug": "paktha-bk-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BK",
+        "level": 1,
+        "name": {
+          "local": "Bokeo",
+          "en": "Bokeo",
+          "slug": "bokeo-bk"
+        }
+      },
+      {
+        "id": "BK-03",
+        "level": 2,
+        "name": {
+          "local": "Paktha",
+          "en": "Paktha",
+          "slug": "paktha-bk-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.938",
+      "lon": "100.691"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1941612",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Padông",
+      "en": "Ban Padong",
+      "slug": "ban-padong-1941612"
+    },
+    "code": {
+      "id": "1941612",
+      "iso": null
+    },
+    "parent": {
+      "id": "BK-03",
+      "level": 2,
+      "name": {
+        "local": "Paktha",
+        "en": "Paktha",
+        "slug": "paktha-bk-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BK",
+        "level": 1,
+        "name": {
+          "local": "Bokeo",
+          "en": "Bokeo",
+          "slug": "bokeo-bk"
+        }
+      },
+      {
+        "id": "BK-03",
+        "level": 2,
+        "name": {
+          "local": "Paktha",
+          "en": "Paktha",
+          "slug": "paktha-bk-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.871",
+      "lon": "100.65"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1941627",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Paksô",
+      "en": "Ban Pakso",
+      "slug": "ban-pakso-1941627"
+    },
+    "code": {
+      "id": "1941627",
+      "iso": null
+    },
+    "parent": {
+      "id": "BK-03",
+      "level": 2,
+      "name": {
+        "local": "Paktha",
+        "en": "Paktha",
+        "slug": "paktha-bk-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BK",
+        "level": 1,
+        "name": {
+          "local": "Bokeo",
+          "en": "Bokeo",
+          "slug": "bokeo-bk"
+        }
+      },
+      {
+        "id": "BK-03",
+        "level": 2,
+        "name": {
+          "local": "Paktha",
+          "en": "Paktha",
+          "slug": "paktha-bk-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.814",
+      "lon": "100.575"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1655141",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Paktha",
+      "en": "Ban Paktha",
+      "slug": "ban-paktha-1655141"
+    },
+    "code": {
+      "id": "1655141",
+      "iso": null
+    },
+    "parent": {
+      "id": "BK-03",
+      "level": 2,
+      "name": {
+        "local": "Paktha",
+        "en": "Paktha",
+        "slug": "paktha-bk-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BK",
+        "level": 1,
+        "name": {
+          "local": "Bokeo",
+          "en": "Bokeo",
+          "slug": "bokeo-bk"
+        }
+      },
+      {
+        "id": "BK-03",
+        "level": 2,
+        "name": {
+          "local": "Paktha",
+          "en": "Paktha",
+          "slug": "paktha-bk-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.107",
+      "lon": "100.594"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1941626",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Pangxa",
+      "en": "Ban Pangxa",
+      "slug": "ban-pangxa-1941626"
+    },
+    "code": {
+      "id": "1941626",
+      "iso": null
+    },
+    "parent": {
+      "id": "BK-03",
+      "level": 2,
+      "name": {
+        "local": "Paktha",
+        "en": "Paktha",
+        "slug": "paktha-bk-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BK",
+        "level": 1,
+        "name": {
+          "local": "Bokeo",
+          "en": "Bokeo",
+          "slug": "bokeo-bk"
+        }
+      },
+      {
+        "id": "BK-03",
+        "level": 2,
+        "name": {
+          "local": "Paktha",
+          "en": "Paktha",
+          "slug": "paktha-bk-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.799",
+      "lon": "100.544"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1904466",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phakhoy",
+      "en": "Ban Phakhoy",
+      "slug": "ban-phakhoy-1904466"
+    },
+    "code": {
+      "id": "1904466",
+      "iso": null
+    },
+    "parent": {
+      "id": "BK-03",
+      "level": 2,
+      "name": {
+        "local": "Paktha",
+        "en": "Paktha",
+        "slug": "paktha-bk-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BK",
+        "level": 1,
+        "name": {
+          "local": "Bokeo",
+          "en": "Bokeo",
+          "slug": "bokeo-bk"
+        }
+      },
+      {
+        "id": "BK-03",
+        "level": 2,
+        "name": {
+          "local": "Paktha",
+          "en": "Paktha",
+          "slug": "paktha-bk-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.061",
+      "lon": "100.659"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1941614",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phamôn",
+      "en": "Ban Phamon",
+      "slug": "ban-phamon-1941614"
+    },
+    "code": {
+      "id": "1941614",
+      "iso": null
+    },
+    "parent": {
+      "id": "BK-03",
+      "level": 2,
+      "name": {
+        "local": "Paktha",
+        "en": "Paktha",
+        "slug": "paktha-bk-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BK",
+        "level": 1,
+        "name": {
+          "local": "Bokeo",
+          "en": "Bokeo",
+          "slug": "bokeo-bk"
+        }
+      },
+      {
+        "id": "BK-03",
+        "level": 2,
+        "name": {
+          "local": "Paktha",
+          "en": "Paktha",
+          "slug": "paktha-bk-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.911",
+      "lon": "100.534"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1941484",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phayang",
+      "en": "Ban Phayang",
+      "slug": "ban-phayang-1941484"
+    },
+    "code": {
+      "id": "1941484",
+      "iso": null
+    },
+    "parent": {
+      "id": "BK-03",
+      "level": 2,
+      "name": {
+        "local": "Paktha",
+        "en": "Paktha",
+        "slug": "paktha-bk-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BK",
+        "level": 1,
+        "name": {
+          "local": "Bokeo",
+          "en": "Bokeo",
+          "slug": "bokeo-bk"
+        }
+      },
+      {
+        "id": "BK-03",
+        "level": 2,
+        "name": {
+          "local": "Paktha",
+          "en": "Paktha",
+          "slug": "paktha-bk-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.959",
+      "lon": "100.658"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1941611",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phousathèn",
+      "en": "Ban Phousathen",
+      "slug": "ban-phousathen-1941611"
+    },
+    "code": {
+      "id": "1941611",
+      "iso": null
+    },
+    "parent": {
+      "id": "BK-03",
+      "level": 2,
+      "name": {
+        "local": "Paktha",
+        "en": "Paktha",
+        "slug": "paktha-bk-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BK",
+        "level": 1,
+        "name": {
+          "local": "Bokeo",
+          "en": "Bokeo",
+          "slug": "bokeo-bk"
+        }
+      },
+      {
+        "id": "BK-03",
+        "level": 2,
+        "name": {
+          "local": "Paktha",
+          "en": "Paktha",
+          "slug": "paktha-bk-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.907",
+      "lon": "100.691"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1904465",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phouthô",
+      "en": "Ban Phoutho",
+      "slug": "ban-phoutho-1904465"
+    },
+    "code": {
+      "id": "1904465",
+      "iso": null
+    },
+    "parent": {
+      "id": "BK-03",
+      "level": 2,
+      "name": {
+        "local": "Paktha",
+        "en": "Paktha",
+        "slug": "paktha-bk-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BK",
+        "level": 1,
+        "name": {
+          "local": "Bokeo",
+          "en": "Bokeo",
+          "slug": "bokeo-bk"
+        }
+      },
+      {
+        "id": "BK-03",
+        "level": 2,
+        "name": {
+          "local": "Paktha",
+          "en": "Paktha",
+          "slug": "paktha-bk-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.059",
+      "lon": "100.726"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1941487",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Poung",
+      "en": "Ban Poung",
+      "slug": "ban-poung-1941487"
+    },
+    "code": {
+      "id": "1941487",
+      "iso": null
+    },
+    "parent": {
+      "id": "BK-03",
+      "level": 2,
+      "name": {
+        "local": "Paktha",
+        "en": "Paktha",
+        "slug": "paktha-bk-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BK",
+        "level": 1,
+        "name": {
+          "local": "Bokeo",
+          "en": "Bokeo",
+          "slug": "bokeo-bk"
+        }
+      },
+      {
+        "id": "BK-03",
+        "level": 2,
+        "name": {
+          "local": "Paktha",
+          "en": "Paktha",
+          "slug": "paktha-bk-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.928",
+      "lon": "100.609"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1941489",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Poungkachia",
+      "en": "Ban Poungkachia",
+      "slug": "ban-poungkachia-1941489"
+    },
+    "code": {
+      "id": "1941489",
+      "iso": null
+    },
+    "parent": {
+      "id": "BK-03",
+      "level": 2,
+      "name": {
+        "local": "Paktha",
+        "en": "Paktha",
+        "slug": "paktha-bk-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BK",
+        "level": 1,
+        "name": {
+          "local": "Bokeo",
+          "en": "Bokeo",
+          "slug": "bokeo-bk"
+        }
+      },
+      {
+        "id": "BK-03",
+        "level": 2,
+        "name": {
+          "local": "Paktha",
+          "en": "Paktha",
+          "slug": "paktha-bk-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.909",
+      "lon": "100.648"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1941642",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Sadé",
+      "en": "Ban Sade",
+      "slug": "ban-sade-1941642"
+    },
+    "code": {
+      "id": "1941642",
+      "iso": null
+    },
+    "parent": {
+      "id": "BK-03",
+      "level": 2,
+      "name": {
+        "local": "Paktha",
+        "en": "Paktha",
+        "slug": "paktha-bk-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BK",
+        "level": 1,
+        "name": {
+          "local": "Bokeo",
+          "en": "Bokeo",
+          "slug": "bokeo-bk"
+        }
+      },
+      {
+        "id": "BK-03",
+        "level": 2,
+        "name": {
+          "local": "Paktha",
+          "en": "Paktha",
+          "slug": "paktha-bk-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.892",
+      "lon": "100.751"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1941486",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Sônlouang",
+      "en": "Ban Sonlouang",
+      "slug": "ban-sonlouang-1941486"
+    },
+    "code": {
+      "id": "1941486",
+      "iso": null
+    },
+    "parent": {
+      "id": "BK-03",
+      "level": 2,
+      "name": {
+        "local": "Paktha",
+        "en": "Paktha",
+        "slug": "paktha-bk-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BK",
+        "level": 1,
+        "name": {
+          "local": "Bokeo",
+          "en": "Bokeo",
+          "slug": "bokeo-bk"
+        }
+      },
+      {
+        "id": "BK-03",
+        "level": 2,
+        "name": {
+          "local": "Paktha",
+          "en": "Paktha",
+          "slug": "paktha-bk-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.934",
+      "lon": "100.535"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1941623",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Tinpha",
+      "en": "Ban Tinpha",
+      "slug": "ban-tinpha-1941623"
+    },
+    "code": {
+      "id": "1941623",
+      "iso": null
+    },
+    "parent": {
+      "id": "BK-03",
+      "level": 2,
+      "name": {
+        "local": "Paktha",
+        "en": "Paktha",
+        "slug": "paktha-bk-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BK",
+        "level": 1,
+        "name": {
+          "local": "Bokeo",
+          "en": "Bokeo",
+          "slug": "bokeo-bk"
+        }
+      },
+      {
+        "id": "BK-03",
+        "level": 2,
+        "name": {
+          "local": "Paktha",
+          "en": "Paktha",
+          "slug": "paktha-bk-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.872",
+      "lon": "100.519"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

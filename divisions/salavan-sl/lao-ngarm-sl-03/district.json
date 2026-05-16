@@ -1,0 +1,47 @@
+{
+  "id": "SL-03",
+  "level": 2,
+  "level_name": {
+    "local": "ເມືອງ",
+    "en": "District"
+  },
+  "name": {
+    "local": "Lao Ngarm",
+    "en": "Lao Ngarm",
+    "slug": "lao-ngarm-sl-03"
+  },
+  "code": {
+    "id": "SL-03",
+    "iso": null
+  },
+  "parent": {
+    "id": "SL",
+    "level": 1,
+    "name": {
+      "local": "Salavan",
+      "en": "Salavan",
+      "slug": "salavan-sl"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "SL",
+      "level": 1,
+      "name": {
+        "local": "Salavan",
+        "en": "Salavan",
+        "slug": "salavan-sl"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 111
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.496",
+    "lon": "106.182"
+  },
+  "metadata": {},
+  "source": {}
+}

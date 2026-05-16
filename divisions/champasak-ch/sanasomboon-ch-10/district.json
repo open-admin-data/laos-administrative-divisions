@@ -1,0 +1,47 @@
+{
+  "id": "CH-10",
+  "level": 2,
+  "level_name": {
+    "local": "ເມືອງ",
+    "en": "District"
+  },
+  "name": {
+    "local": "Sanasomboon",
+    "en": "Sanasomboon",
+    "slug": "sanasomboon-ch-10"
+  },
+  "code": {
+    "id": "CH-10",
+    "iso": null
+  },
+  "parent": {
+    "id": "CH",
+    "level": 1,
+    "name": {
+      "local": "Champasak",
+      "en": "Champasak",
+      "slug": "champasak-ch"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CH",
+      "level": 1,
+      "name": {
+        "local": "Champasak",
+        "en": "Champasak",
+        "slug": "champasak-ch"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 94
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.39",
+    "lon": "105.689"
+  },
+  "metadata": {},
+  "source": {}
+}

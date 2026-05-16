@@ -1,0 +1,519 @@
+[
+  {
+    "id": "CH-01",
+    "level": 2,
+    "level_name": {
+      "local": "ເມືອງ",
+      "en": "District"
+    },
+    "name": {
+      "local": "Bachiangchaleunsook",
+      "en": "Bachiangchaleunsook",
+      "slug": "bachiangchaleunsook-ch-01"
+    },
+    "code": {
+      "id": "CH-01",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH",
+      "level": 1,
+      "name": {
+        "local": "Champasak",
+        "en": "Champasak",
+        "slug": "champasak-ch"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH",
+        "level": 1,
+        "name": {
+          "local": "Champasak",
+          "en": "Champasak",
+          "slug": "champasak-ch"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 82
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.25",
+      "lon": "105.973"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH-02",
+    "level": 2,
+    "level_name": {
+      "local": "ເມືອງ",
+      "en": "District"
+    },
+    "name": {
+      "local": "Champasack",
+      "en": "Champasack",
+      "slug": "champasack-ch-02"
+    },
+    "code": {
+      "id": "CH-02",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH",
+      "level": 1,
+      "name": {
+        "local": "Champasak",
+        "en": "Champasak",
+        "slug": "champasak-ch"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH",
+        "level": 1,
+        "name": {
+          "local": "Champasak",
+          "en": "Champasak",
+          "slug": "champasak-ch"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 99
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.924",
+      "lon": "105.751"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH-03",
+    "level": 2,
+    "level_name": {
+      "local": "ເມືອງ",
+      "en": "District"
+    },
+    "name": {
+      "local": "Khong",
+      "en": "Khong",
+      "slug": "khong-ch-03"
+    },
+    "code": {
+      "id": "CH-03",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH",
+      "level": 1,
+      "name": {
+        "local": "Champasak",
+        "en": "Champasak",
+        "slug": "champasak-ch"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH",
+        "level": 1,
+        "name": {
+          "local": "Champasak",
+          "en": "Champasak",
+          "slug": "champasak-ch"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 193
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.222",
+      "lon": "106.019"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH-04",
+    "level": 2,
+    "level_name": {
+      "local": "ເມືອງ",
+      "en": "District"
+    },
+    "name": {
+      "local": "Moonlapamok",
+      "en": "Moonlapamok",
+      "slug": "moonlapamok-ch-04"
+    },
+    "code": {
+      "id": "CH-04",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH",
+      "level": 1,
+      "name": {
+        "local": "Champasak",
+        "en": "Champasak",
+        "slug": "champasak-ch"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH",
+        "level": 1,
+        "name": {
+          "local": "Champasak",
+          "en": "Champasak",
+          "slug": "champasak-ch"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 56
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.177",
+      "lon": "105.451"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH-05",
+    "level": 2,
+    "level_name": {
+      "local": "ເມືອງ",
+      "en": "District"
+    },
+    "name": {
+      "local": "Pakse",
+      "en": "Pakse",
+      "slug": "pakse-ch-05"
+    },
+    "code": {
+      "id": "CH-05",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH",
+      "level": 1,
+      "name": {
+        "local": "Champasak",
+        "en": "Champasak",
+        "slug": "champasak-ch"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH",
+        "level": 1,
+        "name": {
+          "local": "Champasak",
+          "en": "Champasak",
+          "slug": "champasak-ch"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 30
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.149",
+      "lon": "105.849"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH-06",
+    "level": 2,
+    "level_name": {
+      "local": "ເມືອງ",
+      "en": "District"
+    },
+    "name": {
+      "local": "Paksxong",
+      "en": "Paksxong",
+      "slug": "paksxong-ch-06"
+    },
+    "code": {
+      "id": "CH-06",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH",
+      "level": 1,
+      "name": {
+        "local": "Champasak",
+        "en": "Champasak",
+        "slug": "champasak-ch"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH",
+        "level": 1,
+        "name": {
+          "local": "Champasak",
+          "en": "Champasak",
+          "slug": "champasak-ch"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 119
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.052",
+      "lon": "106.383"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH-07",
+    "level": 2,
+    "level_name": {
+      "local": "ເມືອງ",
+      "en": "District"
+    },
+    "name": {
+      "local": "Pathoomphone",
+      "en": "Pathoomphone",
+      "slug": "pathoomphone-ch-07"
+    },
+    "code": {
+      "id": "CH-07",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH",
+      "level": 1,
+      "name": {
+        "local": "Champasak",
+        "en": "Champasak",
+        "slug": "champasak-ch"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH",
+        "level": 1,
+        "name": {
+          "local": "Champasak",
+          "en": "Champasak",
+          "slug": "champasak-ch"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 105
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.651",
+      "lon": "106.187"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH-08",
+    "level": 2,
+    "level_name": {
+      "local": "ເມືອງ",
+      "en": "District"
+    },
+    "name": {
+      "local": "Phonthong",
+      "en": "Phonthong",
+      "slug": "phonthong-ch-08"
+    },
+    "code": {
+      "id": "CH-08",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH",
+      "level": 1,
+      "name": {
+        "local": "Champasak",
+        "en": "Champasak",
+        "slug": "champasak-ch"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH",
+        "level": 1,
+        "name": {
+          "local": "Champasak",
+          "en": "Champasak",
+          "slug": "champasak-ch"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 201
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.085",
+      "lon": "105.67"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH-09",
+    "level": 2,
+    "level_name": {
+      "local": "ເມືອງ",
+      "en": "District"
+    },
+    "name": {
+      "local": "Samakkhixay",
+      "en": "Samakkhixay",
+      "slug": "samakkhixay-ch-09"
+    },
+    "code": {
+      "id": "CH-09",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH",
+      "level": 1,
+      "name": {
+        "local": "Champasak",
+        "en": "Champasak",
+        "slug": "champasak-ch"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH",
+        "level": 1,
+        "name": {
+          "local": "Champasak",
+          "en": "Champasak",
+          "slug": "champasak-ch"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 23
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.963",
+      "lon": "106.794"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH-10",
+    "level": 2,
+    "level_name": {
+      "local": "ເມືອງ",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sanasomboon",
+      "en": "Sanasomboon",
+      "slug": "sanasomboon-ch-10"
+    },
+    "code": {
+      "id": "CH-10",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH",
+      "level": 1,
+      "name": {
+        "local": "Champasak",
+        "en": "Champasak",
+        "slug": "champasak-ch"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH",
+        "level": 1,
+        "name": {
+          "local": "Champasak",
+          "en": "Champasak",
+          "slug": "champasak-ch"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 94
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.39",
+      "lon": "105.689"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH-11",
+    "level": 2,
+    "level_name": {
+      "local": "ເມືອງ",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sukhuma",
+      "en": "Sukhuma",
+      "slug": "sukhuma-ch-11"
+    },
+    "code": {
+      "id": "CH-11",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH",
+      "level": 1,
+      "name": {
+        "local": "Champasak",
+        "en": "Champasak",
+        "slug": "champasak-ch"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH",
+        "level": 1,
+        "name": {
+          "local": "Champasak",
+          "en": "Champasak",
+          "slug": "champasak-ch"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 66
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.597",
+      "lon": "105.623"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

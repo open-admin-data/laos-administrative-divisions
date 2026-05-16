@@ -1,0 +1,98 @@
+# Toomlarn
+
+[Home](../../../) &gt; [Salavan](../) > **Toomlarn**
+
+Toomlarn is a district in Laos, under Salavan.
+
+## Overview
+
+| Item | Details |
+|------|---------|
+| Villages | 69 |
+| Code | SL-07 |
+| Coordinates | 16.047, 106.21 |
+| Parent | Salavan |
+
+## Villages
+
+| # | Name | Coordinates | Code |
+|---|------|-------------|------|
+| 1 | Ban Apia | 16.066, 106.199 | 11236681 |
+| 2 | Ban Apia-Noy | 16.072, 106.213 | 11236682 |
+| 3 | Ban Don-Gnang | 16.08, 106.207 | 11236680 |
+| 4 | Ban Donboung-Na | 15.985, 106.229 | 1664555 |
+| 5 | Ban Donkhagnoung | 15.93, 106.273 | 11197861 |
+| 6 | Ban Honglaông (Ban Honglaong) | 15.995, 106.246 | 11197833 |
+| 7 | Ban Houaylai | 15.976, 106.282 | 11197863 |
+| 8 | Ban Kalèng-Noy (Ban Kaleng-Noy) | 16.011, 106.168 | 11236618 |
+| 9 | Ban Kamèp-Nua (Ban Kamep-Nua) | 16.112, 106.146 | 11236644 |
+| 10 | Ban Kamèp-Tai (Ban Kamep-Tai) | 16.104, 106.149 | 11236643 |
+| 11 | Ban Katao-Noy | 15.955, 106.36 | 11197867 |
+| 12 | Ban Kateup | 16.123, 106.276 | 11236674 |
+| 13 | Ban Kènghang (Ban Kenghang) | 16.014, 106.208 | 11236613 |
+| 14 | Ban Kokmouang | 15.996, 106.186 | 11197830 |
+| 15 | Ban Kôkmuang (Ban Kokmuang) | 16.085, 106.174 | 1662808 |
+| 16 | Ban Kophai | 15.967, 106.314 | 11197864 |
+| 17 | Ban Lachang-Gnai | 15.965, 106.326 | 1662687 |
+| 18 | Ban Lachang-Noy | 15.963, 106.309 | 1662686 |
+| 19 | Ban Lamuk | 16.13, 106.247 | 11236669 |
+| 20 | Ban Lanong | 16.126, 106.136 | 11236645 |
+| 21 | Ban Latong | 16.009, 106.195 | 11236692 |
+| 22 | Ban Mun | 16.003, 106.229 | 11236694 |
+| 23 | Ban Nabon-Nua | 15.895, 106.277 | 11197858 |
+| 24 | Ban Nadou | 15.949, 106.228 | 1662034 |
+| 25 | Ban Nadou-Gnai | 15.907, 106.248 | 1662035 |
+| 26 | Ban Nadou-Noy | 15.915, 106.24 | 11209115 |
+| 27 | Ban Nahong | 15.943, 106.246 | 1661934 |
+| 28 | Ban Nahong | 16.025, 106.186 | 1664250 |
+| 29 | Ban Nahong | 15.99, 106.186 | 13433157 |
+| 30 | Ban Nahong | 15.904, 106.259 | 13433159 |
+| 31 | Ban Nakan | 15.953, 106.197 | 11197836 |
+| 32 | Ban Nalaoviang | 15.903, 106.25 | 11197860 |
+| 33 | Ban Naphô-Gnai (Ban Napho-Gnai) | 15.968, 106.235 | 1661252 |
+| 34 | Ban Naphô-Noy (Ban Napho-Noy) | 15.917, 106.254 | 1661222 |
+| 35 | Ban Naphô-Noy (Ban Napho-Noy) | 15.954, 106.232 | 13433158 |
+| 36 | Ban Naphônok (Ban Naphonok) | 15.929, 106.252 | 11197862 |
+| 37 | Ban Nongba | 15.996, 106.239 | 11197832 |
+| 38 | Ban Pathlap | 15.976, 106.196 | 11197835 |
+| 39 | Ban Paxia | 16.12, 106.147 | 11236646 |
+| 40 | Ban Paxiakoung | 15.94, 106.246 | 1660350 |
+| 41 | Ban Phao | 16.06, 106.203 | 11236686 |
+| 42 | Ban Phokalé (Ban Phokale) | 16.12, 106.193 | 11236648 |
+| 43 | Ban Phosénay (Ban Phosenay) | 16.106, 106.33 | 11236695 |
+| 44 | Ban Sanam | 15.996, 106.255 | 11197865 |
+| 45 | Ban Sanô-Gnai (Ban Sano-Gnai) | 16.123, 106.179 | 11236649 |
+| 46 | Ban Sanô-Noy (Ban Sano-Noy) | 16.116, 106.168 | 11236647 |
+| 47 | Ban Tagneuk | 16.137, 106.26 | 11236668 |
+| 48 | Ban Tahèng (Ban Taheng) | 16.029, 106.164 | 11236638 |
+| 49 | Ban Takdat | 15.992, 106.239 | 11197834 |
+| 50 | Ban Tambèng (Ban Tambeng) | 16.033, 106.182 | 11236689 |
+| 51 | Ban Tanbèng-Gnai (Ban Tanbeng-Gnai) | 16.09, 106.226 | 11236678 |
+| 52 | Ban Tanbèng-Noy (Ban Tanbeng-Noy) | 16.096, 106.237 | 11236676 |
+| 53 | Ban Tanoua-Gnai | 16.049, 106.206 | 11236685 |
+| 54 | Ban Tanoua-Noy | 16.042, 106.204 | 11236687 |
+| 55 | Ban Taveuay | 16.085, 106.215 | 11236679 |
+| 56 | Ban Tayon Noi | 16.117, 106.2 | 1658775 |
+| 57 | Ban Thammalu | 15.892, 106.306 | 11197859 |
+| 58 | Ban Thôngkatoua (Ban Thongkatoua) | 16.057, 106.171 | 11236608 |
+| 59 | Ban Thôngphiakhoua (Ban Thongphiakhoua) | 15.873, 106.308 | 1658469 |
+| 60 | Ban Tinphou | 16.011, 106.234 | 11236691 |
+| 61 | Ban Tônxa (Ban Tonxa) | 16.068, 106.257 | 11236683 |
+| 62 | Ban Touklouk | 16.004, 106.219 | 11236693 |
+| 63 | Ban Toumlan | 16.001, 106.233 | 1658351 |
+| 64 | Ban Tup | 16.117, 106.167 | 1658319 |
+| 65 | Ban Vanghua-Nua | 16.112, 106.25 | 11236673 |
+| 66 | Ban Vanghua-Tai | 16.107, 106.251 | 11236675 |
+| 67 | Ban Vangli | 16.121, 106.2 | 11236670 |
+| 68 | Ban Vangli | 16.135, 106.333 | 11236697 |
+| 69 | Ban Xangké (Ban Xangke) | 16.019, 106.221 | 11236690 |
+
+## Data Files
+
+- [district.json](district.json) — District metadata
+- [village.json](village.json) — All villages (JSON)
+- [village.csv](village.csv) — CSV format
+
+---
+
+<- Back to [Salavan](../)

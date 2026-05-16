@@ -1,0 +1,30 @@
+{
+  "id": "AT",
+  "level": 1,
+  "level_name": {
+    "local": "ແຂວງ",
+    "en": "Province"
+  },
+  "name": {
+    "local": "Attapeu",
+    "en": "Attapeu",
+    "slug": "attapeu-at"
+  },
+  "code": {
+    "id": "AT",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 4,
+    "village": 213
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.728",
+    "lon": "106.994"
+  },
+  "metadata": {},
+  "source": {}
+}

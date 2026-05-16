@@ -1,0 +1,47 @@
+{
+  "id": "XI-08",
+  "level": 2,
+  "level_name": {
+    "local": "ເມືອງ",
+    "en": "District"
+  },
+  "name": {
+    "local": "Phookood",
+    "en": "Phookood",
+    "slug": "phookood-xi-08"
+  },
+  "code": {
+    "id": "XI-08",
+    "iso": null
+  },
+  "parent": {
+    "id": "XI",
+    "level": 1,
+    "name": {
+      "local": "Xiangkhouang",
+      "en": "Xiangkhouang",
+      "slug": "xiangkhouang-xi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "XI",
+      "level": 1,
+      "name": {
+        "local": "Xiangkhouang",
+        "en": "Xiangkhouang",
+        "slug": "xiangkhouang-xi"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 184
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "19.693",
+    "lon": "103.008"
+  },
+  "metadata": {},
+  "source": {}
+}

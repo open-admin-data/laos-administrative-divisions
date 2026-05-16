@@ -1,0 +1,542 @@
+[
+  {
+    "id": "AT",
+    "level": 1,
+    "level_name": {
+      "local": "ແຂວງ",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Attapeu",
+      "en": "Attapeu",
+      "slug": "attapeu-at"
+    },
+    "code": {
+      "id": "AT",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 4,
+      "village": 213
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.728",
+      "lon": "106.994"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BK",
+    "level": 1,
+    "level_name": {
+      "local": "ແຂວງ",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Bokeo",
+      "en": "Bokeo",
+      "slug": "bokeo-bk"
+    },
+    "code": {
+      "id": "BK",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 5,
+      "village": 345
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.234",
+      "lon": "100.586"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BL",
+    "level": 1,
+    "level_name": {
+      "local": "ແຂວງ",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Bolikhamsai",
+      "en": "Bolikhamsai",
+      "slug": "bolikhamsai-bl"
+    },
+    "code": {
+      "id": "BL",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 7,
+      "village": 487
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.514",
+      "lon": "104.384"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CH",
+    "level": 1,
+    "level_name": {
+      "local": "ແຂວງ",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Champasak",
+      "en": "Champasak",
+      "slug": "champasak-ch"
+    },
+    "code": {
+      "id": "CH",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 11,
+      "village": 1068
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.624",
+      "lon": "105.863"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "HO",
+    "level": 1,
+    "level_name": {
+      "local": "ແຂວງ",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Houaphan",
+      "en": "Houaphan",
+      "slug": "houaphan-ho"
+    },
+    "code": {
+      "id": "HO",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 9,
+      "village": 1003
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.274",
+      "lon": "104.317"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KH",
+    "level": 1,
+    "level_name": {
+      "local": "ແຂວງ",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Khammouane",
+      "en": "Khammouane",
+      "slug": "khammouane-kh"
+    },
+    "code": {
+      "id": "KH",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 9,
+      "village": 778
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.635",
+      "lon": "105.342"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LM",
+    "level": 1,
+    "level_name": {
+      "local": "ແຂວງ",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Luang Namtha",
+      "en": "Luang Namtha",
+      "slug": "luang-namtha-lm"
+    },
+    "code": {
+      "id": "LM",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 5,
+      "village": 465
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.021",
+      "lon": "101.298"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LP",
+    "level": 1,
+    "level_name": {
+      "local": "ແຂວງ",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Luang Prabang",
+      "en": "Luang Prabang",
+      "slug": "luang-prabang-lp"
+    },
+    "code": {
+      "id": "LP",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 11,
+      "village": 1373
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.207",
+      "lon": "102.599"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "OU",
+    "level": 1,
+    "level_name": {
+      "local": "ແຂວງ",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Oudomxay",
+      "en": "Oudomxay",
+      "slug": "oudomxay-ou"
+    },
+    "code": {
+      "id": "OU",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 7,
+      "village": 889
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.485",
+      "lon": "101.65"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PH",
+    "level": 1,
+    "level_name": {
+      "local": "ແຂວງ",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Phongsaly",
+      "en": "Phongsaly",
+      "slug": "phongsaly-ph"
+    },
+    "code": {
+      "id": "PH",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 7,
+      "village": 794
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.754",
+      "lon": "102.373"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL",
+    "level": 1,
+    "level_name": {
+      "local": "ແຂວງ",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Salavan",
+      "en": "Salavan",
+      "slug": "salavan-sl"
+    },
+    "code": {
+      "id": "SL",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 8,
+      "village": 776
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.975",
+      "lon": "106.348"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SV",
+    "level": 1,
+    "level_name": {
+      "local": "ແຂວງ",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Savannakhet",
+      "en": "Savannakhet",
+      "slug": "savannakhet-sv"
+    },
+    "code": {
+      "id": "SV",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 16,
+      "village": 1634
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.575",
+      "lon": "105.84"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "VI",
+    "level": 1,
+    "level_name": {
+      "local": "ແຂວງ",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Vientiane",
+      "en": "Vientiane Province",
+      "slug": "vientiane-province-vi"
+    },
+    "code": {
+      "id": "VI",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 11,
+      "village": 597
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.532",
+      "lon": "102.107"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "VT",
+    "level": 1,
+    "level_name": {
+      "local": "ແຂວງ",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Vientiane Capital",
+      "en": "Vientiane Capital",
+      "slug": "vientiane-capital-vt"
+    },
+    "code": {
+      "id": "VT",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 9,
+      "village": 334
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.178",
+      "lon": "102.539"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "XA",
+    "level": 1,
+    "level_name": {
+      "local": "ແຂວງ",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Xaignabouli",
+      "en": "Xaignabouli",
+      "slug": "xaignabouli-xa"
+    },
+    "code": {
+      "id": "XA",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 11,
+      "village": 610
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.794",
+      "lon": "101.181"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "XE",
+    "level": 1,
+    "level_name": {
+      "local": "ແຂວງ",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Xekong",
+      "en": "Xekong",
+      "slug": "xekong-xe"
+    },
+    "code": {
+      "id": "XE",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 4,
+      "village": 386
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.541",
+      "lon": "107.321"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "XI",
+    "level": 1,
+    "level_name": {
+      "local": "ແຂວງ",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Xiangkhouang",
+      "en": "Xiangkhouang",
+      "slug": "xiangkhouang-xi"
+    },
+    "code": {
+      "id": "XI",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 9,
+      "village": 1384
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.464",
+      "lon": "103.723"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "XN",
+    "level": 1,
+    "level_name": {
+      "local": "ແຂວງ",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Xaisomboun",
+      "en": "Xaisomboun",
+      "slug": "xaisomboun-xn"
+    },
+    "code": {
+      "id": "XN",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 5,
+      "village": 194
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.959",
+      "lon": "103.327"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

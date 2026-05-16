@@ -1,0 +1,47 @@
+{
+  "id": "XE-02",
+  "level": 2,
+  "level_name": {
+    "local": "ເມືອງ",
+    "en": "District"
+  },
+  "name": {
+    "local": "Kaleum",
+    "en": "Kaleum",
+    "slug": "kaleum-xe-02"
+  },
+  "code": {
+    "id": "XE-02",
+    "iso": null
+  },
+  "parent": {
+    "id": "XE",
+    "level": 1,
+    "name": {
+      "local": "Xekong",
+      "en": "Xekong",
+      "slug": "xekong-xe"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "XE",
+      "level": 1,
+      "name": {
+        "local": "Xekong",
+        "en": "Xekong",
+        "slug": "xekong-xe"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 141
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.93",
+    "lon": "107.195"
+  },
+  "metadata": {},
+  "source": {}
+}

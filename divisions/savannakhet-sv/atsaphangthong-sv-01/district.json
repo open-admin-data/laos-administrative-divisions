@@ -1,0 +1,47 @@
+{
+  "id": "SV-01",
+  "level": 2,
+  "level_name": {
+    "local": "ເມືອງ",
+    "en": "District"
+  },
+  "name": {
+    "local": "Atsaphangthong",
+    "en": "Atsaphangthong",
+    "slug": "atsaphangthong-sv-01"
+  },
+  "code": {
+    "id": "SV-01",
+    "iso": null
+  },
+  "parent": {
+    "id": "SV",
+    "level": 1,
+    "name": {
+      "local": "Savannakhet",
+      "en": "Savannakhet",
+      "slug": "savannakhet-sv"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "SV",
+      "level": 1,
+      "name": {
+        "local": "Savannakhet",
+        "en": "Savannakhet",
+        "slug": "savannakhet-sv"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 47
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.729",
+    "lon": "105.275"
+  },
+  "metadata": {},
+  "source": {}
+}

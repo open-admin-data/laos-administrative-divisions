@@ -1,0 +1,47 @@
+{
+  "id": "KH-05",
+  "level": 2,
+  "level_name": {
+    "local": "ເມືອງ",
+    "en": "District"
+  },
+  "name": {
+    "local": "Nakay",
+    "en": "Nakay",
+    "slug": "nakay-kh-05"
+  },
+  "code": {
+    "id": "KH-05",
+    "iso": null
+  },
+  "parent": {
+    "id": "KH",
+    "level": 1,
+    "name": {
+      "local": "Khammouane",
+      "en": "Khammouane",
+      "slug": "khammouane-kh"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KH",
+      "level": 1,
+      "name": {
+        "local": "Khammouane",
+        "en": "Khammouane",
+        "slug": "khammouane-kh"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 77
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "18.02",
+    "lon": "105.229"
+  },
+  "metadata": {},
+  "source": {}
+}

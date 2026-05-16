@@ -1,0 +1,47 @@
+{
+  "id": "BK-01",
+  "level": 2,
+  "level_name": {
+    "local": "ເມືອງ",
+    "en": "District"
+  },
+  "name": {
+    "local": "Huoixai",
+    "en": "Huoixai",
+    "slug": "huoixai-bk-01"
+  },
+  "code": {
+    "id": "BK-01",
+    "iso": null
+  },
+  "parent": {
+    "id": "BK",
+    "level": 1,
+    "name": {
+      "local": "Bokeo",
+      "en": "Bokeo",
+      "slug": "bokeo-bk"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BK",
+      "level": 1,
+      "name": {
+        "local": "Bokeo",
+        "en": "Bokeo",
+        "slug": "bokeo-bk"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 113
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "20.386",
+    "lon": "100.641"
+  },
+  "metadata": {},
+  "source": {}
+}

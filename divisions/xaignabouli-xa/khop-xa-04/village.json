@@ -1,0 +1,2324 @@
+[
+  {
+    "id": "1664917",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Bo-Gnai",
+      "en": "Ban Bo-Gnai",
+      "slug": "ban-bo-gnai-1664917"
+    },
+    "code": {
+      "id": "1664917",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA-04",
+      "level": 2,
+      "name": {
+        "local": "Khop",
+        "en": "Khop",
+        "slug": "khop-xa-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      },
+      {
+        "id": "XA-04",
+        "level": 2,
+        "name": {
+          "local": "Khop",
+          "en": "Khop",
+          "slug": "khop-xa-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.787",
+      "lon": "100.611"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1664366",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Donchai",
+      "en": "Ban Donchai",
+      "slug": "ban-donchai-1664366"
+    },
+    "code": {
+      "id": "1664366",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA-04",
+      "level": 2,
+      "name": {
+        "local": "Khop",
+        "en": "Khop",
+        "slug": "khop-xa-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      },
+      {
+        "id": "XA-04",
+        "level": 2,
+        "name": {
+          "local": "Khop",
+          "en": "Khop",
+          "slug": "khop-xa-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.672",
+      "lon": "100.525"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13433396",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Dông",
+      "en": "Ban Dong",
+      "slug": "ban-dong-13433396"
+    },
+    "code": {
+      "id": "13433396",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA-04",
+      "level": 2,
+      "name": {
+        "local": "Khop",
+        "en": "Khop",
+        "slug": "khop-xa-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      },
+      {
+        "id": "XA-04",
+        "level": 2,
+        "name": {
+          "local": "Khop",
+          "en": "Khop",
+          "slug": "khop-xa-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.766",
+      "lon": "100.498"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1663995",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houamuang",
+      "en": "Ban Houamuang",
+      "slug": "ban-houamuang-1663995"
+    },
+    "code": {
+      "id": "1663995",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA-04",
+      "level": 2,
+      "name": {
+        "local": "Khop",
+        "en": "Khop",
+        "slug": "khop-xa-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      },
+      {
+        "id": "XA-04",
+        "level": 2,
+        "name": {
+          "local": "Khop",
+          "en": "Khop",
+          "slug": "khop-xa-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.671",
+      "lon": "100.499"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1941953",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houamuang",
+      "en": "Ban Houamuang",
+      "slug": "ban-houamuang-1941953"
+    },
+    "code": {
+      "id": "1941953",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA-04",
+      "level": 2,
+      "name": {
+        "local": "Khop",
+        "en": "Khop",
+        "slug": "khop-xa-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      },
+      {
+        "id": "XA-04",
+        "level": 2,
+        "name": {
+          "local": "Khop",
+          "en": "Khop",
+          "slug": "khop-xa-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.672",
+      "lon": "100.498"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1941809",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houay Ho",
+      "en": "Ban Houay Ho",
+      "slug": "ban-houay-ho-1941809"
+    },
+    "code": {
+      "id": "1941809",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA-04",
+      "level": 2,
+      "name": {
+        "local": "Khop",
+        "en": "Khop",
+        "slug": "khop-xa-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      },
+      {
+        "id": "XA-04",
+        "level": 2,
+        "name": {
+          "local": "Khop",
+          "en": "Khop",
+          "slug": "khop-xa-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.682",
+      "lon": "100.538"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1941863",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houaykhong",
+      "en": "Ban Houaykhong",
+      "slug": "ban-houaykhong-1941863"
+    },
+    "code": {
+      "id": "1941863",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA-04",
+      "level": 2,
+      "name": {
+        "local": "Khop",
+        "en": "Khop",
+        "slug": "khop-xa-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      },
+      {
+        "id": "XA-04",
+        "level": 2,
+        "name": {
+          "local": "Khop",
+          "en": "Khop",
+          "slug": "khop-xa-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.742",
+      "lon": "100.655"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1663785",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houaylao",
+      "en": "Ban Houaylao",
+      "slug": "ban-houaylao-1663785"
+    },
+    "code": {
+      "id": "1663785",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA-04",
+      "level": 2,
+      "name": {
+        "local": "Khop",
+        "en": "Khop",
+        "slug": "khop-xa-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      },
+      {
+        "id": "XA-04",
+        "level": 2,
+        "name": {
+          "local": "Khop",
+          "en": "Khop",
+          "slug": "khop-xa-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.765",
+      "lon": "100.51"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1941822",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houayngeun",
+      "en": "Ban Houayngeun",
+      "slug": "ban-houayngeun-1941822"
+    },
+    "code": {
+      "id": "1941822",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA-04",
+      "level": 2,
+      "name": {
+        "local": "Khop",
+        "en": "Khop",
+        "slug": "khop-xa-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      },
+      {
+        "id": "XA-04",
+        "level": 2,
+        "name": {
+          "local": "Khop",
+          "en": "Khop",
+          "slug": "khop-xa-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.547",
+      "lon": "100.526"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1941823",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houayngiou",
+      "en": "Ban Houayngiou",
+      "slug": "ban-houayngiou-1941823"
+    },
+    "code": {
+      "id": "1941823",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA-04",
+      "level": 2,
+      "name": {
+        "local": "Khop",
+        "en": "Khop",
+        "slug": "khop-xa-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      },
+      {
+        "id": "XA-04",
+        "level": 2,
+        "name": {
+          "local": "Khop",
+          "en": "Khop",
+          "slug": "khop-xa-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.541",
+      "lon": "100.52"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1941865",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houaynôkkôt",
+      "en": "Ban Houaynokkot",
+      "slug": "ban-houaynokkot-1941865"
+    },
+    "code": {
+      "id": "1941865",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA-04",
+      "level": 2,
+      "name": {
+        "local": "Khop",
+        "en": "Khop",
+        "slug": "khop-xa-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      },
+      {
+        "id": "XA-04",
+        "level": 2,
+        "name": {
+          "local": "Khop",
+          "en": "Khop",
+          "slug": "khop-xa-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.624",
+      "lon": "100.622"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1941851",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houaypha",
+      "en": "Ban Houaypha",
+      "slug": "ban-houaypha-1941851"
+    },
+    "code": {
+      "id": "1941851",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA-04",
+      "level": 2,
+      "name": {
+        "local": "Khop",
+        "en": "Khop",
+        "slug": "khop-xa-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      },
+      {
+        "id": "XA-04",
+        "level": 2,
+        "name": {
+          "local": "Khop",
+          "en": "Khop",
+          "slug": "khop-xa-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.706",
+      "lon": "100.593"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1663922",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houayphouan",
+      "en": "Ban Houayphouan",
+      "slug": "ban-houayphouan-1663922"
+    },
+    "code": {
+      "id": "1663922",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA-04",
+      "level": 2,
+      "name": {
+        "local": "Khop",
+        "en": "Khop",
+        "slug": "khop-xa-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      },
+      {
+        "id": "XA-04",
+        "level": 2,
+        "name": {
+          "local": "Khop",
+          "en": "Khop",
+          "slug": "khop-xa-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.809",
+      "lon": "100.669"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1941629",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houaysata",
+      "en": "Ban Houaysata",
+      "slug": "ban-houaysata-1941629"
+    },
+    "code": {
+      "id": "1941629",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA-04",
+      "level": 2,
+      "name": {
+        "local": "Khop",
+        "en": "Khop",
+        "slug": "khop-xa-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      },
+      {
+        "id": "XA-04",
+        "level": 2,
+        "name": {
+          "local": "Khop",
+          "en": "Khop",
+          "slug": "khop-xa-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.818",
+      "lon": "100.649"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1662989",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Kèo",
+      "en": "Ban Keo",
+      "slug": "ban-keo-1662989"
+    },
+    "code": {
+      "id": "1662989",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA-04",
+      "level": 2,
+      "name": {
+        "local": "Khop",
+        "en": "Khop",
+        "slug": "khop-xa-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      },
+      {
+        "id": "XA-04",
+        "level": 2,
+        "name": {
+          "local": "Khop",
+          "en": "Khop",
+          "slug": "khop-xa-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.65",
+      "lon": "100.525"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1941632",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Khôkmeuy",
+      "en": "Ban Khokmeuy",
+      "slug": "ban-khokmeuy-1941632"
+    },
+    "code": {
+      "id": "1941632",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA-04",
+      "level": 2,
+      "name": {
+        "local": "Khop",
+        "en": "Khop",
+        "slug": "khop-xa-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      },
+      {
+        "id": "XA-04",
+        "level": 2,
+        "name": {
+          "local": "Khop",
+          "en": "Khop",
+          "slug": "khop-xa-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.818",
+      "lon": "100.684"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1662889",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Khoung",
+      "en": "Ban Khoung",
+      "slug": "ban-khoung-1662889"
+    },
+    "code": {
+      "id": "1662889",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA-04",
+      "level": 2,
+      "name": {
+        "local": "Khop",
+        "en": "Khop",
+        "slug": "khop-xa-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      },
+      {
+        "id": "XA-04",
+        "level": 2,
+        "name": {
+          "local": "Khop",
+          "en": "Khop",
+          "slug": "khop-xa-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.686",
+      "lon": "100.531"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1941821",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Kouay",
+      "en": "Ban Kouay",
+      "slug": "ban-kouay-1941821"
+    },
+    "code": {
+      "id": "1941821",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA-04",
+      "level": 2,
+      "name": {
+        "local": "Khop",
+        "en": "Khop",
+        "slug": "khop-xa-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      },
+      {
+        "id": "XA-04",
+        "level": 2,
+        "name": {
+          "local": "Khop",
+          "en": "Khop",
+          "slug": "khop-xa-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.567",
+      "lon": "100.526"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1662612",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Lao",
+      "en": "Ban Lao",
+      "slug": "ban-lao-1662612"
+    },
+    "code": {
+      "id": "1662612",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA-04",
+      "level": 2,
+      "name": {
+        "local": "Khop",
+        "en": "Khop",
+        "slug": "khop-xa-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      },
+      {
+        "id": "XA-04",
+        "level": 2,
+        "name": {
+          "local": "Khop",
+          "en": "Khop",
+          "slug": "khop-xa-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.684",
+      "lon": "100.546"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1662295",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Laochu",
+      "en": "Ban Laochu",
+      "slug": "ban-laochu-1662295"
+    },
+    "code": {
+      "id": "1662295",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA-04",
+      "level": 2,
+      "name": {
+        "local": "Khop",
+        "en": "Khop",
+        "slug": "khop-xa-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      },
+      {
+        "id": "XA-04",
+        "level": 2,
+        "name": {
+          "local": "Khop",
+          "en": "Khop",
+          "slug": "khop-xa-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.512",
+      "lon": "100.591"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1941824",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Laoxa",
+      "en": "Ban Laoxa",
+      "slug": "ban-laoxa-1941824"
+    },
+    "code": {
+      "id": "1941824",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA-04",
+      "level": 2,
+      "name": {
+        "local": "Khop",
+        "en": "Khop",
+        "slug": "khop-xa-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      },
+      {
+        "id": "XA-04",
+        "level": 2,
+        "name": {
+          "local": "Khop",
+          "en": "Khop",
+          "slug": "khop-xa-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.53",
+      "lon": "100.53"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1662493",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Lem",
+      "en": "Ban Lem",
+      "slug": "ban-lem-1662493"
+    },
+    "code": {
+      "id": "1662493",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA-04",
+      "level": 2,
+      "name": {
+        "local": "Khop",
+        "en": "Khop",
+        "slug": "khop-xa-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      },
+      {
+        "id": "XA-04",
+        "level": 2,
+        "name": {
+          "local": "Khop",
+          "en": "Khop",
+          "slug": "khop-xa-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.689",
+      "lon": "100.502"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1941651",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Mai",
+      "en": "Ban Mai",
+      "slug": "ban-mai-1941651"
+    },
+    "code": {
+      "id": "1941651",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA-04",
+      "level": 2,
+      "name": {
+        "local": "Khop",
+        "en": "Khop",
+        "slug": "khop-xa-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      },
+      {
+        "id": "XA-04",
+        "level": 2,
+        "name": {
+          "local": "Khop",
+          "en": "Khop",
+          "slug": "khop-xa-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.772",
+      "lon": "100.525"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1941837",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Mai",
+      "en": "Ban Mai",
+      "slug": "ban-mai-1941837"
+    },
+    "code": {
+      "id": "1941837",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA-04",
+      "level": 2,
+      "name": {
+        "local": "Khop",
+        "en": "Khop",
+        "slug": "khop-xa-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      },
+      {
+        "id": "XA-04",
+        "level": 2,
+        "name": {
+          "local": "Khop",
+          "en": "Khop",
+          "slug": "khop-xa-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.678",
+      "lon": "100.583"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1662296",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Mèo",
+      "en": "Ban Meo",
+      "slug": "ban-meo-1662296"
+    },
+    "code": {
+      "id": "1662296",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA-04",
+      "level": 2,
+      "name": {
+        "local": "Khop",
+        "en": "Khop",
+        "slug": "khop-xa-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      },
+      {
+        "id": "XA-04",
+        "level": 2,
+        "name": {
+          "local": "Khop",
+          "en": "Khop",
+          "slug": "khop-xa-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.502",
+      "lon": "100.58"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1655190",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Mouang",
+      "en": "Ban Mouang",
+      "slug": "ban-mouang-1655190"
+    },
+    "code": {
+      "id": "1655190",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA-04",
+      "level": 2,
+      "name": {
+        "local": "Khop",
+        "en": "Khop",
+        "slug": "khop-xa-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      },
+      {
+        "id": "XA-04",
+        "level": 2,
+        "name": {
+          "local": "Khop",
+          "en": "Khop",
+          "slug": "khop-xa-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.676",
+      "lon": "100.512"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1941951",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Namkha",
+      "en": "Ban Namkha",
+      "slug": "ban-namkha-1941951"
+    },
+    "code": {
+      "id": "1941951",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA-04",
+      "level": 2,
+      "name": {
+        "local": "Khop",
+        "en": "Khop",
+        "slug": "khop-xa-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      },
+      {
+        "id": "XA-04",
+        "level": 2,
+        "name": {
+          "local": "Khop",
+          "en": "Khop",
+          "slug": "khop-xa-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.737",
+      "lon": "100.468"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1661441",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Namphao",
+      "en": "Ban Namphao",
+      "slug": "ban-namphao-1661441"
+    },
+    "code": {
+      "id": "1661441",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA-04",
+      "level": 2,
+      "name": {
+        "local": "Khop",
+        "en": "Khop",
+        "slug": "khop-xa-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      },
+      {
+        "id": "XA-04",
+        "level": 2,
+        "name": {
+          "local": "Khop",
+          "en": "Khop",
+          "slug": "khop-xa-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.68",
+      "lon": "100.579"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1941864",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nampôt",
+      "en": "Ban Nampot",
+      "slug": "ban-nampot-1941864"
+    },
+    "code": {
+      "id": "1941864",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA-04",
+      "level": 2,
+      "name": {
+        "local": "Khop",
+        "en": "Khop",
+        "slug": "khop-xa-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      },
+      {
+        "id": "XA-04",
+        "level": 2,
+        "name": {
+          "local": "Khop",
+          "en": "Khop",
+          "slug": "khop-xa-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.623",
+      "lon": "100.626"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1661079",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nathôm",
+      "en": "Ban Nathom",
+      "slug": "ban-nathom-1661079"
+    },
+    "code": {
+      "id": "1661079",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA-04",
+      "level": 2,
+      "name": {
+        "local": "Khop",
+        "en": "Khop",
+        "slug": "khop-xa-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      },
+      {
+        "id": "XA-04",
+        "level": 2,
+        "name": {
+          "local": "Khop",
+          "en": "Khop",
+          "slug": "khop-xa-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.556",
+      "lon": "100.574"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1660392",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Pakha",
+      "en": "Ban Pakha",
+      "slug": "ban-pakha-1660392"
+    },
+    "code": {
+      "id": "1660392",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA-04",
+      "level": 2,
+      "name": {
+        "local": "Khop",
+        "en": "Khop",
+        "slug": "khop-xa-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      },
+      {
+        "id": "XA-04",
+        "level": 2,
+        "name": {
+          "local": "Khop",
+          "en": "Khop",
+          "slug": "khop-xa-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.775",
+      "lon": "100.546"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1660499",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Pakkhôp",
+      "en": "Ban Pakkhop",
+      "slug": "ban-pakkhop-1660499"
+    },
+    "code": {
+      "id": "1660499",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA-04",
+      "level": 2,
+      "name": {
+        "local": "Khop",
+        "en": "Khop",
+        "slug": "khop-xa-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      },
+      {
+        "id": "XA-04",
+        "level": 2,
+        "name": {
+          "local": "Khop",
+          "en": "Khop",
+          "slug": "khop-xa-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.806",
+      "lon": "100.616"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1658484",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Pakouay",
+      "en": "Ban Pakouay",
+      "slug": "ban-pakouay-1658484"
+    },
+    "code": {
+      "id": "1658484",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA-04",
+      "level": 2,
+      "name": {
+        "local": "Khop",
+        "en": "Khop",
+        "slug": "khop-xa-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      },
+      {
+        "id": "XA-04",
+        "level": 2,
+        "name": {
+          "local": "Khop",
+          "en": "Khop",
+          "slug": "khop-xa-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.583",
+      "lon": "100.528"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1660390",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Pang Poh",
+      "en": "Ban Pang Poh",
+      "slug": "ban-pang-poh-1660390"
+    },
+    "code": {
+      "id": "1660390",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA-04",
+      "level": 2,
+      "name": {
+        "local": "Khop",
+        "en": "Khop",
+        "slug": "khop-xa-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      },
+      {
+        "id": "XA-04",
+        "level": 2,
+        "name": {
+          "local": "Khop",
+          "en": "Khop",
+          "slug": "khop-xa-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.768",
+      "lon": "100.658"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1660389",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Pang Sa",
+      "en": "Ban Pang Sa",
+      "slug": "ban-pang-sa-1660389"
+    },
+    "code": {
+      "id": "1660389",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA-04",
+      "level": 2,
+      "name": {
+        "local": "Khop",
+        "en": "Khop",
+        "slug": "khop-xa-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      },
+      {
+        "id": "XA-04",
+        "level": 2,
+        "name": {
+          "local": "Khop",
+          "en": "Khop",
+          "slug": "khop-xa-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.784",
+      "lon": "100.628"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1660394",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Panghai",
+      "en": "Ban Panghai",
+      "slug": "ban-panghai-1660394"
+    },
+    "code": {
+      "id": "1660394",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA-04",
+      "level": 2,
+      "name": {
+        "local": "Khop",
+        "en": "Khop",
+        "slug": "khop-xa-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      },
+      {
+        "id": "XA-04",
+        "level": 2,
+        "name": {
+          "local": "Khop",
+          "en": "Khop",
+          "slug": "khop-xa-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.76",
+      "lon": "100.567"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1660229",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Pha Lat",
+      "en": "Ban Pha Lat",
+      "slug": "ban-pha-lat-1660229"
+    },
+    "code": {
+      "id": "1660229",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA-04",
+      "level": 2,
+      "name": {
+        "local": "Khop",
+        "en": "Khop",
+        "slug": "khop-xa-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      },
+      {
+        "id": "XA-04",
+        "level": 2,
+        "name": {
+          "local": "Khop",
+          "en": "Khop",
+          "slug": "khop-xa-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.599",
+      "lon": "100.535"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1941807",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Sathan",
+      "en": "Ban Sathan",
+      "slug": "ban-sathan-1941807"
+    },
+    "code": {
+      "id": "1941807",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA-04",
+      "level": 2,
+      "name": {
+        "local": "Khop",
+        "en": "Khop",
+        "slug": "khop-xa-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      },
+      {
+        "id": "XA-04",
+        "level": 2,
+        "name": {
+          "local": "Khop",
+          "en": "Khop",
+          "slug": "khop-xa-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.69",
+      "lon": "100.567"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1659055",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Sôp-Louang",
+      "en": "Ban Sop-Louang",
+      "slug": "ban-sop-louang-1659055"
+    },
+    "code": {
+      "id": "1659055",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA-04",
+      "level": 2,
+      "name": {
+        "local": "Khop",
+        "en": "Khop",
+        "slug": "khop-xa-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      },
+      {
+        "id": "XA-04",
+        "level": 2,
+        "name": {
+          "local": "Khop",
+          "en": "Khop",
+          "slug": "khop-xa-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.605",
+      "lon": "100.538"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1658695",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Tham",
+      "en": "Ban Tham",
+      "slug": "ban-tham-1658695"
+    },
+    "code": {
+      "id": "1658695",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA-04",
+      "level": 2,
+      "name": {
+        "local": "Khop",
+        "en": "Khop",
+        "slug": "khop-xa-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      },
+      {
+        "id": "XA-04",
+        "level": 2,
+        "name": {
+          "local": "Khop",
+          "en": "Khop",
+          "slug": "khop-xa-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.643",
+      "lon": "100.587"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1658500",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Thônghèt",
+      "en": "Ban Thonghet",
+      "slug": "ban-thonghet-1658500"
+    },
+    "code": {
+      "id": "1658500",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA-04",
+      "level": 2,
+      "name": {
+        "local": "Khop",
+        "en": "Khop",
+        "slug": "khop-xa-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      },
+      {
+        "id": "XA-04",
+        "level": 2,
+        "name": {
+          "local": "Khop",
+          "en": "Khop",
+          "slug": "khop-xa-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.65",
+      "lon": "100.526"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1941952",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Thôngmén",
+      "en": "Ban Thongmen",
+      "slug": "ban-thongmen-1941952"
+    },
+    "code": {
+      "id": "1941952",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA-04",
+      "level": 2,
+      "name": {
+        "local": "Khop",
+        "en": "Khop",
+        "slug": "khop-xa-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      },
+      {
+        "id": "XA-04",
+        "level": 2,
+        "name": {
+          "local": "Khop",
+          "en": "Khop",
+          "slug": "khop-xa-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.711",
+      "lon": "100.488"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1655196",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Muang Khay",
+      "en": "Muang Khay",
+      "slug": "muang-khay-1655196"
+    },
+    "code": {
+      "id": "1655196",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA-04",
+      "level": 2,
+      "name": {
+        "local": "Khop",
+        "en": "Khop",
+        "slug": "khop-xa-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      },
+      {
+        "id": "XA-04",
+        "level": 2,
+        "name": {
+          "local": "Khop",
+          "en": "Khop",
+          "slug": "khop-xa-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.667",
+      "lon": "100.55"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

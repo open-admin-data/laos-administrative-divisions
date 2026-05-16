@@ -1,0 +1,47 @@
+{
+  "id": "SL-01",
+  "level": 2,
+  "level_name": {
+    "local": "ເມືອງ",
+    "en": "District"
+  },
+  "name": {
+    "local": "Khongxedone",
+    "en": "Khongxedone",
+    "slug": "khongxedone-sl-01"
+  },
+  "code": {
+    "id": "SL-01",
+    "iso": null
+  },
+  "parent": {
+    "id": "SL",
+    "level": 1,
+    "name": {
+      "local": "Salavan",
+      "en": "Salavan",
+      "slug": "salavan-sl"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "SL",
+      "level": 1,
+      "name": {
+        "local": "Salavan",
+        "en": "Salavan",
+        "slug": "salavan-sl"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 95
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.557",
+    "lon": "105.743"
+  },
+  "metadata": {},
+  "source": {}
+}

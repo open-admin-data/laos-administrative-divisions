@@ -1,0 +1,47 @@
+{
+  "id": "XI-03",
+  "level": 2,
+  "level_name": {
+    "local": "ເມືອງ",
+    "en": "District"
+  },
+  "name": {
+    "local": "Khoune",
+    "en": "Khoune",
+    "slug": "khoune-xi-03"
+  },
+  "code": {
+    "id": "XI-03",
+    "iso": null
+  },
+  "parent": {
+    "id": "XI",
+    "level": 1,
+    "name": {
+      "local": "Xiangkhouang",
+      "en": "Xiangkhouang",
+      "slug": "xiangkhouang-xi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "XI",
+      "level": 1,
+      "name": {
+        "local": "Xiangkhouang",
+        "en": "Xiangkhouang",
+        "slug": "xiangkhouang-xi"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 174
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "19.196",
+    "lon": "103.534"
+  },
+  "metadata": {},
+  "source": {}
+}

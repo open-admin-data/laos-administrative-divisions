@@ -1,0 +1,47 @@
+{
+  "id": "XI-05",
+  "level": 2,
+  "level_name": {
+    "local": "ເມືອງ",
+    "en": "District"
+  },
+  "name": {
+    "local": "Nonghed",
+    "en": "Nonghed",
+    "slug": "nonghed-xi-05"
+  },
+  "code": {
+    "id": "XI-05",
+    "iso": null
+  },
+  "parent": {
+    "id": "XI",
+    "level": 1,
+    "name": {
+      "local": "Xiangkhouang",
+      "en": "Xiangkhouang",
+      "slug": "xiangkhouang-xi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "XI",
+      "level": 1,
+      "name": {
+        "local": "Xiangkhouang",
+        "en": "Xiangkhouang",
+        "slug": "xiangkhouang-xi"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 173
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "19.579",
+    "lon": "104.045"
+  },
+  "metadata": {},
+  "source": {}
+}

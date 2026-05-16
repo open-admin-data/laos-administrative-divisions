@@ -1,0 +1,3944 @@
+[
+  {
+    "id": "1664900",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Boki",
+      "en": "Ban Boki",
+      "slug": "ban-boki-1664900"
+    },
+    "code": {
+      "id": "1664900",
+      "iso": null
+    },
+    "parent": {
+      "id": "BL-04",
+      "level": 2,
+      "name": {
+        "local": "Pakxane",
+        "en": "Pakxane",
+        "slug": "pakxane-bl-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BL",
+        "level": 1,
+        "name": {
+          "local": "Bolikhamsai",
+          "en": "Bolikhamsai",
+          "slug": "bolikhamsai-bl"
+        }
+      },
+      {
+        "id": "BL-04",
+        "level": 2,
+        "name": {
+          "local": "Pakxane",
+          "en": "Pakxane",
+          "slug": "pakxane-bl-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.445",
+      "lon": "103.879"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1662631",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Bông",
+      "en": "Ban Bong",
+      "slug": "ban-bong-1662631"
+    },
+    "code": {
+      "id": "1662631",
+      "iso": null
+    },
+    "parent": {
+      "id": "BL-04",
+      "level": 2,
+      "name": {
+        "local": "Pakxane",
+        "en": "Pakxane",
+        "slug": "pakxane-bl-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BL",
+        "level": 1,
+        "name": {
+          "local": "Bolikhamsai",
+          "en": "Bolikhamsai",
+          "slug": "bolikhamsai-bl"
+        }
+      },
+      {
+        "id": "BL-04",
+        "level": 2,
+        "name": {
+          "local": "Pakxane",
+          "en": "Pakxane",
+          "slug": "pakxane-bl-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.388",
+      "lon": "103.881"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1664564",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Dôn",
+      "en": "Ban Don",
+      "slug": "ban-don-1664564"
+    },
+    "code": {
+      "id": "1664564",
+      "iso": null
+    },
+    "parent": {
+      "id": "BL-04",
+      "level": 2,
+      "name": {
+        "local": "Pakxane",
+        "en": "Pakxane",
+        "slug": "pakxane-bl-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BL",
+        "level": 1,
+        "name": {
+          "local": "Bolikhamsai",
+          "en": "Bolikhamsai",
+          "slug": "bolikhamsai-bl"
+        }
+      },
+      {
+        "id": "BL-04",
+        "level": 2,
+        "name": {
+          "local": "Pakxane",
+          "en": "Pakxane",
+          "slug": "pakxane-bl-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.304",
+      "lon": "103.887"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1664238",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Hai",
+      "en": "Ban Hai",
+      "slug": "ban-hai-1664238"
+    },
+    "code": {
+      "id": "1664238",
+      "iso": null
+    },
+    "parent": {
+      "id": "BL-04",
+      "level": 2,
+      "name": {
+        "local": "Pakxane",
+        "en": "Pakxane",
+        "slug": "pakxane-bl-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BL",
+        "level": 1,
+        "name": {
+          "local": "Bolikhamsai",
+          "en": "Bolikhamsai",
+          "slug": "bolikhamsai-bl"
+        }
+      },
+      {
+        "id": "BL-04",
+        "level": 2,
+        "name": {
+          "local": "Pakxane",
+          "en": "Pakxane",
+          "slug": "pakxane-bl-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.345",
+      "lon": "103.815"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1664201",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Hangxing-Gnai",
+      "en": "Ban Hangxing-Gnai",
+      "slug": "ban-hangxing-gnai-1664201"
+    },
+    "code": {
+      "id": "1664201",
+      "iso": null
+    },
+    "parent": {
+      "id": "BL-04",
+      "level": 2,
+      "name": {
+        "local": "Pakxane",
+        "en": "Pakxane",
+        "slug": "pakxane-bl-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BL",
+        "level": 1,
+        "name": {
+          "local": "Bolikhamsai",
+          "en": "Bolikhamsai",
+          "slug": "bolikhamsai-bl"
+        }
+      },
+      {
+        "id": "BL-04",
+        "level": 2,
+        "name": {
+          "local": "Pakxane",
+          "en": "Pakxane",
+          "slug": "pakxane-bl-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.428",
+      "lon": "103.534"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11232217",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Hangxing-Noy",
+      "en": "Ban Hangxing-Noy",
+      "slug": "ban-hangxing-noy-11232217"
+    },
+    "code": {
+      "id": "11232217",
+      "iso": null
+    },
+    "parent": {
+      "id": "BL-04",
+      "level": 2,
+      "name": {
+        "local": "Pakxane",
+        "en": "Pakxane",
+        "slug": "pakxane-bl-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BL",
+        "level": 1,
+        "name": {
+          "local": "Bolikhamsai",
+          "en": "Bolikhamsai",
+          "slug": "bolikhamsai-bl"
+        }
+      },
+      {
+        "id": "BL-04",
+        "level": 2,
+        "name": {
+          "local": "Pakxane",
+          "en": "Pakxane",
+          "slug": "pakxane-bl-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.436",
+      "lon": "103.533"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11232298",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Hatkhagnao",
+      "en": "Ban Hatkhagnao",
+      "slug": "ban-hatkhagnao-11232298"
+    },
+    "code": {
+      "id": "11232298",
+      "iso": null
+    },
+    "parent": {
+      "id": "BL-04",
+      "level": 2,
+      "name": {
+        "local": "Pakxane",
+        "en": "Pakxane",
+        "slug": "pakxane-bl-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BL",
+        "level": 1,
+        "name": {
+          "local": "Bolikhamsai",
+          "en": "Bolikhamsai",
+          "slug": "bolikhamsai-bl"
+        }
+      },
+      {
+        "id": "BL-04",
+        "level": 2,
+        "name": {
+          "local": "Pakxane",
+          "en": "Pakxane",
+          "slug": "pakxane-bl-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.343",
+      "lon": "103.821"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1664071",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Hin Lat",
+      "en": "Ban Hin Lat",
+      "slug": "ban-hin-lat-1664071"
+    },
+    "code": {
+      "id": "1664071",
+      "iso": null
+    },
+    "parent": {
+      "id": "BL-04",
+      "level": 2,
+      "name": {
+        "local": "Pakxane",
+        "en": "Pakxane",
+        "slug": "pakxane-bl-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BL",
+        "level": 1,
+        "name": {
+          "local": "Bolikhamsai",
+          "en": "Bolikhamsai",
+          "slug": "bolikhamsai-bl"
+        }
+      },
+      {
+        "id": "BL-04",
+        "level": 2,
+        "name": {
+          "local": "Pakxane",
+          "en": "Pakxane",
+          "slug": "pakxane-bl-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.416",
+      "lon": "103.601"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11232279",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houayhe",
+      "en": "Ban Houayhe",
+      "slug": "ban-houayhe-11232279"
+    },
+    "code": {
+      "id": "11232279",
+      "iso": null
+    },
+    "parent": {
+      "id": "BL-04",
+      "level": 2,
+      "name": {
+        "local": "Pakxane",
+        "en": "Pakxane",
+        "slug": "pakxane-bl-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BL",
+        "level": 1,
+        "name": {
+          "local": "Bolikhamsai",
+          "en": "Bolikhamsai",
+          "slug": "bolikhamsai-bl"
+        }
+      },
+      {
+        "id": "BL-04",
+        "level": 2,
+        "name": {
+          "local": "Pakxane",
+          "en": "Pakxane",
+          "slug": "pakxane-bl-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.462",
+      "lon": "103.795"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11232300",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houayxay",
+      "en": "Ban Houayxay",
+      "slug": "ban-houayxay-11232300"
+    },
+    "code": {
+      "id": "11232300",
+      "iso": null
+    },
+    "parent": {
+      "id": "BL-04",
+      "level": 2,
+      "name": {
+        "local": "Pakxane",
+        "en": "Pakxane",
+        "slug": "pakxane-bl-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BL",
+        "level": 1,
+        "name": {
+          "local": "Bolikhamsai",
+          "en": "Bolikhamsai",
+          "slug": "bolikhamsai-bl"
+        }
+      },
+      {
+        "id": "BL-04",
+        "level": 2,
+        "name": {
+          "local": "Pakxane",
+          "en": "Pakxane",
+          "slug": "pakxane-bl-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.36",
+      "lon": "103.873"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1663208",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Kèngsadok",
+      "en": "Ban Kengsadok",
+      "slug": "ban-kengsadok-1663208"
+    },
+    "code": {
+      "id": "1663208",
+      "iso": null
+    },
+    "parent": {
+      "id": "BL-04",
+      "level": 2,
+      "name": {
+        "local": "Pakxane",
+        "en": "Pakxane",
+        "slug": "pakxane-bl-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BL",
+        "level": 1,
+        "name": {
+          "local": "Bolikhamsai",
+          "en": "Bolikhamsai",
+          "slug": "bolikhamsai-bl"
+        }
+      },
+      {
+        "id": "BL-04",
+        "level": 2,
+        "name": {
+          "local": "Pakxane",
+          "en": "Pakxane",
+          "slug": "pakxane-bl-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.3",
+      "lon": "103.852"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1663129",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Khambon",
+      "en": "Ban Khambon",
+      "slug": "ban-khambon-1663129"
+    },
+    "code": {
+      "id": "1663129",
+      "iso": null
+    },
+    "parent": {
+      "id": "BL-04",
+      "level": 2,
+      "name": {
+        "local": "Pakxane",
+        "en": "Pakxane",
+        "slug": "pakxane-bl-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BL",
+        "level": 1,
+        "name": {
+          "local": "Bolikhamsai",
+          "en": "Bolikhamsai",
+          "slug": "bolikhamsai-bl"
+        }
+      },
+      {
+        "id": "BL-04",
+        "level": 2,
+        "name": {
+          "local": "Pakxane",
+          "en": "Pakxane",
+          "slug": "pakxane-bl-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.476",
+      "lon": "103.845"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11232295",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Khambon",
+      "en": "Ban Khambon",
+      "slug": "ban-khambon-11232295"
+    },
+    "code": {
+      "id": "11232295",
+      "iso": null
+    },
+    "parent": {
+      "id": "BL-04",
+      "level": 2,
+      "name": {
+        "local": "Pakxane",
+        "en": "Pakxane",
+        "slug": "pakxane-bl-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BL",
+        "level": 1,
+        "name": {
+          "local": "Bolikhamsai",
+          "en": "Bolikhamsai",
+          "slug": "bolikhamsai-bl"
+        }
+      },
+      {
+        "id": "BL-04",
+        "level": 2,
+        "name": {
+          "local": "Pakxane",
+          "en": "Pakxane",
+          "slug": "pakxane-bl-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.373",
+      "lon": "103.819"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11232223",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Kômsipchét",
+      "en": "Ban Komsipchet",
+      "slug": "ban-komsipchet-11232223"
+    },
+    "code": {
+      "id": "11232223",
+      "iso": null
+    },
+    "parent": {
+      "id": "BL-04",
+      "level": 2,
+      "name": {
+        "local": "Pakxane",
+        "en": "Pakxane",
+        "slug": "pakxane-bl-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BL",
+        "level": 1,
+        "name": {
+          "local": "Bolikhamsai",
+          "en": "Bolikhamsai",
+          "slug": "bolikhamsai-bl"
+        }
+      },
+      {
+        "id": "BL-04",
+        "level": 2,
+        "name": {
+          "local": "Pakxane",
+          "en": "Pakxane",
+          "slug": "pakxane-bl-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.421",
+      "lon": "103.628"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1662749",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Kouay",
+      "en": "Ban Kouay",
+      "slug": "ban-kouay-1662749"
+    },
+    "code": {
+      "id": "1662749",
+      "iso": null
+    },
+    "parent": {
+      "id": "BL-04",
+      "level": 2,
+      "name": {
+        "local": "Pakxane",
+        "en": "Pakxane",
+        "slug": "pakxane-bl-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BL",
+        "level": 1,
+        "name": {
+          "local": "Bolikhamsai",
+          "en": "Bolikhamsai",
+          "slug": "bolikhamsai-bl"
+        }
+      },
+      {
+        "id": "BL-04",
+        "level": 2,
+        "name": {
+          "local": "Pakxane",
+          "en": "Pakxane",
+          "slug": "pakxane-bl-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.409",
+      "lon": "103.587"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1662465",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Lingxan",
+      "en": "Ban Lingxan",
+      "slug": "ban-lingxan-1662465"
+    },
+    "code": {
+      "id": "1662465",
+      "iso": null
+    },
+    "parent": {
+      "id": "BL-04",
+      "level": 2,
+      "name": {
+        "local": "Pakxane",
+        "en": "Pakxane",
+        "slug": "pakxane-bl-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BL",
+        "level": 1,
+        "name": {
+          "local": "Bolikhamsai",
+          "en": "Bolikhamsai",
+          "slug": "bolikhamsai-bl"
+        }
+      },
+      {
+        "id": "BL-04",
+        "level": 2,
+        "name": {
+          "local": "Pakxane",
+          "en": "Pakxane",
+          "slug": "pakxane-bl-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.317",
+      "lon": "103.867"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11232216",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Mai",
+      "en": "Ban Mai",
+      "slug": "ban-mai-11232216"
+    },
+    "code": {
+      "id": "11232216",
+      "iso": null
+    },
+    "parent": {
+      "id": "BL-04",
+      "level": 2,
+      "name": {
+        "local": "Pakxane",
+        "en": "Pakxane",
+        "slug": "pakxane-bl-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BL",
+        "level": 1,
+        "name": {
+          "local": "Bolikhamsai",
+          "en": "Bolikhamsai",
+          "slug": "bolikhamsai-bl"
+        }
+      },
+      {
+        "id": "BL-04",
+        "level": 2,
+        "name": {
+          "local": "Pakxane",
+          "en": "Pakxane",
+          "slug": "pakxane-bl-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.441",
+      "lon": "103.516"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1662341",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Maknao",
+      "en": "Ban Maknao",
+      "slug": "ban-maknao-1662341"
+    },
+    "code": {
+      "id": "1662341",
+      "iso": null
+    },
+    "parent": {
+      "id": "BL-04",
+      "level": 2,
+      "name": {
+        "local": "Pakxane",
+        "en": "Pakxane",
+        "slug": "pakxane-bl-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BL",
+        "level": 1,
+        "name": {
+          "local": "Bolikhamsai",
+          "en": "Bolikhamsai",
+          "slug": "bolikhamsai-bl"
+        }
+      },
+      {
+        "id": "BL-04",
+        "level": 2,
+        "name": {
+          "local": "Pakxane",
+          "en": "Pakxane",
+          "slug": "pakxane-bl-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.302",
+      "lon": "103.852"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1661725",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Na Kok",
+      "en": "Ban Na Kok",
+      "slug": "ban-na-kok-1661725"
+    },
+    "code": {
+      "id": "1661725",
+      "iso": null
+    },
+    "parent": {
+      "id": "BL-04",
+      "level": 2,
+      "name": {
+        "local": "Pakxane",
+        "en": "Pakxane",
+        "slug": "pakxane-bl-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BL",
+        "level": 1,
+        "name": {
+          "local": "Bolikhamsai",
+          "en": "Bolikhamsai",
+          "slug": "bolikhamsai-bl"
+        }
+      },
+      {
+        "id": "BL-04",
+        "level": 2,
+        "name": {
+          "local": "Pakxane",
+          "en": "Pakxane",
+          "slug": "pakxane-bl-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.409",
+      "lon": "103.58"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11232263",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Na-Uang",
+      "en": "Ban Na-Uang",
+      "slug": "ban-na-uang-11232263"
+    },
+    "code": {
+      "id": "11232263",
+      "iso": null
+    },
+    "parent": {
+      "id": "BL-04",
+      "level": 2,
+      "name": {
+        "local": "Pakxane",
+        "en": "Pakxane",
+        "slug": "pakxane-bl-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BL",
+        "level": 1,
+        "name": {
+          "local": "Bolikhamsai",
+          "en": "Bolikhamsai",
+          "slug": "bolikhamsai-bl"
+        }
+      },
+      {
+        "id": "BL-04",
+        "level": 2,
+        "name": {
+          "local": "Pakxane",
+          "en": "Pakxane",
+          "slug": "pakxane-bl-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.363",
+      "lon": "103.677"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11232250",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nachik",
+      "en": "Ban Nachik",
+      "slug": "ban-nachik-11232250"
+    },
+    "code": {
+      "id": "11232250",
+      "iso": null
+    },
+    "parent": {
+      "id": "BL-04",
+      "level": 2,
+      "name": {
+        "local": "Pakxane",
+        "en": "Pakxane",
+        "slug": "pakxane-bl-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BL",
+        "level": 1,
+        "name": {
+          "local": "Bolikhamsai",
+          "en": "Bolikhamsai",
+          "slug": "bolikhamsai-bl"
+        }
+      },
+      {
+        "id": "BL-04",
+        "level": 2,
+        "name": {
+          "local": "Pakxane",
+          "en": "Pakxane",
+          "slug": "pakxane-bl-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.406",
+      "lon": "103.686"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1655032",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nadi",
+      "en": "Ban Nadi",
+      "slug": "ban-nadi-1655032"
+    },
+    "code": {
+      "id": "1655032",
+      "iso": null
+    },
+    "parent": {
+      "id": "BL-04",
+      "level": 2,
+      "name": {
+        "local": "Pakxane",
+        "en": "Pakxane",
+        "slug": "pakxane-bl-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BL",
+        "level": 1,
+        "name": {
+          "local": "Bolikhamsai",
+          "en": "Bolikhamsai",
+          "slug": "bolikhamsai-bl"
+        }
+      },
+      {
+        "id": "BL-04",
+        "level": 2,
+        "name": {
+          "local": "Pakxane",
+          "en": "Pakxane",
+          "slug": "pakxane-bl-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.451",
+      "lon": "103.752"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11232806",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nahan",
+      "en": "Ban Nahan",
+      "slug": "ban-nahan-11232806"
+    },
+    "code": {
+      "id": "11232806",
+      "iso": null
+    },
+    "parent": {
+      "id": "BL-04",
+      "level": 2,
+      "name": {
+        "local": "Pakxane",
+        "en": "Pakxane",
+        "slug": "pakxane-bl-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BL",
+        "level": 1,
+        "name": {
+          "local": "Bolikhamsai",
+          "en": "Bolikhamsai",
+          "slug": "bolikhamsai-bl"
+        }
+      },
+      {
+        "id": "BL-04",
+        "level": 2,
+        "name": {
+          "local": "Pakxane",
+          "en": "Pakxane",
+          "slug": "pakxane-bl-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.33",
+      "lon": "103.871"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1661942",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nahinou",
+      "en": "Ban Nahinou",
+      "slug": "ban-nahinou-1661942"
+    },
+    "code": {
+      "id": "1661942",
+      "iso": null
+    },
+    "parent": {
+      "id": "BL-04",
+      "level": 2,
+      "name": {
+        "local": "Pakxane",
+        "en": "Pakxane",
+        "slug": "pakxane-bl-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BL",
+        "level": 1,
+        "name": {
+          "local": "Bolikhamsai",
+          "en": "Bolikhamsai",
+          "slug": "bolikhamsai-bl"
+        }
+      },
+      {
+        "id": "BL-04",
+        "level": 2,
+        "name": {
+          "local": "Pakxane",
+          "en": "Pakxane",
+          "slug": "pakxane-bl-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.426",
+      "lon": "103.838"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1661936",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nahom",
+      "en": "Ban Nahom",
+      "slug": "ban-nahom-1661936"
+    },
+    "code": {
+      "id": "1661936",
+      "iso": null
+    },
+    "parent": {
+      "id": "BL-04",
+      "level": 2,
+      "name": {
+        "local": "Pakxane",
+        "en": "Pakxane",
+        "slug": "pakxane-bl-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BL",
+        "level": 1,
+        "name": {
+          "local": "Bolikhamsai",
+          "en": "Bolikhamsai",
+          "slug": "bolikhamsai-bl"
+        }
+      },
+      {
+        "id": "BL-04",
+        "level": 2,
+        "name": {
+          "local": "Pakxane",
+          "en": "Pakxane",
+          "slug": "pakxane-bl-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.447",
+      "lon": "103.819"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1661920",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nahouaphou",
+      "en": "Ban Nahouaphou",
+      "slug": "ban-nahouaphou-1661920"
+    },
+    "code": {
+      "id": "1661920",
+      "iso": null
+    },
+    "parent": {
+      "id": "BL-04",
+      "level": 2,
+      "name": {
+        "local": "Pakxane",
+        "en": "Pakxane",
+        "slug": "pakxane-bl-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BL",
+        "level": 1,
+        "name": {
+          "local": "Bolikhamsai",
+          "en": "Bolikhamsai",
+          "slug": "bolikhamsai-bl"
+        }
+      },
+      {
+        "id": "BL-04",
+        "level": 2,
+        "name": {
+          "local": "Pakxane",
+          "en": "Pakxane",
+          "slug": "pakxane-bl-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.41",
+      "lon": "103.794"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1661787",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nakhaolôm",
+      "en": "Ban Nakhaolom",
+      "slug": "ban-nakhaolom-1661787"
+    },
+    "code": {
+      "id": "1661787",
+      "iso": null
+    },
+    "parent": {
+      "id": "BL-04",
+      "level": 2,
+      "name": {
+        "local": "Pakxane",
+        "en": "Pakxane",
+        "slug": "pakxane-bl-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BL",
+        "level": 1,
+        "name": {
+          "local": "Bolikhamsai",
+          "en": "Bolikhamsai",
+          "slug": "bolikhamsai-bl"
+        }
+      },
+      {
+        "id": "BL-04",
+        "level": 2,
+        "name": {
+          "local": "Pakxane",
+          "en": "Pakxane",
+          "slug": "pakxane-bl-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.487",
+      "lon": "103.825"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1661626",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Namai",
+      "en": "Ban Namai",
+      "slug": "ban-namai-1661626"
+    },
+    "code": {
+      "id": "1661626",
+      "iso": null
+    },
+    "parent": {
+      "id": "BL-04",
+      "level": 2,
+      "name": {
+        "local": "Pakxane",
+        "en": "Pakxane",
+        "slug": "pakxane-bl-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BL",
+        "level": 1,
+        "name": {
+          "local": "Bolikhamsai",
+          "en": "Bolikhamsai",
+          "slug": "bolikhamsai-bl"
+        }
+      },
+      {
+        "id": "BL-04",
+        "level": 2,
+        "name": {
+          "local": "Pakxane",
+          "en": "Pakxane",
+          "slug": "pakxane-bl-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.452",
+      "lon": "103.873"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11232222",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Namngiap",
+      "en": "Ban Namngiap",
+      "slug": "ban-namngiap-11232222"
+    },
+    "code": {
+      "id": "11232222",
+      "iso": null
+    },
+    "parent": {
+      "id": "BL-04",
+      "level": 2,
+      "name": {
+        "local": "Pakxane",
+        "en": "Pakxane",
+        "slug": "pakxane-bl-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BL",
+        "level": 1,
+        "name": {
+          "local": "Bolikhamsai",
+          "en": "Bolikhamsai",
+          "slug": "bolikhamsai-bl"
+        }
+      },
+      {
+        "id": "BL-04",
+        "level": 2,
+        "name": {
+          "local": "Pakxane",
+          "en": "Pakxane",
+          "slug": "pakxane-bl-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.418",
+      "lon": "103.601"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11232218",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Namouang",
+      "en": "Ban Namouang",
+      "slug": "ban-namouang-11232218"
+    },
+    "code": {
+      "id": "11232218",
+      "iso": null
+    },
+    "parent": {
+      "id": "BL-04",
+      "level": 2,
+      "name": {
+        "local": "Pakxane",
+        "en": "Pakxane",
+        "slug": "pakxane-bl-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BL",
+        "level": 1,
+        "name": {
+          "local": "Bolikhamsai",
+          "en": "Bolikhamsai",
+          "slug": "bolikhamsai-bl"
+        }
+      },
+      {
+        "id": "BL-04",
+        "level": 2,
+        "name": {
+          "local": "Pakxane",
+          "en": "Pakxane",
+          "slug": "pakxane-bl-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.392",
+      "lon": "103.65"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11232294",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Namouang",
+      "en": "Ban Namouang",
+      "slug": "ban-namouang-11232294"
+    },
+    "code": {
+      "id": "11232294",
+      "iso": null
+    },
+    "parent": {
+      "id": "BL-04",
+      "level": 2,
+      "name": {
+        "local": "Pakxane",
+        "en": "Pakxane",
+        "slug": "pakxane-bl-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BL",
+        "level": 1,
+        "name": {
+          "local": "Bolikhamsai",
+          "en": "Bolikhamsai",
+          "slug": "bolikhamsai-bl"
+        }
+      },
+      {
+        "id": "BL-04",
+        "level": 2,
+        "name": {
+          "local": "Pakxane",
+          "en": "Pakxane",
+          "slug": "pakxane-bl-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.382",
+      "lon": "103.879"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11232221",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Namték",
+      "en": "Ban Namtek",
+      "slug": "ban-namtek-11232221"
+    },
+    "code": {
+      "id": "11232221",
+      "iso": null
+    },
+    "parent": {
+      "id": "BL-04",
+      "level": 2,
+      "name": {
+        "local": "Pakxane",
+        "en": "Pakxane",
+        "slug": "pakxane-bl-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BL",
+        "level": 1,
+        "name": {
+          "local": "Bolikhamsai",
+          "en": "Bolikhamsai",
+          "slug": "bolikhamsai-bl"
+        }
+      },
+      {
+        "id": "BL-04",
+        "level": 2,
+        "name": {
+          "local": "Pakxane",
+          "en": "Pakxane",
+          "slug": "pakxane-bl-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.423",
+      "lon": "103.61"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11232259",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nasômmo",
+      "en": "Ban Nasommo",
+      "slug": "ban-nasommo-11232259"
+    },
+    "code": {
+      "id": "11232259",
+      "iso": null
+    },
+    "parent": {
+      "id": "BL-04",
+      "level": 2,
+      "name": {
+        "local": "Pakxane",
+        "en": "Pakxane",
+        "slug": "pakxane-bl-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BL",
+        "level": 1,
+        "name": {
+          "local": "Bolikhamsai",
+          "en": "Bolikhamsai",
+          "slug": "bolikhamsai-bl"
+        }
+      },
+      {
+        "id": "BL-04",
+        "level": 2,
+        "name": {
+          "local": "Pakxane",
+          "en": "Pakxane",
+          "slug": "pakxane-bl-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.377",
+      "lon": "103.731"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1661048",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Natong",
+      "en": "Ban Natong",
+      "slug": "ban-natong-1661048"
+    },
+    "code": {
+      "id": "1661048",
+      "iso": null
+    },
+    "parent": {
+      "id": "BL-04",
+      "level": 2,
+      "name": {
+        "local": "Pakxane",
+        "en": "Pakxane",
+        "slug": "pakxane-bl-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BL",
+        "level": 1,
+        "name": {
+          "local": "Bolikhamsai",
+          "en": "Bolikhamsai",
+          "slug": "bolikhamsai-bl"
+        }
+      },
+      {
+        "id": "BL-04",
+        "level": 2,
+        "name": {
+          "local": "Pakxane",
+          "en": "Pakxane",
+          "slug": "pakxane-bl-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.392",
+      "lon": "103.809"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11232246",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nôn-Oudôm",
+      "en": "Ban Non-Oudom",
+      "slug": "ban-non-oudom-11232246"
+    },
+    "code": {
+      "id": "11232246",
+      "iso": null
+    },
+    "parent": {
+      "id": "BL-04",
+      "level": 2,
+      "name": {
+        "local": "Pakxane",
+        "en": "Pakxane",
+        "slug": "pakxane-bl-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BL",
+        "level": 1,
+        "name": {
+          "local": "Bolikhamsai",
+          "en": "Bolikhamsai",
+          "slug": "bolikhamsai-bl"
+        }
+      },
+      {
+        "id": "BL-04",
+        "level": 2,
+        "name": {
+          "local": "Pakxane",
+          "en": "Pakxane",
+          "slug": "pakxane-bl-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.428",
+      "lon": "103.719"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11232296",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nong-I-An",
+      "en": "Ban Nong-I-An",
+      "slug": "ban-nong-i-an-11232296"
+    },
+    "code": {
+      "id": "11232296",
+      "iso": null
+    },
+    "parent": {
+      "id": "BL-04",
+      "level": 2,
+      "name": {
+        "local": "Pakxane",
+        "en": "Pakxane",
+        "slug": "pakxane-bl-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BL",
+        "level": 1,
+        "name": {
+          "local": "Bolikhamsai",
+          "en": "Bolikhamsai",
+          "slug": "bolikhamsai-bl"
+        }
+      },
+      {
+        "id": "BL-04",
+        "level": 2,
+        "name": {
+          "local": "Pakxane",
+          "en": "Pakxane",
+          "slug": "pakxane-bl-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.355",
+      "lon": "103.832"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1660869",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nongboua",
+      "en": "Ban Nongboua",
+      "slug": "ban-nongboua-1660869"
+    },
+    "code": {
+      "id": "1660869",
+      "iso": null
+    },
+    "parent": {
+      "id": "BL-04",
+      "level": 2,
+      "name": {
+        "local": "Pakxane",
+        "en": "Pakxane",
+        "slug": "pakxane-bl-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BL",
+        "level": 1,
+        "name": {
+          "local": "Bolikhamsai",
+          "en": "Bolikhamsai",
+          "slug": "bolikhamsai-bl"
+        }
+      },
+      {
+        "id": "BL-04",
+        "level": 2,
+        "name": {
+          "local": "Pakxane",
+          "en": "Pakxane",
+          "slug": "pakxane-bl-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.436",
+      "lon": "103.769"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11232245",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nongdèng",
+      "en": "Ban Nongdeng",
+      "slug": "ban-nongdeng-11232245"
+    },
+    "code": {
+      "id": "11232245",
+      "iso": null
+    },
+    "parent": {
+      "id": "BL-04",
+      "level": 2,
+      "name": {
+        "local": "Pakxane",
+        "en": "Pakxane",
+        "slug": "pakxane-bl-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BL",
+        "level": 1,
+        "name": {
+          "local": "Bolikhamsai",
+          "en": "Bolikhamsai",
+          "slug": "bolikhamsai-bl"
+        }
+      },
+      {
+        "id": "BL-04",
+        "level": 2,
+        "name": {
+          "local": "Pakxane",
+          "en": "Pakxane",
+          "slug": "pakxane-bl-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.431",
+      "lon": "103.739"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11232260",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nongpham",
+      "en": "Ban Nongpham",
+      "slug": "ban-nongpham-11232260"
+    },
+    "code": {
+      "id": "11232260",
+      "iso": null
+    },
+    "parent": {
+      "id": "BL-04",
+      "level": 2,
+      "name": {
+        "local": "Pakxane",
+        "en": "Pakxane",
+        "slug": "pakxane-bl-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BL",
+        "level": 1,
+        "name": {
+          "local": "Bolikhamsai",
+          "en": "Bolikhamsai",
+          "slug": "bolikhamsai-bl"
+        }
+      },
+      {
+        "id": "BL-04",
+        "level": 2,
+        "name": {
+          "local": "Pakxane",
+          "en": "Pakxane",
+          "slug": "pakxane-bl-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.353",
+      "lon": "103.723"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1660693",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nongsaman",
+      "en": "Ban Nongsaman",
+      "slug": "ban-nongsaman-1660693"
+    },
+    "code": {
+      "id": "1660693",
+      "iso": null
+    },
+    "parent": {
+      "id": "BL-04",
+      "level": 2,
+      "name": {
+        "local": "Pakxane",
+        "en": "Pakxane",
+        "slug": "pakxane-bl-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BL",
+        "level": 1,
+        "name": {
+          "local": "Bolikhamsai",
+          "en": "Bolikhamsai",
+          "slug": "bolikhamsai-bl"
+        }
+      },
+      {
+        "id": "BL-04",
+        "level": 2,
+        "name": {
+          "local": "Pakxane",
+          "en": "Pakxane",
+          "slug": "pakxane-bl-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.374",
+      "lon": "103.843"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11232274",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nongvèng",
+      "en": "Ban Nongveng",
+      "slug": "ban-nongveng-11232274"
+    },
+    "code": {
+      "id": "11232274",
+      "iso": null
+    },
+    "parent": {
+      "id": "BL-04",
+      "level": 2,
+      "name": {
+        "local": "Pakxane",
+        "en": "Pakxane",
+        "slug": "pakxane-bl-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BL",
+        "level": 1,
+        "name": {
+          "local": "Bolikhamsai",
+          "en": "Bolikhamsai",
+          "slug": "bolikhamsai-bl"
+        }
+      },
+      {
+        "id": "BL-04",
+        "level": 2,
+        "name": {
+          "local": "Pakxane",
+          "en": "Pakxane",
+          "slug": "pakxane-bl-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.432",
+      "lon": "103.772"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11232251",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nonsômboun",
+      "en": "Ban Nonsomboun",
+      "slug": "ban-nonsomboun-11232251"
+    },
+    "code": {
+      "id": "11232251",
+      "iso": null
+    },
+    "parent": {
+      "id": "BL-04",
+      "level": 2,
+      "name": {
+        "local": "Pakxane",
+        "en": "Pakxane",
+        "slug": "pakxane-bl-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BL",
+        "level": 1,
+        "name": {
+          "local": "Bolikhamsai",
+          "en": "Bolikhamsai",
+          "slug": "bolikhamsai-bl"
+        }
+      },
+      {
+        "id": "BL-04",
+        "level": 2,
+        "name": {
+          "local": "Pakxane",
+          "en": "Pakxane",
+          "slug": "pakxane-bl-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.42",
+      "lon": "103.705"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11232804",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Pakkadan",
+      "en": "Ban Pakkadan",
+      "slug": "ban-pakkadan-11232804"
+    },
+    "code": {
+      "id": "11232804",
+      "iso": null
+    },
+    "parent": {
+      "id": "BL-04",
+      "level": 2,
+      "name": {
+        "local": "Pakxane",
+        "en": "Pakxane",
+        "slug": "pakxane-bl-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BL",
+        "level": 1,
+        "name": {
+          "local": "Bolikhamsai",
+          "en": "Bolikhamsai",
+          "slug": "bolikhamsai-bl"
+        }
+      },
+      {
+        "id": "BL-04",
+        "level": 2,
+        "name": {
+          "local": "Pakxane",
+          "en": "Pakxane",
+          "slug": "pakxane-bl-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.33",
+      "lon": "103.838"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1660538",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Pakpung",
+      "en": "Ban Pakpung",
+      "slug": "ban-pakpung-1660538"
+    },
+    "code": {
+      "id": "1660538",
+      "iso": null
+    },
+    "parent": {
+      "id": "BL-04",
+      "level": 2,
+      "name": {
+        "local": "Pakxane",
+        "en": "Pakxane",
+        "slug": "pakxane-bl-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BL",
+        "level": 1,
+        "name": {
+          "local": "Bolikhamsai",
+          "en": "Bolikhamsai",
+          "slug": "bolikhamsai-bl"
+        }
+      },
+      {
+        "id": "BL-04",
+        "level": 2,
+        "name": {
+          "local": "Pakxane",
+          "en": "Pakxane",
+          "slug": "pakxane-bl-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.351",
+      "lon": "103.698"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1660354",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Patxoum",
+      "en": "Ban Patxoum",
+      "slug": "ban-patxoum-1660354"
+    },
+    "code": {
+      "id": "1660354",
+      "iso": null
+    },
+    "parent": {
+      "id": "BL-04",
+      "level": 2,
+      "name": {
+        "local": "Pakxane",
+        "en": "Pakxane",
+        "slug": "pakxane-bl-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BL",
+        "level": 1,
+        "name": {
+          "local": "Bolikhamsai",
+          "en": "Bolikhamsai",
+          "slug": "bolikhamsai-bl"
+        }
+      },
+      {
+        "id": "BL-04",
+        "level": 2,
+        "name": {
+          "local": "Pakxane",
+          "en": "Pakxane",
+          "slug": "pakxane-bl-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.429",
+      "lon": "103.712"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11232267",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phôn-Ngam",
+      "en": "Ban Phon-Ngam",
+      "slug": "ban-phon-ngam-11232267"
+    },
+    "code": {
+      "id": "11232267",
+      "iso": null
+    },
+    "parent": {
+      "id": "BL-04",
+      "level": 2,
+      "name": {
+        "local": "Pakxane",
+        "en": "Pakxane",
+        "slug": "pakxane-bl-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BL",
+        "level": 1,
+        "name": {
+          "local": "Bolikhamsai",
+          "en": "Bolikhamsai",
+          "slug": "bolikhamsai-bl"
+        }
+      },
+      {
+        "id": "BL-04",
+        "level": 2,
+        "name": {
+          "local": "Pakxane",
+          "en": "Pakxane",
+          "slug": "pakxane-bl-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.369",
+      "lon": "103.768"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1662586",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phôn-Phéng",
+      "en": "Ban Phon-Pheng",
+      "slug": "ban-phon-pheng-1662586"
+    },
+    "code": {
+      "id": "1662586",
+      "iso": null
+    },
+    "parent": {
+      "id": "BL-04",
+      "level": 2,
+      "name": {
+        "local": "Pakxane",
+        "en": "Pakxane",
+        "slug": "pakxane-bl-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BL",
+        "level": 1,
+        "name": {
+          "local": "Bolikhamsai",
+          "en": "Bolikhamsai",
+          "slug": "bolikhamsai-bl"
+        }
+      },
+      {
+        "id": "BL-04",
+        "level": 2,
+        "name": {
+          "local": "Pakxane",
+          "en": "Pakxane",
+          "slug": "pakxane-bl-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.378",
+      "lon": "103.897"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11232299",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phônhôm",
+      "en": "Ban Phonhom",
+      "slug": "ban-phonhom-11232299"
+    },
+    "code": {
+      "id": "11232299",
+      "iso": null
+    },
+    "parent": {
+      "id": "BL-04",
+      "level": 2,
+      "name": {
+        "local": "Pakxane",
+        "en": "Pakxane",
+        "slug": "pakxane-bl-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BL",
+        "level": 1,
+        "name": {
+          "local": "Bolikhamsai",
+          "en": "Bolikhamsai",
+          "slug": "bolikhamsai-bl"
+        }
+      },
+      {
+        "id": "BL-04",
+        "level": 2,
+        "name": {
+          "local": "Pakxane",
+          "en": "Pakxane",
+          "slug": "pakxane-bl-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.35",
+      "lon": "103.866"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11232253",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phônsa-At",
+      "en": "Ban Phonsa-At",
+      "slug": "ban-phonsa-at-11232253"
+    },
+    "code": {
+      "id": "11232253",
+      "iso": null
+    },
+    "parent": {
+      "id": "BL-04",
+      "level": 2,
+      "name": {
+        "local": "Pakxane",
+        "en": "Pakxane",
+        "slug": "pakxane-bl-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BL",
+        "level": 1,
+        "name": {
+          "local": "Bolikhamsai",
+          "en": "Bolikhamsai",
+          "slug": "bolikhamsai-bl"
+        }
+      },
+      {
+        "id": "BL-04",
+        "level": 2,
+        "name": {
+          "local": "Pakxane",
+          "en": "Pakxane",
+          "slug": "pakxane-bl-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.395",
+      "lon": "103.7"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11232807",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phônsavan",
+      "en": "Ban Phonsavan",
+      "slug": "ban-phonsavan-11232807"
+    },
+    "code": {
+      "id": "11232807",
+      "iso": null
+    },
+    "parent": {
+      "id": "BL-04",
+      "level": 2,
+      "name": {
+        "local": "Pakxane",
+        "en": "Pakxane",
+        "slug": "pakxane-bl-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BL",
+        "level": 1,
+        "name": {
+          "local": "Bolikhamsai",
+          "en": "Bolikhamsai",
+          "slug": "bolikhamsai-bl"
+        }
+      },
+      {
+        "id": "BL-04",
+        "level": 2,
+        "name": {
+          "local": "Pakxane",
+          "en": "Pakxane",
+          "slug": "pakxane-bl-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.327",
+      "lon": "103.898"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11232265",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phônsavang",
+      "en": "Ban Phonsavang",
+      "slug": "ban-phonsavang-11232265"
+    },
+    "code": {
+      "id": "11232265",
+      "iso": null
+    },
+    "parent": {
+      "id": "BL-04",
+      "level": 2,
+      "name": {
+        "local": "Pakxane",
+        "en": "Pakxane",
+        "slug": "pakxane-bl-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BL",
+        "level": 1,
+        "name": {
+          "local": "Bolikhamsai",
+          "en": "Bolikhamsai",
+          "slug": "bolikhamsai-bl"
+        }
+      },
+      {
+        "id": "BL-04",
+        "level": 2,
+        "name": {
+          "local": "Pakxane",
+          "en": "Pakxane",
+          "slug": "pakxane-bl-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.369",
+      "lon": "103.756"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11232225",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phônsi",
+      "en": "Ban Phonsi",
+      "slug": "ban-phonsi-11232225"
+    },
+    "code": {
+      "id": "11232225",
+      "iso": null
+    },
+    "parent": {
+      "id": "BL-04",
+      "level": 2,
+      "name": {
+        "local": "Pakxane",
+        "en": "Pakxane",
+        "slug": "pakxane-bl-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BL",
+        "level": 1,
+        "name": {
+          "local": "Bolikhamsai",
+          "en": "Bolikhamsai",
+          "slug": "bolikhamsai-bl"
+        }
+      },
+      {
+        "id": "BL-04",
+        "level": 2,
+        "name": {
+          "local": "Pakxane",
+          "en": "Pakxane",
+          "slug": "pakxane-bl-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.429",
+      "lon": "103.616"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11232258",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phônsoum",
+      "en": "Ban Phonsoum",
+      "slug": "ban-phonsoum-11232258"
+    },
+    "code": {
+      "id": "11232258",
+      "iso": null
+    },
+    "parent": {
+      "id": "BL-04",
+      "level": 2,
+      "name": {
+        "local": "Pakxane",
+        "en": "Pakxane",
+        "slug": "pakxane-bl-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BL",
+        "level": 1,
+        "name": {
+          "local": "Bolikhamsai",
+          "en": "Bolikhamsai",
+          "slug": "bolikhamsai-bl"
+        }
+      },
+      {
+        "id": "BL-04",
+        "level": 2,
+        "name": {
+          "local": "Pakxane",
+          "en": "Pakxane",
+          "slug": "pakxane-bl-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.378",
+      "lon": "103.719"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11232249",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Séngsavang",
+      "en": "Ban Sengsavang",
+      "slug": "ban-sengsavang-11232249"
+    },
+    "code": {
+      "id": "11232249",
+      "iso": null
+    },
+    "parent": {
+      "id": "BL-04",
+      "level": 2,
+      "name": {
+        "local": "Pakxane",
+        "en": "Pakxane",
+        "slug": "pakxane-bl-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BL",
+        "level": 1,
+        "name": {
+          "local": "Bolikhamsai",
+          "en": "Bolikhamsai",
+          "slug": "bolikhamsai-bl"
+        }
+      },
+      {
+        "id": "BL-04",
+        "level": 2,
+        "name": {
+          "local": "Pakxane",
+          "en": "Pakxane",
+          "slug": "pakxane-bl-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.413",
+      "lon": "103.68"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11232219",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Sènsamlan",
+      "en": "Ban Sensamlan",
+      "slug": "ban-sensamlan-11232219"
+    },
+    "code": {
+      "id": "11232219",
+      "iso": null
+    },
+    "parent": {
+      "id": "BL-04",
+      "level": 2,
+      "name": {
+        "local": "Pakxane",
+        "en": "Pakxane",
+        "slug": "pakxane-bl-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BL",
+        "level": 1,
+        "name": {
+          "local": "Bolikhamsai",
+          "en": "Bolikhamsai",
+          "slug": "bolikhamsai-bl"
+        }
+      },
+      {
+        "id": "BL-04",
+        "level": 2,
+        "name": {
+          "local": "Pakxane",
+          "en": "Pakxane",
+          "slug": "pakxane-bl-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.394",
+      "lon": "103.639"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11232248",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Sibounhuang",
+      "en": "Ban Sibounhuang",
+      "slug": "ban-sibounhuang-11232248"
+    },
+    "code": {
+      "id": "11232248",
+      "iso": null
+    },
+    "parent": {
+      "id": "BL-04",
+      "level": 2,
+      "name": {
+        "local": "Pakxane",
+        "en": "Pakxane",
+        "slug": "pakxane-bl-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BL",
+        "level": 1,
+        "name": {
+          "local": "Bolikhamsai",
+          "en": "Bolikhamsai",
+          "slug": "bolikhamsai-bl"
+        }
+      },
+      {
+        "id": "BL-04",
+        "level": 2,
+        "name": {
+          "local": "Pakxane",
+          "en": "Pakxane",
+          "slug": "pakxane-bl-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.433",
+      "lon": "103.692"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1659210",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Sinxai",
+      "en": "Ban Sinxai",
+      "slug": "ban-sinxai-1659210"
+    },
+    "code": {
+      "id": "1659210",
+      "iso": null
+    },
+    "parent": {
+      "id": "BL-04",
+      "level": 2,
+      "name": {
+        "local": "Pakxane",
+        "en": "Pakxane",
+        "slug": "pakxane-bl-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BL",
+        "level": 1,
+        "name": {
+          "local": "Bolikhamsai",
+          "en": "Bolikhamsai",
+          "slug": "bolikhamsai-bl"
+        }
+      },
+      {
+        "id": "BL-04",
+        "level": 2,
+        "name": {
+          "local": "Pakxane",
+          "en": "Pakxane",
+          "slug": "pakxane-bl-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.352",
+      "lon": "103.753"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11232252",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Sisa-At",
+      "en": "Ban Sisa-At",
+      "slug": "ban-sisa-at-11232252"
+    },
+    "code": {
+      "id": "11232252",
+      "iso": null
+    },
+    "parent": {
+      "id": "BL-04",
+      "level": 2,
+      "name": {
+        "local": "Pakxane",
+        "en": "Pakxane",
+        "slug": "pakxane-bl-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BL",
+        "level": 1,
+        "name": {
+          "local": "Bolikhamsai",
+          "en": "Bolikhamsai",
+          "slug": "bolikhamsai-bl"
+        }
+      },
+      {
+        "id": "BL-04",
+        "level": 2,
+        "name": {
+          "local": "Pakxane",
+          "en": "Pakxane",
+          "slug": "pakxane-bl-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.399",
+      "lon": "103.689"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11232220",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Sisiat",
+      "en": "Ban Sisiat",
+      "slug": "ban-sisiat-11232220"
+    },
+    "code": {
+      "id": "11232220",
+      "iso": null
+    },
+    "parent": {
+      "id": "BL-04",
+      "level": 2,
+      "name": {
+        "local": "Pakxane",
+        "en": "Pakxane",
+        "slug": "pakxane-bl-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BL",
+        "level": 1,
+        "name": {
+          "local": "Bolikhamsai",
+          "en": "Bolikhamsai",
+          "slug": "bolikhamsai-bl"
+        }
+      },
+      {
+        "id": "BL-04",
+        "level": 2,
+        "name": {
+          "local": "Pakxane",
+          "en": "Pakxane",
+          "slug": "pakxane-bl-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.4",
+      "lon": "103.628"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1659198",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Sivilai",
+      "en": "Ban Sivilai",
+      "slug": "ban-sivilai-1659198"
+    },
+    "code": {
+      "id": "1659198",
+      "iso": null
+    },
+    "parent": {
+      "id": "BL-04",
+      "level": 2,
+      "name": {
+        "local": "Pakxane",
+        "en": "Pakxane",
+        "slug": "pakxane-bl-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BL",
+        "level": 1,
+        "name": {
+          "local": "Bolikhamsai",
+          "en": "Bolikhamsai",
+          "slug": "bolikhamsai-bl"
+        }
+      },
+      {
+        "id": "BL-04",
+        "level": 2,
+        "name": {
+          "local": "Pakxane",
+          "en": "Pakxane",
+          "slug": "pakxane-bl-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.404",
+      "lon": "103.664"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1659142",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Songkhon",
+      "en": "Ban Songkhon",
+      "slug": "ban-songkhon-1659142"
+    },
+    "code": {
+      "id": "1659142",
+      "iso": null
+    },
+    "parent": {
+      "id": "BL-04",
+      "level": 2,
+      "name": {
+        "local": "Pakxane",
+        "en": "Pakxane",
+        "slug": "pakxane-bl-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BL",
+        "level": 1,
+        "name": {
+          "local": "Bolikhamsai",
+          "en": "Bolikhamsai",
+          "slug": "bolikhamsai-bl"
+        }
+      },
+      {
+        "id": "BL-04",
+        "level": 2,
+        "name": {
+          "local": "Pakxane",
+          "en": "Pakxane",
+          "slug": "pakxane-bl-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.478",
+      "lon": "103.707"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1659144",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Songkhon",
+      "en": "Ban Songkhon",
+      "slug": "ban-songkhon-1659144"
+    },
+    "code": {
+      "id": "1659144",
+      "iso": null
+    },
+    "parent": {
+      "id": "BL-04",
+      "level": 2,
+      "name": {
+        "local": "Pakxane",
+        "en": "Pakxane",
+        "slug": "pakxane-bl-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BL",
+        "level": 1,
+        "name": {
+          "local": "Bolikhamsai",
+          "en": "Bolikhamsai",
+          "slug": "bolikhamsai-bl"
+        }
+      },
+      {
+        "id": "BL-04",
+        "level": 2,
+        "name": {
+          "local": "Pakxane",
+          "en": "Pakxane",
+          "slug": "pakxane-bl-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.447",
+      "lon": "103.653"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11232226",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Souansavan",
+      "en": "Ban Souansavan",
+      "slug": "ban-souansavan-11232226"
+    },
+    "code": {
+      "id": "11232226",
+      "iso": null
+    },
+    "parent": {
+      "id": "BL-04",
+      "level": 2,
+      "name": {
+        "local": "Pakxane",
+        "en": "Pakxane",
+        "slug": "pakxane-bl-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BL",
+        "level": 1,
+        "name": {
+          "local": "Bolikhamsai",
+          "en": "Bolikhamsai",
+          "slug": "bolikhamsai-bl"
+        }
+      },
+      {
+        "id": "BL-04",
+        "level": 2,
+        "name": {
+          "local": "Pakxane",
+          "en": "Pakxane",
+          "slug": "pakxane-bl-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.413",
+      "lon": "103.675"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1659250",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Thabo",
+      "en": "Ban Thabo",
+      "slug": "ban-thabo-1659250"
+    },
+    "code": {
+      "id": "1659250",
+      "iso": null
+    },
+    "parent": {
+      "id": "BL-04",
+      "level": 2,
+      "name": {
+        "local": "Pakxane",
+        "en": "Pakxane",
+        "slug": "pakxane-bl-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BL",
+        "level": 1,
+        "name": {
+          "local": "Bolikhamsai",
+          "en": "Bolikhamsai",
+          "slug": "bolikhamsai-bl"
+        }
+      },
+      {
+        "id": "BL-04",
+        "level": 2,
+        "name": {
+          "local": "Pakxane",
+          "en": "Pakxane",
+          "slug": "pakxane-bl-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.468",
+      "lon": "103.712"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11232224",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Thakôkkhèn",
+      "en": "Ban Thakokkhen",
+      "slug": "ban-thakokkhen-11232224"
+    },
+    "code": {
+      "id": "11232224",
+      "iso": null
+    },
+    "parent": {
+      "id": "BL-04",
+      "level": 2,
+      "name": {
+        "local": "Pakxane",
+        "en": "Pakxane",
+        "slug": "pakxane-bl-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BL",
+        "level": 1,
+        "name": {
+          "local": "Bolikhamsai",
+          "en": "Bolikhamsai",
+          "slug": "bolikhamsai-bl"
+        }
+      },
+      {
+        "id": "BL-04",
+        "level": 2,
+        "name": {
+          "local": "Pakxane",
+          "en": "Pakxane",
+          "slug": "pakxane-bl-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.425",
+      "lon": "103.618"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11232247",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Thakôkkhoun",
+      "en": "Ban Thakokkhoun",
+      "slug": "ban-thakokkhoun-11232247"
+    },
+    "code": {
+      "id": "11232247",
+      "iso": null
+    },
+    "parent": {
+      "id": "BL-04",
+      "level": 2,
+      "name": {
+        "local": "Pakxane",
+        "en": "Pakxane",
+        "slug": "pakxane-bl-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BL",
+        "level": 1,
+        "name": {
+          "local": "Bolikhamsai",
+          "en": "Bolikhamsai",
+          "slug": "bolikhamsai-bl"
+        }
+      },
+      {
+        "id": "BL-04",
+        "level": 2,
+        "name": {
+          "local": "Pakxane",
+          "en": "Pakxane",
+          "slug": "pakxane-bl-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.43",
+      "lon": "103.699"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1658652",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Thana",
+      "en": "Ban Thana",
+      "slug": "ban-thana-1658652"
+    },
+    "code": {
+      "id": "1658652",
+      "iso": null
+    },
+    "parent": {
+      "id": "BL-04",
+      "level": 2,
+      "name": {
+        "local": "Pakxane",
+        "en": "Pakxane",
+        "slug": "pakxane-bl-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BL",
+        "level": 1,
+        "name": {
+          "local": "Bolikhamsai",
+          "en": "Bolikhamsai",
+          "slug": "bolikhamsai-bl"
+        }
+      },
+      {
+        "id": "BL-04",
+        "level": 2,
+        "name": {
+          "local": "Pakxane",
+          "en": "Pakxane",
+          "slug": "pakxane-bl-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.353",
+      "lon": "103.786"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11232307",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Thasikhai",
+      "en": "Ban Thasikhai",
+      "slug": "ban-thasikhai-11232307"
+    },
+    "code": {
+      "id": "11232307",
+      "iso": null
+    },
+    "parent": {
+      "id": "BL-04",
+      "level": 2,
+      "name": {
+        "local": "Pakxane",
+        "en": "Pakxane",
+        "slug": "pakxane-bl-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BL",
+        "level": 1,
+        "name": {
+          "local": "Bolikhamsai",
+          "en": "Bolikhamsai",
+          "slug": "bolikhamsai-bl"
+        }
+      },
+      {
+        "id": "BL-04",
+        "level": 2,
+        "name": {
+          "local": "Pakxane",
+          "en": "Pakxane",
+          "slug": "pakxane-bl-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.41",
+      "lon": "103.704"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1658321",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Thông-Gnai",
+      "en": "Ban Thong-Gnai",
+      "slug": "ban-thong-gnai-1658321"
+    },
+    "code": {
+      "id": "1658321",
+      "iso": null
+    },
+    "parent": {
+      "id": "BL-04",
+      "level": 2,
+      "name": {
+        "local": "Pakxane",
+        "en": "Pakxane",
+        "slug": "pakxane-bl-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BL",
+        "level": 1,
+        "name": {
+          "local": "Bolikhamsai",
+          "en": "Bolikhamsai",
+          "slug": "bolikhamsai-bl"
+        }
+      },
+      {
+        "id": "BL-04",
+        "level": 2,
+        "name": {
+          "local": "Pakxane",
+          "en": "Pakxane",
+          "slug": "pakxane-bl-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.438",
+      "lon": "103.65"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11232227",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Thông-Noy",
+      "en": "Ban Thong-Noy",
+      "slug": "ban-thong-noy-11232227"
+    },
+    "code": {
+      "id": "11232227",
+      "iso": null
+    },
+    "parent": {
+      "id": "BL-04",
+      "level": 2,
+      "name": {
+        "local": "Pakxane",
+        "en": "Pakxane",
+        "slug": "pakxane-bl-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BL",
+        "level": 1,
+        "name": {
+          "local": "Bolikhamsai",
+          "en": "Bolikhamsai",
+          "slug": "bolikhamsai-bl"
+        }
+      },
+      {
+        "id": "BL-04",
+        "level": 2,
+        "name": {
+          "local": "Pakxane",
+          "en": "Pakxane",
+          "slug": "pakxane-bl-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.443",
+      "lon": "103.657"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11232293",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Thôngvan",
+      "en": "Ban Thongvan",
+      "slug": "ban-thongvan-11232293"
+    },
+    "code": {
+      "id": "11232293",
+      "iso": null
+    },
+    "parent": {
+      "id": "BL-04",
+      "level": 2,
+      "name": {
+        "local": "Pakxane",
+        "en": "Pakxane",
+        "slug": "pakxane-bl-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BL",
+        "level": 1,
+        "name": {
+          "local": "Bolikhamsai",
+          "en": "Bolikhamsai",
+          "slug": "bolikhamsai-bl"
+        }
+      },
+      {
+        "id": "BL-04",
+        "level": 2,
+        "name": {
+          "local": "Pakxane",
+          "en": "Pakxane",
+          "slug": "pakxane-bl-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.398",
+      "lon": "103.847"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1658082",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Xaysoung",
+      "en": "Ban Xaysoung",
+      "slug": "ban-xaysoung-1658082"
+    },
+    "code": {
+      "id": "1658082",
+      "iso": null
+    },
+    "parent": {
+      "id": "BL-04",
+      "level": 2,
+      "name": {
+        "local": "Pakxane",
+        "en": "Pakxane",
+        "slug": "pakxane-bl-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BL",
+        "level": 1,
+        "name": {
+          "local": "Bolikhamsai",
+          "en": "Bolikhamsai",
+          "slug": "bolikhamsai-bl"
+        }
+      },
+      {
+        "id": "BL-04",
+        "level": 2,
+        "name": {
+          "local": "Pakxane",
+          "en": "Pakxane",
+          "slug": "pakxane-bl-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.418",
+      "lon": "103.676"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1655140",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Pakxan",
+      "en": "Pakxan",
+      "slug": "pakxan-1655140"
+    },
+    "code": {
+      "id": "1655140",
+      "iso": null
+    },
+    "parent": {
+      "id": "BL-04",
+      "level": 2,
+      "name": {
+        "local": "Pakxane",
+        "en": "Pakxane",
+        "slug": "pakxane-bl-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BL",
+        "level": 1,
+        "name": {
+          "local": "Bolikhamsai",
+          "en": "Bolikhamsai",
+          "slug": "bolikhamsai-bl"
+        }
+      },
+      {
+        "id": "BL-04",
+        "level": 2,
+        "name": {
+          "local": "Pakxane",
+          "en": "Pakxane",
+          "slug": "pakxane-bl-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.394",
+      "lon": "103.661"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

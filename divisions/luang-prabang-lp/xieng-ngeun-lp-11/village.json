@@ -1,0 +1,8912 @@
+[
+  {
+    "id": "1664934",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Ba Phang",
+      "en": "Ban Ba Phang",
+      "slug": "ban-ba-phang-1664934"
+    },
+    "code": {
+      "id": "1664934",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-11",
+      "level": 2,
+      "name": {
+        "local": "Xieng Ngeun",
+        "en": "Xieng Ngeun",
+        "slug": "xieng-ngeun-lp-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-11",
+        "level": 2,
+        "name": {
+          "local": "Xieng Ngeun",
+          "en": "Xieng Ngeun",
+          "slug": "xieng-ngeun-lp-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.683",
+      "lon": "102.517"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11223815",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Boum-O",
+      "en": "Ban Boum-O",
+      "slug": "ban-boum-o-11223815"
+    },
+    "code": {
+      "id": "11223815",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-11",
+      "level": 2,
+      "name": {
+        "local": "Xieng Ngeun",
+        "en": "Xieng Ngeun",
+        "slug": "xieng-ngeun-lp-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-11",
+        "level": 2,
+        "name": {
+          "local": "Xieng Ngeun",
+          "en": "Xieng Ngeun",
+          "slug": "xieng-ngeun-lp-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.785",
+      "lon": "102.213"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1664699",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Cho Kay",
+      "en": "Ban Cho Kay",
+      "slug": "ban-cho-kay-1664699"
+    },
+    "code": {
+      "id": "1664699",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-11",
+      "level": 2,
+      "name": {
+        "local": "Xieng Ngeun",
+        "en": "Xieng Ngeun",
+        "slug": "xieng-ngeun-lp-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-11",
+        "level": 2,
+        "name": {
+          "local": "Xieng Ngeun",
+          "en": "Xieng Ngeun",
+          "slug": "xieng-ngeun-lp-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.683",
+      "lon": "102.317"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13433527",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Dan",
+      "en": "Ban Dan",
+      "slug": "ban-dan-13433527"
+    },
+    "code": {
+      "id": "13433527",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-11",
+      "level": 2,
+      "name": {
+        "local": "Xieng Ngeun",
+        "en": "Xieng Ngeun",
+        "slug": "xieng-ngeun-lp-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-11",
+        "level": 2,
+        "name": {
+          "local": "Xieng Ngeun",
+          "en": "Xieng Ngeun",
+          "slug": "xieng-ngeun-lp-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.697",
+      "lon": "102.46"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1664392",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Donmô",
+      "en": "Ban Donmo",
+      "slug": "ban-donmo-1664392"
+    },
+    "code": {
+      "id": "1664392",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-11",
+      "level": 2,
+      "name": {
+        "local": "Xieng Ngeun",
+        "en": "Xieng Ngeun",
+        "slug": "xieng-ngeun-lp-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-11",
+        "level": 2,
+        "name": {
+          "local": "Xieng Ngeun",
+          "en": "Xieng Ngeun",
+          "slug": "xieng-ngeun-lp-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.762",
+      "lon": "102.193"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1664338",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban En",
+      "en": "Ban En",
+      "slug": "ban-en-1664338"
+    },
+    "code": {
+      "id": "1664338",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-11",
+      "level": 2,
+      "name": {
+        "local": "Xieng Ngeun",
+        "en": "Xieng Ngeun",
+        "slug": "xieng-ngeun-lp-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-11",
+        "level": 2,
+        "name": {
+          "local": "Xieng Ngeun",
+          "en": "Xieng Ngeun",
+          "slug": "xieng-ngeun-lp-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.834",
+      "lon": "102.213"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1952476",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Hintang",
+      "en": "Ban Hintang",
+      "slug": "ban-hintang-1952476"
+    },
+    "code": {
+      "id": "1952476",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-11",
+      "level": 2,
+      "name": {
+        "local": "Xieng Ngeun",
+        "en": "Xieng Ngeun",
+        "slug": "xieng-ngeun-lp-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-11",
+        "level": 2,
+        "name": {
+          "local": "Xieng Ngeun",
+          "en": "Xieng Ngeun",
+          "slug": "xieng-ngeun-lp-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.566",
+      "lon": "102.283"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1663656",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houay Pô",
+      "en": "Ban Houay Po",
+      "slug": "ban-houay-po-1663656"
+    },
+    "code": {
+      "id": "1663656",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-11",
+      "level": 2,
+      "name": {
+        "local": "Xieng Ngeun",
+        "en": "Xieng Ngeun",
+        "slug": "xieng-ngeun-lp-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-11",
+        "level": 2,
+        "name": {
+          "local": "Xieng Ngeun",
+          "en": "Xieng Ngeun",
+          "slug": "xieng-ngeun-lp-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.7",
+      "lon": "102.5"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1663621",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houay Samane",
+      "en": "Ban Houay Samane",
+      "slug": "ban-houay-samane-1663621"
+    },
+    "code": {
+      "id": "1663621",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-11",
+      "level": 2,
+      "name": {
+        "local": "Xieng Ngeun",
+        "en": "Xieng Ngeun",
+        "slug": "xieng-ngeun-lp-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-11",
+        "level": 2,
+        "name": {
+          "local": "Xieng Ngeun",
+          "en": "Xieng Ngeun",
+          "slug": "xieng-ngeun-lp-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.75",
+      "lon": "102.35"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1663622",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houay Samane",
+      "en": "Ban Houay Samane",
+      "slug": "ban-houay-samane-1663622"
+    },
+    "code": {
+      "id": "1663622",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-11",
+      "level": 2,
+      "name": {
+        "local": "Xieng Ngeun",
+        "en": "Xieng Ngeun",
+        "slug": "xieng-ngeun-lp-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-11",
+        "level": 2,
+        "name": {
+          "local": "Xieng Ngeun",
+          "en": "Xieng Ngeun",
+          "slug": "xieng-ngeun-lp-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.783",
+      "lon": "102.317"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1663779",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houay-Iang",
+      "en": "Ban Houay-Iang",
+      "slug": "ban-houay-iang-1663779"
+    },
+    "code": {
+      "id": "1663779",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-11",
+      "level": 2,
+      "name": {
+        "local": "Xieng Ngeun",
+        "en": "Xieng Ngeun",
+        "slug": "xieng-ngeun-lp-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-11",
+        "level": 2,
+        "name": {
+          "local": "Xieng Ngeun",
+          "en": "Xieng Ngeun",
+          "slug": "xieng-ngeun-lp-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.827",
+      "lon": "102.196"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1952432",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houaychong",
+      "en": "Ban Houaychong",
+      "slug": "ban-houaychong-1952432"
+    },
+    "code": {
+      "id": "1952432",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-11",
+      "level": 2,
+      "name": {
+        "local": "Xieng Ngeun",
+        "en": "Xieng Ngeun",
+        "slug": "xieng-ngeun-lp-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-11",
+        "level": 2,
+        "name": {
+          "local": "Xieng Ngeun",
+          "en": "Xieng Ngeun",
+          "slug": "xieng-ngeun-lp-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.651",
+      "lon": "102.097"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11223772",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houayèt",
+      "en": "Ban Houayet",
+      "slug": "ban-houayet-11223772"
+    },
+    "code": {
+      "id": "11223772",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-11",
+      "level": 2,
+      "name": {
+        "local": "Xieng Ngeun",
+        "en": "Xieng Ngeun",
+        "slug": "xieng-ngeun-lp-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-11",
+        "level": 2,
+        "name": {
+          "local": "Xieng Ngeun",
+          "en": "Xieng Ngeun",
+          "slug": "xieng-ngeun-lp-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.692",
+      "lon": "102.095"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11223850",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houayfay",
+      "en": "Ban Houayfay",
+      "slug": "ban-houayfay-11223850"
+    },
+    "code": {
+      "id": "11223850",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-11",
+      "level": 2,
+      "name": {
+        "local": "Xieng Ngeun",
+        "en": "Xieng Ngeun",
+        "slug": "xieng-ngeun-lp-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-11",
+        "level": 2,
+        "name": {
+          "local": "Xieng Ngeun",
+          "en": "Xieng Ngeun",
+          "slug": "xieng-ngeun-lp-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.834",
+      "lon": "102.244"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1952455",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houayhao",
+      "en": "Ban Houayhao",
+      "slug": "ban-houayhao-1952455"
+    },
+    "code": {
+      "id": "1952455",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-11",
+      "level": 2,
+      "name": {
+        "local": "Xieng Ngeun",
+        "en": "Xieng Ngeun",
+        "slug": "xieng-ngeun-lp-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-11",
+        "level": 2,
+        "name": {
+          "local": "Xieng Ngeun",
+          "en": "Xieng Ngeun",
+          "slug": "xieng-ngeun-lp-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.591",
+      "lon": "102.167"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1952480",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houayhao",
+      "en": "Ban Houayhao",
+      "slug": "ban-houayhao-1952480"
+    },
+    "code": {
+      "id": "1952480",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-11",
+      "level": 2,
+      "name": {
+        "local": "Xieng Ngeun",
+        "en": "Xieng Ngeun",
+        "slug": "xieng-ngeun-lp-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-11",
+        "level": 2,
+        "name": {
+          "local": "Xieng Ngeun",
+          "en": "Xieng Ngeun",
+          "slug": "xieng-ngeun-lp-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.566",
+      "lon": "102.226"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1952447",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houayhia",
+      "en": "Ban Houayhia",
+      "slug": "ban-houayhia-1952447"
+    },
+    "code": {
+      "id": "1952447",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-11",
+      "level": 2,
+      "name": {
+        "local": "Xieng Ngeun",
+        "en": "Xieng Ngeun",
+        "slug": "xieng-ngeun-lp-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-11",
+        "level": 2,
+        "name": {
+          "local": "Xieng Ngeun",
+          "en": "Xieng Ngeun",
+          "slug": "xieng-ngeun-lp-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.621",
+      "lon": "102.096"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11223824",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houayhia",
+      "en": "Ban Houayhia",
+      "slug": "ban-houayhia-11223824"
+    },
+    "code": {
+      "id": "11223824",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-11",
+      "level": 2,
+      "name": {
+        "local": "Xieng Ngeun",
+        "en": "Xieng Ngeun",
+        "slug": "xieng-ngeun-lp-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-11",
+        "level": 2,
+        "name": {
+          "local": "Xieng Ngeun",
+          "en": "Xieng Ngeun",
+          "slug": "xieng-ngeun-lp-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.721",
+      "lon": "102.201"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1952445",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houayhinthong",
+      "en": "Ban Houayhinthong",
+      "slug": "ban-houayhinthong-1952445"
+    },
+    "code": {
+      "id": "1952445",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-11",
+      "level": 2,
+      "name": {
+        "local": "Xieng Ngeun",
+        "en": "Xieng Ngeun",
+        "slug": "xieng-ngeun-lp-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-11",
+        "level": 2,
+        "name": {
+          "local": "Xieng Ngeun",
+          "en": "Xieng Ngeun",
+          "slug": "xieng-ngeun-lp-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.639",
+      "lon": "102.047"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11226998",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houaykacha Lek Sip Ét",
+      "en": "Ban Houaykacha Lek Sip Et",
+      "slug": "ban-houaykacha-lek-sip-et-11226998"
+    },
+    "code": {
+      "id": "11226998",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-11",
+      "level": 2,
+      "name": {
+        "local": "Xieng Ngeun",
+        "en": "Xieng Ngeun",
+        "slug": "xieng-ngeun-lp-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-11",
+        "level": 2,
+        "name": {
+          "local": "Xieng Ngeun",
+          "en": "Xieng Ngeun",
+          "slug": "xieng-ngeun-lp-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.643",
+      "lon": "102.094"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11223852",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houaykasak",
+      "en": "Ban Houaykasak",
+      "slug": "ban-houaykasak-11223852"
+    },
+    "code": {
+      "id": "11223852",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-11",
+      "level": 2,
+      "name": {
+        "local": "Xieng Ngeun",
+        "en": "Xieng Ngeun",
+        "slug": "xieng-ngeun-lp-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-11",
+        "level": 2,
+        "name": {
+          "local": "Xieng Ngeun",
+          "en": "Xieng Ngeun",
+          "slug": "xieng-ngeun-lp-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.769",
+      "lon": "102.302"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11223784",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houaykhang",
+      "en": "Ban Houaykhang",
+      "slug": "ban-houaykhang-11223784"
+    },
+    "code": {
+      "id": "11223784",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-11",
+      "level": 2,
+      "name": {
+        "local": "Xieng Ngeun",
+        "en": "Xieng Ngeun",
+        "slug": "xieng-ngeun-lp-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-11",
+        "level": 2,
+        "name": {
+          "local": "Xieng Ngeun",
+          "en": "Xieng Ngeun",
+          "slug": "xieng-ngeun-lp-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.719",
+      "lon": "102.146"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11223786",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houaykhôt",
+      "en": "Ban Houaykhot",
+      "slug": "ban-houaykhot-11223786"
+    },
+    "code": {
+      "id": "11223786",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-11",
+      "level": 2,
+      "name": {
+        "local": "Xieng Ngeun",
+        "en": "Xieng Ngeun",
+        "slug": "xieng-ngeun-lp-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-11",
+        "level": 2,
+        "name": {
+          "local": "Xieng Ngeun",
+          "en": "Xieng Ngeun",
+          "slug": "xieng-ngeun-lp-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.73",
+      "lon": "102.154"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11223781",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houaykhouang",
+      "en": "Ban Houaykhouang",
+      "slug": "ban-houaykhouang-11223781"
+    },
+    "code": {
+      "id": "11223781",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-11",
+      "level": 2,
+      "name": {
+        "local": "Xieng Ngeun",
+        "en": "Xieng Ngeun",
+        "slug": "xieng-ngeun-lp-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-11",
+        "level": 2,
+        "name": {
+          "local": "Xieng Ngeun",
+          "en": "Xieng Ngeun",
+          "slug": "xieng-ngeun-lp-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.704",
+      "lon": "102.101"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11223853",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houaykok",
+      "en": "Ban Houaykok",
+      "slug": "ban-houaykok-11223853"
+    },
+    "code": {
+      "id": "11223853",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-11",
+      "level": 2,
+      "name": {
+        "local": "Xieng Ngeun",
+        "en": "Xieng Ngeun",
+        "slug": "xieng-ngeun-lp-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-11",
+        "level": 2,
+        "name": {
+          "local": "Xieng Ngeun",
+          "en": "Xieng Ngeun",
+          "slug": "xieng-ngeun-lp-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.763",
+      "lon": "102.299"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11223823",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houaykou",
+      "en": "Ban Houaykou",
+      "slug": "ban-houaykou-11223823"
+    },
+    "code": {
+      "id": "11223823",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-11",
+      "level": 2,
+      "name": {
+        "local": "Xieng Ngeun",
+        "en": "Xieng Ngeun",
+        "slug": "xieng-ngeun-lp-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-11",
+        "level": 2,
+        "name": {
+          "local": "Xieng Ngeun",
+          "en": "Xieng Ngeun",
+          "slug": "xieng-ngeun-lp-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.725",
+      "lon": "102.184"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1952431",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houayléplai",
+      "en": "Ban Houayleplai",
+      "slug": "ban-houayleplai-1952431"
+    },
+    "code": {
+      "id": "1952431",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-11",
+      "level": 2,
+      "name": {
+        "local": "Xieng Ngeun",
+        "en": "Xieng Ngeun",
+        "slug": "xieng-ngeun-lp-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-11",
+        "level": 2,
+        "name": {
+          "local": "Xieng Ngeun",
+          "en": "Xieng Ngeun",
+          "slug": "xieng-ngeun-lp-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.663",
+      "lon": "102.098"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11223769",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houayleptal",
+      "en": "Ban Houayleptal",
+      "slug": "ban-houayleptal-11223769"
+    },
+    "code": {
+      "id": "11223769",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-11",
+      "level": 2,
+      "name": {
+        "local": "Xieng Ngeun",
+        "en": "Xieng Ngeun",
+        "slug": "xieng-ngeun-lp-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-11",
+        "level": 2,
+        "name": {
+          "local": "Xieng Ngeun",
+          "en": "Xieng Ngeun",
+          "slug": "xieng-ngeun-lp-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.684",
+      "lon": "102.08"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11223783",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houayphèng",
+      "en": "Ban Houaypheng",
+      "slug": "ban-houaypheng-11223783"
+    },
+    "code": {
+      "id": "11223783",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-11",
+      "level": 2,
+      "name": {
+        "local": "Xieng Ngeun",
+        "en": "Xieng Ngeun",
+        "slug": "xieng-ngeun-lp-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-11",
+        "level": 2,
+        "name": {
+          "local": "Xieng Ngeun",
+          "en": "Xieng Ngeun",
+          "slug": "xieng-ngeun-lp-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.714",
+      "lon": "102.124"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11223787",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houayphèng",
+      "en": "Ban Houaypheng",
+      "slug": "ban-houaypheng-11223787"
+    },
+    "code": {
+      "id": "11223787",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-11",
+      "level": 2,
+      "name": {
+        "local": "Xieng Ngeun",
+        "en": "Xieng Ngeun",
+        "slug": "xieng-ngeun-lp-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-11",
+        "level": 2,
+        "name": {
+          "local": "Xieng Ngeun",
+          "en": "Xieng Ngeun",
+          "slug": "xieng-ngeun-lp-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.735",
+      "lon": "102.103"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1663606",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houaysapheun",
+      "en": "Ban Houaysapheun",
+      "slug": "ban-houaysapheun-1663606"
+    },
+    "code": {
+      "id": "1663606",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-11",
+      "level": 2,
+      "name": {
+        "local": "Xieng Ngeun",
+        "en": "Xieng Ngeun",
+        "slug": "xieng-ngeun-lp-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-11",
+        "level": 2,
+        "name": {
+          "local": "Xieng Ngeun",
+          "en": "Xieng Ngeun",
+          "slug": "xieng-ngeun-lp-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.765",
+      "lon": "102.336"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1952503",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houaysapho",
+      "en": "Ban Houaysapho",
+      "slug": "ban-houaysapho-1952503"
+    },
+    "code": {
+      "id": "1952503",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-11",
+      "level": 2,
+      "name": {
+        "local": "Xieng Ngeun",
+        "en": "Xieng Ngeun",
+        "slug": "xieng-ngeun-lp-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-11",
+        "level": 2,
+        "name": {
+          "local": "Xieng Ngeun",
+          "en": "Xieng Ngeun",
+          "slug": "xieng-ngeun-lp-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.531",
+      "lon": "102.228"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11223842",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houaysathan",
+      "en": "Ban Houaysathan",
+      "slug": "ban-houaysathan-11223842"
+    },
+    "code": {
+      "id": "11223842",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-11",
+      "level": 2,
+      "name": {
+        "local": "Xieng Ngeun",
+        "en": "Xieng Ngeun",
+        "slug": "xieng-ngeun-lp-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-11",
+        "level": 2,
+        "name": {
+          "local": "Xieng Ngeun",
+          "en": "Xieng Ngeun",
+          "slug": "xieng-ngeun-lp-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.749",
+      "lon": "102.235"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11223817",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houaythao",
+      "en": "Ban Houaythao",
+      "slug": "ban-houaythao-11223817"
+    },
+    "code": {
+      "id": "11223817",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-11",
+      "level": 2,
+      "name": {
+        "local": "Xieng Ngeun",
+        "en": "Xieng Ngeun",
+        "slug": "xieng-ngeun-lp-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-11",
+        "level": 2,
+        "name": {
+          "local": "Xieng Ngeun",
+          "en": "Xieng Ngeun",
+          "slug": "xieng-ngeun-lp-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.788",
+      "lon": "102.158"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11223814",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houayyèn-Gnai",
+      "en": "Ban Houayyen-Gnai",
+      "slug": "ban-houayyen-gnai-11223814"
+    },
+    "code": {
+      "id": "11223814",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-11",
+      "level": 2,
+      "name": {
+        "local": "Xieng Ngeun",
+        "en": "Xieng Ngeun",
+        "slug": "xieng-ngeun-lp-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-11",
+        "level": 2,
+        "name": {
+          "local": "Xieng Ngeun",
+          "en": "Xieng Ngeun",
+          "slug": "xieng-ngeun-lp-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.802",
+      "lon": "102.205"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11223844",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houayyen-Noy",
+      "en": "Ban Houayyen-Noy",
+      "slug": "ban-houayyen-noy-11223844"
+    },
+    "code": {
+      "id": "11223844",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-11",
+      "level": 2,
+      "name": {
+        "local": "Xieng Ngeun",
+        "en": "Xieng Ngeun",
+        "slug": "xieng-ngeun-lp-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-11",
+        "level": 2,
+        "name": {
+          "local": "Xieng Ngeun",
+          "en": "Xieng Ngeun",
+          "slug": "xieng-ngeun-lp-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.799",
+      "lon": "102.227"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1952439",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Kémlouan",
+      "en": "Ban Kemlouan",
+      "slug": "ban-kemlouan-1952439"
+    },
+    "code": {
+      "id": "1952439",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-11",
+      "level": 2,
+      "name": {
+        "local": "Xieng Ngeun",
+        "en": "Xieng Ngeun",
+        "slug": "xieng-ngeun-lp-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-11",
+        "level": 2,
+        "name": {
+          "local": "Xieng Ngeun",
+          "en": "Xieng Ngeun",
+          "slug": "xieng-ngeun-lp-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.638",
+      "lon": "102.355"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1663242",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Kèngkoung",
+      "en": "Ban Kengkoung",
+      "slug": "ban-kengkoung-1663242"
+    },
+    "code": {
+      "id": "1663242",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-11",
+      "level": 2,
+      "name": {
+        "local": "Xieng Ngeun",
+        "en": "Xieng Ngeun",
+        "slug": "xieng-ngeun-lp-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-11",
+        "level": 2,
+        "name": {
+          "local": "Xieng Ngeun",
+          "en": "Xieng Ngeun",
+          "slug": "xieng-ngeun-lp-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.682",
+      "lon": "102.307"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11223868",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Kengpèt",
+      "en": "Ban Kengpet",
+      "slug": "ban-kengpet-11223868"
+    },
+    "code": {
+      "id": "11223868",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-11",
+      "level": 2,
+      "name": {
+        "local": "Xieng Ngeun",
+        "en": "Xieng Ngeun",
+        "slug": "xieng-ngeun-lp-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-11",
+        "level": 2,
+        "name": {
+          "local": "Xieng Ngeun",
+          "en": "Xieng Ngeun",
+          "slug": "xieng-ngeun-lp-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.79",
+      "lon": "102.386"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11223841",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Khonvay",
+      "en": "Ban Khonvay",
+      "slug": "ban-khonvay-11223841"
+    },
+    "code": {
+      "id": "11223841",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-11",
+      "level": 2,
+      "name": {
+        "local": "Xieng Ngeun",
+        "en": "Xieng Ngeun",
+        "slug": "xieng-ngeun-lp-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-11",
+        "level": 2,
+        "name": {
+          "local": "Xieng Ngeun",
+          "en": "Xieng Ngeun",
+          "slug": "xieng-ngeun-lp-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.747",
+      "lon": "102.239"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11223825",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Kiouchalouang",
+      "en": "Ban Kiouchalouang",
+      "slug": "ban-kiouchalouang-11223825"
+    },
+    "code": {
+      "id": "11223825",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-11",
+      "level": 2,
+      "name": {
+        "local": "Xieng Ngeun",
+        "en": "Xieng Ngeun",
+        "slug": "xieng-ngeun-lp-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-11",
+        "level": 2,
+        "name": {
+          "local": "Xieng Ngeun",
+          "en": "Xieng Ngeun",
+          "slug": "xieng-ngeun-lp-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.714",
+      "lon": "102.211"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11223826",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Kiougna",
+      "en": "Ban Kiougna",
+      "slug": "ban-kiougna-11223826"
+    },
+    "code": {
+      "id": "11223826",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-11",
+      "level": 2,
+      "name": {
+        "local": "Xieng Ngeun",
+        "en": "Xieng Ngeun",
+        "slug": "xieng-ngeun-lp-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-11",
+        "level": 2,
+        "name": {
+          "local": "Xieng Ngeun",
+          "en": "Xieng Ngeun",
+          "slug": "xieng-ngeun-lp-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.71",
+      "lon": "102.19"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1952485",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Kioukacham",
+      "en": "Ban Kioukacham",
+      "slug": "ban-kioukacham-1952485"
+    },
+    "code": {
+      "id": "1952485",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-11",
+      "level": 2,
+      "name": {
+        "local": "Xieng Ngeun",
+        "en": "Xieng Ngeun",
+        "slug": "xieng-ngeun-lp-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-11",
+        "level": 2,
+        "name": {
+          "local": "Xieng Ngeun",
+          "en": "Xieng Ngeun",
+          "slug": "xieng-ngeun-lp-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.556",
+      "lon": "102.233"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1952488",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Kioukhampom-Gnai",
+      "en": "Ban Kioukhampom-Gnai",
+      "slug": "ban-kioukhampom-gnai-1952488"
+    },
+    "code": {
+      "id": "1952488",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-11",
+      "level": 2,
+      "name": {
+        "local": "Xieng Ngeun",
+        "en": "Xieng Ngeun",
+        "slug": "xieng-ngeun-lp-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-11",
+        "level": 2,
+        "name": {
+          "local": "Xieng Ngeun",
+          "en": "Xieng Ngeun",
+          "slug": "xieng-ngeun-lp-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.556",
+      "lon": "102.328"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1952487",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Kioukhampon-Noy",
+      "en": "Ban Kioukhampon-Noy",
+      "slug": "ban-kioukhampon-noy-1952487"
+    },
+    "code": {
+      "id": "1952487",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-11",
+      "level": 2,
+      "name": {
+        "local": "Xieng Ngeun",
+        "en": "Xieng Ngeun",
+        "slug": "xieng-ngeun-lp-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-11",
+        "level": 2,
+        "name": {
+          "local": "Xieng Ngeun",
+          "en": "Xieng Ngeun",
+          "slug": "xieng-ngeun-lp-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.556",
+      "lon": "102.312"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1952477",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Kioumailo",
+      "en": "Ban Kioumailo",
+      "slug": "ban-kioumailo-1952477"
+    },
+    "code": {
+      "id": "1952477",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-11",
+      "level": 2,
+      "name": {
+        "local": "Xieng Ngeun",
+        "en": "Xieng Ngeun",
+        "slug": "xieng-ngeun-lp-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-11",
+        "level": 2,
+        "name": {
+          "local": "Xieng Ngeun",
+          "en": "Xieng Ngeun",
+          "slug": "xieng-ngeun-lp-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.563",
+      "lon": "102.294"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1952498",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Kioumouang",
+      "en": "Ban Kioumouang",
+      "slug": "ban-kioumouang-1952498"
+    },
+    "code": {
+      "id": "1952498",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-11",
+      "level": 2,
+      "name": {
+        "local": "Xieng Ngeun",
+        "en": "Xieng Ngeun",
+        "slug": "xieng-ngeun-lp-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-11",
+        "level": 2,
+        "name": {
+          "local": "Xieng Ngeun",
+          "en": "Xieng Ngeun",
+          "slug": "xieng-ngeun-lp-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.53",
+      "lon": "102.322"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1952500",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Kioumouang-Gnai",
+      "en": "Ban Kioumouang-Gnai",
+      "slug": "ban-kioumouang-gnai-1952500"
+    },
+    "code": {
+      "id": "1952500",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-11",
+      "level": 2,
+      "name": {
+        "local": "Xieng Ngeun",
+        "en": "Xieng Ngeun",
+        "slug": "xieng-ngeun-lp-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-11",
+        "level": 2,
+        "name": {
+          "local": "Xieng Ngeun",
+          "en": "Xieng Ngeun",
+          "slug": "xieng-ngeun-lp-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.53",
+      "lon": "102.287"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1952465",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Kioutloun-Gnai",
+      "en": "Ban Kioutloun-Gnai",
+      "slug": "ban-kioutloun-gnai-1952465"
+    },
+    "code": {
+      "id": "1952465",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-11",
+      "level": 2,
+      "name": {
+        "local": "Xieng Ngeun",
+        "en": "Xieng Ngeun",
+        "slug": "xieng-ngeun-lp-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-11",
+        "level": 2,
+        "name": {
+          "local": "Xieng Ngeun",
+          "en": "Xieng Ngeun",
+          "slug": "xieng-ngeun-lp-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.587",
+      "lon": "102.228"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1952452",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Kioutloun-Noy",
+      "en": "Ban Kioutloun-Noy",
+      "slug": "ban-kioutloun-noy-1952452"
+    },
+    "code": {
+      "id": "1952452",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-11",
+      "level": 2,
+      "name": {
+        "local": "Xieng Ngeun",
+        "en": "Xieng Ngeun",
+        "slug": "xieng-ngeun-lp-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-11",
+        "level": 2,
+        "name": {
+          "local": "Xieng Ngeun",
+          "en": "Xieng Ngeun",
+          "slug": "xieng-ngeun-lp-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.608",
+      "lon": "102.197"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1952443",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Laochaleun",
+      "en": "Ban Laochaleun",
+      "slug": "ban-laochaleun-1952443"
+    },
+    "code": {
+      "id": "1952443",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-11",
+      "level": 2,
+      "name": {
+        "local": "Xieng Ngeun",
+        "en": "Xieng Ngeun",
+        "slug": "xieng-ngeun-lp-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-11",
+        "level": 2,
+        "name": {
+          "local": "Xieng Ngeun",
+          "en": "Xieng Ngeun",
+          "slug": "xieng-ngeun-lp-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.635",
+      "lon": "102.079"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11223833",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Lek Pèt",
+      "en": "Ban Lek Pet",
+      "slug": "ban-lek-pet-11223833"
+    },
+    "code": {
+      "id": "11223833",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-11",
+      "level": 2,
+      "name": {
+        "local": "Xieng Ngeun",
+        "en": "Xieng Ngeun",
+        "slug": "xieng-ngeun-lp-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-11",
+        "level": 2,
+        "name": {
+          "local": "Xieng Ngeun",
+          "en": "Xieng Ngeun",
+          "slug": "xieng-ngeun-lp-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.678",
+      "lon": "102.114"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11227044",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Lék Sip",
+      "en": "Ban Lek Sip",
+      "slug": "ban-lek-sip-11227044"
+    },
+    "code": {
+      "id": "11227044",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-11",
+      "level": 2,
+      "name": {
+        "local": "Xieng Ngeun",
+        "en": "Xieng Ngeun",
+        "slug": "xieng-ngeun-lp-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-11",
+        "level": 2,
+        "name": {
+          "local": "Xieng Ngeun",
+          "en": "Xieng Ngeun",
+          "slug": "xieng-ngeun-lp-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.658",
+      "lon": "102.097"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11223788",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Leun",
+      "en": "Ban Leun",
+      "slug": "ban-leun-11223788"
+    },
+    "code": {
+      "id": "11223788",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-11",
+      "level": 2,
+      "name": {
+        "local": "Xieng Ngeun",
+        "en": "Xieng Ngeun",
+        "slug": "xieng-ngeun-lp-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-11",
+        "level": 2,
+        "name": {
+          "local": "Xieng Ngeun",
+          "en": "Xieng Ngeun",
+          "slug": "xieng-ngeun-lp-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.773",
+      "lon": "102.125"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1662464",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Lichia",
+      "en": "Ban Lichia",
+      "slug": "ban-lichia-1662464"
+    },
+    "code": {
+      "id": "1662464",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-11",
+      "level": 2,
+      "name": {
+        "local": "Xieng Ngeun",
+        "en": "Xieng Ngeun",
+        "slug": "xieng-ngeun-lp-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-11",
+        "level": 2,
+        "name": {
+          "local": "Xieng Ngeun",
+          "en": "Xieng Ngeun",
+          "slug": "xieng-ngeun-lp-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.764",
+      "lon": "102.36"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1662447",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Long",
+      "en": "Ban Long",
+      "slug": "ban-long-1662447"
+    },
+    "code": {
+      "id": "1662447",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-11",
+      "level": 2,
+      "name": {
+        "local": "Xieng Ngeun",
+        "en": "Xieng Ngeun",
+        "slug": "xieng-ngeun-lp-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-11",
+        "level": 2,
+        "name": {
+          "local": "Xieng Ngeun",
+          "en": "Xieng Ngeun",
+          "slug": "xieng-ngeun-lp-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.644",
+      "lon": "102.198"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1662440",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Long-O",
+      "en": "Ban Long-O",
+      "slug": "ban-long-o-1662440"
+    },
+    "code": {
+      "id": "1662440",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-11",
+      "level": 2,
+      "name": {
+        "local": "Xieng Ngeun",
+        "en": "Xieng Ngeun",
+        "slug": "xieng-ngeun-lp-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-11",
+        "level": 2,
+        "name": {
+          "local": "Xieng Ngeun",
+          "en": "Xieng Ngeun",
+          "slug": "xieng-ngeun-lp-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.816",
+      "lon": "102.205"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1662443",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Longgni",
+      "en": "Ban Longgni",
+      "slug": "ban-longgni-1662443"
+    },
+    "code": {
+      "id": "1662443",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-11",
+      "level": 2,
+      "name": {
+        "local": "Xieng Ngeun",
+        "en": "Xieng Ngeun",
+        "slug": "xieng-ngeun-lp-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-11",
+        "level": 2,
+        "name": {
+          "local": "Xieng Ngeun",
+          "en": "Xieng Ngeun",
+          "slug": "xieng-ngeun-lp-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.686",
+      "lon": "102.362"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1662434",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Longkang",
+      "en": "Ban Longkang",
+      "slug": "ban-longkang-1662434"
+    },
+    "code": {
+      "id": "1662434",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-11",
+      "level": 2,
+      "name": {
+        "local": "Xieng Ngeun",
+        "en": "Xieng Ngeun",
+        "slug": "xieng-ngeun-lp-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-11",
+        "level": 2,
+        "name": {
+          "local": "Xieng Ngeun",
+          "en": "Xieng Ngeun",
+          "slug": "xieng-ngeun-lp-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.703",
+      "lon": "102.285"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11223768",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Longkhoay",
+      "en": "Ban Longkhoay",
+      "slug": "ban-longkhoay-11223768"
+    },
+    "code": {
+      "id": "11223768",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-11",
+      "level": 2,
+      "name": {
+        "local": "Xieng Ngeun",
+        "en": "Xieng Ngeun",
+        "slug": "xieng-ngeun-lp-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-11",
+        "level": 2,
+        "name": {
+          "local": "Xieng Ngeun",
+          "en": "Xieng Ngeun",
+          "slug": "xieng-ngeun-lp-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.723",
+      "lon": "102.073"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1952464",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Mokdou",
+      "en": "Ban Mokdou",
+      "slug": "ban-mokdou-1952464"
+    },
+    "code": {
+      "id": "1952464",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-11",
+      "level": 2,
+      "name": {
+        "local": "Xieng Ngeun",
+        "en": "Xieng Ngeun",
+        "slug": "xieng-ngeun-lp-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-11",
+        "level": 2,
+        "name": {
+          "local": "Xieng Ngeun",
+          "en": "Xieng Ngeun",
+          "slug": "xieng-ngeun-lp-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.596",
+      "lon": "102.144"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1662191",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Mout",
+      "en": "Ban Mout",
+      "slug": "ban-mout-1662191"
+    },
+    "code": {
+      "id": "1662191",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-11",
+      "level": 2,
+      "name": {
+        "local": "Xieng Ngeun",
+        "en": "Xieng Ngeun",
+        "slug": "xieng-ngeun-lp-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-11",
+        "level": 2,
+        "name": {
+          "local": "Xieng Ngeun",
+          "en": "Xieng Ngeun",
+          "slug": "xieng-ngeun-lp-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.79",
+      "lon": "102.187"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11223834",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nadua",
+      "en": "Ban Nadua",
+      "slug": "ban-nadua-11223834"
+    },
+    "code": {
+      "id": "11223834",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-11",
+      "level": 2,
+      "name": {
+        "local": "Xieng Ngeun",
+        "en": "Xieng Ngeun",
+        "slug": "xieng-ngeun-lp-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-11",
+        "level": 2,
+        "name": {
+          "local": "Xieng Ngeun",
+          "en": "Xieng Ngeun",
+          "slug": "xieng-ngeun-lp-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.675",
+      "lon": "102.21"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11223822",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nakha",
+      "en": "Ban Nakha",
+      "slug": "ban-nakha-11223822"
+    },
+    "code": {
+      "id": "11223822",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-11",
+      "level": 2,
+      "name": {
+        "local": "Xieng Ngeun",
+        "en": "Xieng Ngeun",
+        "slug": "xieng-ngeun-lp-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-11",
+        "level": 2,
+        "name": {
+          "local": "Xieng Ngeun",
+          "en": "Xieng Ngeun",
+          "slug": "xieng-ngeun-lp-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.744",
+      "lon": "102.164"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1952457",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nalêng",
+      "en": "Ban Naleng",
+      "slug": "ban-naleng-1952457"
+    },
+    "code": {
+      "id": "1952457",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-11",
+      "level": 2,
+      "name": {
+        "local": "Xieng Ngeun",
+        "en": "Xieng Ngeun",
+        "slug": "xieng-ngeun-lp-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-11",
+        "level": 2,
+        "name": {
+          "local": "Xieng Ngeun",
+          "en": "Xieng Ngeun",
+          "slug": "xieng-ngeun-lp-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.598",
+      "lon": "102.082"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1952456",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nalin",
+      "en": "Ban Nalin",
+      "slug": "ban-nalin-1952456"
+    },
+    "code": {
+      "id": "1952456",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-11",
+      "level": 2,
+      "name": {
+        "local": "Xieng Ngeun",
+        "en": "Xieng Ngeun",
+        "slug": "xieng-ngeun-lp-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-11",
+        "level": 2,
+        "name": {
+          "local": "Xieng Ngeun",
+          "en": "Xieng Ngeun",
+          "slug": "xieng-ngeun-lp-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.6",
+      "lon": "102.085"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11223830",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nam-Okhou",
+      "en": "Ban Nam-Okhou",
+      "slug": "ban-nam-okhou-11223830"
+    },
+    "code": {
+      "id": "11223830",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-11",
+      "level": 2,
+      "name": {
+        "local": "Xieng Ngeun",
+        "en": "Xieng Ngeun",
+        "slug": "xieng-ngeun-lp-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-11",
+        "level": 2,
+        "name": {
+          "local": "Xieng Ngeun",
+          "en": "Xieng Ngeun",
+          "slug": "xieng-ngeun-lp-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.684",
+      "lon": "102.173"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1952433",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Namchan",
+      "en": "Ban Namchan",
+      "slug": "ban-namchan-1952433"
+    },
+    "code": {
+      "id": "1952433",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-11",
+      "level": 2,
+      "name": {
+        "local": "Xieng Ngeun",
+        "en": "Xieng Ngeun",
+        "slug": "xieng-ngeun-lp-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-11",
+        "level": 2,
+        "name": {
+          "local": "Xieng Ngeun",
+          "en": "Xieng Ngeun",
+          "slug": "xieng-ngeun-lp-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.65",
+      "lon": "102.132"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1952442",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Namchan-Noy",
+      "en": "Ban Namchan-Noy",
+      "slug": "ban-namchan-noy-1952442"
+    },
+    "code": {
+      "id": "1952442",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-11",
+      "level": 2,
+      "name": {
+        "local": "Xieng Ngeun",
+        "en": "Xieng Ngeun",
+        "slug": "xieng-ngeun-lp-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-11",
+        "level": 2,
+        "name": {
+          "local": "Xieng Ngeun",
+          "en": "Xieng Ngeun",
+          "slug": "xieng-ngeun-lp-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.644",
+      "lon": "102.124"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1952486",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nammok",
+      "en": "Ban Nammok",
+      "slug": "ban-nammok-1952486"
+    },
+    "code": {
+      "id": "1952486",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-11",
+      "level": 2,
+      "name": {
+        "local": "Xieng Ngeun",
+        "en": "Xieng Ngeun",
+        "slug": "xieng-ngeun-lp-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-11",
+        "level": 2,
+        "name": {
+          "local": "Xieng Ngeun",
+          "en": "Xieng Ngeun",
+          "slug": "xieng-ngeun-lp-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.551",
+      "lon": "102.244"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1952501",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nammôk-Tai",
+      "en": "Ban Nammok-Tai",
+      "slug": "ban-nammok-tai-1952501"
+    },
+    "code": {
+      "id": "1952501",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-11",
+      "level": 2,
+      "name": {
+        "local": "Xieng Ngeun",
+        "en": "Xieng Ngeun",
+        "slug": "xieng-ngeun-lp-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-11",
+        "level": 2,
+        "name": {
+          "local": "Xieng Ngeun",
+          "en": "Xieng Ngeun",
+          "slug": "xieng-ngeun-lp-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.528",
+      "lon": "102.269"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1952502",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nammouang-Noy",
+      "en": "Ban Nammouang-Noy",
+      "slug": "ban-nammouang-noy-1952502"
+    },
+    "code": {
+      "id": "1952502",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-11",
+      "level": 2,
+      "name": {
+        "local": "Xieng Ngeun",
+        "en": "Xieng Ngeun",
+        "slug": "xieng-ngeun-lp-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-11",
+        "level": 2,
+        "name": {
+          "local": "Xieng Ngeun",
+          "en": "Xieng Ngeun",
+          "slug": "xieng-ngeun-lp-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.536",
+      "lon": "102.239"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1952504",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Namphak",
+      "en": "Ban Namphak",
+      "slug": "ban-namphak-1952504"
+    },
+    "code": {
+      "id": "1952504",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-11",
+      "level": 2,
+      "name": {
+        "local": "Xieng Ngeun",
+        "en": "Xieng Ngeun",
+        "slug": "xieng-ngeun-lp-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-11",
+        "level": 2,
+        "name": {
+          "local": "Xieng Ngeun",
+          "en": "Xieng Ngeun",
+          "slug": "xieng-ngeun-lp-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.526",
+      "lon": "102.231"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1952454",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Namsanan",
+      "en": "Ban Namsanan",
+      "slug": "ban-namsanan-1952454"
+    },
+    "code": {
+      "id": "1952454",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-11",
+      "level": 2,
+      "name": {
+        "local": "Xieng Ngeun",
+        "en": "Xieng Ngeun",
+        "slug": "xieng-ngeun-lp-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-11",
+        "level": 2,
+        "name": {
+          "local": "Xieng Ngeun",
+          "en": "Xieng Ngeun",
+          "slug": "xieng-ngeun-lp-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.606",
+      "lon": "102.158"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1952467",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nathan",
+      "en": "Ban Nathan",
+      "slug": "ban-nathan-1952467"
+    },
+    "code": {
+      "id": "1952467",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-11",
+      "level": 2,
+      "name": {
+        "local": "Xieng Ngeun",
+        "en": "Xieng Ngeun",
+        "slug": "xieng-ngeun-lp-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-11",
+        "level": 2,
+        "name": {
+          "local": "Xieng Ngeun",
+          "en": "Xieng Ngeun",
+          "slug": "xieng-ngeun-lp-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.584",
+      "lon": "102.347"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1660916",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nian",
+      "en": "Ban Nian",
+      "slug": "ban-nian-1660916"
+    },
+    "code": {
+      "id": "1660916",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-11",
+      "level": 2,
+      "name": {
+        "local": "Xieng Ngeun",
+        "en": "Xieng Ngeun",
+        "slug": "xieng-ngeun-lp-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-11",
+        "level": 2,
+        "name": {
+          "local": "Xieng Ngeun",
+          "en": "Xieng Ngeun",
+          "slug": "xieng-ngeun-lp-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.783",
+      "lon": "102.217"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1660913",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nian Noy",
+      "en": "Ban Nian Noy",
+      "slug": "ban-nian-noy-1660913"
+    },
+    "code": {
+      "id": "1660913",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-11",
+      "level": 2,
+      "name": {
+        "local": "Xieng Ngeun",
+        "en": "Xieng Ngeun",
+        "slug": "xieng-ngeun-lp-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-11",
+        "level": 2,
+        "name": {
+          "local": "Xieng Ngeun",
+          "en": "Xieng Ngeun",
+          "slug": "xieng-ngeun-lp-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.783",
+      "lon": "102.217"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11223755",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nôkpit",
+      "en": "Ban Nokpit",
+      "slug": "ban-nokpit-11223755"
+    },
+    "code": {
+      "id": "11223755",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-11",
+      "level": 2,
+      "name": {
+        "local": "Xieng Ngeun",
+        "en": "Xieng Ngeun",
+        "slug": "xieng-ngeun-lp-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-11",
+        "level": 2,
+        "name": {
+          "local": "Xieng Ngeun",
+          "en": "Xieng Ngeun",
+          "slug": "xieng-ngeun-lp-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.808",
+      "lon": "102.161"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1952478",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nong-Ôn",
+      "en": "Ban Nong-On",
+      "slug": "ban-nong-on-1952478"
+    },
+    "code": {
+      "id": "1952478",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-11",
+      "level": 2,
+      "name": {
+        "local": "Xieng Ngeun",
+        "en": "Xieng Ngeun",
+        "slug": "xieng-ngeun-lp-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-11",
+        "level": 2,
+        "name": {
+          "local": "Xieng Ngeun",
+          "en": "Xieng Ngeun",
+          "slug": "xieng-ngeun-lp-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.564",
+      "lon": "102.271"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1952463",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nongpa",
+      "en": "Ban Nongpa",
+      "slug": "ban-nongpa-1952463"
+    },
+    "code": {
+      "id": "1952463",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-11",
+      "level": 2,
+      "name": {
+        "local": "Xieng Ngeun",
+        "en": "Xieng Ngeun",
+        "slug": "xieng-ngeun-lp-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-11",
+        "level": 2,
+        "name": {
+          "local": "Xieng Ngeun",
+          "en": "Xieng Ngeun",
+          "slug": "xieng-ngeun-lp-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.595",
+      "lon": "102.096"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1952475",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Pagnakha",
+      "en": "Ban Pagnakha",
+      "slug": "ban-pagnakha-1952475"
+    },
+    "code": {
+      "id": "1952475",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-11",
+      "level": 2,
+      "name": {
+        "local": "Xieng Ngeun",
+        "en": "Xieng Ngeun",
+        "slug": "xieng-ngeun-lp-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-11",
+        "level": 2,
+        "name": {
+          "local": "Xieng Ngeun",
+          "en": "Xieng Ngeun",
+          "slug": "xieng-ngeun-lp-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.573",
+      "lon": "102.335"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1952479",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Pagnakha",
+      "en": "Ban Pagnakha",
+      "slug": "ban-pagnakha-1952479"
+    },
+    "code": {
+      "id": "1952479",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-11",
+      "level": 2,
+      "name": {
+        "local": "Xieng Ngeun",
+        "en": "Xieng Ngeun",
+        "slug": "xieng-ngeun-lp-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-11",
+        "level": 2,
+        "name": {
+          "local": "Xieng Ngeun",
+          "en": "Xieng Ngeun",
+          "slug": "xieng-ngeun-lp-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.568",
+      "lon": "102.225"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1660543",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Pakbak",
+      "en": "Ban Pakbak",
+      "slug": "ban-pakbak-1660543"
+    },
+    "code": {
+      "id": "1660543",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-11",
+      "level": 2,
+      "name": {
+        "local": "Xieng Ngeun",
+        "en": "Xieng Ngeun",
+        "slug": "xieng-ngeun-lp-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-11",
+        "level": 2,
+        "name": {
+          "local": "Xieng Ngeun",
+          "en": "Xieng Ngeun",
+          "slug": "xieng-ngeun-lp-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.75",
+      "lon": "102.282"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1660533",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Pakfèn",
+      "en": "Ban Pakfen",
+      "slug": "ban-pakfen-1660533"
+    },
+    "code": {
+      "id": "1660533",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-11",
+      "level": 2,
+      "name": {
+        "local": "Xieng Ngeun",
+        "en": "Xieng Ngeun",
+        "slug": "xieng-ngeun-lp-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-11",
+        "level": 2,
+        "name": {
+          "local": "Xieng Ngeun",
+          "en": "Xieng Ngeun",
+          "slug": "xieng-ngeun-lp-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.797",
+      "lon": "102.36"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1952450",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Pakhok",
+      "en": "Ban Pakhok",
+      "slug": "ban-pakhok-1952450"
+    },
+    "code": {
+      "id": "1952450",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-11",
+      "level": 2,
+      "name": {
+        "local": "Xieng Ngeun",
+        "en": "Xieng Ngeun",
+        "slug": "xieng-ngeun-lp-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-11",
+        "level": 2,
+        "name": {
+          "local": "Xieng Ngeun",
+          "en": "Xieng Ngeun",
+          "slug": "xieng-ngeun-lp-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.614",
+      "lon": "102.394"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11223821",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Pakkhan",
+      "en": "Ban Pakkhan",
+      "slug": "ban-pakkhan-11223821"
+    },
+    "code": {
+      "id": "11223821",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-11",
+      "level": 2,
+      "name": {
+        "local": "Xieng Ngeun",
+        "en": "Xieng Ngeun",
+        "slug": "xieng-ngeun-lp-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-11",
+        "level": 2,
+        "name": {
+          "local": "Xieng Ngeun",
+          "en": "Xieng Ngeun",
+          "slug": "xieng-ngeun-lp-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.763",
+      "lon": "102.179"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1660493",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Pakmèn",
+      "en": "Ban Pakmen",
+      "slug": "ban-pakmen-1660493"
+    },
+    "code": {
+      "id": "1660493",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-11",
+      "level": 2,
+      "name": {
+        "local": "Xieng Ngeun",
+        "en": "Xieng Ngeun",
+        "slug": "xieng-ngeun-lp-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-11",
+        "level": 2,
+        "name": {
+          "local": "Xieng Ngeun",
+          "en": "Xieng Ngeun",
+          "slug": "xieng-ngeun-lp-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.698",
+      "lon": "102.472"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11223835",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Pakming",
+      "en": "Ban Pakming",
+      "slug": "ban-pakming-11223835"
+    },
+    "code": {
+      "id": "11223835",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-11",
+      "level": 2,
+      "name": {
+        "local": "Xieng Ngeun",
+        "en": "Xieng Ngeun",
+        "slug": "xieng-ngeun-lp-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-11",
+        "level": 2,
+        "name": {
+          "local": "Xieng Ngeun",
+          "en": "Xieng Ngeun",
+          "slug": "xieng-ngeun-lp-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.693",
+      "lon": "102.249"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11223829",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Pako",
+      "en": "Ban Pako",
+      "slug": "ban-pako-11223829"
+    },
+    "code": {
+      "id": "11223829",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-11",
+      "level": 2,
+      "name": {
+        "local": "Xieng Ngeun",
+        "en": "Xieng Ngeun",
+        "slug": "xieng-ngeun-lp-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-11",
+        "level": 2,
+        "name": {
+          "local": "Xieng Ngeun",
+          "en": "Xieng Ngeun",
+          "slug": "xieng-ngeun-lp-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.693",
+      "lon": "102.188"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1660566",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Pakpon",
+      "en": "Ban Pakpon",
+      "slug": "ban-pakpon-1660566"
+    },
+    "code": {
+      "id": "1660566",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-11",
+      "level": 2,
+      "name": {
+        "local": "Xieng Ngeun",
+        "en": "Xieng Ngeun",
+        "slug": "xieng-ngeun-lp-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-11",
+        "level": 2,
+        "name": {
+          "local": "Xieng Ngeun",
+          "en": "Xieng Ngeun",
+          "slug": "xieng-ngeun-lp-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.563",
+      "lon": "102.172"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1952481",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Pakpon",
+      "en": "Ban Pakpon",
+      "slug": "ban-pakpon-1952481"
+    },
+    "code": {
+      "id": "1952481",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-11",
+      "level": 2,
+      "name": {
+        "local": "Xieng Ngeun",
+        "en": "Xieng Ngeun",
+        "slug": "xieng-ngeun-lp-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-11",
+        "level": 2,
+        "name": {
+          "local": "Xieng Ngeun",
+          "en": "Xieng Ngeun",
+          "slug": "xieng-ngeun-lp-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.564",
+      "lon": "102.172"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1663651",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Pakpong",
+      "en": "Ban Pakpong",
+      "slug": "ban-pakpong-1663651"
+    },
+    "code": {
+      "id": "1663651",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-11",
+      "level": 2,
+      "name": {
+        "local": "Xieng Ngeun",
+        "en": "Xieng Ngeun",
+        "slug": "xieng-ngeun-lp-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-11",
+        "level": 2,
+        "name": {
+          "local": "Xieng Ngeun",
+          "en": "Xieng Ngeun",
+          "slug": "xieng-ngeun-lp-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.781",
+      "lon": "102.322"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1654290",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Paksanan",
+      "en": "Ban Paksanan",
+      "slug": "ban-paksanan-1654290"
+    },
+    "code": {
+      "id": "1654290",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-11",
+      "level": 2,
+      "name": {
+        "local": "Xieng Ngeun",
+        "en": "Xieng Ngeun",
+        "slug": "xieng-ngeun-lp-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-11",
+        "level": 2,
+        "name": {
+          "local": "Xieng Ngeun",
+          "en": "Xieng Ngeun",
+          "slug": "xieng-ngeun-lp-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.607",
+      "lon": "102.144"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11223820",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Pakvèt",
+      "en": "Ban Pakvet",
+      "slug": "ban-pakvet-11223820"
+    },
+    "code": {
+      "id": "11223820",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-11",
+      "level": 2,
+      "name": {
+        "local": "Xieng Ngeun",
+        "en": "Xieng Ngeun",
+        "slug": "xieng-ngeun-lp-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-11",
+        "level": 2,
+        "name": {
+          "local": "Xieng Ngeun",
+          "en": "Xieng Ngeun",
+          "slug": "xieng-ngeun-lp-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.769",
+      "lon": "102.181"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1660457",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Pakxa",
+      "en": "Ban Pakxa",
+      "slug": "ban-pakxa-1660457"
+    },
+    "code": {
+      "id": "1660457",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-11",
+      "level": 2,
+      "name": {
+        "local": "Xieng Ngeun",
+        "en": "Xieng Ngeun",
+        "slug": "xieng-ngeun-lp-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-11",
+        "level": 2,
+        "name": {
+          "local": "Xieng Ngeun",
+          "en": "Xieng Ngeun",
+          "slug": "xieng-ngeun-lp-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.672",
+      "lon": "102.254"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11223857",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phaban-Mai",
+      "en": "Ban Phaban-Mai",
+      "slug": "ban-phaban-mai-11223857"
+    },
+    "code": {
+      "id": "11223857",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-11",
+      "level": 2,
+      "name": {
+        "local": "Xieng Ngeun",
+        "en": "Xieng Ngeun",
+        "slug": "xieng-ngeun-lp-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-11",
+        "level": 2,
+        "name": {
+          "local": "Xieng Ngeun",
+          "en": "Xieng Ngeun",
+          "slug": "xieng-ngeun-lp-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.715",
+      "lon": "102.323"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1660287",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phai",
+      "en": "Ban Phai",
+      "slug": "ban-phai-1660287"
+    },
+    "code": {
+      "id": "1660287",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-11",
+      "level": 2,
+      "name": {
+        "local": "Xieng Ngeun",
+        "en": "Xieng Ngeun",
+        "slug": "xieng-ngeun-lp-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-11",
+        "level": 2,
+        "name": {
+          "local": "Xieng Ngeun",
+          "en": "Xieng Ngeun",
+          "slug": "xieng-ngeun-lp-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.817",
+      "lon": "102.25"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1952469",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phakhôk",
+      "en": "Ban Phakhok",
+      "slug": "ban-phakhok-1952469"
+    },
+    "code": {
+      "id": "1952469",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-11",
+      "level": 2,
+      "name": {
+        "local": "Xieng Ngeun",
+        "en": "Xieng Ngeun",
+        "slug": "xieng-ngeun-lp-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-11",
+        "level": 2,
+        "name": {
+          "local": "Xieng Ngeun",
+          "en": "Xieng Ngeun",
+          "slug": "xieng-ngeun-lp-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.586",
+      "lon": "102.426"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1952448",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phakhôk-Gnai",
+      "en": "Ban Phakhok-Gnai",
+      "slug": "ban-phakhok-gnai-1952448"
+    },
+    "code": {
+      "id": "1952448",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-11",
+      "level": 2,
+      "name": {
+        "local": "Xieng Ngeun",
+        "en": "Xieng Ngeun",
+        "slug": "xieng-ngeun-lp-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-11",
+        "level": 2,
+        "name": {
+          "local": "Xieng Ngeun",
+          "en": "Xieng Ngeun",
+          "slug": "xieng-ngeun-lp-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.634",
+      "lon": "102.343"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1952449",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phakhôk-Noy",
+      "en": "Ban Phakhok-Noy",
+      "slug": "ban-phakhok-noy-1952449"
+    },
+    "code": {
+      "id": "1952449",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-11",
+      "level": 2,
+      "name": {
+        "local": "Xieng Ngeun",
+        "en": "Xieng Ngeun",
+        "slug": "xieng-ngeun-lp-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-11",
+        "level": 2,
+        "name": {
+          "local": "Xieng Ngeun",
+          "en": "Xieng Ngeun",
+          "slug": "xieng-ngeun-lp-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.631",
+      "lon": "102.357"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1660264",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phakhom",
+      "en": "Ban Phakhom",
+      "slug": "ban-phakhom-1660264"
+    },
+    "code": {
+      "id": "1660264",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-11",
+      "level": 2,
+      "name": {
+        "local": "Xieng Ngeun",
+        "en": "Xieng Ngeun",
+        "slug": "xieng-ngeun-lp-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-11",
+        "level": 2,
+        "name": {
+          "local": "Xieng Ngeun",
+          "en": "Xieng Ngeun",
+          "slug": "xieng-ngeun-lp-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.785",
+      "lon": "102.244"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1952435",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phakiouba",
+      "en": "Ban Phakiouba",
+      "slug": "ban-phakiouba-1952435"
+    },
+    "code": {
+      "id": "1952435",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-11",
+      "level": 2,
+      "name": {
+        "local": "Xieng Ngeun",
+        "en": "Xieng Ngeun",
+        "slug": "xieng-ngeun-lp-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-11",
+        "level": 2,
+        "name": {
+          "local": "Xieng Ngeun",
+          "en": "Xieng Ngeun",
+          "slug": "xieng-ngeun-lp-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.65",
+      "lon": "102.286"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1953123",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phaklèng",
+      "en": "Ban Phakleng",
+      "slug": "ban-phakleng-1953123"
+    },
+    "code": {
+      "id": "1953123",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-11",
+      "level": 2,
+      "name": {
+        "local": "Xieng Ngeun",
+        "en": "Xieng Ngeun",
+        "slug": "xieng-ngeun-lp-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-11",
+        "level": 2,
+        "name": {
+          "local": "Xieng Ngeun",
+          "en": "Xieng Ngeun",
+          "slug": "xieng-ngeun-lp-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.656",
+      "lon": "102.532"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1952438",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phakphèo",
+      "en": "Ban Phakpheo",
+      "slug": "ban-phakpheo-1952438"
+    },
+    "code": {
+      "id": "1952438",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-11",
+      "level": 2,
+      "name": {
+        "local": "Xieng Ngeun",
+        "en": "Xieng Ngeun",
+        "slug": "xieng-ngeun-lp-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-11",
+        "level": 2,
+        "name": {
+          "local": "Xieng Ngeun",
+          "en": "Xieng Ngeun",
+          "slug": "xieng-ngeun-lp-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.655",
+      "lon": "102.391"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11223862",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phalak",
+      "en": "Ban Phalak",
+      "slug": "ban-phalak-11223862"
+    },
+    "code": {
+      "id": "11223862",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-11",
+      "level": 2,
+      "name": {
+        "local": "Xieng Ngeun",
+        "en": "Xieng Ngeun",
+        "slug": "xieng-ngeun-lp-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-11",
+        "level": 2,
+        "name": {
+          "local": "Xieng Ngeun",
+          "en": "Xieng Ngeun",
+          "slug": "xieng-ngeun-lp-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.674",
+      "lon": "102.433"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1660201",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phangam",
+      "en": "Ban Phangam",
+      "slug": "ban-phangam-1660201"
+    },
+    "code": {
+      "id": "1660201",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-11",
+      "level": 2,
+      "name": {
+        "local": "Xieng Ngeun",
+        "en": "Xieng Ngeun",
+        "slug": "xieng-ngeun-lp-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-11",
+        "level": 2,
+        "name": {
+          "local": "Xieng Ngeun",
+          "en": "Xieng Ngeun",
+          "slug": "xieng-ngeun-lp-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.491",
+      "lon": "102.29"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1952466",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phasanin-Gnai",
+      "en": "Ban Phasanin-Gnai",
+      "slug": "ban-phasanin-gnai-1952466"
+    },
+    "code": {
+      "id": "1952466",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-11",
+      "level": 2,
+      "name": {
+        "local": "Xieng Ngeun",
+        "en": "Xieng Ngeun",
+        "slug": "xieng-ngeun-lp-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-11",
+        "level": 2,
+        "name": {
+          "local": "Xieng Ngeun",
+          "en": "Xieng Ngeun",
+          "slug": "xieng-ngeun-lp-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.596",
+      "lon": "102.318"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1952451",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phasanin-Noy",
+      "en": "Ban Phasanin-Noy",
+      "slug": "ban-phasanin-noy-1952451"
+    },
+    "code": {
+      "id": "1952451",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-11",
+      "level": 2,
+      "name": {
+        "local": "Xieng Ngeun",
+        "en": "Xieng Ngeun",
+        "slug": "xieng-ngeun-lp-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-11",
+        "level": 2,
+        "name": {
+          "local": "Xieng Ngeun",
+          "en": "Xieng Ngeun",
+          "slug": "xieng-ngeun-lp-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.607",
+      "lon": "102.348"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1660145",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phatheung",
+      "en": "Ban Phatheung",
+      "slug": "ban-phatheung-1660145"
+    },
+    "code": {
+      "id": "1660145",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-11",
+      "level": 2,
+      "name": {
+        "local": "Xieng Ngeun",
+        "en": "Xieng Ngeun",
+        "slug": "xieng-ngeun-lp-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-11",
+        "level": 2,
+        "name": {
+          "local": "Xieng Ngeun",
+          "en": "Xieng Ngeun",
+          "slug": "xieng-ngeun-lp-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.807",
+      "lon": "102.253"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11223848",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phatheung-Gnai",
+      "en": "Ban Phatheung-Gnai",
+      "slug": "ban-phatheung-gnai-11223848"
+    },
+    "code": {
+      "id": "11223848",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-11",
+      "level": 2,
+      "name": {
+        "local": "Xieng Ngeun",
+        "en": "Xieng Ngeun",
+        "slug": "xieng-ngeun-lp-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-11",
+        "level": 2,
+        "name": {
+          "local": "Xieng Ngeun",
+          "en": "Xieng Ngeun",
+          "slug": "xieng-ngeun-lp-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.809",
+      "lon": "102.274"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1952482",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phathoung",
+      "en": "Ban Phathoung",
+      "slug": "ban-phathoung-1952482"
+    },
+    "code": {
+      "id": "1952482",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-11",
+      "level": 2,
+      "name": {
+        "local": "Xieng Ngeun",
+        "en": "Xieng Ngeun",
+        "slug": "xieng-ngeun-lp-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-11",
+        "level": 2,
+        "name": {
+          "local": "Xieng Ngeun",
+          "en": "Xieng Ngeun",
+          "slug": "xieng-ngeun-lp-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.573",
+      "lon": "102.11"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1660104",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phia Lat",
+      "en": "Ban Phia Lat",
+      "slug": "ban-phia-lat-1660104"
+    },
+    "code": {
+      "id": "1660104",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-11",
+      "level": 2,
+      "name": {
+        "local": "Xieng Ngeun",
+        "en": "Xieng Ngeun",
+        "slug": "xieng-ngeun-lp-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-11",
+        "level": 2,
+        "name": {
+          "local": "Xieng Ngeun",
+          "en": "Xieng Ngeun",
+          "slug": "xieng-ngeun-lp-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.683",
+      "lon": "102.55"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1660094",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phia Luong (2)",
+      "en": "Ban Phia Luong (2)",
+      "slug": "ban-phia-luong-2-1660094"
+    },
+    "code": {
+      "id": "1660094",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-11",
+      "level": 2,
+      "name": {
+        "local": "Xieng Ngeun",
+        "en": "Xieng Ngeun",
+        "slug": "xieng-ngeun-lp-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-11",
+        "level": 2,
+        "name": {
+          "local": "Xieng Ngeun",
+          "en": "Xieng Ngeun",
+          "slug": "xieng-ngeun-lp-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.6",
+      "lon": "102.35"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1660041",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Pho Chong",
+      "en": "Ban Pho Chong",
+      "slug": "ban-pho-chong-1660041"
+    },
+    "code": {
+      "id": "1660041",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-11",
+      "level": 2,
+      "name": {
+        "local": "Xieng Ngeun",
+        "en": "Xieng Ngeun",
+        "slug": "xieng-ngeun-lp-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-11",
+        "level": 2,
+        "name": {
+          "local": "Xieng Ngeun",
+          "en": "Xieng Ngeun",
+          "slug": "xieng-ngeun-lp-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.567",
+      "lon": "102.333"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1660009",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Pho Khun",
+      "en": "Ban Pho Khun",
+      "slug": "ban-pho-khun-1660009"
+    },
+    "code": {
+      "id": "1660009",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-11",
+      "level": 2,
+      "name": {
+        "local": "Xieng Ngeun",
+        "en": "Xieng Ngeun",
+        "slug": "xieng-ngeun-lp-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-11",
+        "level": 2,
+        "name": {
+          "local": "Xieng Ngeun",
+          "en": "Xieng Ngeun",
+          "slug": "xieng-ngeun-lp-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.6",
+      "lon": "102.317"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1659847",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Pho Pha",
+      "en": "Ban Pho Pha",
+      "slug": "ban-pho-pha-1659847"
+    },
+    "code": {
+      "id": "1659847",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-11",
+      "level": 2,
+      "name": {
+        "local": "Xieng Ngeun",
+        "en": "Xieng Ngeun",
+        "slug": "xieng-ngeun-lp-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-11",
+        "level": 2,
+        "name": {
+          "local": "Xieng Ngeun",
+          "en": "Xieng Ngeun",
+          "slug": "xieng-ngeun-lp-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.55",
+      "lon": "102.333"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1659838",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Pho Set",
+      "en": "Ban Pho Set",
+      "slug": "ban-pho-set-1659838"
+    },
+    "code": {
+      "id": "1659838",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-11",
+      "level": 2,
+      "name": {
+        "local": "Xieng Ngeun",
+        "en": "Xieng Ngeun",
+        "slug": "xieng-ngeun-lp-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-11",
+        "level": 2,
+        "name": {
+          "local": "Xieng Ngeun",
+          "en": "Xieng Ngeun",
+          "slug": "xieng-ngeun-lp-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.8",
+      "lon": "102.35"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1660036",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phodit",
+      "en": "Ban Phodit",
+      "slug": "ban-phodit-1660036"
+    },
+    "code": {
+      "id": "1660036",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-11",
+      "level": 2,
+      "name": {
+        "local": "Xieng Ngeun",
+        "en": "Xieng Ngeun",
+        "slug": "xieng-ngeun-lp-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-11",
+        "level": 2,
+        "name": {
+          "local": "Xieng Ngeun",
+          "en": "Xieng Ngeun",
+          "slug": "xieng-ngeun-lp-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.8",
+      "lon": "102.217"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1660026",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phokang",
+      "en": "Ban Phokang",
+      "slug": "ban-phokang-1660026"
+    },
+    "code": {
+      "id": "1660026",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-11",
+      "level": 2,
+      "name": {
+        "local": "Xieng Ngeun",
+        "en": "Xieng Ngeun",
+        "slug": "xieng-ngeun-lp-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-11",
+        "level": 2,
+        "name": {
+          "local": "Xieng Ngeun",
+          "en": "Xieng Ngeun",
+          "slug": "xieng-ngeun-lp-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.576",
+      "lon": "102.292"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11223827",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phônsavang Lek Sam",
+      "en": "Ban Phonsavang Lek Sam",
+      "slug": "ban-phonsavang-lek-sam-11223827"
+    },
+    "code": {
+      "id": "11223827",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-11",
+      "level": 2,
+      "name": {
+        "local": "Xieng Ngeun",
+        "en": "Xieng Ngeun",
+        "slug": "xieng-ngeun-lp-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-11",
+        "level": 2,
+        "name": {
+          "local": "Xieng Ngeun",
+          "en": "Xieng Ngeun",
+          "slug": "xieng-ngeun-lp-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.712",
+      "lon": "102.142"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11223780",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phônsavang Lek Si",
+      "en": "Ban Phonsavang Lek Si",
+      "slug": "ban-phonsavang-lek-si-11223780"
+    },
+    "code": {
+      "id": "11223780",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-11",
+      "level": 2,
+      "name": {
+        "local": "Xieng Ngeun",
+        "en": "Xieng Ngeun",
+        "slug": "xieng-ngeun-lp-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-11",
+        "level": 2,
+        "name": {
+          "local": "Xieng Ngeun",
+          "en": "Xieng Ngeun",
+          "slug": "xieng-ngeun-lp-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.706",
+      "lon": "102.139"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11223778",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phônxai-Gnai",
+      "en": "Ban Phonxai-Gnai",
+      "slug": "ban-phonxai-gnai-11223778"
+    },
+    "code": {
+      "id": "11223778",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-11",
+      "level": 2,
+      "name": {
+        "local": "Xieng Ngeun",
+        "en": "Xieng Ngeun",
+        "slug": "xieng-ngeun-lp-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-11",
+        "level": 2,
+        "name": {
+          "local": "Xieng Ngeun",
+          "en": "Xieng Ngeun",
+          "slug": "xieng-ngeun-lp-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.694",
+      "lon": "102.128"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11223779",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phônxai-Noi",
+      "en": "Ban Phonxai-Noi",
+      "slug": "ban-phonxai-noi-11223779"
+    },
+    "code": {
+      "id": "11223779",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-11",
+      "level": 2,
+      "name": {
+        "local": "Xieng Ngeun",
+        "en": "Xieng Ngeun",
+        "slug": "xieng-ngeun-lp-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-11",
+        "level": 2,
+        "name": {
+          "local": "Xieng Ngeun",
+          "en": "Xieng Ngeun",
+          "slug": "xieng-ngeun-lp-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.698",
+      "lon": "102.13"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1659718",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phoua",
+      "en": "Ban Phoua",
+      "slug": "ban-phoua-1659718"
+    },
+    "code": {
+      "id": "1659718",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-11",
+      "level": 2,
+      "name": {
+        "local": "Xieng Ngeun",
+        "en": "Xieng Ngeun",
+        "slug": "xieng-ngeun-lp-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-11",
+        "level": 2,
+        "name": {
+          "local": "Xieng Ngeun",
+          "en": "Xieng Ngeun",
+          "slug": "xieng-ngeun-lp-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.68",
+      "lon": "102.201"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1952436",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phoukengkung",
+      "en": "Ban Phoukengkung",
+      "slug": "ban-phoukengkung-1952436"
+    },
+    "code": {
+      "id": "1952436",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-11",
+      "level": 2,
+      "name": {
+        "local": "Xieng Ngeun",
+        "en": "Xieng Ngeun",
+        "slug": "xieng-ngeun-lp-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-11",
+        "level": 2,
+        "name": {
+          "local": "Xieng Ngeun",
+          "en": "Xieng Ngeun",
+          "slug": "xieng-ngeun-lp-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.661",
+      "lon": "102.322"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11223837",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phoukhoua",
+      "en": "Ban Phoukhoua",
+      "slug": "ban-phoukhoua-11223837"
+    },
+    "code": {
+      "id": "11223837",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-11",
+      "level": 2,
+      "name": {
+        "local": "Xieng Ngeun",
+        "en": "Xieng Ngeun",
+        "slug": "xieng-ngeun-lp-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-11",
+        "level": 2,
+        "name": {
+          "local": "Xieng Ngeun",
+          "en": "Xieng Ngeun",
+          "slug": "xieng-ngeun-lp-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.707",
+      "lon": "102.243"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1952444",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Pinthong",
+      "en": "Ban Pinthong",
+      "slug": "ban-pinthong-1952444"
+    },
+    "code": {
+      "id": "1952444",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-11",
+      "level": 2,
+      "name": {
+        "local": "Xieng Ngeun",
+        "en": "Xieng Ngeun",
+        "slug": "xieng-ngeun-lp-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-11",
+        "level": 2,
+        "name": {
+          "local": "Xieng Ngeun",
+          "en": "Xieng Ngeun",
+          "slug": "xieng-ngeun-lp-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.629",
+      "lon": "102.067"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1659565",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Sa",
+      "en": "Ban Sa",
+      "slug": "ban-sa-1659565"
+    },
+    "code": {
+      "id": "1659565",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-11",
+      "level": 2,
+      "name": {
+        "local": "Xieng Ngeun",
+        "en": "Xieng Ngeun",
+        "slug": "xieng-ngeun-lp-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-11",
+        "level": 2,
+        "name": {
+          "local": "Xieng Ngeun",
+          "en": "Xieng Ngeun",
+          "slug": "xieng-ngeun-lp-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.783",
+      "lon": "102.2"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1659404",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Sa-Ô",
+      "en": "Ban Sa-O",
+      "slug": "ban-sa-o-1659404"
+    },
+    "code": {
+      "id": "1659404",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-11",
+      "level": 2,
+      "name": {
+        "local": "Xieng Ngeun",
+        "en": "Xieng Ngeun",
+        "slug": "xieng-ngeun-lp-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-11",
+        "level": 2,
+        "name": {
+          "local": "Xieng Ngeun",
+          "en": "Xieng Ngeun",
+          "slug": "xieng-ngeun-lp-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.671",
+      "lon": "102.285"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1659541",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Sakhom",
+      "en": "Ban Sakhom",
+      "slug": "ban-sakhom-1659541"
+    },
+    "code": {
+      "id": "1659541",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-11",
+      "level": 2,
+      "name": {
+        "local": "Xieng Ngeun",
+        "en": "Xieng Ngeun",
+        "slug": "xieng-ngeun-lp-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-11",
+        "level": 2,
+        "name": {
+          "local": "Xieng Ngeun",
+          "en": "Xieng Ngeun",
+          "slug": "xieng-ngeun-lp-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.833",
+      "lon": "102.25"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11223782",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Samamhouaytou",
+      "en": "Ban Samamhouaytou",
+      "slug": "ban-samamhouaytou-11223782"
+    },
+    "code": {
+      "id": "11223782",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-11",
+      "level": 2,
+      "name": {
+        "local": "Xieng Ngeun",
+        "en": "Xieng Ngeun",
+        "slug": "xieng-ngeun-lp-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-11",
+        "level": 2,
+        "name": {
+          "local": "Xieng Ngeun",
+          "en": "Xieng Ngeun",
+          "slug": "xieng-ngeun-lp-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.711",
+      "lon": "102.108"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1952437",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Samoy",
+      "en": "Ban Samoy",
+      "slug": "ban-samoy-1952437"
+    },
+    "code": {
+      "id": "1952437",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-11",
+      "level": 2,
+      "name": {
+        "local": "Xieng Ngeun",
+        "en": "Xieng Ngeun",
+        "slug": "xieng-ngeun-lp-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-11",
+        "level": 2,
+        "name": {
+          "local": "Xieng Ngeun",
+          "en": "Xieng Ngeun",
+          "slug": "xieng-ngeun-lp-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.66",
+      "lon": "102.403"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1659396",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Sapheun",
+      "en": "Ban Sapheun",
+      "slug": "ban-sapheun-1659396"
+    },
+    "code": {
+      "id": "1659396",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-11",
+      "level": 2,
+      "name": {
+        "local": "Xieng Ngeun",
+        "en": "Xieng Ngeun",
+        "slug": "xieng-ngeun-lp-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-11",
+        "level": 2,
+        "name": {
+          "local": "Xieng Ngeun",
+          "en": "Xieng Ngeun",
+          "slug": "xieng-ngeun-lp-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.728",
+      "lon": "102.27"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11223839",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Sapheun",
+      "en": "Ban Sapheun",
+      "slug": "ban-sapheun-11223839"
+    },
+    "code": {
+      "id": "11223839",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-11",
+      "level": 2,
+      "name": {
+        "local": "Xieng Ngeun",
+        "en": "Xieng Ngeun",
+        "slug": "xieng-ngeun-lp-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-11",
+        "level": 2,
+        "name": {
+          "local": "Xieng Ngeun",
+          "en": "Xieng Ngeun",
+          "slug": "xieng-ngeun-lp-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.722",
+      "lon": "102.295"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1659340",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Sèn Keo",
+      "en": "Ban Sen Keo",
+      "slug": "ban-sen-keo-1659340"
+    },
+    "code": {
+      "id": "1659340",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-11",
+      "level": 2,
+      "name": {
+        "local": "Xieng Ngeun",
+        "en": "Xieng Ngeun",
+        "slug": "xieng-ngeun-lp-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-11",
+        "level": 2,
+        "name": {
+          "local": "Xieng Ngeun",
+          "en": "Xieng Ngeun",
+          "slug": "xieng-ngeun-lp-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.7",
+      "lon": "102.45"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1659278",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Sèn Not",
+      "en": "Ban Sen Not",
+      "slug": "ban-sen-not-1659278"
+    },
+    "code": {
+      "id": "1659278",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-11",
+      "level": 2,
+      "name": {
+        "local": "Xieng Ngeun",
+        "en": "Xieng Ngeun",
+        "slug": "xieng-ngeun-lp-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-11",
+        "level": 2,
+        "name": {
+          "local": "Xieng Ngeun",
+          "en": "Xieng Ngeun",
+          "slug": "xieng-ngeun-lp-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.667",
+      "lon": "102.417"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1659268",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Sèn Phôn",
+      "en": "Ban Sen Phon",
+      "slug": "ban-sen-phon-1659268"
+    },
+    "code": {
+      "id": "1659268",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-11",
+      "level": 2,
+      "name": {
+        "local": "Xieng Ngeun",
+        "en": "Xieng Ngeun",
+        "slug": "xieng-ngeun-lp-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-11",
+        "level": 2,
+        "name": {
+          "local": "Xieng Ngeun",
+          "en": "Xieng Ngeun",
+          "slug": "xieng-ngeun-lp-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.783",
+      "lon": "102.383"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11223832",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Sèn-Oudôm",
+      "en": "Ban Sen-Oudom",
+      "slug": "ban-sen-oudom-11223832"
+    },
+    "code": {
+      "id": "11223832",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-11",
+      "level": 2,
+      "name": {
+        "local": "Xieng Ngeun",
+        "en": "Xieng Ngeun",
+        "slug": "xieng-ngeun-lp-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-11",
+        "level": 2,
+        "name": {
+          "local": "Xieng Ngeun",
+          "en": "Xieng Ngeun",
+          "slug": "xieng-ngeun-lp-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.676",
+      "lon": "102.158"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11223831",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Sènkoun",
+      "en": "Ban Senkoun",
+      "slug": "ban-senkoun-11223831"
+    },
+    "code": {
+      "id": "11223831",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-11",
+      "level": 2,
+      "name": {
+        "local": "Xieng Ngeun",
+        "en": "Xieng Ngeun",
+        "slug": "xieng-ngeun-lp-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-11",
+        "level": 2,
+        "name": {
+          "local": "Xieng Ngeun",
+          "en": "Xieng Ngeun",
+          "slug": "xieng-ngeun-lp-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.68",
+      "lon": "102.158"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1659277",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Sènpan-Gna",
+      "en": "Ban Senpan-Gna",
+      "slug": "ban-senpan-gna-1659277"
+    },
+    "code": {
+      "id": "1659277",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-11",
+      "level": 2,
+      "name": {
+        "local": "Xieng Ngeun",
+        "en": "Xieng Ngeun",
+        "slug": "xieng-ngeun-lp-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-11",
+        "level": 2,
+        "name": {
+          "local": "Xieng Ngeun",
+          "en": "Xieng Ngeun",
+          "slug": "xieng-ngeun-lp-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.826",
+      "lon": "102.165"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1659272",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Sènphakdi",
+      "en": "Ban Senphakdi",
+      "slug": "ban-senphakdi-1659272"
+    },
+    "code": {
+      "id": "1659272",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-11",
+      "level": 2,
+      "name": {
+        "local": "Xieng Ngeun",
+        "en": "Xieng Ngeun",
+        "slug": "xieng-ngeun-lp-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-11",
+        "level": 2,
+        "name": {
+          "local": "Xieng Ngeun",
+          "en": "Xieng Ngeun",
+          "slug": "xieng-ngeun-lp-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.8",
+      "lon": "102.233"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1952446",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Silalék",
+      "en": "Ban Silalek",
+      "slug": "ban-silalek-1952446"
+    },
+    "code": {
+      "id": "1952446",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-11",
+      "level": 2,
+      "name": {
+        "local": "Xieng Ngeun",
+        "en": "Xieng Ngeun",
+        "slug": "xieng-ngeun-lp-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-11",
+        "level": 2,
+        "name": {
+          "local": "Xieng Ngeun",
+          "en": "Xieng Ngeun",
+          "slug": "xieng-ngeun-lp-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.617",
+      "lon": "102.05"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11223810",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Simoungkhoun",
+      "en": "Ban Simoungkhoun",
+      "slug": "ban-simoungkhoun-11223810"
+    },
+    "code": {
+      "id": "11223810",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-11",
+      "level": 2,
+      "name": {
+        "local": "Xieng Ngeun",
+        "en": "Xieng Ngeun",
+        "slug": "xieng-ngeun-lp-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-11",
+        "level": 2,
+        "name": {
+          "local": "Xieng Ngeun",
+          "en": "Xieng Ngeun",
+          "slug": "xieng-ngeun-lp-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.802",
+      "lon": "102.194"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11223859",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Sômmoun",
+      "en": "Ban Sommoun",
+      "slug": "ban-sommoun-11223859"
+    },
+    "code": {
+      "id": "11223859",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-11",
+      "level": 2,
+      "name": {
+        "local": "Xieng Ngeun",
+        "en": "Xieng Ngeun",
+        "slug": "xieng-ngeun-lp-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-11",
+        "level": 2,
+        "name": {
+          "local": "Xieng Ngeun",
+          "en": "Xieng Ngeun",
+          "slug": "xieng-ngeun-lp-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.677",
+      "lon": "102.375"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1659057",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Sôpchoun",
+      "en": "Ban Sopchoun",
+      "slug": "ban-sopchoun-1659057"
+    },
+    "code": {
+      "id": "1659057",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-11",
+      "level": 2,
+      "name": {
+        "local": "Xieng Ngeun",
+        "en": "Xieng Ngeun",
+        "slug": "xieng-ngeun-lp-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-11",
+        "level": 2,
+        "name": {
+          "local": "Xieng Ngeun",
+          "en": "Xieng Ngeun",
+          "slug": "xieng-ngeun-lp-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.699",
+      "lon": "102.54"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1657995",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Souan",
+      "en": "Ban Souan",
+      "slug": "ban-souan-1657995"
+    },
+    "code": {
+      "id": "1657995",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-11",
+      "level": 2,
+      "name": {
+        "local": "Xieng Ngeun",
+        "en": "Xieng Ngeun",
+        "slug": "xieng-ngeun-lp-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-11",
+        "level": 2,
+        "name": {
+          "local": "Xieng Ngeun",
+          "en": "Xieng Ngeun",
+          "slug": "xieng-ngeun-lp-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.82",
+      "lon": "102.21"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11223809",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Souanlouang",
+      "en": "Ban Souanlouang",
+      "slug": "ban-souanlouang-11223809"
+    },
+    "code": {
+      "id": "11223809",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-11",
+      "level": 2,
+      "name": {
+        "local": "Xieng Ngeun",
+        "en": "Xieng Ngeun",
+        "slug": "xieng-ngeun-lp-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-11",
+        "level": 2,
+        "name": {
+          "local": "Xieng Ngeun",
+          "en": "Xieng Ngeun",
+          "slug": "xieng-ngeun-lp-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.807",
+      "lon": "102.2"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1952468",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Taiphakhao",
+      "en": "Ban Taiphakhao",
+      "slug": "ban-taiphakhao-1952468"
+    },
+    "code": {
+      "id": "1952468",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-11",
+      "level": 2,
+      "name": {
+        "local": "Xieng Ngeun",
+        "en": "Xieng Ngeun",
+        "slug": "xieng-ngeun-lp-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-11",
+        "level": 2,
+        "name": {
+          "local": "Xieng Ngeun",
+          "en": "Xieng Ngeun",
+          "slug": "xieng-ngeun-lp-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.586",
+      "lon": "102.363"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1658962",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Talèn",
+      "en": "Ban Talen",
+      "slug": "ban-talen-1658962"
+    },
+    "code": {
+      "id": "1658962",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-11",
+      "level": 2,
+      "name": {
+        "local": "Xieng Ngeun",
+        "en": "Xieng Ngeun",
+        "slug": "xieng-ngeun-lp-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-11",
+        "level": 2,
+        "name": {
+          "local": "Xieng Ngeun",
+          "en": "Xieng Ngeun",
+          "slug": "xieng-ngeun-lp-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.733",
+      "lon": "102.323"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1658837",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Taovang",
+      "en": "Ban Taovang",
+      "slug": "ban-taovang-1658837"
+    },
+    "code": {
+      "id": "1658837",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-11",
+      "level": 2,
+      "name": {
+        "local": "Xieng Ngeun",
+        "en": "Xieng Ngeun",
+        "slug": "xieng-ngeun-lp-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-11",
+        "level": 2,
+        "name": {
+          "local": "Xieng Ngeun",
+          "en": "Xieng Ngeun",
+          "slug": "xieng-ngeun-lp-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.833",
+      "lon": "102.233"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1658629",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Thao Doung",
+      "en": "Ban Thao Doung",
+      "slug": "ban-thao-doung-1658629"
+    },
+    "code": {
+      "id": "1658629",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-11",
+      "level": 2,
+      "name": {
+        "local": "Xieng Ngeun",
+        "en": "Xieng Ngeun",
+        "slug": "xieng-ngeun-lp-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-11",
+        "level": 2,
+        "name": {
+          "local": "Xieng Ngeun",
+          "en": "Xieng Ngeun",
+          "slug": "xieng-ngeun-lp-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.667",
+      "lon": "102.45"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1658627",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Thao Khing",
+      "en": "Ban Thao Khing",
+      "slug": "ban-thao-khing-1658627"
+    },
+    "code": {
+      "id": "1658627",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-11",
+      "level": 2,
+      "name": {
+        "local": "Xieng Ngeun",
+        "en": "Xieng Ngeun",
+        "slug": "xieng-ngeun-lp-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-11",
+        "level": 2,
+        "name": {
+          "local": "Xieng Ngeun",
+          "en": "Xieng Ngeun",
+          "slug": "xieng-ngeun-lp-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.65",
+      "lon": "102.533"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1658623",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Thaolat",
+      "en": "Ban Thaolat",
+      "slug": "ban-thaolat-1658623"
+    },
+    "code": {
+      "id": "1658623",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-11",
+      "level": 2,
+      "name": {
+        "local": "Xieng Ngeun",
+        "en": "Xieng Ngeun",
+        "slug": "xieng-ngeun-lp-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-11",
+        "level": 2,
+        "name": {
+          "local": "Xieng Ngeun",
+          "en": "Xieng Ngeun",
+          "slug": "xieng-ngeun-lp-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.817",
+      "lon": "102.233"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11223836",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Thin",
+      "en": "Ban Thin",
+      "slug": "ban-thin-11223836"
+    },
+    "code": {
+      "id": "11223836",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-11",
+      "level": 2,
+      "name": {
+        "local": "Xieng Ngeun",
+        "en": "Xieng Ngeun",
+        "slug": "xieng-ngeun-lp-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-11",
+        "level": 2,
+        "name": {
+          "local": "Xieng Ngeun",
+          "en": "Xieng Ngeun",
+          "slug": "xieng-ngeun-lp-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.703",
+      "lon": "102.256"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13433525",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Thin",
+      "en": "Ban Thin",
+      "slug": "ban-thin-13433525"
+    },
+    "code": {
+      "id": "13433525",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-11",
+      "level": 2,
+      "name": {
+        "local": "Xieng Ngeun",
+        "en": "Xieng Ngeun",
+        "slug": "xieng-ngeun-lp-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-11",
+        "level": 2,
+        "name": {
+          "local": "Xieng Ngeun",
+          "en": "Xieng Ngeun",
+          "slug": "xieng-ngeun-lp-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.685",
+      "lon": "102.119"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1658373",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Tonh",
+      "en": "Ban Tonh",
+      "slug": "ban-tonh-1658373"
+    },
+    "code": {
+      "id": "1658373",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-11",
+      "level": 2,
+      "name": {
+        "local": "Xieng Ngeun",
+        "en": "Xieng Ngeun",
+        "slug": "xieng-ngeun-lp-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-11",
+        "level": 2,
+        "name": {
+          "local": "Xieng Ngeun",
+          "en": "Xieng Ngeun",
+          "slug": "xieng-ngeun-lp-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.717",
+      "lon": "102.3"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1952441",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Vangpang",
+      "en": "Ban Vangpang",
+      "slug": "ban-vangpang-1952441"
+    },
+    "code": {
+      "id": "1952441",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-11",
+      "level": 2,
+      "name": {
+        "local": "Xieng Ngeun",
+        "en": "Xieng Ngeun",
+        "slug": "xieng-ngeun-lp-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-11",
+        "level": 2,
+        "name": {
+          "local": "Xieng Ngeun",
+          "en": "Xieng Ngeun",
+          "slug": "xieng-ngeun-lp-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.64",
+      "lon": "102.193"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1952499",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Vay",
+      "en": "Ban Vay",
+      "slug": "ban-vay-1952499"
+    },
+    "code": {
+      "id": "1952499",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-11",
+      "level": 2,
+      "name": {
+        "local": "Xieng Ngeun",
+        "en": "Xieng Ngeun",
+        "slug": "xieng-ngeun-lp-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-11",
+        "level": 2,
+        "name": {
+          "local": "Xieng Ngeun",
+          "en": "Xieng Ngeun",
+          "slug": "xieng-ngeun-lp-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.533",
+      "lon": "102.317"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11223790",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Vèt",
+      "en": "Ban Vet",
+      "slug": "ban-vet-11223790"
+    },
+    "code": {
+      "id": "11223790",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-11",
+      "level": 2,
+      "name": {
+        "local": "Xieng Ngeun",
+        "en": "Xieng Ngeun",
+        "slug": "xieng-ngeun-lp-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-11",
+        "level": 2,
+        "name": {
+          "local": "Xieng Ngeun",
+          "en": "Xieng Ngeun",
+          "slug": "xieng-ngeun-lp-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.779",
+      "lon": "102.156"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11223840",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Viangxai",
+      "en": "Ban Viangxai",
+      "slug": "ban-viangxai-11223840"
+    },
+    "code": {
+      "id": "11223840",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-11",
+      "level": 2,
+      "name": {
+        "local": "Xieng Ngeun",
+        "en": "Xieng Ngeun",
+        "slug": "xieng-ngeun-lp-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-11",
+        "level": 2,
+        "name": {
+          "local": "Xieng Ngeun",
+          "en": "Xieng Ngeun",
+          "slug": "xieng-ngeun-lp-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.741",
+      "lon": "102.275"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1655073",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Xiang-Ngeun",
+      "en": "Ban Xiang-Ngeun",
+      "slug": "ban-xiang-ngeun-1655073"
+    },
+    "code": {
+      "id": "1655073",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-11",
+      "level": 2,
+      "name": {
+        "local": "Xieng Ngeun",
+        "en": "Xieng Ngeun",
+        "slug": "xieng-ngeun-lp-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-11",
+        "level": 2,
+        "name": {
+          "local": "Xieng Ngeun",
+          "en": "Xieng Ngeun",
+          "slug": "xieng-ngeun-lp-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.759",
+      "lon": "102.182"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1658037",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Xiangmi",
+      "en": "Ban Xiangmi",
+      "slug": "ban-xiangmi-1658037"
+    },
+    "code": {
+      "id": "1658037",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-11",
+      "level": 2,
+      "name": {
+        "local": "Xieng Ngeun",
+        "en": "Xieng Ngeun",
+        "slug": "xieng-ngeun-lp-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-11",
+        "level": 2,
+        "name": {
+          "local": "Xieng Ngeun",
+          "en": "Xieng Ngeun",
+          "slug": "xieng-ngeun-lp-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.846",
+      "lon": "102.236"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1658019",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Xieng Hat Sadi",
+      "en": "Ban Xieng Hat Sadi",
+      "slug": "ban-xieng-hat-sadi-1658019"
+    },
+    "code": {
+      "id": "1658019",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-11",
+      "level": 2,
+      "name": {
+        "local": "Xieng Ngeun",
+        "en": "Xieng Ngeun",
+        "slug": "xieng-ngeun-lp-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-11",
+        "level": 2,
+        "name": {
+          "local": "Xieng Ngeun",
+          "en": "Xieng Ngeun",
+          "slug": "xieng-ngeun-lp-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.7",
+      "lon": "102.233"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1653530",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Sala Ban Thin",
+      "en": "Sala Ban Thin",
+      "slug": "sala-ban-thin-1653530"
+    },
+    "code": {
+      "id": "1653530",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-11",
+      "level": 2,
+      "name": {
+        "local": "Xieng Ngeun",
+        "en": "Xieng Ngeun",
+        "slug": "xieng-ngeun-lp-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-11",
+        "level": 2,
+        "name": {
+          "local": "Xieng Ngeun",
+          "en": "Xieng Ngeun",
+          "slug": "xieng-ngeun-lp-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.733",
+      "lon": "102.15"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1653522",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Sala Ming",
+      "en": "Sala Ming",
+      "slug": "sala-ming-1653522"
+    },
+    "code": {
+      "id": "1653522",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP-11",
+      "level": 2,
+      "name": {
+        "local": "Xieng Ngeun",
+        "en": "Xieng Ngeun",
+        "slug": "xieng-ngeun-lp-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      },
+      {
+        "id": "LP-11",
+        "level": 2,
+        "name": {
+          "local": "Xieng Ngeun",
+          "en": "Xieng Ngeun",
+          "slug": "xieng-ngeun-lp-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.617",
+      "lon": "102.2"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

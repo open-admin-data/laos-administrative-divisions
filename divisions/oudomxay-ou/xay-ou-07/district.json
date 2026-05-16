@@ -1,0 +1,47 @@
+{
+  "id": "OU-07",
+  "level": 2,
+  "level_name": {
+    "local": "ເມືອງ",
+    "en": "District"
+  },
+  "name": {
+    "local": "Xay",
+    "en": "Xay",
+    "slug": "xay-ou-07"
+  },
+  "code": {
+    "id": "OU-07",
+    "iso": null
+  },
+  "parent": {
+    "id": "OU",
+    "level": 1,
+    "name": {
+      "local": "Oudomxay",
+      "en": "Oudomxay",
+      "slug": "oudomxay-ou"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "OU",
+      "level": 1,
+      "name": {
+        "local": "Oudomxay",
+        "en": "Oudomxay",
+        "slug": "oudomxay-ou"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 169
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "20.678",
+    "lon": "101.969"
+  },
+  "metadata": {},
+  "source": {}
+}

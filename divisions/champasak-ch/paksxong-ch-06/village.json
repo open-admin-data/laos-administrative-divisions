@@ -1,0 +1,6428 @@
+[
+  {
+    "id": "11201152",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Batout",
+      "en": "Ban Batout",
+      "slug": "ban-batout-11201152"
+    },
+    "code": {
+      "id": "11201152",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH-06",
+      "level": 2,
+      "name": {
+        "local": "Paksxong",
+        "en": "Paksxong",
+        "slug": "paksxong-ch-06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH",
+        "level": 1,
+        "name": {
+          "local": "Champasak",
+          "en": "Champasak",
+          "slug": "champasak-ch"
+        }
+      },
+      {
+        "id": "CH-06",
+        "level": 2,
+        "name": {
+          "local": "Paksxong",
+          "en": "Paksxong",
+          "slug": "paksxong-ch-06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.003",
+      "lon": "106.56"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11200623",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Bèng",
+      "en": "Ban Beng",
+      "slug": "ban-beng-11200623"
+    },
+    "code": {
+      "id": "11200623",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH-06",
+      "level": 2,
+      "name": {
+        "local": "Paksxong",
+        "en": "Paksxong",
+        "slug": "paksxong-ch-06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH",
+        "level": 1,
+        "name": {
+          "local": "Champasak",
+          "en": "Champasak",
+          "slug": "champasak-ch"
+        }
+      },
+      {
+        "id": "CH-06",
+        "level": 2,
+        "name": {
+          "local": "Paksxong",
+          "en": "Paksxong",
+          "slug": "paksxong-ch-06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.245",
+      "lon": "106.316"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11201166",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Chavèo",
+      "en": "Ban Chaveo",
+      "slug": "ban-chaveo-11201166"
+    },
+    "code": {
+      "id": "11201166",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH-06",
+      "level": 2,
+      "name": {
+        "local": "Paksxong",
+        "en": "Paksxong",
+        "slug": "paksxong-ch-06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH",
+        "level": 1,
+        "name": {
+          "local": "Champasak",
+          "en": "Champasak",
+          "slug": "champasak-ch"
+        }
+      },
+      {
+        "id": "CH-06",
+        "level": 2,
+        "name": {
+          "local": "Paksxong",
+          "en": "Paksxong",
+          "slug": "paksxong-ch-06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.091",
+      "lon": "106.694"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11200275",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Chuang",
+      "en": "Ban Chuang",
+      "slug": "ban-chuang-11200275"
+    },
+    "code": {
+      "id": "11200275",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH-06",
+      "level": 2,
+      "name": {
+        "local": "Paksxong",
+        "en": "Paksxong",
+        "slug": "paksxong-ch-06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH",
+        "level": 1,
+        "name": {
+          "local": "Champasak",
+          "en": "Champasak",
+          "slug": "champasak-ch"
+        }
+      },
+      {
+        "id": "CH-06",
+        "level": 2,
+        "name": {
+          "local": "Paksxong",
+          "en": "Paksxong",
+          "slug": "paksxong-ch-06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.338",
+      "lon": "106.339"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11201147",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Cupaxa",
+      "en": "Ban Cupaxa",
+      "slug": "ban-cupaxa-11201147"
+    },
+    "code": {
+      "id": "11201147",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH-06",
+      "level": 2,
+      "name": {
+        "local": "Paksxong",
+        "en": "Paksxong",
+        "slug": "paksxong-ch-06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH",
+        "level": 1,
+        "name": {
+          "local": "Champasak",
+          "en": "Champasak",
+          "slug": "champasak-ch"
+        }
+      },
+      {
+        "id": "CH-06",
+        "level": 2,
+        "name": {
+          "local": "Paksxong",
+          "en": "Paksxong",
+          "slug": "paksxong-ch-06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.103",
+      "lon": "106.544"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1664283",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Gnik",
+      "en": "Ban Gnik",
+      "slug": "ban-gnik-1664283"
+    },
+    "code": {
+      "id": "1664283",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH-06",
+      "level": 2,
+      "name": {
+        "local": "Paksxong",
+        "en": "Paksxong",
+        "slug": "paksxong-ch-06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH",
+        "level": 1,
+        "name": {
+          "local": "Champasak",
+          "en": "Champasak",
+          "slug": "champasak-ch"
+        }
+      },
+      {
+        "id": "CH-06",
+        "level": 2,
+        "name": {
+          "local": "Paksxong",
+          "en": "Paksxong",
+          "slug": "paksxong-ch-06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.167",
+      "lon": "106.067"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1664074",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Hinlap",
+      "en": "Ban Hinlap",
+      "slug": "ban-hinlap-1664074"
+    },
+    "code": {
+      "id": "1664074",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH-06",
+      "level": 2,
+      "name": {
+        "local": "Paksxong",
+        "en": "Paksxong",
+        "slug": "paksxong-ch-06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH",
+        "level": 1,
+        "name": {
+          "local": "Champasak",
+          "en": "Champasak",
+          "slug": "champasak-ch"
+        }
+      },
+      {
+        "id": "CH-06",
+        "level": 2,
+        "name": {
+          "local": "Paksxong",
+          "en": "Paksxong",
+          "slug": "paksxong-ch-06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.042",
+      "lon": "106.338"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11200559",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houaychiat",
+      "en": "Ban Houaychiat",
+      "slug": "ban-houaychiat-11200559"
+    },
+    "code": {
+      "id": "11200559",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH-06",
+      "level": 2,
+      "name": {
+        "local": "Paksxong",
+        "en": "Paksxong",
+        "slug": "paksxong-ch-06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH",
+        "level": 1,
+        "name": {
+          "local": "Champasak",
+          "en": "Champasak",
+          "slug": "champasak-ch"
+        }
+      },
+      {
+        "id": "CH-06",
+        "level": 2,
+        "name": {
+          "local": "Paksxong",
+          "en": "Paksxong",
+          "slug": "paksxong-ch-06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.206",
+      "lon": "106.103"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11201150",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houaychot",
+      "en": "Ban Houaychot",
+      "slug": "ban-houaychot-11201150"
+    },
+    "code": {
+      "id": "11201150",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH-06",
+      "level": 2,
+      "name": {
+        "local": "Paksxong",
+        "en": "Paksxong",
+        "slug": "paksxong-ch-06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH",
+        "level": 1,
+        "name": {
+          "local": "Champasak",
+          "en": "Champasak",
+          "slug": "champasak-ch"
+        }
+      },
+      {
+        "id": "CH-06",
+        "level": 2,
+        "name": {
+          "local": "Paksxong",
+          "en": "Paksxong",
+          "slug": "paksxong-ch-06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.034",
+      "lon": "106.517"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1663806",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houaykong",
+      "en": "Ban Houaykong",
+      "slug": "ban-houaykong-1663806"
+    },
+    "code": {
+      "id": "1663806",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH-06",
+      "level": 2,
+      "name": {
+        "local": "Paksxong",
+        "en": "Paksxong",
+        "slug": "paksxong-ch-06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH",
+        "level": 1,
+        "name": {
+          "local": "Champasak",
+          "en": "Champasak",
+          "slug": "champasak-ch"
+        }
+      },
+      {
+        "id": "CH-06",
+        "level": 2,
+        "name": {
+          "local": "Paksxong",
+          "en": "Paksxong",
+          "slug": "paksxong-ch-06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.127",
+      "lon": "106.521"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1663750",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houayman",
+      "en": "Ban Houayman",
+      "slug": "ban-houayman-1663750"
+    },
+    "code": {
+      "id": "1663750",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH-06",
+      "level": 2,
+      "name": {
+        "local": "Paksxong",
+        "en": "Paksxong",
+        "slug": "paksxong-ch-06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH",
+        "level": 1,
+        "name": {
+          "local": "Champasak",
+          "en": "Champasak",
+          "slug": "champasak-ch"
+        }
+      },
+      {
+        "id": "CH-06",
+        "level": 2,
+        "name": {
+          "local": "Paksxong",
+          "en": "Paksxong",
+          "slug": "paksxong-ch-06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.183",
+      "lon": "106.2"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11200557",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houaytao",
+      "en": "Ban Houaytao",
+      "slug": "ban-houaytao-11200557"
+    },
+    "code": {
+      "id": "11200557",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH-06",
+      "level": 2,
+      "name": {
+        "local": "Paksxong",
+        "en": "Paksxong",
+        "slug": "paksxong-ch-06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH",
+        "level": 1,
+        "name": {
+          "local": "Champasak",
+          "en": "Champasak",
+          "slug": "champasak-ch"
+        }
+      },
+      {
+        "id": "CH-06",
+        "level": 2,
+        "name": {
+          "local": "Paksxong",
+          "en": "Paksxong",
+          "slug": "paksxong-ch-06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.27",
+      "lon": "106.063"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11200609",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houayteuy",
+      "en": "Ban Houayteuy",
+      "slug": "ban-houayteuy-11200609"
+    },
+    "code": {
+      "id": "11200609",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH-06",
+      "level": 2,
+      "name": {
+        "local": "Paksxong",
+        "en": "Paksxong",
+        "slug": "paksxong-ch-06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH",
+        "level": 1,
+        "name": {
+          "local": "Champasak",
+          "en": "Champasak",
+          "slug": "champasak-ch"
+        }
+      },
+      {
+        "id": "CH-06",
+        "level": 2,
+        "name": {
+          "local": "Paksxong",
+          "en": "Paksxong",
+          "slug": "paksxong-ch-06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.078",
+      "lon": "106.281"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11200626",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houayvay",
+      "en": "Ban Houayvay",
+      "slug": "ban-houayvay-11200626"
+    },
+    "code": {
+      "id": "11200626",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH-06",
+      "level": 2,
+      "name": {
+        "local": "Paksxong",
+        "en": "Paksxong",
+        "slug": "paksxong-ch-06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH",
+        "level": 1,
+        "name": {
+          "local": "Champasak",
+          "en": "Champasak",
+          "slug": "champasak-ch"
+        }
+      },
+      {
+        "id": "CH-06",
+        "level": 2,
+        "name": {
+          "local": "Paksxong",
+          "en": "Paksxong",
+          "slug": "paksxong-ch-06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.313",
+      "lon": "106.321"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11200652",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houayxan",
+      "en": "Ban Houayxan",
+      "slug": "ban-houayxan-11200652"
+    },
+    "code": {
+      "id": "11200652",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH-06",
+      "level": 2,
+      "name": {
+        "local": "Paksxong",
+        "en": "Paksxong",
+        "slug": "paksxong-ch-06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH",
+        "level": 1,
+        "name": {
+          "local": "Champasak",
+          "en": "Champasak",
+          "slug": "champasak-ch"
+        }
+      },
+      {
+        "id": "CH-06",
+        "level": 2,
+        "name": {
+          "local": "Paksxong",
+          "en": "Paksxong",
+          "slug": "paksxong-ch-06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.256",
+      "lon": "106.238"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11200639",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houayxang",
+      "en": "Ban Houayxang",
+      "slug": "ban-houayxang-11200639"
+    },
+    "code": {
+      "id": "11200639",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH-06",
+      "level": 2,
+      "name": {
+        "local": "Paksxong",
+        "en": "Paksxong",
+        "slug": "paksxong-ch-06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH",
+        "level": 1,
+        "name": {
+          "local": "Champasak",
+          "en": "Champasak",
+          "slug": "champasak-ch"
+        }
+      },
+      {
+        "id": "CH-06",
+        "level": 2,
+        "name": {
+          "local": "Paksxong",
+          "en": "Paksxong",
+          "slug": "paksxong-ch-06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.082",
+      "lon": "106.383"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11200276",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houayxay",
+      "en": "Ban Houayxay",
+      "slug": "ban-houayxay-11200276"
+    },
+    "code": {
+      "id": "11200276",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH-06",
+      "level": 2,
+      "name": {
+        "local": "Paksxong",
+        "en": "Paksxong",
+        "slug": "paksxong-ch-06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH",
+        "level": 1,
+        "name": {
+          "local": "Champasak",
+          "en": "Champasak",
+          "slug": "champasak-ch"
+        }
+      },
+      {
+        "id": "CH-06",
+        "level": 2,
+        "name": {
+          "local": "Paksxong",
+          "en": "Paksxong",
+          "slug": "paksxong-ch-06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.347",
+      "lon": "106.34"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1663521",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houayxoy",
+      "en": "Ban Houayxoy",
+      "slug": "ban-houayxoy-1663521"
+    },
+    "code": {
+      "id": "1663521",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH-06",
+      "level": 2,
+      "name": {
+        "local": "Paksxong",
+        "en": "Paksxong",
+        "slug": "paksxong-ch-06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH",
+        "level": 1,
+        "name": {
+          "local": "Champasak",
+          "en": "Champasak",
+          "slug": "champasak-ch"
+        }
+      },
+      {
+        "id": "CH-06",
+        "level": 2,
+        "name": {
+          "local": "Paksxong",
+          "en": "Paksxong",
+          "slug": "paksxong-ch-06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.97",
+      "lon": "106.562"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11200607",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houayxoy",
+      "en": "Ban Houayxoy",
+      "slug": "ban-houayxoy-11200607"
+    },
+    "code": {
+      "id": "11200607",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH-06",
+      "level": 2,
+      "name": {
+        "local": "Paksxong",
+        "en": "Paksxong",
+        "slug": "paksxong-ch-06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH",
+        "level": 1,
+        "name": {
+          "local": "Champasak",
+          "en": "Champasak",
+          "slug": "champasak-ch"
+        }
+      },
+      {
+        "id": "CH-06",
+        "level": 2,
+        "name": {
+          "local": "Paksxong",
+          "en": "Paksxong",
+          "slug": "paksxong-ch-06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.029",
+      "lon": "106.31"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11200572",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Itou",
+      "en": "Ban Itou",
+      "slug": "ban-itou-11200572"
+    },
+    "code": {
+      "id": "11200572",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH-06",
+      "level": 2,
+      "name": {
+        "local": "Paksxong",
+        "en": "Paksxong",
+        "slug": "paksxong-ch-06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH",
+        "level": 1,
+        "name": {
+          "local": "Champasak",
+          "en": "Champasak",
+          "slug": "champasak-ch"
+        }
+      },
+      {
+        "id": "CH-06",
+        "level": 2,
+        "name": {
+          "local": "Paksxong",
+          "en": "Paksxong",
+          "slug": "paksxong-ch-06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.185",
+      "lon": "106.1"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13433242",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Kapheu",
+      "en": "Ban Kapheu",
+      "slug": "ban-kapheu-13433242"
+    },
+    "code": {
+      "id": "13433242",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH-06",
+      "level": 2,
+      "name": {
+        "local": "Paksxong",
+        "en": "Paksxong",
+        "slug": "paksxong-ch-06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH",
+        "level": 1,
+        "name": {
+          "local": "Champasak",
+          "en": "Champasak",
+          "slug": "champasak-ch"
+        }
+      },
+      {
+        "id": "CH-06",
+        "level": 2,
+        "name": {
+          "local": "Paksxong",
+          "en": "Paksxong",
+          "slug": "paksxong-ch-06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.283",
+      "lon": "106.2"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11200548",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Katouat",
+      "en": "Ban Katouat",
+      "slug": "ban-katouat-11200548"
+    },
+    "code": {
+      "id": "11200548",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH-06",
+      "level": 2,
+      "name": {
+        "local": "Paksxong",
+        "en": "Paksxong",
+        "slug": "paksxong-ch-06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH",
+        "level": 1,
+        "name": {
+          "local": "Champasak",
+          "en": "Champasak",
+          "slug": "champasak-ch"
+        }
+      },
+      {
+        "id": "CH-06",
+        "level": 2,
+        "name": {
+          "local": "Paksxong",
+          "en": "Paksxong",
+          "slug": "paksxong-ch-06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.233",
+      "lon": "106.306"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1663048",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Khagnong-Kang",
+      "en": "Ban Khagnong-Kang",
+      "slug": "ban-khagnong-kang-1663048"
+    },
+    "code": {
+      "id": "1663048",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH-06",
+      "level": 2,
+      "name": {
+        "local": "Paksxong",
+        "en": "Paksxong",
+        "slug": "paksxong-ch-06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH",
+        "level": 1,
+        "name": {
+          "local": "Champasak",
+          "en": "Champasak",
+          "slug": "champasak-ch"
+        }
+      },
+      {
+        "id": "CH-06",
+        "level": 2,
+        "name": {
+          "local": "Paksxong",
+          "en": "Paksxong",
+          "slug": "paksxong-ch-06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.264",
+      "lon": "106.239"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11200598",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Kho",
+      "en": "Ban Kho",
+      "slug": "ban-kho-11200598"
+    },
+    "code": {
+      "id": "11200598",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH-06",
+      "level": 2,
+      "name": {
+        "local": "Paksxong",
+        "en": "Paksxong",
+        "slug": "paksxong-ch-06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH",
+        "level": 1,
+        "name": {
+          "local": "Champasak",
+          "en": "Champasak",
+          "slug": "champasak-ch"
+        }
+      },
+      {
+        "id": "CH-06",
+        "level": 2,
+        "name": {
+          "local": "Paksxong",
+          "en": "Paksxong",
+          "slug": "paksxong-ch-06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.209",
+      "lon": "106.28"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1662907",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Khôt Noy",
+      "en": "Ban Khot Noy",
+      "slug": "ban-khot-noy-1662907"
+    },
+    "code": {
+      "id": "1662907",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH-06",
+      "level": 2,
+      "name": {
+        "local": "Paksxong",
+        "en": "Paksxong",
+        "slug": "paksxong-ch-06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH",
+        "level": 1,
+        "name": {
+          "local": "Champasak",
+          "en": "Champasak",
+          "slug": "champasak-ch"
+        }
+      },
+      {
+        "id": "CH-06",
+        "level": 2,
+        "name": {
+          "local": "Paksxong",
+          "en": "Paksxong",
+          "slug": "paksxong-ch-06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.233",
+      "lon": "106.083"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1662908",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Khôt-Gnai",
+      "en": "Ban Khot-Gnai",
+      "slug": "ban-khot-gnai-1662908"
+    },
+    "code": {
+      "id": "1662908",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH-06",
+      "level": 2,
+      "name": {
+        "local": "Paksxong",
+        "en": "Paksxong",
+        "slug": "paksxong-ch-06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH",
+        "level": 1,
+        "name": {
+          "local": "Champasak",
+          "en": "Champasak",
+          "slug": "champasak-ch"
+        }
+      },
+      {
+        "id": "CH-06",
+        "level": 2,
+        "name": {
+          "local": "Paksxong",
+          "en": "Paksxong",
+          "slug": "paksxong-ch-06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.23",
+      "lon": "106.076"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13433241",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Khôt-Noy",
+      "en": "Ban Khot-Noy",
+      "slug": "ban-khot-noy-13433241"
+    },
+    "code": {
+      "id": "13433241",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH-06",
+      "level": 2,
+      "name": {
+        "local": "Paksxong",
+        "en": "Paksxong",
+        "slug": "paksxong-ch-06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH",
+        "level": 1,
+        "name": {
+          "local": "Champasak",
+          "en": "Champasak",
+          "slug": "champasak-ch"
+        }
+      },
+      {
+        "id": "CH-06",
+        "level": 2,
+        "name": {
+          "local": "Paksxong",
+          "en": "Paksxong",
+          "slug": "paksxong-ch-06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.235",
+      "lon": "106.14"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1662879",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Khuang-Gnai",
+      "en": "Ban Khuang-Gnai",
+      "slug": "ban-khuang-gnai-1662879"
+    },
+    "code": {
+      "id": "1662879",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH-06",
+      "level": 2,
+      "name": {
+        "local": "Paksxong",
+        "en": "Paksxong",
+        "slug": "paksxong-ch-06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH",
+        "level": 1,
+        "name": {
+          "local": "Champasak",
+          "en": "Champasak",
+          "slug": "champasak-ch"
+        }
+      },
+      {
+        "id": "CH-06",
+        "level": 2,
+        "name": {
+          "local": "Paksxong",
+          "en": "Paksxong",
+          "slug": "paksxong-ch-06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.108",
+      "lon": "106.441"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11200273",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Kongtoun",
+      "en": "Ban Kongtoun",
+      "slug": "ban-kongtoun-11200273"
+    },
+    "code": {
+      "id": "11200273",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH-06",
+      "level": 2,
+      "name": {
+        "local": "Paksxong",
+        "en": "Paksxong",
+        "slug": "paksxong-ch-06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH",
+        "level": 1,
+        "name": {
+          "local": "Champasak",
+          "en": "Champasak",
+          "slug": "champasak-ch"
+        }
+      },
+      {
+        "id": "CH-06",
+        "level": 2,
+        "name": {
+          "local": "Paksxong",
+          "en": "Paksxong",
+          "slug": "paksxong-ch-06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.337",
+      "lon": "106.335"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11200546",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Kongtoun",
+      "en": "Ban Kongtoun",
+      "slug": "ban-kongtoun-11200546"
+    },
+    "code": {
+      "id": "11200546",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH-06",
+      "level": 2,
+      "name": {
+        "local": "Paksxong",
+        "en": "Paksxong",
+        "slug": "paksxong-ch-06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH",
+        "level": 1,
+        "name": {
+          "local": "Champasak",
+          "en": "Champasak",
+          "slug": "champasak-ch"
+        }
+      },
+      {
+        "id": "CH-06",
+        "level": 2,
+        "name": {
+          "local": "Paksxong",
+          "en": "Paksxong",
+          "slug": "paksxong-ch-06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.279",
+      "lon": "106.318"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11200547",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Kongtoun-Mai",
+      "en": "Ban Kongtoun-Mai",
+      "slug": "ban-kongtoun-mai-11200547"
+    },
+    "code": {
+      "id": "11200547",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH-06",
+      "level": 2,
+      "name": {
+        "local": "Paksxong",
+        "en": "Paksxong",
+        "slug": "paksxong-ch-06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH",
+        "level": 1,
+        "name": {
+          "local": "Champasak",
+          "en": "Champasak",
+          "slug": "champasak-ch"
+        }
+      },
+      {
+        "id": "CH-06",
+        "level": 2,
+        "name": {
+          "local": "Paksxong",
+          "en": "Paksxong",
+          "slug": "paksxong-ch-06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.277",
+      "lon": "106.328"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11200654",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Lak Ha",
+      "en": "Ban Lak Ha",
+      "slug": "ban-lak-ha-11200654"
+    },
+    "code": {
+      "id": "11200654",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH-06",
+      "level": 2,
+      "name": {
+        "local": "Paksxong",
+        "en": "Paksxong",
+        "slug": "paksxong-ch-06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH",
+        "level": 1,
+        "name": {
+          "local": "Champasak",
+          "en": "Champasak",
+          "slug": "champasak-ch"
+        }
+      },
+      {
+        "id": "CH-06",
+        "level": 2,
+        "name": {
+          "local": "Paksxong",
+          "en": "Paksxong",
+          "slug": "paksxong-ch-06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.131",
+      "lon": "106.272"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11200617",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Lak Kao",
+      "en": "Ban Lak Kao",
+      "slug": "ban-lak-kao-11200617"
+    },
+    "code": {
+      "id": "11200617",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH-06",
+      "level": 2,
+      "name": {
+        "local": "Paksxong",
+        "en": "Paksxong",
+        "slug": "paksxong-ch-06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH",
+        "level": 1,
+        "name": {
+          "local": "Champasak",
+          "en": "Champasak",
+          "slug": "champasak-ch"
+        }
+      },
+      {
+        "id": "CH-06",
+        "level": 2,
+        "name": {
+          "local": "Paksxong",
+          "en": "Paksxong",
+          "slug": "paksxong-ch-06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.185",
+      "lon": "106.325"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11200648",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Lak Sam Sip",
+      "en": "Ban Lak Sam Sip",
+      "slug": "ban-lak-sam-sip-11200648"
+    },
+    "code": {
+      "id": "11200648",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH-06",
+      "level": 2,
+      "name": {
+        "local": "Paksxong",
+        "en": "Paksxong",
+        "slug": "paksxong-ch-06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH",
+        "level": 1,
+        "name": {
+          "local": "Champasak",
+          "en": "Champasak",
+          "slug": "champasak-ch"
+        }
+      },
+      {
+        "id": "CH-06",
+        "level": 2,
+        "name": {
+          "local": "Paksxong",
+          "en": "Paksxong",
+          "slug": "paksxong-ch-06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.17",
+      "lon": "106.059"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11200656",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Lak Sam Sip Hok",
+      "en": "Ban Lak Sam Sip Hok",
+      "slug": "ban-lak-sam-sip-hok-11200656"
+    },
+    "code": {
+      "id": "11200656",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH-06",
+      "level": 2,
+      "name": {
+        "local": "Paksxong",
+        "en": "Paksxong",
+        "slug": "paksxong-ch-06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH",
+        "level": 1,
+        "name": {
+          "local": "Champasak",
+          "en": "Champasak",
+          "slug": "champasak-ch"
+        }
+      },
+      {
+        "id": "CH-06",
+        "level": 2,
+        "name": {
+          "local": "Paksxong",
+          "en": "Paksxong",
+          "slug": "paksxong-ch-06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.188",
+      "lon": "106.112"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11200647",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Lak Sam Sip Sam",
+      "en": "Ban Lak Sam Sip Sam",
+      "slug": "ban-lak-sam-sip-sam-11200647"
+    },
+    "code": {
+      "id": "11200647",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH-06",
+      "level": 2,
+      "name": {
+        "local": "Paksxong",
+        "en": "Paksxong",
+        "slug": "paksxong-ch-06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH",
+        "level": 1,
+        "name": {
+          "local": "Champasak",
+          "en": "Champasak",
+          "slug": "champasak-ch"
+        }
+      },
+      {
+        "id": "CH-06",
+        "level": 2,
+        "name": {
+          "local": "Paksxong",
+          "en": "Paksxong",
+          "slug": "paksxong-ch-06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.177",
+      "lon": "106.08"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11200646",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Lak Sam Sip Si",
+      "en": "Ban Lak Sam Sip Si",
+      "slug": "ban-lak-sam-sip-si-11200646"
+    },
+    "code": {
+      "id": "11200646",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH-06",
+      "level": 2,
+      "name": {
+        "local": "Paksxong",
+        "en": "Paksxong",
+        "slug": "paksxong-ch-06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH",
+        "level": 1,
+        "name": {
+          "local": "Champasak",
+          "en": "Champasak",
+          "slug": "champasak-ch"
+        }
+      },
+      {
+        "id": "CH-06",
+        "level": 2,
+        "name": {
+          "local": "Paksxong",
+          "en": "Paksxong",
+          "slug": "paksxong-ch-06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.181",
+      "lon": "106.091"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11200645",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Lak Si Sip",
+      "en": "Ban Lak Si Sip",
+      "slug": "ban-lak-si-sip-11200645"
+    },
+    "code": {
+      "id": "11200645",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH-06",
+      "level": 2,
+      "name": {
+        "local": "Paksxong",
+        "en": "Paksxong",
+        "slug": "paksxong-ch-06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH",
+        "level": 1,
+        "name": {
+          "local": "Champasak",
+          "en": "Champasak",
+          "slug": "champasak-ch"
+        }
+      },
+      {
+        "id": "CH-06",
+        "level": 2,
+        "name": {
+          "local": "Paksxong",
+          "en": "Paksxong",
+          "slug": "paksxong-ch-06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.191",
+      "lon": "106.144"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11200602",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Lak Si Sip Ha",
+      "en": "Ban Lak Si Sip Ha",
+      "slug": "ban-lak-si-sip-ha-11200602"
+    },
+    "code": {
+      "id": "11200602",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH-06",
+      "level": 2,
+      "name": {
+        "local": "Paksxong",
+        "en": "Paksxong",
+        "slug": "paksxong-ch-06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH",
+        "level": 1,
+        "name": {
+          "local": "Champasak",
+          "en": "Champasak",
+          "slug": "champasak-ch"
+        }
+      },
+      {
+        "id": "CH-06",
+        "level": 2,
+        "name": {
+          "local": "Paksxong",
+          "en": "Paksxong",
+          "slug": "paksxong-ch-06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.192",
+      "lon": "106.187"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11200601",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Lak Si Sip Pèt",
+      "en": "Ban Lak Si Sip Pet",
+      "slug": "ban-lak-si-sip-pet-11200601"
+    },
+    "code": {
+      "id": "11200601",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH-06",
+      "level": 2,
+      "name": {
+        "local": "Paksxong",
+        "en": "Paksxong",
+        "slug": "paksxong-ch-06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH",
+        "level": 1,
+        "name": {
+          "local": "Champasak",
+          "en": "Champasak",
+          "slug": "champasak-ch"
+        }
+      },
+      {
+        "id": "CH-06",
+        "level": 2,
+        "name": {
+          "local": "Paksxong",
+          "en": "Paksxong",
+          "slug": "paksxong-ch-06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.187",
+      "lon": "106.21"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11200604",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Lak Si Sip Si",
+      "en": "Ban Lak Si Sip Si",
+      "slug": "ban-lak-si-sip-si-11200604"
+    },
+    "code": {
+      "id": "11200604",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH-06",
+      "level": 2,
+      "name": {
+        "local": "Paksxong",
+        "en": "Paksxong",
+        "slug": "paksxong-ch-06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH",
+        "level": 1,
+        "name": {
+          "local": "Champasak",
+          "en": "Champasak",
+          "slug": "champasak-ch"
+        }
+      },
+      {
+        "id": "CH-06",
+        "level": 2,
+        "name": {
+          "local": "Paksxong",
+          "en": "Paksxong",
+          "slug": "paksxong-ch-06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.191",
+      "lon": "106.169"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11200605",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Lak Si Sip Song",
+      "en": "Ban Lak Si Sip Song",
+      "slug": "ban-lak-si-sip-song-11200605"
+    },
+    "code": {
+      "id": "11200605",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH-06",
+      "level": 2,
+      "name": {
+        "local": "Paksxong",
+        "en": "Paksxong",
+        "slug": "paksxong-ch-06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH",
+        "level": 1,
+        "name": {
+          "local": "Champasak",
+          "en": "Champasak",
+          "slug": "champasak-ch"
+        }
+      },
+      {
+        "id": "CH-06",
+        "level": 2,
+        "name": {
+          "local": "Paksxong",
+          "en": "Paksxong",
+          "slug": "paksxong-ch-06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.194",
+      "lon": "106.161"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11200618",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Lak Sip Ét",
+      "en": "Ban Lak Sip Et",
+      "slug": "ban-lak-sip-et-11200618"
+    },
+    "code": {
+      "id": "11200618",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH-06",
+      "level": 2,
+      "name": {
+        "local": "Paksxong",
+        "en": "Paksxong",
+        "slug": "paksxong-ch-06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH",
+        "level": 1,
+        "name": {
+          "local": "Champasak",
+          "en": "Champasak",
+          "slug": "champasak-ch"
+        }
+      },
+      {
+        "id": "CH-06",
+        "level": 2,
+        "name": {
+          "local": "Paksxong",
+          "en": "Paksxong",
+          "slug": "paksxong-ch-06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.183",
+      "lon": "106.339"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11200632",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Lak Sip Ha",
+      "en": "Ban Lak Sip Ha",
+      "slug": "ban-lak-sip-ha-11200632"
+    },
+    "code": {
+      "id": "11200632",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH-06",
+      "level": 2,
+      "name": {
+        "local": "Paksxong",
+        "en": "Paksxong",
+        "slug": "paksxong-ch-06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH",
+        "level": 1,
+        "name": {
+          "local": "Champasak",
+          "en": "Champasak",
+          "slug": "champasak-ch"
+        }
+      },
+      {
+        "id": "CH-06",
+        "level": 2,
+        "name": {
+          "local": "Paksxong",
+          "en": "Paksxong",
+          "slug": "paksxong-ch-06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.184",
+      "lon": "106.385"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11200643",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Lak Sip Song",
+      "en": "Ban Lak Sip Song",
+      "slug": "ban-lak-sip-song-11200643"
+    },
+    "code": {
+      "id": "11200643",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH-06",
+      "level": 2,
+      "name": {
+        "local": "Paksxong",
+        "en": "Paksxong",
+        "slug": "paksxong-ch-06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH",
+        "level": 1,
+        "name": {
+          "local": "Champasak",
+          "en": "Champasak",
+          "slug": "champasak-ch"
+        }
+      },
+      {
+        "id": "CH-06",
+        "level": 2,
+        "name": {
+          "local": "Paksxong",
+          "en": "Paksxong",
+          "slug": "paksxong-ch-06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.186",
+      "lon": "106.357"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11200649",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Lak Xao Kao",
+      "en": "Ban Lak Xao Kao",
+      "slug": "ban-lak-xao-kao-11200649"
+    },
+    "code": {
+      "id": "11200649",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH-06",
+      "level": 2,
+      "name": {
+        "local": "Paksxong",
+        "en": "Paksxong",
+        "slug": "paksxong-ch-06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH",
+        "level": 1,
+        "name": {
+          "local": "Champasak",
+          "en": "Champasak",
+          "slug": "champasak-ch"
+        }
+      },
+      {
+        "id": "CH-06",
+        "level": 2,
+        "name": {
+          "local": "Paksxong",
+          "en": "Paksxong",
+          "slug": "paksxong-ch-06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.169",
+      "lon": "106.044"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11200650",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Lak Xao Pèt",
+      "en": "Ban Lak Xao Pet",
+      "slug": "ban-lak-xao-pet-11200650"
+    },
+    "code": {
+      "id": "11200650",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH-06",
+      "level": 2,
+      "name": {
+        "local": "Paksxong",
+        "en": "Paksxong",
+        "slug": "paksxong-ch-06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH",
+        "level": 1,
+        "name": {
+          "local": "Champasak",
+          "en": "Champasak",
+          "slug": "champasak-ch"
+        }
+      },
+      {
+        "id": "CH-06",
+        "level": 2,
+        "name": {
+          "local": "Paksxong",
+          "en": "Paksxong",
+          "slug": "paksxong-ch-06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.166",
+      "lon": "106.036"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11201507",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Latsaluay",
+      "en": "Ban Latsaluay",
+      "slug": "ban-latsaluay-11201507"
+    },
+    "code": {
+      "id": "11201507",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH-06",
+      "level": 2,
+      "name": {
+        "local": "Paksxong",
+        "en": "Paksxong",
+        "slug": "paksxong-ch-06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH",
+        "level": 1,
+        "name": {
+          "local": "Champasak",
+          "en": "Champasak",
+          "slug": "champasak-ch"
+        }
+      },
+      {
+        "id": "CH-06",
+        "level": 2,
+        "name": {
+          "local": "Paksxong",
+          "en": "Paksxong",
+          "slug": "paksxong-ch-06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.872",
+      "lon": "106.589"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11201506",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Latsaluay-Nua",
+      "en": "Ban Latsaluay-Nua",
+      "slug": "ban-latsaluay-nua-11201506"
+    },
+    "code": {
+      "id": "11201506",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH-06",
+      "level": 2,
+      "name": {
+        "local": "Paksxong",
+        "en": "Paksxong",
+        "slug": "paksxong-ch-06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH",
+        "level": 1,
+        "name": {
+          "local": "Champasak",
+          "en": "Champasak",
+          "slug": "champasak-ch"
+        }
+      },
+      {
+        "id": "CH-06",
+        "level": 2,
+        "name": {
+          "local": "Paksxong",
+          "en": "Paksxong",
+          "slug": "paksxong-ch-06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.885",
+      "lon": "106.605"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1662524",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Latsasin",
+      "en": "Ban Latsasin",
+      "slug": "ban-latsasin-1662524"
+    },
+    "code": {
+      "id": "1662524",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH-06",
+      "level": 2,
+      "name": {
+        "local": "Paksxong",
+        "en": "Paksxong",
+        "slug": "paksxong-ch-06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH",
+        "level": 1,
+        "name": {
+          "local": "Champasak",
+          "en": "Champasak",
+          "slug": "champasak-ch"
+        }
+      },
+      {
+        "id": "CH-06",
+        "level": 2,
+        "name": {
+          "local": "Paksxong",
+          "en": "Paksxong",
+          "slug": "paksxong-ch-06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.054",
+      "lon": "106.602"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11200583",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Mai-Xasiomboun",
+      "en": "Ban Mai-Xasiomboun",
+      "slug": "ban-mai-xasiomboun-11200583"
+    },
+    "code": {
+      "id": "11200583",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH-06",
+      "level": 2,
+      "name": {
+        "local": "Paksxong",
+        "en": "Paksxong",
+        "slug": "paksxong-ch-06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH",
+        "level": 1,
+        "name": {
+          "local": "Champasak",
+          "en": "Champasak",
+          "slug": "champasak-ch"
+        }
+      },
+      {
+        "id": "CH-06",
+        "level": 2,
+        "name": {
+          "local": "Paksxong",
+          "en": "Paksxong",
+          "slug": "paksxong-ch-06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.294",
+      "lon": "106.1"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11200586",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nambèng-Tai",
+      "en": "Ban Nambeng-Tai",
+      "slug": "ban-nambeng-tai-11200586"
+    },
+    "code": {
+      "id": "11200586",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH-06",
+      "level": 2,
+      "name": {
+        "local": "Paksxong",
+        "en": "Paksxong",
+        "slug": "paksxong-ch-06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH",
+        "level": 1,
+        "name": {
+          "local": "Champasak",
+          "en": "Champasak",
+          "slug": "champasak-ch"
+        }
+      },
+      {
+        "id": "CH-06",
+        "level": 2,
+        "name": {
+          "local": "Paksxong",
+          "en": "Paksxong",
+          "slug": "paksxong-ch-06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.313",
+      "lon": "106.124"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11201168",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Namhan",
+      "en": "Ban Namhan",
+      "slug": "ban-namhan-11201168"
+    },
+    "code": {
+      "id": "11201168",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH-06",
+      "level": 2,
+      "name": {
+        "local": "Paksxong",
+        "en": "Paksxong",
+        "slug": "paksxong-ch-06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH",
+        "level": 1,
+        "name": {
+          "local": "Champasak",
+          "en": "Champasak",
+          "slug": "champasak-ch"
+        }
+      },
+      {
+        "id": "CH-06",
+        "level": 2,
+        "name": {
+          "local": "Paksxong",
+          "en": "Paksxong",
+          "slug": "paksxong-ch-06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.079",
+      "lon": "106.693"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11201520",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Namhan",
+      "en": "Ban Namhan",
+      "slug": "ban-namhan-11201520"
+    },
+    "code": {
+      "id": "11201520",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH-06",
+      "level": 2,
+      "name": {
+        "local": "Paksxong",
+        "en": "Paksxong",
+        "slug": "paksxong-ch-06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH",
+        "level": 1,
+        "name": {
+          "local": "Champasak",
+          "en": "Champasak",
+          "slug": "champasak-ch"
+        }
+      },
+      {
+        "id": "CH-06",
+        "level": 2,
+        "name": {
+          "local": "Paksxong",
+          "en": "Paksxong",
+          "slug": "paksxong-ch-06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.965",
+      "lon": "106.622"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11201134",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Namhoung",
+      "en": "Ban Namhoung",
+      "slug": "ban-namhoung-11201134"
+    },
+    "code": {
+      "id": "11201134",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH-06",
+      "level": 2,
+      "name": {
+        "local": "Paksxong",
+        "en": "Paksxong",
+        "slug": "paksxong-ch-06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH",
+        "level": 1,
+        "name": {
+          "local": "Champasak",
+          "en": "Champasak",
+          "slug": "champasak-ch"
+        }
+      },
+      {
+        "id": "CH-06",
+        "level": 2,
+        "name": {
+          "local": "Paksxong",
+          "en": "Paksxong",
+          "slug": "paksxong-ch-06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.164",
+      "lon": "106.561"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1661540",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Namkông",
+      "en": "Ban Namkong",
+      "slug": "ban-namkong-1661540"
+    },
+    "code": {
+      "id": "1661540",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH-06",
+      "level": 2,
+      "name": {
+        "local": "Paksxong",
+        "en": "Paksxong",
+        "slug": "paksxong-ch-06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH",
+        "level": 1,
+        "name": {
+          "local": "Champasak",
+          "en": "Champasak",
+          "slug": "champasak-ch"
+        }
+      },
+      {
+        "id": "CH-06",
+        "level": 2,
+        "name": {
+          "local": "Paksxong",
+          "en": "Paksxong",
+          "slug": "paksxong-ch-06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.981",
+      "lon": "106.579"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11201155",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Namngo-Loum",
+      "en": "Ban Namngo-Loum",
+      "slug": "ban-namngo-loum-11201155"
+    },
+    "code": {
+      "id": "11201155",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH-06",
+      "level": 2,
+      "name": {
+        "local": "Paksxong",
+        "en": "Paksxong",
+        "slug": "paksxong-ch-06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH",
+        "level": 1,
+        "name": {
+          "local": "Champasak",
+          "en": "Champasak",
+          "slug": "champasak-ch"
+        }
+      },
+      {
+        "id": "CH-06",
+        "level": 2,
+        "name": {
+          "local": "Paksxong",
+          "en": "Paksxong",
+          "slug": "paksxong-ch-06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.082",
+      "lon": "106.647"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1661496",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Namngo-Theung",
+      "en": "Ban Namngo-Theung",
+      "slug": "ban-namngo-theung-1661496"
+    },
+    "code": {
+      "id": "1661496",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH-06",
+      "level": 2,
+      "name": {
+        "local": "Paksxong",
+        "en": "Paksxong",
+        "slug": "paksxong-ch-06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH",
+        "level": 1,
+        "name": {
+          "local": "Champasak",
+          "en": "Champasak",
+          "slug": "champasak-ch"
+        }
+      },
+      {
+        "id": "CH-06",
+        "level": 2,
+        "name": {
+          "local": "Paksxong",
+          "en": "Paksxong",
+          "slug": "paksxong-ch-06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.072",
+      "lon": "106.632"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1661402",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Namtang",
+      "en": "Ban Namtang",
+      "slug": "ban-namtang-1661402"
+    },
+    "code": {
+      "id": "1661402",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH-06",
+      "level": 2,
+      "name": {
+        "local": "Paksxong",
+        "en": "Paksxong",
+        "slug": "paksxong-ch-06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH",
+        "level": 1,
+        "name": {
+          "local": "Champasak",
+          "en": "Champasak",
+          "slug": "champasak-ch"
+        }
+      },
+      {
+        "id": "CH-06",
+        "level": 2,
+        "name": {
+          "local": "Paksxong",
+          "en": "Paksxong",
+          "slug": "paksxong-ch-06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.134",
+      "lon": "106.525"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1661391",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Namtiang Gnai",
+      "en": "Ban Namtiang Gnai",
+      "slug": "ban-namtiang-gnai-1661391"
+    },
+    "code": {
+      "id": "1661391",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH-06",
+      "level": 2,
+      "name": {
+        "local": "Paksxong",
+        "en": "Paksxong",
+        "slug": "paksxong-ch-06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH",
+        "level": 1,
+        "name": {
+          "local": "Champasak",
+          "en": "Champasak",
+          "slug": "champasak-ch"
+        }
+      },
+      {
+        "id": "CH-06",
+        "level": 2,
+        "name": {
+          "local": "Paksxong",
+          "en": "Paksxong",
+          "slug": "paksxong-ch-06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.017",
+      "lon": "106.667"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11201154",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Namtiang-Loum",
+      "en": "Ban Namtiang-Loum",
+      "slug": "ban-namtiang-loum-11201154"
+    },
+    "code": {
+      "id": "11201154",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH-06",
+      "level": 2,
+      "name": {
+        "local": "Paksxong",
+        "en": "Paksxong",
+        "slug": "paksxong-ch-06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH",
+        "level": 1,
+        "name": {
+          "local": "Champasak",
+          "en": "Champasak",
+          "slug": "champasak-ch"
+        }
+      },
+      {
+        "id": "CH-06",
+        "level": 2,
+        "name": {
+          "local": "Paksxong",
+          "en": "Paksxong",
+          "slug": "paksxong-ch-06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.033",
+      "lon": "106.645"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1658320",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Namtiang-Theung",
+      "en": "Ban Namtiang-Theung",
+      "slug": "ban-namtiang-theung-1658320"
+    },
+    "code": {
+      "id": "1658320",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH-06",
+      "level": 2,
+      "name": {
+        "local": "Paksxong",
+        "en": "Paksxong",
+        "slug": "paksxong-ch-06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH",
+        "level": 1,
+        "name": {
+          "local": "Champasak",
+          "en": "Champasak",
+          "slug": "champasak-ch"
+        }
+      },
+      {
+        "id": "CH-06",
+        "level": 2,
+        "name": {
+          "local": "Paksxong",
+          "en": "Paksxong",
+          "slug": "paksxong-ch-06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.022",
+      "lon": "106.665"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11201135",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Namtouat",
+      "en": "Ban Namtouat",
+      "slug": "ban-namtouat-11201135"
+    },
+    "code": {
+      "id": "11201135",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH-06",
+      "level": 2,
+      "name": {
+        "local": "Paksxong",
+        "en": "Paksxong",
+        "slug": "paksxong-ch-06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH",
+        "level": 1,
+        "name": {
+          "local": "Champasak",
+          "en": "Champasak",
+          "slug": "champasak-ch"
+        }
+      },
+      {
+        "id": "CH-06",
+        "level": 2,
+        "name": {
+          "local": "Paksxong",
+          "en": "Paksxong",
+          "slug": "paksxong-ch-06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.145",
+      "lon": "106.538"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11201136",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nong-Iôy",
+      "en": "Ban Nong-Ioy",
+      "slug": "ban-nong-ioy-11201136"
+    },
+    "code": {
+      "id": "11201136",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH-06",
+      "level": 2,
+      "name": {
+        "local": "Paksxong",
+        "en": "Paksxong",
+        "slug": "paksxong-ch-06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH",
+        "level": 1,
+        "name": {
+          "local": "Champasak",
+          "en": "Champasak",
+          "slug": "champasak-ch"
+        }
+      },
+      {
+        "id": "CH-06",
+        "level": 2,
+        "name": {
+          "local": "Paksxong",
+          "en": "Paksxong",
+          "slug": "paksxong-ch-06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.12",
+      "lon": "106.535"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11200578",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nongbon",
+      "en": "Ban Nongbon",
+      "slug": "ban-nongbon-11200578"
+    },
+    "code": {
+      "id": "11200578",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH-06",
+      "level": 2,
+      "name": {
+        "local": "Paksxong",
+        "en": "Paksxong",
+        "slug": "paksxong-ch-06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH",
+        "level": 1,
+        "name": {
+          "local": "Champasak",
+          "en": "Champasak",
+          "slug": "champasak-ch"
+        }
+      },
+      {
+        "id": "CH-06",
+        "level": 2,
+        "name": {
+          "local": "Paksxong",
+          "en": "Paksxong",
+          "slug": "paksxong-ch-06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.273",
+      "lon": "106.088"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1660823",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nonghin",
+      "en": "Ban Nonghin",
+      "slug": "ban-nonghin-1660823"
+    },
+    "code": {
+      "id": "1660823",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH-06",
+      "level": 2,
+      "name": {
+        "local": "Paksxong",
+        "en": "Paksxong",
+        "slug": "paksxong-ch-06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH",
+        "level": 1,
+        "name": {
+          "local": "Champasak",
+          "en": "Champasak",
+          "slug": "champasak-ch"
+        }
+      },
+      {
+        "id": "CH-06",
+        "level": 2,
+        "name": {
+          "local": "Paksxong",
+          "en": "Paksxong",
+          "slug": "paksxong-ch-06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.159",
+      "lon": "106.554"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11200270",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nonghinkhao",
+      "en": "Ban Nonghinkhao",
+      "slug": "ban-nonghinkhao-11200270"
+    },
+    "code": {
+      "id": "11200270",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH-06",
+      "level": 2,
+      "name": {
+        "local": "Paksxong",
+        "en": "Paksxong",
+        "slug": "paksxong-ch-06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH",
+        "level": 1,
+        "name": {
+          "local": "Champasak",
+          "en": "Champasak",
+          "slug": "champasak-ch"
+        }
+      },
+      {
+        "id": "CH-06",
+        "level": 2,
+        "name": {
+          "local": "Paksxong",
+          "en": "Paksxong",
+          "slug": "paksxong-ch-06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.34",
+      "lon": "106.308"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11201505",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nonghom",
+      "en": "Ban Nonghom",
+      "slug": "ban-nonghom-11201505"
+    },
+    "code": {
+      "id": "11201505",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH-06",
+      "level": 2,
+      "name": {
+        "local": "Paksxong",
+        "en": "Paksxong",
+        "slug": "paksxong-ch-06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH",
+        "level": 1,
+        "name": {
+          "local": "Champasak",
+          "en": "Champasak",
+          "slug": "champasak-ch"
+        }
+      },
+      {
+        "id": "CH-06",
+        "level": 2,
+        "name": {
+          "local": "Paksxong",
+          "en": "Paksxong",
+          "slug": "paksxong-ch-06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.935",
+      "lon": "106.584"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1660801",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nongkali",
+      "en": "Ban Nongkali",
+      "slug": "ban-nongkali-1660801"
+    },
+    "code": {
+      "id": "1660801",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH-06",
+      "level": 2,
+      "name": {
+        "local": "Paksxong",
+        "en": "Paksxong",
+        "slug": "paksxong-ch-06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH",
+        "level": 1,
+        "name": {
+          "local": "Champasak",
+          "en": "Champasak",
+          "slug": "champasak-ch"
+        }
+      },
+      {
+        "id": "CH-06",
+        "level": 2,
+        "name": {
+          "local": "Paksxong",
+          "en": "Paksxong",
+          "slug": "paksxong-ch-06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.244",
+      "lon": "106.243"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11200634",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nongkhuang",
+      "en": "Ban Nongkhuang",
+      "slug": "ban-nongkhuang-11200634"
+    },
+    "code": {
+      "id": "11200634",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH-06",
+      "level": 2,
+      "name": {
+        "local": "Paksxong",
+        "en": "Paksxong",
+        "slug": "paksxong-ch-06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH",
+        "level": 1,
+        "name": {
+          "local": "Champasak",
+          "en": "Champasak",
+          "slug": "champasak-ch"
+        }
+      },
+      {
+        "id": "CH-06",
+        "level": 2,
+        "name": {
+          "local": "Paksxong",
+          "en": "Paksxong",
+          "slug": "paksxong-ch-06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.164",
+      "lon": "106.435"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1660776",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nongkin",
+      "en": "Ban Nongkin",
+      "slug": "ban-nongkin-1660776"
+    },
+    "code": {
+      "id": "1660776",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH-06",
+      "level": 2,
+      "name": {
+        "local": "Paksxong",
+        "en": "Paksxong",
+        "slug": "paksxong-ch-06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH",
+        "level": 1,
+        "name": {
+          "local": "Champasak",
+          "en": "Champasak",
+          "slug": "champasak-ch"
+        }
+      },
+      {
+        "id": "CH-06",
+        "level": 2,
+        "name": {
+          "local": "Paksxong",
+          "en": "Paksxong",
+          "slug": "paksxong-ch-06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.145",
+      "lon": "106.456"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1660775",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nongkin Noy",
+      "en": "Ban Nongkin Noy",
+      "slug": "ban-nongkin-noy-1660775"
+    },
+    "code": {
+      "id": "1660775",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH-06",
+      "level": 2,
+      "name": {
+        "local": "Paksxong",
+        "en": "Paksxong",
+        "slug": "paksxong-ch-06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH",
+        "level": 1,
+        "name": {
+          "local": "Champasak",
+          "en": "Champasak",
+          "slug": "champasak-ch"
+        }
+      },
+      {
+        "id": "CH-06",
+        "level": 2,
+        "name": {
+          "local": "Paksxong",
+          "en": "Paksxong",
+          "slug": "paksxong-ch-06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.133",
+      "lon": "106.45"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1660762",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nonglè",
+      "en": "Ban Nongle",
+      "slug": "ban-nongle-1660762"
+    },
+    "code": {
+      "id": "1660762",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH-06",
+      "level": 2,
+      "name": {
+        "local": "Paksxong",
+        "en": "Paksxong",
+        "slug": "paksxong-ch-06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH",
+        "level": 1,
+        "name": {
+          "local": "Champasak",
+          "en": "Champasak",
+          "slug": "champasak-ch"
+        }
+      },
+      {
+        "id": "CH-06",
+        "level": 2,
+        "name": {
+          "local": "Paksxong",
+          "en": "Paksxong",
+          "slug": "paksxong-ch-06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.213",
+      "lon": "106.243"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1660759",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nonglôm",
+      "en": "Ban Nonglom",
+      "slug": "ban-nonglom-1660759"
+    },
+    "code": {
+      "id": "1660759",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH-06",
+      "level": 2,
+      "name": {
+        "local": "Paksxong",
+        "en": "Paksxong",
+        "slug": "paksxong-ch-06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH",
+        "level": 1,
+        "name": {
+          "local": "Champasak",
+          "en": "Champasak",
+          "slug": "champasak-ch"
+        }
+      },
+      {
+        "id": "CH-06",
+        "level": 2,
+        "name": {
+          "local": "Paksxong",
+          "en": "Paksxong",
+          "slug": "paksxong-ch-06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.267",
+      "lon": "106.317"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1660749",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nongmék",
+      "en": "Ban Nongmek",
+      "slug": "ban-nongmek-1660749"
+    },
+    "code": {
+      "id": "1660749",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH-06",
+      "level": 2,
+      "name": {
+        "local": "Paksxong",
+        "en": "Paksxong",
+        "slug": "paksxong-ch-06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH",
+        "level": 1,
+        "name": {
+          "local": "Champasak",
+          "en": "Champasak",
+          "slug": "champasak-ch"
+        }
+      },
+      {
+        "id": "CH-06",
+        "level": 2,
+        "name": {
+          "local": "Paksxong",
+          "en": "Paksxong",
+          "slug": "paksxong-ch-06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.167",
+      "lon": "106.544"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1660722",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nongpèn",
+      "en": "Ban Nongpen",
+      "slug": "ban-nongpen-1660722"
+    },
+    "code": {
+      "id": "1660722",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH-06",
+      "level": 2,
+      "name": {
+        "local": "Paksxong",
+        "en": "Paksxong",
+        "slug": "paksxong-ch-06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH",
+        "level": 1,
+        "name": {
+          "local": "Champasak",
+          "en": "Champasak",
+          "slug": "champasak-ch"
+        }
+      },
+      {
+        "id": "CH-06",
+        "level": 2,
+        "name": {
+          "local": "Paksxong",
+          "en": "Paksxong",
+          "slug": "paksxong-ch-06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.083",
+      "lon": "106.583"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11201149",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nongphanouan",
+      "en": "Ban Nongphanouan",
+      "slug": "ban-nongphanouan-11201149"
+    },
+    "code": {
+      "id": "11201149",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH-06",
+      "level": 2,
+      "name": {
+        "local": "Paksxong",
+        "en": "Paksxong",
+        "slug": "paksxong-ch-06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH",
+        "level": 1,
+        "name": {
+          "local": "Champasak",
+          "en": "Champasak",
+          "slug": "champasak-ch"
+        }
+      },
+      {
+        "id": "CH-06",
+        "level": 2,
+        "name": {
+          "local": "Paksxong",
+          "en": "Paksxong",
+          "slug": "paksxong-ch-06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.042",
+      "lon": "106.526"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1660697",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nongpoy",
+      "en": "Ban Nongpoy",
+      "slug": "ban-nongpoy-1660697"
+    },
+    "code": {
+      "id": "1660697",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH-06",
+      "level": 2,
+      "name": {
+        "local": "Paksxong",
+        "en": "Paksxong",
+        "slug": "paksxong-ch-06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH",
+        "level": 1,
+        "name": {
+          "local": "Champasak",
+          "en": "Champasak",
+          "slug": "champasak-ch"
+        }
+      },
+      {
+        "id": "CH-06",
+        "level": 2,
+        "name": {
+          "local": "Paksxong",
+          "en": "Paksxong",
+          "slug": "paksxong-ch-06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.161",
+      "lon": "106.335"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1660679",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nongseung",
+      "en": "Ban Nongseung",
+      "slug": "ban-nongseung-1660679"
+    },
+    "code": {
+      "id": "1660679",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH-06",
+      "level": 2,
+      "name": {
+        "local": "Paksxong",
+        "en": "Paksxong",
+        "slug": "paksxong-ch-06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH",
+        "level": 1,
+        "name": {
+          "local": "Champasak",
+          "en": "Champasak",
+          "slug": "champasak-ch"
+        }
+      },
+      {
+        "id": "CH-06",
+        "level": 2,
+        "name": {
+          "local": "Paksxong",
+          "en": "Paksxong",
+          "slug": "paksxong-ch-06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.35",
+      "lon": "106.333"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11201145",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nongtay",
+      "en": "Ban Nongtay",
+      "slug": "ban-nongtay-11201145"
+    },
+    "code": {
+      "id": "11201145",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH-06",
+      "level": 2,
+      "name": {
+        "local": "Paksxong",
+        "en": "Paksxong",
+        "slug": "paksxong-ch-06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH",
+        "level": 1,
+        "name": {
+          "local": "Champasak",
+          "en": "Champasak",
+          "slug": "champasak-ch"
+        }
+      },
+      {
+        "id": "CH-06",
+        "level": 2,
+        "name": {
+          "local": "Paksxong",
+          "en": "Paksxong",
+          "slug": "paksxong-ch-06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.155",
+      "lon": "106.538"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1660660",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nongthuam",
+      "en": "Ban Nongthuam",
+      "slug": "ban-nongthuam-1660660"
+    },
+    "code": {
+      "id": "1660660",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH-06",
+      "level": 2,
+      "name": {
+        "local": "Paksxong",
+        "en": "Paksxong",
+        "slug": "paksxong-ch-06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH",
+        "level": 1,
+        "name": {
+          "local": "Champasak",
+          "en": "Champasak",
+          "slug": "champasak-ch"
+        }
+      },
+      {
+        "id": "CH-06",
+        "level": 2,
+        "name": {
+          "local": "Paksxong",
+          "en": "Paksxong",
+          "slug": "paksxong-ch-06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.114",
+      "lon": "106.584"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1660655",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nongtoun",
+      "en": "Ban Nongtoun",
+      "slug": "ban-nongtoun-1660655"
+    },
+    "code": {
+      "id": "1660655",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH-06",
+      "level": 2,
+      "name": {
+        "local": "Paksxong",
+        "en": "Paksxong",
+        "slug": "paksxong-ch-06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH",
+        "level": 1,
+        "name": {
+          "local": "Champasak",
+          "en": "Champasak",
+          "slug": "champasak-ch"
+        }
+      },
+      {
+        "id": "CH-06",
+        "level": 2,
+        "name": {
+          "local": "Paksxong",
+          "en": "Paksxong",
+          "slug": "paksxong-ch-06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.144",
+      "lon": "106.564"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11200637",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nongxuang",
+      "en": "Ban Nongxuang",
+      "slug": "ban-nongxuang-11200637"
+    },
+    "code": {
+      "id": "11200637",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH-06",
+      "level": 2,
+      "name": {
+        "local": "Paksxong",
+        "en": "Paksxong",
+        "slug": "paksxong-ch-06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH",
+        "level": 1,
+        "name": {
+          "local": "Champasak",
+          "en": "Champasak",
+          "slug": "champasak-ch"
+        }
+      },
+      {
+        "id": "CH-06",
+        "level": 2,
+        "name": {
+          "local": "Paksxong",
+          "en": "Paksxong",
+          "slug": "paksxong-ch-06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.084",
+      "lon": "106.498"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11200592",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nongya",
+      "en": "Ban Nongya",
+      "slug": "ban-nongya-11200592"
+    },
+    "code": {
+      "id": "11200592",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH-06",
+      "level": 2,
+      "name": {
+        "local": "Paksxong",
+        "en": "Paksxong",
+        "slug": "paksxong-ch-06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH",
+        "level": 1,
+        "name": {
+          "local": "Champasak",
+          "en": "Champasak",
+          "slug": "champasak-ch"
+        }
+      },
+      {
+        "id": "CH-06",
+        "level": 2,
+        "name": {
+          "local": "Paksxong",
+          "en": "Paksxong",
+          "slug": "paksxong-ch-06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.308",
+      "lon": "106.232"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11200274",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Noy",
+      "en": "Ban Noy",
+      "slug": "ban-noy-11200274"
+    },
+    "code": {
+      "id": "11200274",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH-06",
+      "level": 2,
+      "name": {
+        "local": "Paksxong",
+        "en": "Paksxong",
+        "slug": "paksxong-ch-06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH",
+        "level": 1,
+        "name": {
+          "local": "Champasak",
+          "en": "Champasak",
+          "slug": "champasak-ch"
+        }
+      },
+      {
+        "id": "CH-06",
+        "level": 2,
+        "name": {
+          "local": "Paksxong",
+          "en": "Paksxong",
+          "slug": "paksxong-ch-06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.334",
+      "lon": "106.335"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1660576",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Oupaxa",
+      "en": "Ban Oupaxa",
+      "slug": "ban-oupaxa-1660576"
+    },
+    "code": {
+      "id": "1660576",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH-06",
+      "level": 2,
+      "name": {
+        "local": "Paksxong",
+        "en": "Paksxong",
+        "slug": "paksxong-ch-06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH",
+        "level": 1,
+        "name": {
+          "local": "Champasak",
+          "en": "Champasak",
+          "slug": "champasak-ch"
+        }
+      },
+      {
+        "id": "CH-06",
+        "level": 2,
+        "name": {
+          "local": "Paksxong",
+          "en": "Paksxong",
+          "slug": "paksxong-ch-06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15",
+      "lon": "106.617"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11200640",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Pakyong",
+      "en": "Ban Pakyong",
+      "slug": "ban-pakyong-11200640"
+    },
+    "code": {
+      "id": "11200640",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH-06",
+      "level": 2,
+      "name": {
+        "local": "Paksxong",
+        "en": "Paksxong",
+        "slug": "paksxong-ch-06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH",
+        "level": 1,
+        "name": {
+          "local": "Champasak",
+          "en": "Champasak",
+          "slug": "champasak-ch"
+        }
+      },
+      {
+        "id": "CH-06",
+        "level": 2,
+        "name": {
+          "local": "Paksxong",
+          "en": "Paksxong",
+          "slug": "paksxong-ch-06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.089",
+      "lon": "106.334"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1660250",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phakkout",
+      "en": "Ban Phakkout",
+      "slug": "ban-phakkout-1660250"
+    },
+    "code": {
+      "id": "1660250",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH-06",
+      "level": 2,
+      "name": {
+        "local": "Paksxong",
+        "en": "Paksxong",
+        "slug": "paksxong-ch-06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH",
+        "level": 1,
+        "name": {
+          "local": "Champasak",
+          "en": "Champasak",
+          "slug": "champasak-ch"
+        }
+      },
+      {
+        "id": "CH-06",
+        "level": 2,
+        "name": {
+          "local": "Paksxong",
+          "en": "Paksxong",
+          "slug": "paksxong-ch-06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.191",
+      "lon": "106.126"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11200580",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phakkout-Noy",
+      "en": "Ban Phakkout-Noy",
+      "slug": "ban-phakkout-noy-11200580"
+    },
+    "code": {
+      "id": "11200580",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH-06",
+      "level": 2,
+      "name": {
+        "local": "Paksxong",
+        "en": "Paksxong",
+        "slug": "paksxong-ch-06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH",
+        "level": 1,
+        "name": {
+          "local": "Champasak",
+          "en": "Champasak",
+          "slug": "champasak-ch"
+        }
+      },
+      {
+        "id": "CH-06",
+        "level": 2,
+        "name": {
+          "local": "Paksxong",
+          "en": "Paksxong",
+          "slug": "paksxong-ch-06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.268",
+      "lon": "106.158"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1660193",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phankongtoun",
+      "en": "Ban Phankongtoun",
+      "slug": "ban-phankongtoun-1660193"
+    },
+    "code": {
+      "id": "1660193",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH-06",
+      "level": 2,
+      "name": {
+        "local": "Paksxong",
+        "en": "Paksxong",
+        "slug": "paksxong-ch-06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH",
+        "level": 1,
+        "name": {
+          "local": "Champasak",
+          "en": "Champasak",
+          "slug": "champasak-ch"
+        }
+      },
+      {
+        "id": "CH-06",
+        "level": 2,
+        "name": {
+          "local": "Paksxong",
+          "en": "Paksxong",
+          "slug": "paksxong-ch-06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.262",
+      "lon": "106.321"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1660186",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phanouan-Gnai",
+      "en": "Ban Phanouan-Gnai",
+      "slug": "ban-phanouan-gnai-1660186"
+    },
+    "code": {
+      "id": "1660186",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH-06",
+      "level": 2,
+      "name": {
+        "local": "Paksxong",
+        "en": "Paksxong",
+        "slug": "paksxong-ch-06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH",
+        "level": 1,
+        "name": {
+          "local": "Champasak",
+          "en": "Champasak",
+          "slug": "champasak-ch"
+        }
+      },
+      {
+        "id": "CH-06",
+        "level": 2,
+        "name": {
+          "local": "Paksxong",
+          "en": "Paksxong",
+          "slug": "paksxong-ch-06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.057",
+      "lon": "106.385"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11200590",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phoudamkhouan",
+      "en": "Ban Phoudamkhouan",
+      "slug": "ban-phoudamkhouan-11200590"
+    },
+    "code": {
+      "id": "11200590",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH-06",
+      "level": 2,
+      "name": {
+        "local": "Paksxong",
+        "en": "Paksxong",
+        "slug": "paksxong-ch-06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH",
+        "level": 1,
+        "name": {
+          "local": "Champasak",
+          "en": "Champasak",
+          "slug": "champasak-ch"
+        }
+      },
+      {
+        "id": "CH-06",
+        "level": 2,
+        "name": {
+          "local": "Paksxong",
+          "en": "Paksxong",
+          "slug": "paksxong-ch-06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.328",
+      "lon": "106.223"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11200582",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phoudin",
+      "en": "Ban Phoudin",
+      "slug": "ban-phoudin-11200582"
+    },
+    "code": {
+      "id": "11200582",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH-06",
+      "level": 2,
+      "name": {
+        "local": "Paksxong",
+        "en": "Paksxong",
+        "slug": "paksxong-ch-06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH",
+        "level": 1,
+        "name": {
+          "local": "Champasak",
+          "en": "Champasak",
+          "slug": "champasak-ch"
+        }
+      },
+      {
+        "id": "CH-06",
+        "level": 2,
+        "name": {
+          "local": "Paksxong",
+          "en": "Paksxong",
+          "slug": "paksxong-ch-06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.284",
+      "lon": "106.155"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11200545",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phoulangkèo",
+      "en": "Ban Phoulangkeo",
+      "slug": "ban-phoulangkeo-11200545"
+    },
+    "code": {
+      "id": "11200545",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH-06",
+      "level": 2,
+      "name": {
+        "local": "Paksxong",
+        "en": "Paksxong",
+        "slug": "paksxong-ch-06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH",
+        "level": 1,
+        "name": {
+          "local": "Champasak",
+          "en": "Champasak",
+          "slug": "champasak-ch"
+        }
+      },
+      {
+        "id": "CH-06",
+        "level": 2,
+        "name": {
+          "local": "Paksxong",
+          "en": "Paksxong",
+          "slug": "paksxong-ch-06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.268",
+      "lon": "106.232"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11200612",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phouôy",
+      "en": "Ban Phouoy",
+      "slug": "ban-phouoy-11200612"
+    },
+    "code": {
+      "id": "11200612",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH-06",
+      "level": 2,
+      "name": {
+        "local": "Paksxong",
+        "en": "Paksxong",
+        "slug": "paksxong-ch-06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH",
+        "level": 1,
+        "name": {
+          "local": "Champasak",
+          "en": "Champasak",
+          "slug": "champasak-ch"
+        }
+      },
+      {
+        "id": "CH-06",
+        "level": 2,
+        "name": {
+          "local": "Paksxong",
+          "en": "Paksxong",
+          "slug": "paksxong-ch-06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.15",
+      "lon": "106.25"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11200190",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Sétkhôt",
+      "en": "Ban Setkhot",
+      "slug": "ban-setkhot-11200190"
+    },
+    "code": {
+      "id": "11200190",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH-06",
+      "level": 2,
+      "name": {
+        "local": "Paksxong",
+        "en": "Paksxong",
+        "slug": "paksxong-ch-06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH",
+        "level": 1,
+        "name": {
+          "local": "Champasak",
+          "en": "Champasak",
+          "slug": "champasak-ch"
+        }
+      },
+      {
+        "id": "CH-06",
+        "level": 2,
+        "name": {
+          "local": "Paksxong",
+          "en": "Paksxong",
+          "slug": "paksxong-ch-06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.355",
+      "lon": "106.28"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11200579",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Sômsanouk-Kao",
+      "en": "Ban Somsanouk-Kao",
+      "slug": "ban-somsanouk-kao-11200579"
+    },
+    "code": {
+      "id": "11200579",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH-06",
+      "level": 2,
+      "name": {
+        "local": "Paksxong",
+        "en": "Paksxong",
+        "slug": "paksxong-ch-06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH",
+        "level": 1,
+        "name": {
+          "local": "Champasak",
+          "en": "Champasak",
+          "slug": "champasak-ch"
+        }
+      },
+      {
+        "id": "CH-06",
+        "level": 2,
+        "name": {
+          "local": "Paksxong",
+          "en": "Paksxong",
+          "slug": "paksxong-ch-06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.265",
+      "lon": "106.117"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11200575",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Sômsanouk-Mai",
+      "en": "Ban Somsanouk-Mai",
+      "slug": "ban-somsanouk-mai-11200575"
+    },
+    "code": {
+      "id": "11200575",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH-06",
+      "level": 2,
+      "name": {
+        "local": "Paksxong",
+        "en": "Paksxong",
+        "slug": "paksxong-ch-06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH",
+        "level": 1,
+        "name": {
+          "local": "Champasak",
+          "en": "Champasak",
+          "slug": "champasak-ch"
+        }
+      },
+      {
+        "id": "CH-06",
+        "level": 2,
+        "name": {
+          "local": "Paksxong",
+          "en": "Paksxong",
+          "slug": "paksxong-ch-06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.241",
+      "lon": "106.106"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11201148",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Tagneuksua",
+      "en": "Ban Tagneuksua",
+      "slug": "ban-tagneuksua-11201148"
+    },
+    "code": {
+      "id": "11201148",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH-06",
+      "level": 2,
+      "name": {
+        "local": "Paksxong",
+        "en": "Paksxong",
+        "slug": "paksxong-ch-06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH",
+        "level": 1,
+        "name": {
+          "local": "Champasak",
+          "en": "Champasak",
+          "slug": "champasak-ch"
+        }
+      },
+      {
+        "id": "CH-06",
+        "level": 2,
+        "name": {
+          "local": "Paksxong",
+          "en": "Paksxong",
+          "slug": "paksxong-ch-06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.081",
+      "lon": "106.575"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11201180",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Taôt",
+      "en": "Ban Taot",
+      "slug": "ban-taot-11201180"
+    },
+    "code": {
+      "id": "11201180",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH-06",
+      "level": 2,
+      "name": {
+        "local": "Paksxong",
+        "en": "Paksxong",
+        "slug": "paksxong-ch-06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH",
+        "level": 1,
+        "name": {
+          "local": "Champasak",
+          "en": "Champasak",
+          "slug": "champasak-ch"
+        }
+      },
+      {
+        "id": "CH-06",
+        "level": 2,
+        "name": {
+          "local": "Paksxong",
+          "en": "Paksxong",
+          "slug": "paksxong-ch-06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.079",
+      "lon": "106.542"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1658807",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Tasèngxouan",
+      "en": "Ban Tasengxouan",
+      "slug": "ban-tasengxouan-1658807"
+    },
+    "code": {
+      "id": "1658807",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH-06",
+      "level": 2,
+      "name": {
+        "local": "Paksxong",
+        "en": "Paksxong",
+        "slug": "paksxong-ch-06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH",
+        "level": 1,
+        "name": {
+          "local": "Champasak",
+          "en": "Champasak",
+          "slug": "champasak-ch"
+        }
+      },
+      {
+        "id": "CH-06",
+        "level": 2,
+        "name": {
+          "local": "Paksxong",
+          "en": "Paksxong",
+          "slug": "paksxong-ch-06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.25",
+      "lon": "106.317"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11200610",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Tatsamek",
+      "en": "Ban Tatsamek",
+      "slug": "ban-tatsamek-11200610"
+    },
+    "code": {
+      "id": "11200610",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH-06",
+      "level": 2,
+      "name": {
+        "local": "Paksxong",
+        "en": "Paksxong",
+        "slug": "paksxong-ch-06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH",
+        "level": 1,
+        "name": {
+          "local": "Champasak",
+          "en": "Champasak",
+          "slug": "champasak-ch"
+        }
+      },
+      {
+        "id": "CH-06",
+        "level": 2,
+        "name": {
+          "local": "Paksxong",
+          "en": "Paksxong",
+          "slug": "paksxong-ch-06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.115",
+      "lon": "106.27"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1658612",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Thaot",
+      "en": "Ban Thaot",
+      "slug": "ban-thaot-1658612"
+    },
+    "code": {
+      "id": "1658612",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH-06",
+      "level": 2,
+      "name": {
+        "local": "Paksxong",
+        "en": "Paksxong",
+        "slug": "paksxong-ch-06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH",
+        "level": 1,
+        "name": {
+          "local": "Champasak",
+          "en": "Champasak",
+          "slug": "champasak-ch"
+        }
+      },
+      {
+        "id": "CH-06",
+        "level": 2,
+        "name": {
+          "local": "Paksxong",
+          "en": "Paksxong",
+          "slug": "paksxong-ch-06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.033",
+      "lon": "106.517"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11201156",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Thonggnao",
+      "en": "Ban Thonggnao",
+      "slug": "ban-thonggnao-11201156"
+    },
+    "code": {
+      "id": "11201156",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH-06",
+      "level": 2,
+      "name": {
+        "local": "Paksxong",
+        "en": "Paksxong",
+        "slug": "paksxong-ch-06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH",
+        "level": 1,
+        "name": {
+          "local": "Champasak",
+          "en": "Champasak",
+          "slug": "champasak-ch"
+        }
+      },
+      {
+        "id": "CH-06",
+        "level": 2,
+        "name": {
+          "local": "Paksxong",
+          "en": "Paksxong",
+          "slug": "paksxong-ch-06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.093",
+      "lon": "106.669"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11200611",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Thôngkatai",
+      "en": "Ban Thongkatai",
+      "slug": "ban-thongkatai-11200611"
+    },
+    "code": {
+      "id": "11200611",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH-06",
+      "level": 2,
+      "name": {
+        "local": "Paksxong",
+        "en": "Paksxong",
+        "slug": "paksxong-ch-06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH",
+        "level": 1,
+        "name": {
+          "local": "Champasak",
+          "en": "Champasak",
+          "slug": "champasak-ch"
+        }
+      },
+      {
+        "id": "CH-06",
+        "level": 2,
+        "name": {
+          "local": "Paksxong",
+          "en": "Paksxong",
+          "slug": "paksxong-ch-06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.124",
+      "lon": "106.265"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11201157",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Thôngphao",
+      "en": "Ban Thongphao",
+      "slug": "ban-thongphao-11201157"
+    },
+    "code": {
+      "id": "11201157",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH-06",
+      "level": 2,
+      "name": {
+        "local": "Paksxong",
+        "en": "Paksxong",
+        "slug": "paksxong-ch-06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH",
+        "level": 1,
+        "name": {
+          "local": "Champasak",
+          "en": "Champasak",
+          "slug": "champasak-ch"
+        }
+      },
+      {
+        "id": "CH-06",
+        "level": 2,
+        "name": {
+          "local": "Paksxong",
+          "en": "Paksxong",
+          "slug": "paksxong-ch-06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.104",
+      "lon": "106.669"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11200619",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Thôngsét",
+      "en": "Ban Thongset",
+      "slug": "ban-thongset-11200619"
+    },
+    "code": {
+      "id": "11200619",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH-06",
+      "level": 2,
+      "name": {
+        "local": "Paksxong",
+        "en": "Paksxong",
+        "slug": "paksxong-ch-06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH",
+        "level": 1,
+        "name": {
+          "local": "Champasak",
+          "en": "Champasak",
+          "slug": "champasak-ch"
+        }
+      },
+      {
+        "id": "CH-06",
+        "level": 2,
+        "name": {
+          "local": "Paksxong",
+          "en": "Paksxong",
+          "slug": "paksxong-ch-06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.214",
+      "lon": "106.304"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11200627",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Thôngsét",
+      "en": "Ban Thongset",
+      "slug": "ban-thongset-11200627"
+    },
+    "code": {
+      "id": "11200627",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH-06",
+      "level": 2,
+      "name": {
+        "local": "Paksxong",
+        "en": "Paksxong",
+        "slug": "paksxong-ch-06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH",
+        "level": 1,
+        "name": {
+          "local": "Champasak",
+          "en": "Champasak",
+          "slug": "champasak-ch"
+        }
+      },
+      {
+        "id": "CH-06",
+        "level": 2,
+        "name": {
+          "local": "Paksxong",
+          "en": "Paksxong",
+          "slug": "paksxong-ch-06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.321",
+      "lon": "106.31"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11200635",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Thôngvay",
+      "en": "Ban Thongvay",
+      "slug": "ban-thongvay-11200635"
+    },
+    "code": {
+      "id": "11200635",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH-06",
+      "level": 2,
+      "name": {
+        "local": "Paksxong",
+        "en": "Paksxong",
+        "slug": "paksxong-ch-06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH",
+        "level": 1,
+        "name": {
+          "local": "Champasak",
+          "en": "Champasak",
+          "slug": "champasak-ch"
+        }
+      },
+      {
+        "id": "CH-06",
+        "level": 2,
+        "name": {
+          "local": "Paksxong",
+          "en": "Paksxong",
+          "slug": "paksxong-ch-06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.183",
+      "lon": "106.49"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11201142",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Thôngvay",
+      "en": "Ban Thongvay",
+      "slug": "ban-thongvay-11201142"
+    },
+    "code": {
+      "id": "11201142",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH-06",
+      "level": 2,
+      "name": {
+        "local": "Paksxong",
+        "en": "Paksxong",
+        "slug": "paksxong-ch-06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH",
+        "level": 1,
+        "name": {
+          "local": "Champasak",
+          "en": "Champasak",
+          "slug": "champasak-ch"
+        }
+      },
+      {
+        "id": "CH-06",
+        "level": 2,
+        "name": {
+          "local": "Paksxong",
+          "en": "Paksxong",
+          "slug": "paksxong-ch-06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.196",
+      "lon": "106.514"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11200608",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Thôngya",
+      "en": "Ban Thongya",
+      "slug": "ban-thongya-11200608"
+    },
+    "code": {
+      "id": "11200608",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH-06",
+      "level": 2,
+      "name": {
+        "local": "Paksxong",
+        "en": "Paksxong",
+        "slug": "paksxong-ch-06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH",
+        "level": 1,
+        "name": {
+          "local": "Champasak",
+          "en": "Champasak",
+          "slug": "champasak-ch"
+        }
+      },
+      {
+        "id": "CH-06",
+        "level": 2,
+        "name": {
+          "local": "Paksxong",
+          "en": "Paksxong",
+          "slug": "paksxong-ch-06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.074",
+      "lon": "106.336"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1658403",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Tôm",
+      "en": "Ban Tom",
+      "slug": "ban-tom-1658403"
+    },
+    "code": {
+      "id": "1658403",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH-06",
+      "level": 2,
+      "name": {
+        "local": "Paksxong",
+        "en": "Paksxong",
+        "slug": "paksxong-ch-06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH",
+        "level": 1,
+        "name": {
+          "local": "Champasak",
+          "en": "Champasak",
+          "slug": "champasak-ch"
+        }
+      },
+      {
+        "id": "CH-06",
+        "level": 2,
+        "name": {
+          "local": "Paksxong",
+          "en": "Paksxong",
+          "slug": "paksxong-ch-06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.183",
+      "lon": "106.367"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1658357",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Touk-Louk",
+      "en": "Ban Touk-Louk",
+      "slug": "ban-touk-louk-1658357"
+    },
+    "code": {
+      "id": "1658357",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH-06",
+      "level": 2,
+      "name": {
+        "local": "Paksxong",
+        "en": "Paksxong",
+        "slug": "paksxong-ch-06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH",
+        "level": 1,
+        "name": {
+          "local": "Champasak",
+          "en": "Champasak",
+          "slug": "champasak-ch"
+        }
+      },
+      {
+        "id": "CH-06",
+        "level": 2,
+        "name": {
+          "local": "Paksxong",
+          "en": "Paksxong",
+          "slug": "paksxong-ch-06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.167",
+      "lon": "106.567"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11200631",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Xékatam",
+      "en": "Ban Xekatam",
+      "slug": "ban-xekatam-11200631"
+    },
+    "code": {
+      "id": "11200631",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH-06",
+      "level": 2,
+      "name": {
+        "local": "Paksxong",
+        "en": "Paksxong",
+        "slug": "paksxong-ch-06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH",
+        "level": 1,
+        "name": {
+          "local": "Champasak",
+          "en": "Champasak",
+          "slug": "champasak-ch"
+        }
+      },
+      {
+        "id": "CH-06",
+        "level": 2,
+        "name": {
+          "local": "Paksxong",
+          "en": "Paksxong",
+          "slug": "paksxong-ch-06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.229",
+      "lon": "106.437"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11201141",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Xékatam",
+      "en": "Ban Xekatam",
+      "slug": "ban-xekatam-11201141"
+    },
+    "code": {
+      "id": "11201141",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH-06",
+      "level": 2,
+      "name": {
+        "local": "Paksxong",
+        "en": "Paksxong",
+        "slug": "paksxong-ch-06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH",
+        "level": 1,
+        "name": {
+          "local": "Champasak",
+          "en": "Champasak",
+          "slug": "champasak-ch"
+        }
+      },
+      {
+        "id": "CH-06",
+        "level": 2,
+        "name": {
+          "local": "Paksxong",
+          "en": "Paksxong",
+          "slug": "paksxong-ch-06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.209",
+      "lon": "106.522"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11201153",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Xenam-Noy",
+      "en": "Ban Xenam-Noy",
+      "slug": "ban-xenam-noy-11201153"
+    },
+    "code": {
+      "id": "11201153",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH-06",
+      "level": 2,
+      "name": {
+        "local": "Paksxong",
+        "en": "Paksxong",
+        "slug": "paksxong-ch-06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH",
+        "level": 1,
+        "name": {
+          "local": "Champasak",
+          "en": "Champasak",
+          "slug": "champasak-ch"
+        }
+      },
+      {
+        "id": "CH-06",
+        "level": 2,
+        "name": {
+          "local": "Paksxong",
+          "en": "Paksxong",
+          "slug": "paksxong-ch-06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.001",
+      "lon": "106.603"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1658068",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Xépian",
+      "en": "Ban Xepian",
+      "slug": "ban-xepian-1658068"
+    },
+    "code": {
+      "id": "1658068",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH-06",
+      "level": 2,
+      "name": {
+        "local": "Paksxong",
+        "en": "Paksxong",
+        "slug": "paksxong-ch-06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH",
+        "level": 1,
+        "name": {
+          "local": "Champasak",
+          "en": "Champasak",
+          "slug": "champasak-ch"
+        }
+      },
+      {
+        "id": "CH-06",
+        "level": 2,
+        "name": {
+          "local": "Paksxong",
+          "en": "Paksxong",
+          "slug": "paksxong-ch-06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.112",
+      "lon": "106.3"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1657813",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Champi Noy",
+      "en": "Champi Noy",
+      "slug": "champi-noy-1657813"
+    },
+    "code": {
+      "id": "1657813",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH-06",
+      "level": 2,
+      "name": {
+        "local": "Paksxong",
+        "en": "Paksxong",
+        "slug": "paksxong-ch-06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH",
+        "level": 1,
+        "name": {
+          "local": "Champasak",
+          "en": "Champasak",
+          "slug": "champasak-ch"
+        }
+      },
+      {
+        "id": "CH-06",
+        "level": 2,
+        "name": {
+          "local": "Paksxong",
+          "en": "Paksxong",
+          "slug": "paksxong-ch-06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.083",
+      "lon": "106.35"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1655139",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Pakxong",
+      "en": "Pakxong",
+      "slug": "pakxong-1655139"
+    },
+    "code": {
+      "id": "1655139",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH-06",
+      "level": 2,
+      "name": {
+        "local": "Paksxong",
+        "en": "Paksxong",
+        "slug": "paksxong-ch-06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH",
+        "level": 1,
+        "name": {
+          "local": "Champasak",
+          "en": "Champasak",
+          "slug": "champasak-ch"
+        }
+      },
+      {
+        "id": "CH-06",
+        "level": 2,
+        "name": {
+          "local": "Paksxong",
+          "en": "Paksxong",
+          "slug": "paksxong-ch-06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.182",
+      "lon": "106.23"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

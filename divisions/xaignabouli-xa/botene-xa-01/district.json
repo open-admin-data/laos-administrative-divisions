@@ -1,0 +1,47 @@
+{
+  "id": "XA-01",
+  "level": 2,
+  "level_name": {
+    "local": "ເມືອງ",
+    "en": "District"
+  },
+  "name": {
+    "local": "Botene",
+    "en": "Botene",
+    "slug": "botene-xa-01"
+  },
+  "code": {
+    "id": "XA-01",
+    "iso": null
+  },
+  "parent": {
+    "id": "XA",
+    "level": 1,
+    "name": {
+      "local": "Xaignabouli",
+      "en": "Xaignabouli",
+      "slug": "xaignabouli-xa"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "XA",
+      "level": 1,
+      "name": {
+        "local": "Xaignabouli",
+        "en": "Xaignabouli",
+        "slug": "xaignabouli-xa"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 37
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.619",
+    "lon": "101.063"
+  },
+  "metadata": {},
+  "source": {}
+}

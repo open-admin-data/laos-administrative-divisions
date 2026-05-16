@@ -1,0 +1,47 @@
+{
+  "id": "XN-01",
+  "level": 2,
+  "level_name": {
+    "local": "ເມືອງ",
+    "en": "District"
+  },
+  "name": {
+    "local": "Anouvong",
+    "en": "Anouvong",
+    "slug": "anouvong-xn-01"
+  },
+  "code": {
+    "id": "XN-01",
+    "iso": null
+  },
+  "parent": {
+    "id": "XN",
+    "level": 1,
+    "name": {
+      "local": "Xaisomboun",
+      "en": "Xaisomboun",
+      "slug": "xaisomboun-xn"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "XN",
+      "level": 1,
+      "name": {
+        "local": "Xaisomboun",
+        "en": "Xaisomboun",
+        "slug": "xaisomboun-xn"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 49
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "18.92",
+    "lon": "103.023"
+  },
+  "metadata": {},
+  "source": {}
+}

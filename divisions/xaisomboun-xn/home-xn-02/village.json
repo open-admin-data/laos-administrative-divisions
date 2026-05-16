@@ -1,0 +1,758 @@
+[
+  {
+    "id": "11401287",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Hôm",
+      "en": "Ban Hom",
+      "slug": "ban-hom-11401287"
+    },
+    "code": {
+      "id": "11401287",
+      "iso": null
+    },
+    "parent": {
+      "id": "XN-02",
+      "level": 2,
+      "name": {
+        "local": "Home",
+        "en": "Home",
+        "slug": "home-xn-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XN",
+        "level": 1,
+        "name": {
+          "local": "Xaisomboun",
+          "en": "Xaisomboun",
+          "slug": "xaisomboun-xn"
+        }
+      },
+      {
+        "id": "XN-02",
+        "level": 2,
+        "name": {
+          "local": "Home",
+          "en": "Home",
+          "slug": "home-xn-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.713",
+      "lon": "103.211"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1663168",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Keo Song Lay",
+      "en": "Ban Keo Song Lay",
+      "slug": "ban-keo-song-lay-1663168"
+    },
+    "code": {
+      "id": "1663168",
+      "iso": null
+    },
+    "parent": {
+      "id": "XN-02",
+      "level": 2,
+      "name": {
+        "local": "Home",
+        "en": "Home",
+        "slug": "home-xn-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XN",
+        "level": 1,
+        "name": {
+          "local": "Xaisomboun",
+          "en": "Xaisomboun",
+          "slug": "xaisomboun-xn"
+        }
+      },
+      {
+        "id": "XN-02",
+        "level": 2,
+        "name": {
+          "local": "Home",
+          "en": "Home",
+          "slug": "home-xn-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.717",
+      "lon": "103.283"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11401283",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Kiang",
+      "en": "Ban Kiang",
+      "slug": "ban-kiang-11401283"
+    },
+    "code": {
+      "id": "11401283",
+      "iso": null
+    },
+    "parent": {
+      "id": "XN-02",
+      "level": 2,
+      "name": {
+        "local": "Home",
+        "en": "Home",
+        "slug": "home-xn-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XN",
+        "level": 1,
+        "name": {
+          "local": "Xaisomboun",
+          "en": "Xaisomboun",
+          "slug": "xaisomboun-xn"
+        }
+      },
+      {
+        "id": "XN-02",
+        "level": 2,
+        "name": {
+          "local": "Home",
+          "en": "Home",
+          "slug": "home-xn-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.73",
+      "lon": "103.2"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1661492",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nam Nhok Noy",
+      "en": "Ban Nam Nhok Noy",
+      "slug": "ban-nam-nhok-noy-1661492"
+    },
+    "code": {
+      "id": "1661492",
+      "iso": null
+    },
+    "parent": {
+      "id": "XN-02",
+      "level": 2,
+      "name": {
+        "local": "Home",
+        "en": "Home",
+        "slug": "home-xn-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XN",
+        "level": 1,
+        "name": {
+          "local": "Xaisomboun",
+          "en": "Xaisomboun",
+          "slug": "xaisomboun-xn"
+        }
+      },
+      {
+        "id": "XN-02",
+        "level": 2,
+        "name": {
+          "local": "Home",
+          "en": "Home",
+          "slug": "home-xn-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.683",
+      "lon": "103.283"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1664099",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Namkhian",
+      "en": "Ban Namkhian",
+      "slug": "ban-namkhian-1664099"
+    },
+    "code": {
+      "id": "1664099",
+      "iso": null
+    },
+    "parent": {
+      "id": "XN-02",
+      "level": 2,
+      "name": {
+        "local": "Home",
+        "en": "Home",
+        "slug": "home-xn-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XN",
+        "level": 1,
+        "name": {
+          "local": "Xaisomboun",
+          "en": "Xaisomboun",
+          "slug": "xaisomboun-xn"
+        }
+      },
+      {
+        "id": "XN-02",
+        "level": 2,
+        "name": {
+          "local": "Home",
+          "en": "Home",
+          "slug": "home-xn-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.728",
+      "lon": "103.226"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11401355",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nampa",
+      "en": "Ban Nampa",
+      "slug": "ban-nampa-11401355"
+    },
+    "code": {
+      "id": "11401355",
+      "iso": null
+    },
+    "parent": {
+      "id": "XN-02",
+      "level": 2,
+      "name": {
+        "local": "Home",
+        "en": "Home",
+        "slug": "home-xn-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XN",
+        "level": 1,
+        "name": {
+          "local": "Xaisomboun",
+          "en": "Xaisomboun",
+          "slug": "xaisomboun-xn"
+        }
+      },
+      {
+        "id": "XN-02",
+        "level": 2,
+        "name": {
+          "local": "Home",
+          "en": "Home",
+          "slug": "home-xn-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.566",
+      "lon": "103.324"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11401290",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Namphouan",
+      "en": "Ban Namphouan",
+      "slug": "ban-namphouan-11401290"
+    },
+    "code": {
+      "id": "11401290",
+      "iso": null
+    },
+    "parent": {
+      "id": "XN-02",
+      "level": 2,
+      "name": {
+        "local": "Home",
+        "en": "Home",
+        "slug": "home-xn-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XN",
+        "level": 1,
+        "name": {
+          "local": "Xaisomboun",
+          "en": "Xaisomboun",
+          "slug": "xaisomboun-xn"
+        }
+      },
+      {
+        "id": "XN-02",
+        "level": 2,
+        "name": {
+          "local": "Home",
+          "en": "Home",
+          "slug": "home-xn-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.814",
+      "lon": "103.309"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11401288",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phaèn",
+      "en": "Ban Phaen",
+      "slug": "ban-phaen-11401288"
+    },
+    "code": {
+      "id": "11401288",
+      "iso": null
+    },
+    "parent": {
+      "id": "XN-02",
+      "level": 2,
+      "name": {
+        "local": "Home",
+        "en": "Home",
+        "slug": "home-xn-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XN",
+        "level": 1,
+        "name": {
+          "local": "Xaisomboun",
+          "en": "Xaisomboun",
+          "slug": "xaisomboun-xn"
+        }
+      },
+      {
+        "id": "XN-02",
+        "level": 2,
+        "name": {
+          "local": "Home",
+          "en": "Home",
+          "slug": "home-xn-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.687",
+      "lon": "103.183"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11401308",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phalavèk",
+      "en": "Ban Phalavek",
+      "slug": "ban-phalavek-11401308"
+    },
+    "code": {
+      "id": "11401308",
+      "iso": null
+    },
+    "parent": {
+      "id": "XN-02",
+      "level": 2,
+      "name": {
+        "local": "Home",
+        "en": "Home",
+        "slug": "home-xn-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XN",
+        "level": 1,
+        "name": {
+          "local": "Xaisomboun",
+          "en": "Xaisomboun",
+          "slug": "xaisomboun-xn"
+        }
+      },
+      {
+        "id": "XN-02",
+        "level": 2,
+        "name": {
+          "local": "Home",
+          "en": "Home",
+          "slug": "home-xn-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.678",
+      "lon": "103.192"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1659741",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phouthat",
+      "en": "Ban Phouthat",
+      "slug": "ban-phouthat-1659741"
+    },
+    "code": {
+      "id": "1659741",
+      "iso": null
+    },
+    "parent": {
+      "id": "XN-02",
+      "level": 2,
+      "name": {
+        "local": "Home",
+        "en": "Home",
+        "slug": "home-xn-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XN",
+        "level": 1,
+        "name": {
+          "local": "Xaisomboun",
+          "en": "Xaisomboun",
+          "slug": "xaisomboun-xn"
+        }
+      },
+      {
+        "id": "XN-02",
+        "level": 2,
+        "name": {
+          "local": "Home",
+          "en": "Home",
+          "slug": "home-xn-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.783",
+      "lon": "103.233"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1659681",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Pomom-Noi",
+      "en": "Ban Pomom-Noi",
+      "slug": "ban-pomom-noi-1659681"
+    },
+    "code": {
+      "id": "1659681",
+      "iso": null
+    },
+    "parent": {
+      "id": "XN-02",
+      "level": 2,
+      "name": {
+        "local": "Home",
+        "en": "Home",
+        "slug": "home-xn-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XN",
+        "level": 1,
+        "name": {
+          "local": "Xaisomboun",
+          "en": "Xaisomboun",
+          "slug": "xaisomboun-xn"
+        }
+      },
+      {
+        "id": "XN-02",
+        "level": 2,
+        "name": {
+          "local": "Home",
+          "en": "Home",
+          "slug": "home-xn-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.684",
+      "lon": "103.429"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11401298",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Pomom-Tai",
+      "en": "Ban Pomom-Tai",
+      "slug": "ban-pomom-tai-11401298"
+    },
+    "code": {
+      "id": "11401298",
+      "iso": null
+    },
+    "parent": {
+      "id": "XN-02",
+      "level": 2,
+      "name": {
+        "local": "Home",
+        "en": "Home",
+        "slug": "home-xn-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XN",
+        "level": 1,
+        "name": {
+          "local": "Xaisomboun",
+          "en": "Xaisomboun",
+          "slug": "xaisomboun-xn"
+        }
+      },
+      {
+        "id": "XN-02",
+        "level": 2,
+        "name": {
+          "local": "Home",
+          "en": "Home",
+          "slug": "home-xn-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.673",
+      "lon": "103.435"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1659478",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Samlian",
+      "en": "Ban Samlian",
+      "slug": "ban-samlian-1659478"
+    },
+    "code": {
+      "id": "1659478",
+      "iso": null
+    },
+    "parent": {
+      "id": "XN-02",
+      "level": 2,
+      "name": {
+        "local": "Home",
+        "en": "Home",
+        "slug": "home-xn-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XN",
+        "level": 1,
+        "name": {
+          "local": "Xaisomboun",
+          "en": "Xaisomboun",
+          "slug": "xaisomboun-xn"
+        }
+      },
+      {
+        "id": "XN-02",
+        "level": 2,
+        "name": {
+          "local": "Home",
+          "en": "Home",
+          "slug": "home-xn-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.883",
+      "lon": "103.367"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1659470",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Samsao-Gnai",
+      "en": "Ban Samsao-Gnai",
+      "slug": "ban-samsao-gnai-1659470"
+    },
+    "code": {
+      "id": "1659470",
+      "iso": null
+    },
+    "parent": {
+      "id": "XN-02",
+      "level": 2,
+      "name": {
+        "local": "Home",
+        "en": "Home",
+        "slug": "home-xn-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XN",
+        "level": 1,
+        "name": {
+          "local": "Xaisomboun",
+          "en": "Xaisomboun",
+          "slug": "xaisomboun-xn"
+        }
+      },
+      {
+        "id": "XN-02",
+        "level": 2,
+        "name": {
+          "local": "Home",
+          "en": "Home",
+          "slug": "home-xn-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.776",
+      "lon": "103.345"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

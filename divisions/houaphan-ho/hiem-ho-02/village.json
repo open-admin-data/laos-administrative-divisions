@@ -1,0 +1,1784 @@
+[
+  {
+    "id": "1956855",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Donkhoun",
+      "en": "Ban Donkhoun",
+      "slug": "ban-donkhoun-1956855"
+    },
+    "code": {
+      "id": "1956855",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-02",
+      "level": 2,
+      "name": {
+        "local": "Hiem",
+        "en": "Hiem",
+        "slug": "hiem-ho-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-02",
+        "level": 2,
+        "name": {
+          "local": "Hiem",
+          "en": "Hiem",
+          "slug": "hiem-ho-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.181",
+      "lon": "103.157"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1956850",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Hatxa",
+      "en": "Ban Hatxa",
+      "slug": "ban-hatxa-1956850"
+    },
+    "code": {
+      "id": "1956850",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-02",
+      "level": 2,
+      "name": {
+        "local": "Hiem",
+        "en": "Hiem",
+        "slug": "hiem-ho-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-02",
+        "level": 2,
+        "name": {
+          "local": "Hiem",
+          "en": "Hiem",
+          "slug": "hiem-ho-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.172",
+      "lon": "103.133"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1956834",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houaykho",
+      "en": "Ban Houaykho",
+      "slug": "ban-houaykho-1956834"
+    },
+    "code": {
+      "id": "1956834",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-02",
+      "level": 2,
+      "name": {
+        "local": "Hiem",
+        "en": "Hiem",
+        "slug": "hiem-ho-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-02",
+        "level": 2,
+        "name": {
+          "local": "Hiem",
+          "en": "Hiem",
+          "slug": "hiem-ho-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.033",
+      "lon": "103.422"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1952372",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houaylao",
+      "en": "Ban Houaylao",
+      "slug": "ban-houaylao-1952372"
+    },
+    "code": {
+      "id": "1952372",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-02",
+      "level": 2,
+      "name": {
+        "local": "Hiem",
+        "en": "Hiem",
+        "slug": "hiem-ho-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-02",
+        "level": 2,
+        "name": {
+          "local": "Hiem",
+          "en": "Hiem",
+          "slug": "hiem-ho-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.898",
+      "lon": "103.462"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1956840",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Không",
+      "en": "Ban Khong",
+      "slug": "ban-khong-1956840"
+    },
+    "code": {
+      "id": "1956840",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-02",
+      "level": 2,
+      "name": {
+        "local": "Hiem",
+        "en": "Hiem",
+        "slug": "hiem-ho-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-02",
+        "level": 2,
+        "name": {
+          "local": "Hiem",
+          "en": "Hiem",
+          "slug": "hiem-ho-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.055",
+      "lon": "103.358"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1956835",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Kohing",
+      "en": "Ban Kohing",
+      "slug": "ban-kohing-1956835"
+    },
+    "code": {
+      "id": "1956835",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-02",
+      "level": 2,
+      "name": {
+        "local": "Hiem",
+        "en": "Hiem",
+        "slug": "hiem-ho-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-02",
+        "level": 2,
+        "name": {
+          "local": "Hiem",
+          "en": "Hiem",
+          "slug": "hiem-ho-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.068",
+      "lon": "103.462"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1662816",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Kokiang",
+      "en": "Ban Kokiang",
+      "slug": "ban-kokiang-1662816"
+    },
+    "code": {
+      "id": "1662816",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-02",
+      "level": 2,
+      "name": {
+        "local": "Hiem",
+        "en": "Hiem",
+        "slug": "hiem-ho-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-02",
+        "level": 2,
+        "name": {
+          "local": "Hiem",
+          "en": "Hiem",
+          "slug": "hiem-ho-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.031",
+      "lon": "103.346"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1662791",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Komu",
+      "en": "Ban Komu",
+      "slug": "ban-komu-1662791"
+    },
+    "code": {
+      "id": "1662791",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-02",
+      "level": 2,
+      "name": {
+        "local": "Hiem",
+        "en": "Hiem",
+        "slug": "hiem-ho-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-02",
+        "level": 2,
+        "name": {
+          "local": "Hiem",
+          "en": "Hiem",
+          "slug": "hiem-ho-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.083",
+      "lon": "103.367"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1655213",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Muanghiam",
+      "en": "Ban Muanghiam",
+      "slug": "ban-muanghiam-1655213"
+    },
+    "code": {
+      "id": "1655213",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-02",
+      "level": 2,
+      "name": {
+        "local": "Hiem",
+        "en": "Hiem",
+        "slug": "hiem-ho-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-02",
+        "level": 2,
+        "name": {
+          "local": "Hiem",
+          "en": "Hiem",
+          "slug": "hiem-ho-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.093",
+      "lon": "103.374"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1661685",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Na Lan",
+      "en": "Ban Na Lan",
+      "slug": "ban-na-lan-1661685"
+    },
+    "code": {
+      "id": "1661685",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-02",
+      "level": 2,
+      "name": {
+        "local": "Hiem",
+        "en": "Hiem",
+        "slug": "hiem-ho-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-02",
+        "level": 2,
+        "name": {
+          "local": "Hiem",
+          "en": "Hiem",
+          "slug": "hiem-ho-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.133",
+      "lon": "103.267"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1655010",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nakhang",
+      "en": "Ban Nakhang",
+      "slug": "ban-nakhang-1655010"
+    },
+    "code": {
+      "id": "1655010",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-02",
+      "level": 2,
+      "name": {
+        "local": "Hiem",
+        "en": "Hiem",
+        "slug": "hiem-ho-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-02",
+        "level": 2,
+        "name": {
+          "local": "Hiem",
+          "en": "Hiem",
+          "slug": "hiem-ho-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.981",
+      "lon": "103.483"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1952368",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nakout",
+      "en": "Ban Nakout",
+      "slug": "ban-nakout-1952368"
+    },
+    "code": {
+      "id": "1952368",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-02",
+      "level": 2,
+      "name": {
+        "local": "Hiem",
+        "en": "Hiem",
+        "slug": "hiem-ho-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-02",
+        "level": 2,
+        "name": {
+          "local": "Hiem",
+          "en": "Hiem",
+          "slug": "hiem-ho-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.966",
+      "lon": "103.466"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1956849",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nampoung",
+      "en": "Ban Nampoung",
+      "slug": "ban-nampoung-1956849"
+    },
+    "code": {
+      "id": "1956849",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-02",
+      "level": 2,
+      "name": {
+        "local": "Hiem",
+        "en": "Hiem",
+        "slug": "hiem-ho-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-02",
+        "level": 2,
+        "name": {
+          "local": "Hiem",
+          "en": "Hiem",
+          "slug": "hiem-ho-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.148",
+      "lon": "103.271"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1956847",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Namsa",
+      "en": "Ban Namsa",
+      "slug": "ban-namsa-1956847"
+    },
+    "code": {
+      "id": "1956847",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-02",
+      "level": 2,
+      "name": {
+        "local": "Hiem",
+        "en": "Hiem",
+        "slug": "hiem-ho-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-02",
+        "level": 2,
+        "name": {
+          "local": "Hiem",
+          "en": "Hiem",
+          "slug": "hiem-ho-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.108",
+      "lon": "103.337"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1956839",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Naviang",
+      "en": "Ban Naviang",
+      "slug": "ban-naviang-1956839"
+    },
+    "code": {
+      "id": "1956839",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-02",
+      "level": 2,
+      "name": {
+        "local": "Hiem",
+        "en": "Hiem",
+        "slug": "hiem-ho-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-02",
+        "level": 2,
+        "name": {
+          "local": "Hiem",
+          "en": "Hiem",
+          "slug": "hiem-ho-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.073",
+      "lon": "103.37"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1952369",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phanlo",
+      "en": "Ban Phanlo",
+      "slug": "ban-phanlo-1952369"
+    },
+    "code": {
+      "id": "1952369",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-02",
+      "level": 2,
+      "name": {
+        "local": "Hiem",
+        "en": "Hiem",
+        "slug": "hiem-ho-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-02",
+        "level": 2,
+        "name": {
+          "local": "Hiem",
+          "en": "Hiem",
+          "slug": "hiem-ho-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.942",
+      "lon": "103.341"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1956846",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phônngam",
+      "en": "Ban Phonngam",
+      "slug": "ban-phonngam-1956846"
+    },
+    "code": {
+      "id": "1956846",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-02",
+      "level": 2,
+      "name": {
+        "local": "Hiem",
+        "en": "Hiem",
+        "slug": "hiem-ho-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-02",
+        "level": 2,
+        "name": {
+          "local": "Hiem",
+          "en": "Hiem",
+          "slug": "hiem-ho-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.014",
+      "lon": "103.341"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1956848",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phônsaat",
+      "en": "Ban Phonsaat",
+      "slug": "ban-phonsaat-1956848"
+    },
+    "code": {
+      "id": "1956848",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-02",
+      "level": 2,
+      "name": {
+        "local": "Hiem",
+        "en": "Hiem",
+        "slug": "hiem-ho-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-02",
+        "level": 2,
+        "name": {
+          "local": "Hiem",
+          "en": "Hiem",
+          "slug": "hiem-ho-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.139",
+      "lon": "103.271"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1952367",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phônxai",
+      "en": "Ban Phonxai",
+      "slug": "ban-phonxai-1952367"
+    },
+    "code": {
+      "id": "1952367",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-02",
+      "level": 2,
+      "name": {
+        "local": "Hiem",
+        "en": "Hiem",
+        "slug": "hiem-ho-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-02",
+        "level": 2,
+        "name": {
+          "local": "Hiem",
+          "en": "Hiem",
+          "slug": "hiem-ho-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.972",
+      "lon": "103.31"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1956843",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phoulouang",
+      "en": "Ban Phoulouang",
+      "slug": "ban-phoulouang-1956843"
+    },
+    "code": {
+      "id": "1956843",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-02",
+      "level": 2,
+      "name": {
+        "local": "Hiem",
+        "en": "Hiem",
+        "slug": "hiem-ho-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-02",
+        "level": 2,
+        "name": {
+          "local": "Hiem",
+          "en": "Hiem",
+          "slug": "hiem-ho-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.049",
+      "lon": "103.389"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1956838",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phouviang",
+      "en": "Ban Phouviang",
+      "slug": "ban-phouviang-1956838"
+    },
+    "code": {
+      "id": "1956838",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-02",
+      "level": 2,
+      "name": {
+        "local": "Hiem",
+        "en": "Hiem",
+        "slug": "hiem-ho-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-02",
+        "level": 2,
+        "name": {
+          "local": "Hiem",
+          "en": "Hiem",
+          "slug": "hiem-ho-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.065",
+      "lon": "103.4"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1956841",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Pounghai",
+      "en": "Ban Pounghai",
+      "slug": "ban-pounghai-1956841"
+    },
+    "code": {
+      "id": "1956841",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-02",
+      "level": 2,
+      "name": {
+        "local": "Hiem",
+        "en": "Hiem",
+        "slug": "hiem-ho-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-02",
+        "level": 2,
+        "name": {
+          "local": "Hiem",
+          "en": "Hiem",
+          "slug": "hiem-ho-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.041",
+      "lon": "103.355"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1956845",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Poungpin",
+      "en": "Ban Poungpin",
+      "slug": "ban-poungpin-1956845"
+    },
+    "code": {
+      "id": "1956845",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-02",
+      "level": 2,
+      "name": {
+        "local": "Hiem",
+        "en": "Hiem",
+        "slug": "hiem-ho-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-02",
+        "level": 2,
+        "name": {
+          "local": "Hiem",
+          "en": "Hiem",
+          "slug": "hiem-ho-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.012",
+      "lon": "103.336"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1655113",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Sakôk",
+      "en": "Ban Sakok",
+      "slug": "ban-sakok-1655113"
+    },
+    "code": {
+      "id": "1655113",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-02",
+      "level": 2,
+      "name": {
+        "local": "Hiem",
+        "en": "Hiem",
+        "slug": "hiem-ho-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-02",
+        "level": 2,
+        "name": {
+          "local": "Hiem",
+          "en": "Hiem",
+          "slug": "hiem-ho-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.186",
+      "lon": "103.203"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1659097",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Sop Man",
+      "en": "Ban Sop Man",
+      "slug": "ban-sop-man-1659097"
+    },
+    "code": {
+      "id": "1659097",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-02",
+      "level": 2,
+      "name": {
+        "local": "Hiem",
+        "en": "Hiem",
+        "slug": "hiem-ho-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-02",
+        "level": 2,
+        "name": {
+          "local": "Hiem",
+          "en": "Hiem",
+          "slug": "hiem-ho-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.917",
+      "lon": "103.333"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1662018",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Sôphit",
+      "en": "Ban Sophit",
+      "slug": "ban-sophit-1662018"
+    },
+    "code": {
+      "id": "1662018",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-02",
+      "level": 2,
+      "name": {
+        "local": "Hiem",
+        "en": "Hiem",
+        "slug": "hiem-ho-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-02",
+        "level": 2,
+        "name": {
+          "local": "Hiem",
+          "en": "Hiem",
+          "slug": "hiem-ho-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.11",
+      "lon": "103.394"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1659098",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Sôpman",
+      "en": "Ban Sopman",
+      "slug": "ban-sopman-1659098"
+    },
+    "code": {
+      "id": "1659098",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-02",
+      "level": 2,
+      "name": {
+        "local": "Hiem",
+        "en": "Hiem",
+        "slug": "hiem-ho-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-02",
+        "level": 2,
+        "name": {
+          "local": "Hiem",
+          "en": "Hiem",
+          "slug": "hiem-ho-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.943",
+      "lon": "103.304"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1659065",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Sôpsiam",
+      "en": "Ban Sopsiam",
+      "slug": "ban-sopsiam-1659065"
+    },
+    "code": {
+      "id": "1659065",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-02",
+      "level": 2,
+      "name": {
+        "local": "Hiem",
+        "en": "Hiem",
+        "slug": "hiem-ho-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-02",
+        "level": 2,
+        "name": {
+          "local": "Hiem",
+          "en": "Hiem",
+          "slug": "hiem-ho-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.998",
+      "lon": "103.307"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1652650",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Thamla-Nua",
+      "en": "Ban Thamla-Nua",
+      "slug": "ban-thamla-nua-1652650"
+    },
+    "code": {
+      "id": "1652650",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-02",
+      "level": 2,
+      "name": {
+        "local": "Hiem",
+        "en": "Hiem",
+        "slug": "hiem-ho-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-02",
+        "level": 2,
+        "name": {
+          "local": "Hiem",
+          "en": "Hiem",
+          "slug": "hiem-ho-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.928",
+      "lon": "103.445"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1952370",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Thamla-Tai",
+      "en": "Ban Thamla-Tai",
+      "slug": "ban-thamla-tai-1952370"
+    },
+    "code": {
+      "id": "1952370",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-02",
+      "level": 2,
+      "name": {
+        "local": "Hiem",
+        "en": "Hiem",
+        "slug": "hiem-ho-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-02",
+        "level": 2,
+        "name": {
+          "local": "Hiem",
+          "en": "Hiem",
+          "slug": "hiem-ho-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.909",
+      "lon": "103.442"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1655004",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Nakouang",
+      "en": "Nakouang",
+      "slug": "nakouang-1655004"
+    },
+    "code": {
+      "id": "1655004",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-02",
+      "level": 2,
+      "name": {
+        "local": "Hiem",
+        "en": "Hiem",
+        "slug": "hiem-ho-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-02",
+        "level": 2,
+        "name": {
+          "local": "Hiem",
+          "en": "Hiem",
+          "slug": "hiem-ho-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.9",
+      "lon": "103.483"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1654767",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Nathouat",
+      "en": "Nathouat",
+      "slug": "nathouat-1654767"
+    },
+    "code": {
+      "id": "1654767",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-02",
+      "level": 2,
+      "name": {
+        "local": "Hiem",
+        "en": "Hiem",
+        "slug": "hiem-ho-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-02",
+        "level": 2,
+        "name": {
+          "local": "Hiem",
+          "en": "Hiem",
+          "slug": "hiem-ho-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.9",
+      "lon": "103.5"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1653064",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Sop Cop",
+      "en": "Sop Cop",
+      "slug": "sop-cop-1653064"
+    },
+    "code": {
+      "id": "1653064",
+      "iso": null
+    },
+    "parent": {
+      "id": "HO-02",
+      "level": 2,
+      "name": {
+        "local": "Hiem",
+        "en": "Hiem",
+        "slug": "hiem-ho-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "HO",
+        "level": 1,
+        "name": {
+          "local": "Houaphan",
+          "en": "Houaphan",
+          "slug": "houaphan-ho"
+        }
+      },
+      {
+        "id": "HO-02",
+        "level": 2,
+        "name": {
+          "local": "Hiem",
+          "en": "Hiem",
+          "slug": "hiem-ho-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.2",
+      "lon": "103.217"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

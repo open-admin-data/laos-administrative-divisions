@@ -1,0 +1,5726 @@
+[
+  {
+    "id": "11237369",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Bo",
+      "en": "Ban Bo",
+      "slug": "ban-bo-11237369"
+    },
+    "code": {
+      "id": "11237369",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-04",
+      "level": 2,
+      "name": {
+        "local": "Sing",
+        "en": "Sing",
+        "slug": "sing-lm-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-04",
+        "level": 2,
+        "name": {
+          "local": "Sing",
+          "en": "Sing",
+          "slug": "sing-lm-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.379",
+      "lon": "101.037"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1664880",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Bouak-Hèt",
+      "en": "Ban Bouak-Het",
+      "slug": "ban-bouak-het-1664880"
+    },
+    "code": {
+      "id": "1664880",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-04",
+      "level": 2,
+      "name": {
+        "local": "Sing",
+        "en": "Sing",
+        "slug": "sing-lm-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-04",
+        "level": 2,
+        "name": {
+          "local": "Sing",
+          "en": "Sing",
+          "slug": "sing-lm-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.418",
+      "lon": "101.085"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11237376",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Bouakgnaxai",
+      "en": "Ban Bouakgnaxai",
+      "slug": "ban-bouakgnaxai-11237376"
+    },
+    "code": {
+      "id": "11237376",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-04",
+      "level": 2,
+      "name": {
+        "local": "Sing",
+        "en": "Sing",
+        "slug": "sing-lm-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-04",
+        "level": 2,
+        "name": {
+          "local": "Sing",
+          "en": "Sing",
+          "slug": "sing-lm-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.391",
+      "lon": "101.155"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11237393",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Bouakkhou",
+      "en": "Ban Bouakkhou",
+      "slug": "ban-bouakkhou-11237393"
+    },
+    "code": {
+      "id": "11237393",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-04",
+      "level": 2,
+      "name": {
+        "local": "Sing",
+        "en": "Sing",
+        "slug": "sing-lm-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-04",
+        "level": 2,
+        "name": {
+          "local": "Sing",
+          "en": "Sing",
+          "slug": "sing-lm-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.474",
+      "lon": "101.13"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1664773",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Cha Kanta",
+      "en": "Ban Cha Kanta",
+      "slug": "ban-cha-kanta-1664773"
+    },
+    "code": {
+      "id": "1664773",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-04",
+      "level": 2,
+      "name": {
+        "local": "Sing",
+        "en": "Sing",
+        "slug": "sing-lm-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-04",
+        "level": 2,
+        "name": {
+          "local": "Sing",
+          "en": "Sing",
+          "slug": "sing-lm-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.367",
+      "lon": "101.05"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11237439",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Cha-Inta",
+      "en": "Ban Cha-Inta",
+      "slug": "ban-cha-inta-11237439"
+    },
+    "code": {
+      "id": "11237439",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-04",
+      "level": 2,
+      "name": {
+        "local": "Sing",
+        "en": "Sing",
+        "slug": "sing-lm-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-04",
+        "level": 2,
+        "name": {
+          "local": "Sing",
+          "en": "Sing",
+          "slug": "sing-lm-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.324",
+      "lon": "100.93"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11237366",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Cha-Oup",
+      "en": "Ban Cha-Oup",
+      "slug": "ban-cha-oup-11237366"
+    },
+    "code": {
+      "id": "11237366",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-04",
+      "level": 2,
+      "name": {
+        "local": "Sing",
+        "en": "Sing",
+        "slug": "sing-lm-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-04",
+        "level": 2,
+        "name": {
+          "local": "Sing",
+          "en": "Sing",
+          "slug": "sing-lm-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.41",
+      "lon": "101.036"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11237438",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Cha-Oup",
+      "en": "Ban Cha-Oup",
+      "slug": "ban-cha-oup-11237438"
+    },
+    "code": {
+      "id": "11237438",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-04",
+      "level": 2,
+      "name": {
+        "local": "Sing",
+        "en": "Sing",
+        "slug": "sing-lm-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-04",
+        "level": 2,
+        "name": {
+          "local": "Sing",
+          "en": "Sing",
+          "slug": "sing-lm-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.296",
+      "lon": "100.9"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11237440",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Chakheum",
+      "en": "Ban Chakheum",
+      "slug": "ban-chakheum-11237440"
+    },
+    "code": {
+      "id": "11237440",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-04",
+      "level": 2,
+      "name": {
+        "local": "Sing",
+        "en": "Sing",
+        "slug": "sing-lm-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-04",
+        "level": 2,
+        "name": {
+          "local": "Sing",
+          "en": "Sing",
+          "slug": "sing-lm-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.286",
+      "lon": "100.93"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11237390",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Chaphoulin",
+      "en": "Ban Chaphoulin",
+      "slug": "ban-chaphoulin-11237390"
+    },
+    "code": {
+      "id": "11237390",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-04",
+      "level": 2,
+      "name": {
+        "local": "Sing",
+        "en": "Sing",
+        "slug": "sing-lm-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-04",
+        "level": 2,
+        "name": {
+          "local": "Sing",
+          "en": "Sing",
+          "slug": "sing-lm-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.43",
+      "lon": "101.067"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1664735",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Chaphouma",
+      "en": "Ban Chaphouma",
+      "slug": "ban-chaphouma-1664735"
+    },
+    "code": {
+      "id": "1664735",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-04",
+      "level": 2,
+      "name": {
+        "local": "Sing",
+        "en": "Sing",
+        "slug": "sing-lm-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-04",
+        "level": 2,
+        "name": {
+          "local": "Sing",
+          "en": "Sing",
+          "slug": "sing-lm-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.212",
+      "lon": "100.974"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11237398",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Chaphouma-Mai",
+      "en": "Ban Chaphouma-Mai",
+      "slug": "ban-chaphouma-mai-11237398"
+    },
+    "code": {
+      "id": "11237398",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-04",
+      "level": 2,
+      "name": {
+        "local": "Sing",
+        "en": "Sing",
+        "slug": "sing-lm-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-04",
+        "level": 2,
+        "name": {
+          "local": "Sing",
+          "en": "Sing",
+          "slug": "sing-lm-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.211",
+      "lon": "100.952"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11237436",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Chaphouthon",
+      "en": "Ban Chaphouthon",
+      "slug": "ban-chaphouthon-11237436"
+    },
+    "code": {
+      "id": "11237436",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-04",
+      "level": 2,
+      "name": {
+        "local": "Sing",
+        "en": "Sing",
+        "slug": "sing-lm-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-04",
+        "level": 2,
+        "name": {
+          "local": "Sing",
+          "en": "Sing",
+          "slug": "sing-lm-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.312",
+      "lon": "100.877"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11237434",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Chata",
+      "en": "Ban Chata",
+      "slug": "ban-chata-11237434"
+    },
+    "code": {
+      "id": "11237434",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-04",
+      "level": 2,
+      "name": {
+        "local": "Sing",
+        "en": "Sing",
+        "slug": "sing-lm-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-04",
+        "level": 2,
+        "name": {
+          "local": "Sing",
+          "en": "Sing",
+          "slug": "sing-lm-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.283",
+      "lon": "100.879"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11237367",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Chavang-Kao",
+      "en": "Ban Chavang-Kao",
+      "slug": "ban-chavang-kao-11237367"
+    },
+    "code": {
+      "id": "11237367",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-04",
+      "level": 2,
+      "name": {
+        "local": "Sing",
+        "en": "Sing",
+        "slug": "sing-lm-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-04",
+        "level": 2,
+        "name": {
+          "local": "Sing",
+          "en": "Sing",
+          "slug": "sing-lm-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.398",
+      "lon": "101.074"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1955653",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Chiangmoun",
+      "en": "Ban Chiangmoun",
+      "slug": "ban-chiangmoun-1955653"
+    },
+    "code": {
+      "id": "1955653",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-04",
+      "level": 2,
+      "name": {
+        "local": "Sing",
+        "en": "Sing",
+        "slug": "sing-lm-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-04",
+        "level": 2,
+        "name": {
+          "local": "Sing",
+          "en": "Sing",
+          "slug": "sing-lm-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.202",
+      "lon": "101.152"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1955640",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Chom",
+      "en": "Ban Chom",
+      "slug": "ban-chom-1955640"
+    },
+    "code": {
+      "id": "1955640",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-04",
+      "level": 2,
+      "name": {
+        "local": "Sing",
+        "en": "Sing",
+        "slug": "sing-lm-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-04",
+        "level": 2,
+        "name": {
+          "local": "Sing",
+          "en": "Sing",
+          "slug": "sing-lm-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.237",
+      "lon": "101.153"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1955665",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Douthan",
+      "en": "Ban Douthan",
+      "slug": "ban-douthan-1955665"
+    },
+    "code": {
+      "id": "1955665",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-04",
+      "level": 2,
+      "name": {
+        "local": "Sing",
+        "en": "Sing",
+        "slug": "sing-lm-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-04",
+        "level": 2,
+        "name": {
+          "local": "Sing",
+          "en": "Sing",
+          "slug": "sing-lm-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.176",
+      "lon": "101.251"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11237386",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Eula",
+      "en": "Ban Eula",
+      "slug": "ban-eula-11237386"
+    },
+    "code": {
+      "id": "11237386",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-04",
+      "level": 2,
+      "name": {
+        "local": "Sing",
+        "en": "Sing",
+        "slug": "sing-lm-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-04",
+        "level": 2,
+        "name": {
+          "local": "Sing",
+          "en": "Sing",
+          "slug": "sing-lm-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.365",
+      "lon": "100.967"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1955723",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houana-Nua",
+      "en": "Ban Houana-Nua",
+      "slug": "ban-houana-nua-1955723"
+    },
+    "code": {
+      "id": "1955723",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-04",
+      "level": 2,
+      "name": {
+        "local": "Sing",
+        "en": "Sing",
+        "slug": "sing-lm-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-04",
+        "level": 2,
+        "name": {
+          "local": "Sing",
+          "en": "Sing",
+          "slug": "sing-lm-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.107",
+      "lon": "101.122"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1955730",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houana-Tai",
+      "en": "Ban Houana-Tai",
+      "slug": "ban-houana-tai-1955730"
+    },
+    "code": {
+      "id": "1955730",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-04",
+      "level": 2,
+      "name": {
+        "local": "Sing",
+        "en": "Sing",
+        "slug": "sing-lm-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-04",
+        "level": 2,
+        "name": {
+          "local": "Sing",
+          "en": "Sing",
+          "slug": "sing-lm-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.092",
+      "lon": "101.103"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1955722",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houanamkèo",
+      "en": "Ban Houanamkeo",
+      "slug": "ban-houanamkeo-1955722"
+    },
+    "code": {
+      "id": "1955722",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-04",
+      "level": 2,
+      "name": {
+        "local": "Sing",
+        "en": "Sing",
+        "slug": "sing-lm-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-04",
+        "level": 2,
+        "name": {
+          "local": "Sing",
+          "en": "Sing",
+          "slug": "sing-lm-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.116",
+      "lon": "101.165"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11237368",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houay-Ung",
+      "en": "Ban Houay-Ung",
+      "slug": "ban-houay-ung-11237368"
+    },
+    "code": {
+      "id": "11237368",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-04",
+      "level": 2,
+      "name": {
+        "local": "Sing",
+        "en": "Sing",
+        "slug": "sing-lm-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-04",
+        "level": 2,
+        "name": {
+          "local": "Sing",
+          "en": "Sing",
+          "slug": "sing-lm-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.373",
+      "lon": "101.063"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11237374",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houayhuang",
+      "en": "Ban Houayhuang",
+      "slug": "ban-houayhuang-11237374"
+    },
+    "code": {
+      "id": "11237374",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-04",
+      "level": 2,
+      "name": {
+        "local": "Sing",
+        "en": "Sing",
+        "slug": "sing-lm-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-04",
+        "level": 2,
+        "name": {
+          "local": "Sing",
+          "en": "Sing",
+          "slug": "sing-lm-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.379",
+      "lon": "101.127"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1955648",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houaykaèm",
+      "en": "Ban Houaykaem",
+      "slug": "ban-houaykaem-1955648"
+    },
+    "code": {
+      "id": "1955648",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-04",
+      "level": 2,
+      "name": {
+        "local": "Sing",
+        "en": "Sing",
+        "slug": "sing-lm-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-04",
+        "level": 2,
+        "name": {
+          "local": "Sing",
+          "en": "Sing",
+          "slug": "sing-lm-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.199",
+      "lon": "101.065"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1955680",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houaykôt",
+      "en": "Ban Houaykot",
+      "slug": "ban-houaykot-1955680"
+    },
+    "code": {
+      "id": "1955680",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-04",
+      "level": 2,
+      "name": {
+        "local": "Sing",
+        "en": "Sing",
+        "slug": "sing-lm-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-04",
+        "level": 2,
+        "name": {
+          "local": "Sing",
+          "en": "Sing",
+          "slug": "sing-lm-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.157",
+      "lon": "101.098"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1955646",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houayla-Kao",
+      "en": "Ban Houayla-Kao",
+      "slug": "ban-houayla-kao-1955646"
+    },
+    "code": {
+      "id": "1955646",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-04",
+      "level": 2,
+      "name": {
+        "local": "Sing",
+        "en": "Sing",
+        "slug": "sing-lm-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-04",
+        "level": 2,
+        "name": {
+          "local": "Sing",
+          "en": "Sing",
+          "slug": "sing-lm-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.228",
+      "lon": "101.106"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1955647",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houayla-Mai",
+      "en": "Ban Houayla-Mai",
+      "slug": "ban-houayla-mai-1955647"
+    },
+    "code": {
+      "id": "1955647",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-04",
+      "level": 2,
+      "name": {
+        "local": "Sing",
+        "en": "Sing",
+        "slug": "sing-lm-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-04",
+        "level": 2,
+        "name": {
+          "local": "Sing",
+          "en": "Sing",
+          "slug": "sing-lm-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.211",
+      "lon": "101.072"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1663769",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houaylong",
+      "en": "Ban Houaylong",
+      "slug": "ban-houaylong-1663769"
+    },
+    "code": {
+      "id": "1663769",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-04",
+      "level": 2,
+      "name": {
+        "local": "Sing",
+        "en": "Sing",
+        "slug": "sing-lm-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-04",
+        "level": 2,
+        "name": {
+          "local": "Sing",
+          "en": "Sing",
+          "slug": "sing-lm-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.244",
+      "lon": "101.182"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1955641",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houaylong",
+      "en": "Ban Houaylong",
+      "slug": "ban-houaylong-1955641"
+    },
+    "code": {
+      "id": "1955641",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-04",
+      "level": 2,
+      "name": {
+        "local": "Sing",
+        "en": "Sing",
+        "slug": "sing-lm-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-04",
+        "level": 2,
+        "name": {
+          "local": "Sing",
+          "en": "Sing",
+          "slug": "sing-lm-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.244",
+      "lon": "101.182"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1955637",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houaylong-Kao",
+      "en": "Ban Houaylong-Kao",
+      "slug": "ban-houaylong-kao-1955637"
+    },
+    "code": {
+      "id": "1955637",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-04",
+      "level": 2,
+      "name": {
+        "local": "Sing",
+        "en": "Sing",
+        "slug": "sing-lm-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-04",
+        "level": 2,
+        "name": {
+          "local": "Sing",
+          "en": "Sing",
+          "slug": "sing-lm-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.274",
+      "lon": "101.172"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1955638",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houaylong-Mai",
+      "en": "Ban Houaylong-Mai",
+      "slug": "ban-houaylong-mai-1955638"
+    },
+    "code": {
+      "id": "1955638",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-04",
+      "level": 2,
+      "name": {
+        "local": "Sing",
+        "en": "Sing",
+        "slug": "sing-lm-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-04",
+        "level": 2,
+        "name": {
+          "local": "Sing",
+          "en": "Sing",
+          "slug": "sing-lm-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.26",
+      "lon": "101.225"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11237392",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houaytat",
+      "en": "Ban Houaytat",
+      "slug": "ban-houaytat-11237392"
+    },
+    "code": {
+      "id": "11237392",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-04",
+      "level": 2,
+      "name": {
+        "local": "Sing",
+        "en": "Sing",
+        "slug": "sing-lm-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-04",
+        "level": 2,
+        "name": {
+          "local": "Sing",
+          "en": "Sing",
+          "slug": "sing-lm-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.431",
+      "lon": "101.147"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1955630",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Imlakhili",
+      "en": "Ban Imlakhili",
+      "slug": "ban-imlakhili-1955630"
+    },
+    "code": {
+      "id": "1955630",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-04",
+      "level": 2,
+      "name": {
+        "local": "Sing",
+        "en": "Sing",
+        "slug": "sing-lm-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-04",
+        "level": 2,
+        "name": {
+          "local": "Sing",
+          "en": "Sing",
+          "slug": "sing-lm-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.301",
+      "lon": "101.098"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1955685",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Kèo-Noy",
+      "en": "Ban Keo-Noy",
+      "slug": "ban-keo-noy-1955685"
+    },
+    "code": {
+      "id": "1955685",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-04",
+      "level": 2,
+      "name": {
+        "local": "Sing",
+        "en": "Sing",
+        "slug": "sing-lm-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-04",
+        "level": 2,
+        "name": {
+          "local": "Sing",
+          "en": "Sing",
+          "slug": "sing-lm-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.162",
+      "lon": "101.162"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1955671",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Kèolouang",
+      "en": "Ban Keolouang",
+      "slug": "ban-keolouang-1955671"
+    },
+    "code": {
+      "id": "1955671",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-04",
+      "level": 2,
+      "name": {
+        "local": "Sing",
+        "en": "Sing",
+        "slug": "sing-lm-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-04",
+        "level": 2,
+        "name": {
+          "local": "Sing",
+          "en": "Sing",
+          "slug": "sing-lm-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.183",
+      "lon": "101.148"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11237391",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Khankham",
+      "en": "Ban Khankham",
+      "slug": "ban-khankham-11237391"
+    },
+    "code": {
+      "id": "11237391",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-04",
+      "level": 2,
+      "name": {
+        "local": "Sing",
+        "en": "Sing",
+        "slug": "sing-lm-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-04",
+        "level": 2,
+        "name": {
+          "local": "Sing",
+          "en": "Sing",
+          "slug": "sing-lm-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.445",
+      "lon": "101.118"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1955705",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Khouang",
+      "en": "Ban Khouang",
+      "slug": "ban-khouang-1955705"
+    },
+    "code": {
+      "id": "1955705",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-04",
+      "level": 2,
+      "name": {
+        "local": "Sing",
+        "en": "Sing",
+        "slug": "sing-lm-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-04",
+        "level": 2,
+        "name": {
+          "local": "Sing",
+          "en": "Sing",
+          "slug": "sing-lm-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.152",
+      "lon": "101.112"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1955645",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Koloung",
+      "en": "Ban Koloung",
+      "slug": "ban-koloung-1955645"
+    },
+    "code": {
+      "id": "1955645",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-04",
+      "level": 2,
+      "name": {
+        "local": "Sing",
+        "en": "Sing",
+        "slug": "sing-lm-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-04",
+        "level": 2,
+        "name": {
+          "local": "Sing",
+          "en": "Sing",
+          "slug": "sing-lm-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.222",
+      "lon": "101.147"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11237435",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Kophé",
+      "en": "Ban Kophe",
+      "slug": "ban-kophe-11237435"
+    },
+    "code": {
+      "id": "11237435",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-04",
+      "level": 2,
+      "name": {
+        "local": "Sing",
+        "en": "Sing",
+        "slug": "sing-lm-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-04",
+        "level": 2,
+        "name": {
+          "local": "Sing",
+          "en": "Sing",
+          "slug": "sing-lm-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.297",
+      "lon": "100.884"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1955703",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Koum",
+      "en": "Ban Koum",
+      "slug": "ban-koum-1955703"
+    },
+    "code": {
+      "id": "1955703",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-04",
+      "level": 2,
+      "name": {
+        "local": "Sing",
+        "en": "Sing",
+        "slug": "sing-lm-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-04",
+        "level": 2,
+        "name": {
+          "local": "Sing",
+          "en": "Sing",
+          "slug": "sing-lm-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.146",
+      "lon": "101.173"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1662688",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Lacha",
+      "en": "Ban Lacha",
+      "slug": "ban-lacha-1662688"
+    },
+    "code": {
+      "id": "1662688",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-04",
+      "level": 2,
+      "name": {
+        "local": "Sing",
+        "en": "Sing",
+        "slug": "sing-lm-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-04",
+        "level": 2,
+        "name": {
+          "local": "Sing",
+          "en": "Sing",
+          "slug": "sing-lm-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.167",
+      "lon": "101.267"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1662689",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Lacha",
+      "en": "Ban Lacha",
+      "slug": "ban-lacha-1662689"
+    },
+    "code": {
+      "id": "1662689",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-04",
+      "level": 2,
+      "name": {
+        "local": "Sing",
+        "en": "Sing",
+        "slug": "sing-lm-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-04",
+        "level": 2,
+        "name": {
+          "local": "Sing",
+          "en": "Sing",
+          "slug": "sing-lm-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.117",
+      "lon": "101.167"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1662621",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Lan Tene",
+      "en": "Ban Lan Tene",
+      "slug": "ban-lan-tene-1662621"
+    },
+    "code": {
+      "id": "1662621",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-04",
+      "level": 2,
+      "name": {
+        "local": "Sing",
+        "en": "Sing",
+        "slug": "sing-lm-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-04",
+        "level": 2,
+        "name": {
+          "local": "Sing",
+          "en": "Sing",
+          "slug": "sing-lm-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.15",
+      "lon": "101.117"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11237375",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Laomeuy",
+      "en": "Ban Laomeuy",
+      "slug": "ban-laomeuy-11237375"
+    },
+    "code": {
+      "id": "11237375",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-04",
+      "level": 2,
+      "name": {
+        "local": "Sing",
+        "en": "Sing",
+        "slug": "sing-lm-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-04",
+        "level": 2,
+        "name": {
+          "local": "Sing",
+          "en": "Sing",
+          "slug": "sing-lm-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.376",
+      "lon": "101.087"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11237371",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Lèngfa",
+      "en": "Ban Lengfa",
+      "slug": "ban-lengfa-11237371"
+    },
+    "code": {
+      "id": "11237371",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-04",
+      "level": 2,
+      "name": {
+        "local": "Sing",
+        "en": "Sing",
+        "slug": "sing-lm-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-04",
+        "level": 2,
+        "name": {
+          "local": "Sing",
+          "en": "Sing",
+          "slug": "sing-lm-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.352",
+      "lon": "101.019"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11237450",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Lôkà",
+      "en": "Ban Loka",
+      "slug": "ban-loka-11237450"
+    },
+    "code": {
+      "id": "11237450",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-04",
+      "level": 2,
+      "name": {
+        "local": "Sing",
+        "en": "Sing",
+        "slug": "sing-lm-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-04",
+        "level": 2,
+        "name": {
+          "local": "Sing",
+          "en": "Sing",
+          "slug": "sing-lm-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.318",
+      "lon": "100.992"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1955666",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Lonthèn",
+      "en": "Ban Lonthen",
+      "slug": "ban-lonthen-1955666"
+    },
+    "code": {
+      "id": "1955666",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-04",
+      "level": 2,
+      "name": {
+        "local": "Sing",
+        "en": "Sing",
+        "slug": "sing-lm-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-04",
+        "level": 2,
+        "name": {
+          "local": "Sing",
+          "en": "Sing",
+          "slug": "sing-lm-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.19",
+      "lon": "101.211"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11237384",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Makkouay",
+      "en": "Ban Makkouay",
+      "slug": "ban-makkouay-11237384"
+    },
+    "code": {
+      "id": "11237384",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-04",
+      "level": 2,
+      "name": {
+        "local": "Sing",
+        "en": "Sing",
+        "slug": "sing-lm-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-04",
+        "level": 2,
+        "name": {
+          "local": "Sing",
+          "en": "Sing",
+          "slug": "sing-lm-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.336",
+      "lon": "100.951"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1662300",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Mèo",
+      "en": "Ban Meo",
+      "slug": "ban-meo-1662300"
+    },
+    "code": {
+      "id": "1662300",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-04",
+      "level": 2,
+      "name": {
+        "local": "Sing",
+        "en": "Sing",
+        "slug": "sing-lm-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-04",
+        "level": 2,
+        "name": {
+          "local": "Sing",
+          "en": "Sing",
+          "slug": "sing-lm-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.229",
+      "lon": "100.914"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1955667",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Mouanghoun",
+      "en": "Ban Mouanghoun",
+      "slug": "ban-mouanghoun-1955667"
+    },
+    "code": {
+      "id": "1955667",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-04",
+      "level": 2,
+      "name": {
+        "local": "Sing",
+        "en": "Sing",
+        "slug": "sing-lm-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-04",
+        "level": 2,
+        "name": {
+          "local": "Sing",
+          "en": "Sing",
+          "slug": "sing-lm-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.184",
+      "lon": "101.203"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1662129",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Na",
+      "en": "Ban Na",
+      "slug": "ban-na-1662129"
+    },
+    "code": {
+      "id": "1662129",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-04",
+      "level": 2,
+      "name": {
+        "local": "Sing",
+        "en": "Sing",
+        "slug": "sing-lm-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-04",
+        "level": 2,
+        "name": {
+          "local": "Sing",
+          "en": "Sing",
+          "slug": "sing-lm-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.2",
+      "lon": "101.133"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1955668",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nakbon",
+      "en": "Ban Nakbon",
+      "slug": "ban-nakbon-1955668"
+    },
+    "code": {
+      "id": "1955668",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-04",
+      "level": 2,
+      "name": {
+        "local": "Sing",
+        "en": "Sing",
+        "slug": "sing-lm-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-04",
+        "level": 2,
+        "name": {
+          "local": "Sing",
+          "en": "Sing",
+          "slug": "sing-lm-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.184",
+      "lon": "101.18"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1955682",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Namday",
+      "en": "Ban Namday",
+      "slug": "ban-namday-1955682"
+    },
+    "code": {
+      "id": "1955682",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-04",
+      "level": 2,
+      "name": {
+        "local": "Sing",
+        "en": "Sing",
+        "slug": "sing-lm-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-04",
+        "level": 2,
+        "name": {
+          "local": "Sing",
+          "en": "Sing",
+          "slug": "sing-lm-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.159",
+      "lon": "101.112"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1955689",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Namdékloung",
+      "en": "Ban Namdekloung",
+      "slug": "ban-namdekloung-1955689"
+    },
+    "code": {
+      "id": "1955689",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-04",
+      "level": 2,
+      "name": {
+        "local": "Sing",
+        "en": "Sing",
+        "slug": "sing-lm-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-04",
+        "level": 2,
+        "name": {
+          "local": "Sing",
+          "en": "Sing",
+          "slug": "sing-lm-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.164",
+      "lon": "101.254"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1955706",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Namhou",
+      "en": "Ban Namhou",
+      "slug": "ban-namhou-1955706"
+    },
+    "code": {
+      "id": "1955706",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-04",
+      "level": 2,
+      "name": {
+        "local": "Sing",
+        "en": "Sing",
+        "slug": "sing-lm-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-04",
+        "level": 2,
+        "name": {
+          "local": "Sing",
+          "en": "Sing",
+          "slug": "sing-lm-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.133",
+      "lon": "101.039"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1955654",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nongkham",
+      "en": "Ban Nongkham",
+      "slug": "ban-nongkham-1955654"
+    },
+    "code": {
+      "id": "1955654",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-04",
+      "level": 2,
+      "name": {
+        "local": "Sing",
+        "en": "Sing",
+        "slug": "sing-lm-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-04",
+        "level": 2,
+        "name": {
+          "local": "Sing",
+          "en": "Sing",
+          "slug": "sing-lm-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.197",
+      "lon": "101.161"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1955708",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nongngeun",
+      "en": "Ban Nongngeun",
+      "slug": "ban-nongngeun-1955708"
+    },
+    "code": {
+      "id": "1955708",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-04",
+      "level": 2,
+      "name": {
+        "local": "Sing",
+        "en": "Sing",
+        "slug": "sing-lm-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-04",
+        "level": 2,
+        "name": {
+          "local": "Sing",
+          "en": "Sing",
+          "slug": "sing-lm-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.126",
+      "lon": "101.096"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1955724",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nongngeun-Noy",
+      "en": "Ban Nongngeun-Noy",
+      "slug": "ban-nongngeun-noy-1955724"
+    },
+    "code": {
+      "id": "1955724",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-04",
+      "level": 2,
+      "name": {
+        "local": "Sing",
+        "en": "Sing",
+        "slug": "sing-lm-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-04",
+        "level": 2,
+        "name": {
+          "local": "Sing",
+          "en": "Sing",
+          "slug": "sing-lm-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.12",
+      "lon": "101.083"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1660585",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Oua",
+      "en": "Ban Oua",
+      "slug": "ban-oua-1660585"
+    },
+    "code": {
+      "id": "1660585",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-04",
+      "level": 2,
+      "name": {
+        "local": "Sing",
+        "en": "Sing",
+        "slug": "sing-lm-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-04",
+        "level": 2,
+        "name": {
+          "local": "Sing",
+          "en": "Sing",
+          "slug": "sing-lm-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.317",
+      "lon": "101.133"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1660583",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Ouan",
+      "en": "Ban Ouan",
+      "slug": "ban-ouan-1660583"
+    },
+    "code": {
+      "id": "1660583",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-04",
+      "level": 2,
+      "name": {
+        "local": "Sing",
+        "en": "Sing",
+        "slug": "sing-lm-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-04",
+        "level": 2,
+        "name": {
+          "local": "Sing",
+          "en": "Sing",
+          "slug": "sing-lm-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.15",
+      "lon": "101.167"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11237377",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Paphouk-Kao",
+      "en": "Ban Paphouk-Kao",
+      "slug": "ban-paphouk-kao-11237377"
+    },
+    "code": {
+      "id": "11237377",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-04",
+      "level": 2,
+      "name": {
+        "local": "Sing",
+        "en": "Sing",
+        "slug": "sing-lm-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-04",
+        "level": 2,
+        "name": {
+          "local": "Sing",
+          "en": "Sing",
+          "slug": "sing-lm-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.407",
+      "lon": "101.141"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11237378",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Paphouk-Mai",
+      "en": "Ban Paphouk-Mai",
+      "slug": "ban-paphouk-mai-11237378"
+    },
+    "code": {
+      "id": "11237378",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-04",
+      "level": 2,
+      "name": {
+        "local": "Sing",
+        "en": "Sing",
+        "slug": "sing-lm-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-04",
+        "level": 2,
+        "name": {
+          "local": "Sing",
+          "en": "Sing",
+          "slug": "sing-lm-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.416",
+      "lon": "101.136"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1955687",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Patouay",
+      "en": "Ban Patouay",
+      "slug": "ban-patouay-1955687"
+    },
+    "code": {
+      "id": "1955687",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-04",
+      "level": 2,
+      "name": {
+        "local": "Sing",
+        "en": "Sing",
+        "slug": "sing-lm-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-04",
+        "level": 2,
+        "name": {
+          "local": "Sing",
+          "en": "Sing",
+          "slug": "sing-lm-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.161",
+      "lon": "101.177"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1955677",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Pavay-Kao",
+      "en": "Ban Pavay-Kao",
+      "slug": "ban-pavay-kao-1955677"
+    },
+    "code": {
+      "id": "1955677",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-04",
+      "level": 2,
+      "name": {
+        "local": "Sing",
+        "en": "Sing",
+        "slug": "sing-lm-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-04",
+        "level": 2,
+        "name": {
+          "local": "Sing",
+          "en": "Sing",
+          "slug": "sing-lm-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.185",
+      "lon": "101.027"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1955678",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Pavay-Mai",
+      "en": "Ban Pavay-Mai",
+      "slug": "ban-pavay-mai-1955678"
+    },
+    "code": {
+      "id": "1955678",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-04",
+      "level": 2,
+      "name": {
+        "local": "Sing",
+        "en": "Sing",
+        "slug": "sing-lm-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-04",
+        "level": 2,
+        "name": {
+          "local": "Sing",
+          "en": "Sing",
+          "slug": "sing-lm-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.164",
+      "lon": "101.013"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1955642",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phalat",
+      "en": "Ban Phalat",
+      "slug": "ban-phalat-1955642"
+    },
+    "code": {
+      "id": "1955642",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-04",
+      "level": 2,
+      "name": {
+        "local": "Sing",
+        "en": "Sing",
+        "slug": "sing-lm-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-04",
+        "level": 2,
+        "name": {
+          "local": "Sing",
+          "en": "Sing",
+          "slug": "sing-lm-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.241",
+      "lon": "101.21"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11237372",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phalat",
+      "en": "Ban Phalat",
+      "slug": "ban-phalat-11237372"
+    },
+    "code": {
+      "id": "11237372",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-04",
+      "level": 2,
+      "name": {
+        "local": "Sing",
+        "en": "Sing",
+        "slug": "sing-lm-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-04",
+        "level": 2,
+        "name": {
+          "local": "Sing",
+          "en": "Sing",
+          "slug": "sing-lm-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.344",
+      "lon": "101.128"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1955644",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phalat-Noy",
+      "en": "Ban Phalat-Noy",
+      "slug": "ban-phalat-noy-1955644"
+    },
+    "code": {
+      "id": "1955644",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-04",
+      "level": 2,
+      "name": {
+        "local": "Sing",
+        "en": "Sing",
+        "slug": "sing-lm-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-04",
+        "level": 2,
+        "name": {
+          "local": "Sing",
+          "en": "Sing",
+          "slug": "sing-lm-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.222",
+      "lon": "101.206"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11237373",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phalat-Noy",
+      "en": "Ban Phalat-Noy",
+      "slug": "ban-phalat-noy-11237373"
+    },
+    "code": {
+      "id": "11237373",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-04",
+      "level": 2,
+      "name": {
+        "local": "Sing",
+        "en": "Sing",
+        "slug": "sing-lm-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-04",
+        "level": 2,
+        "name": {
+          "local": "Sing",
+          "en": "Sing",
+          "slug": "sing-lm-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.368",
+      "lon": "101.125"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11237441",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phaxang",
+      "en": "Ban Phaxang",
+      "slug": "ban-phaxang-11237441"
+    },
+    "code": {
+      "id": "11237441",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-04",
+      "level": 2,
+      "name": {
+        "local": "Sing",
+        "en": "Sing",
+        "slug": "sing-lm-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-04",
+        "level": 2,
+        "name": {
+          "local": "Sing",
+          "en": "Sing",
+          "slug": "sing-lm-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.266",
+      "lon": "100.913"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1659710",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Pia Nam Khine",
+      "en": "Ban Pia Nam Khine",
+      "slug": "ban-pia-nam-khine-1659710"
+    },
+    "code": {
+      "id": "1659710",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-04",
+      "level": 2,
+      "name": {
+        "local": "Sing",
+        "en": "Sing",
+        "slug": "sing-lm-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-04",
+        "level": 2,
+        "name": {
+          "local": "Sing",
+          "en": "Sing",
+          "slug": "sing-lm-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.333",
+      "lon": "100.95"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1659457",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban San",
+      "en": "Ban San",
+      "slug": "ban-san-1659457"
+    },
+    "code": {
+      "id": "1659457",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-04",
+      "level": 2,
+      "name": {
+        "local": "Sing",
+        "en": "Sing",
+        "slug": "sing-lm-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-04",
+        "level": 2,
+        "name": {
+          "local": "Sing",
+          "en": "Sing",
+          "slug": "sing-lm-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.433",
+      "lon": "101.067"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1659428",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Sang Mie",
+      "en": "Ban Sang Mie",
+      "slug": "ban-sang-mie-1659428"
+    },
+    "code": {
+      "id": "1659428",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-04",
+      "level": 2,
+      "name": {
+        "local": "Sing",
+        "en": "Sing",
+        "slug": "sing-lm-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-04",
+        "level": 2,
+        "name": {
+          "local": "Sing",
+          "en": "Sing",
+          "slug": "sing-lm-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.133",
+      "lon": "101.05"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1658091",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Say",
+      "en": "Ban Say",
+      "slug": "ban-say-1658091"
+    },
+    "code": {
+      "id": "1658091",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-04",
+      "level": 2,
+      "name": {
+        "local": "Sing",
+        "en": "Sing",
+        "slug": "sing-lm-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-04",
+        "level": 2,
+        "name": {
+          "local": "Sing",
+          "en": "Sing",
+          "slug": "sing-lm-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.387",
+      "lon": "101.005"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1955628",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Sèn-Èn",
+      "en": "Ban Sen-En",
+      "slug": "ban-sen-en-1955628"
+    },
+    "code": {
+      "id": "1955628",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-04",
+      "level": 2,
+      "name": {
+        "local": "Sing",
+        "en": "Sing",
+        "slug": "sing-lm-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-04",
+        "level": 2,
+        "name": {
+          "local": "Sing",
+          "en": "Sing",
+          "slug": "sing-lm-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.319",
+      "lon": "101.124"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1659357",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Sene Kanta",
+      "en": "Ban Sene Kanta",
+      "slug": "ban-sene-kanta-1659357"
+    },
+    "code": {
+      "id": "1659357",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-04",
+      "level": 2,
+      "name": {
+        "local": "Sing",
+        "en": "Sing",
+        "slug": "sing-lm-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-04",
+        "level": 2,
+        "name": {
+          "local": "Sing",
+          "en": "Sing",
+          "slug": "sing-lm-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.283",
+      "lon": "100.883"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1659353",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Sene Phan Muong",
+      "en": "Ban Sene Phan Muong",
+      "slug": "ban-sene-phan-muong-1659353"
+    },
+    "code": {
+      "id": "1659353",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-04",
+      "level": 2,
+      "name": {
+        "local": "Sing",
+        "en": "Sing",
+        "slug": "sing-lm-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-04",
+        "level": 2,
+        "name": {
+          "local": "Sing",
+          "en": "Sing",
+          "slug": "sing-lm-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.317",
+      "lon": "101"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1955675",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Silihuang",
+      "en": "Ban Silihuang",
+      "slug": "ban-silihuang-1955675"
+    },
+    "code": {
+      "id": "1955675",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-04",
+      "level": 2,
+      "name": {
+        "local": "Sing",
+        "en": "Sing",
+        "slug": "sing-lm-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-04",
+        "level": 2,
+        "name": {
+          "local": "Sing",
+          "en": "Sing",
+          "slug": "sing-lm-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.178",
+      "lon": "101.131"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1955669",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Silimoun",
+      "en": "Ban Silimoun",
+      "slug": "ban-silimoun-1955669"
+    },
+    "code": {
+      "id": "1955669",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-04",
+      "level": 2,
+      "name": {
+        "local": "Sing",
+        "en": "Sing",
+        "slug": "sing-lm-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-04",
+        "level": 2,
+        "name": {
+          "local": "Sing",
+          "en": "Sing",
+          "slug": "sing-lm-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.176",
+      "lon": "101.18"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1955720",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Sing",
+      "en": "Ban Sing",
+      "slug": "ban-sing-1955720"
+    },
+    "code": {
+      "id": "1955720",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-04",
+      "level": 2,
+      "name": {
+        "local": "Sing",
+        "en": "Sing",
+        "slug": "sing-lm-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-04",
+        "level": 2,
+        "name": {
+          "local": "Sing",
+          "en": "Sing",
+          "slug": "sing-lm-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.11",
+      "lon": "101.224"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1955636",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Sôp-I",
+      "en": "Ban Sop-I",
+      "slug": "ban-sop-i-1955636"
+    },
+    "code": {
+      "id": "1955636",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-04",
+      "level": 2,
+      "name": {
+        "local": "Sing",
+        "en": "Sing",
+        "slug": "sing-lm-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-04",
+        "level": 2,
+        "name": {
+          "local": "Sing",
+          "en": "Sing",
+          "slug": "sing-lm-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.268",
+      "lon": "101.108"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1955701",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Sôp-I",
+      "en": "Ban Sop-I",
+      "slug": "ban-sop-i-1955701"
+    },
+    "code": {
+      "id": "1955701",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-04",
+      "level": 2,
+      "name": {
+        "local": "Sing",
+        "en": "Sing",
+        "slug": "sing-lm-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-04",
+        "level": 2,
+        "name": {
+          "local": "Sing",
+          "en": "Sing",
+          "slug": "sing-lm-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.154",
+      "lon": "101.199"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1955639",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Sôp-I-Kao",
+      "en": "Ban Sop-I-Kao",
+      "slug": "ban-sop-i-kao-1955639"
+    },
+    "code": {
+      "id": "1955639",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-04",
+      "level": 2,
+      "name": {
+        "local": "Sing",
+        "en": "Sing",
+        "slug": "sing-lm-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-04",
+        "level": 2,
+        "name": {
+          "local": "Sing",
+          "en": "Sing",
+          "slug": "sing-lm-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.245",
+      "lon": "101.105"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1955631",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Suadèng",
+      "en": "Ban Suadeng",
+      "slug": "ban-suadeng-1955631"
+    },
+    "code": {
+      "id": "1955631",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-04",
+      "level": 2,
+      "name": {
+        "local": "Sing",
+        "en": "Sing",
+        "slug": "sing-lm-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-04",
+        "level": 2,
+        "name": {
+          "local": "Sing",
+          "en": "Sing",
+          "slug": "sing-lm-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.299",
+      "lon": "101.026"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1955627",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Suakhao-Nua",
+      "en": "Ban Suakhao-Nua",
+      "slug": "ban-suakhao-nua-1955627"
+    },
+    "code": {
+      "id": "1955627",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-04",
+      "level": 2,
+      "name": {
+        "local": "Sing",
+        "en": "Sing",
+        "slug": "sing-lm-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-04",
+        "level": 2,
+        "name": {
+          "local": "Sing",
+          "en": "Sing",
+          "slug": "sing-lm-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.303",
+      "lon": "101.188"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1955634",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Suakhao-Tai",
+      "en": "Ban Suakhao-Tai",
+      "slug": "ban-suakhao-tai-1955634"
+    },
+    "code": {
+      "id": "1955634",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-04",
+      "level": 2,
+      "name": {
+        "local": "Sing",
+        "en": "Sing",
+        "slug": "sing-lm-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-04",
+        "level": 2,
+        "name": {
+          "local": "Sing",
+          "en": "Sing",
+          "slug": "sing-lm-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.293",
+      "lon": "101.21"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1659012",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Ta",
+      "en": "Ban Ta",
+      "slug": "ban-ta-1659012"
+    },
+    "code": {
+      "id": "1659012",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-04",
+      "level": 2,
+      "name": {
+        "local": "Sing",
+        "en": "Sing",
+        "slug": "sing-lm-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-04",
+        "level": 2,
+        "name": {
+          "local": "Sing",
+          "en": "Sing",
+          "slug": "sing-lm-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.455",
+      "lon": "101.156"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1955728",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Tami-Kao",
+      "en": "Ban Tami-Kao",
+      "slug": "ban-tami-kao-1955728"
+    },
+    "code": {
+      "id": "1955728",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-04",
+      "level": 2,
+      "name": {
+        "local": "Sing",
+        "en": "Sing",
+        "slug": "sing-lm-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-04",
+        "level": 2,
+        "name": {
+          "local": "Sing",
+          "en": "Sing",
+          "slug": "sing-lm-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.101",
+      "lon": "101.053"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1955649",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Tapao",
+      "en": "Ban Tapao",
+      "slug": "ban-tapao-1955649"
+    },
+    "code": {
+      "id": "1955649",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-04",
+      "level": 2,
+      "name": {
+        "local": "Sing",
+        "en": "Sing",
+        "slug": "sing-lm-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-04",
+        "level": 2,
+        "name": {
+          "local": "Sing",
+          "en": "Sing",
+          "slug": "sing-lm-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.204",
+      "lon": "101.133"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1658341",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Thông-Mai",
+      "en": "Ban Thong-Mai",
+      "slug": "ban-thong-mai-1658341"
+    },
+    "code": {
+      "id": "1658341",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-04",
+      "level": 2,
+      "name": {
+        "local": "Sing",
+        "en": "Sing",
+        "slug": "sing-lm-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-04",
+        "level": 2,
+        "name": {
+          "local": "Sing",
+          "en": "Sing",
+          "slug": "sing-lm-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.166",
+      "lon": "101.116"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1658441",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Tia Kamla",
+      "en": "Ban Tia Kamla",
+      "slug": "ban-tia-kamla-1658441"
+    },
+    "code": {
+      "id": "1658441",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-04",
+      "level": 2,
+      "name": {
+        "local": "Sing",
+        "en": "Sing",
+        "slug": "sing-lm-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-04",
+        "level": 2,
+        "name": {
+          "local": "Sing",
+          "en": "Sing",
+          "slug": "sing-lm-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.283",
+      "lon": "100.933"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1955702",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Tinthat",
+      "en": "Ban Tinthat",
+      "slug": "ban-tinthat-1955702"
+    },
+    "code": {
+      "id": "1955702",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-04",
+      "level": 2,
+      "name": {
+        "local": "Sing",
+        "en": "Sing",
+        "slug": "sing-lm-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-04",
+        "level": 2,
+        "name": {
+          "local": "Sing",
+          "en": "Sing",
+          "slug": "sing-lm-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.157",
+      "lon": "101.167"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1955704",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Tinthat-Noy",
+      "en": "Ban Tinthat-Noy",
+      "slug": "ban-tinthat-noy-1955704"
+    },
+    "code": {
+      "id": "1955704",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-04",
+      "level": 2,
+      "name": {
+        "local": "Sing",
+        "en": "Sing",
+        "slug": "sing-lm-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-04",
+        "level": 2,
+        "name": {
+          "local": "Sing",
+          "en": "Sing",
+          "slug": "sing-lm-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.147",
+      "lon": "101.143"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1955651",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Tonpouay",
+      "en": "Ban Tonpouay",
+      "slug": "ban-tonpouay-1955651"
+    },
+    "code": {
+      "id": "1955651",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-04",
+      "level": 2,
+      "name": {
+        "local": "Sing",
+        "en": "Sing",
+        "slug": "sing-lm-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-04",
+        "level": 2,
+        "name": {
+          "local": "Sing",
+          "en": "Sing",
+          "slug": "sing-lm-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.201",
+      "lon": "101.143"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11237385",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Vansakankiao",
+      "en": "Ban Vansakankiao",
+      "slug": "ban-vansakankiao-11237385"
+    },
+    "code": {
+      "id": "11237385",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-04",
+      "level": 2,
+      "name": {
+        "local": "Sing",
+        "en": "Sing",
+        "slug": "sing-lm-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-04",
+        "level": 2,
+        "name": {
+          "local": "Sing",
+          "en": "Sing",
+          "slug": "sing-lm-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.368",
+      "lon": "100.976"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11237383",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Vansenankiao",
+      "en": "Ban Vansenankiao",
+      "slug": "ban-vansenankiao-11237383"
+    },
+    "code": {
+      "id": "11237383",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-04",
+      "level": 2,
+      "name": {
+        "local": "Sing",
+        "en": "Sing",
+        "slug": "sing-lm-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-04",
+        "level": 2,
+        "name": {
+          "local": "Sing",
+          "en": "Sing",
+          "slug": "sing-lm-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.344",
+      "lon": "100.926"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1955670",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Xam",
+      "en": "Ban Xam",
+      "slug": "ban-xam-1955670"
+    },
+    "code": {
+      "id": "1955670",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-04",
+      "level": 2,
+      "name": {
+        "local": "Sing",
+        "en": "Sing",
+        "slug": "sing-lm-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-04",
+        "level": 2,
+        "name": {
+          "local": "Sing",
+          "en": "Sing",
+          "slug": "sing-lm-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.19",
+      "lon": "101.16"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1658047",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Xiangkhèng",
+      "en": "Ban Xiangkheng",
+      "slug": "ban-xiangkheng-1658047"
+    },
+    "code": {
+      "id": "1658047",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-04",
+      "level": 2,
+      "name": {
+        "local": "Sing",
+        "en": "Sing",
+        "slug": "sing-lm-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-04",
+        "level": 2,
+        "name": {
+          "local": "Sing",
+          "en": "Sing",
+          "slug": "sing-lm-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.329",
+      "lon": "100.878"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1955684",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Yangpèng",
+      "en": "Ban Yangpeng",
+      "slug": "ban-yangpeng-1955684"
+    },
+    "code": {
+      "id": "1955684",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-04",
+      "level": 2,
+      "name": {
+        "local": "Sing",
+        "en": "Sing",
+        "slug": "sing-lm-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-04",
+        "level": 2,
+        "name": {
+          "local": "Sing",
+          "en": "Sing",
+          "slug": "sing-lm-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.168",
+      "lon": "101.132"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11237395",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Youan",
+      "en": "Ban Youan",
+      "slug": "ban-youan-11237395"
+    },
+    "code": {
+      "id": "11237395",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-04",
+      "level": 2,
+      "name": {
+        "local": "Sing",
+        "en": "Sing",
+        "slug": "sing-lm-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-04",
+        "level": 2,
+        "name": {
+          "local": "Sing",
+          "en": "Sing",
+          "slug": "sing-lm-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.368",
+      "lon": "101.212"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11237396",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Youan-Nua",
+      "en": "Ban Youan-Nua",
+      "slug": "ban-youan-nua-11237396"
+    },
+    "code": {
+      "id": "11237396",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-04",
+      "level": 2,
+      "name": {
+        "local": "Sing",
+        "en": "Sing",
+        "slug": "sing-lm-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-04",
+        "level": 2,
+        "name": {
+          "local": "Sing",
+          "en": "Sing",
+          "slug": "sing-lm-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.387",
+      "lon": "101.219"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11237394",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Youan-Tai",
+      "en": "Ban Youan-Tai",
+      "slug": "ban-youan-tai-11237394"
+    },
+    "code": {
+      "id": "11237394",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-04",
+      "level": 2,
+      "name": {
+        "local": "Sing",
+        "en": "Sing",
+        "slug": "sing-lm-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-04",
+        "level": 2,
+        "name": {
+          "local": "Sing",
+          "en": "Sing",
+          "slug": "sing-lm-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.363",
+      "lon": "101.194"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1955626",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Mom",
+      "en": "Mom",
+      "slug": "mom-1955626"
+    },
+    "code": {
+      "id": "1955626",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-04",
+      "level": 2,
+      "name": {
+        "local": "Sing",
+        "en": "Sing",
+        "slug": "sing-lm-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-04",
+        "level": 2,
+        "name": {
+          "local": "Sing",
+          "en": "Sing",
+          "slug": "sing-lm-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.326",
+      "lon": "101.167"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1655107",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Muang Sing",
+      "en": "Muang Sing",
+      "slug": "muang-sing-1655107"
+    },
+    "code": {
+      "id": "1655107",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-04",
+      "level": 2,
+      "name": {
+        "local": "Sing",
+        "en": "Sing",
+        "slug": "sing-lm-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-04",
+        "level": 2,
+        "name": {
+          "local": "Sing",
+          "en": "Sing",
+          "slug": "sing-lm-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.192",
+      "lon": "101.148"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1655051",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Muong Moune",
+      "en": "Muong Moune",
+      "slug": "muong-moune-1655051"
+    },
+    "code": {
+      "id": "1655051",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-04",
+      "level": 2,
+      "name": {
+        "local": "Sing",
+        "en": "Sing",
+        "slug": "sing-lm-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-04",
+        "level": 2,
+        "name": {
+          "local": "Sing",
+          "en": "Sing",
+          "slug": "sing-lm-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.3",
+      "lon": "101.1"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,6158 @@
+[
+  {
+    "id": "1953506",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Bèngkham",
+      "en": "Ban Bengkham",
+      "slug": "ban-bengkham-1953506"
+    },
+    "code": {
+      "id": "1953506",
+      "iso": null
+    },
+    "parent": {
+      "id": "OU-01",
+      "level": 2,
+      "name": {
+        "local": "Beng",
+        "en": "Beng",
+        "slug": "beng-ou-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "OU",
+        "level": 1,
+        "name": {
+          "local": "Oudomxay",
+          "en": "Oudomxay",
+          "slug": "oudomxay-ou"
+        }
+      },
+      {
+        "id": "OU-01",
+        "level": 2,
+        "name": {
+          "local": "Beng",
+          "en": "Beng",
+          "slug": "beng-ou-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.307",
+      "lon": "101.648"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1953509",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Bènglouang",
+      "en": "Ban Benglouang",
+      "slug": "ban-benglouang-1953509"
+    },
+    "code": {
+      "id": "1953509",
+      "iso": null
+    },
+    "parent": {
+      "id": "OU-01",
+      "level": 2,
+      "name": {
+        "local": "Beng",
+        "en": "Beng",
+        "slug": "beng-ou-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "OU",
+        "level": 1,
+        "name": {
+          "local": "Oudomxay",
+          "en": "Oudomxay",
+          "slug": "oudomxay-ou"
+        }
+      },
+      {
+        "id": "OU-01",
+        "level": 2,
+        "name": {
+          "local": "Beng",
+          "en": "Beng",
+          "slug": "beng-ou-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.303",
+      "lon": "101.642"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1953823",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Bông-Kang",
+      "en": "Ban Bong-Kang",
+      "slug": "ban-bong-kang-1953823"
+    },
+    "code": {
+      "id": "1953823",
+      "iso": null
+    },
+    "parent": {
+      "id": "OU-01",
+      "level": 2,
+      "name": {
+        "local": "Beng",
+        "en": "Beng",
+        "slug": "beng-ou-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "OU",
+        "level": 1,
+        "name": {
+          "local": "Oudomxay",
+          "en": "Oudomxay",
+          "slug": "oudomxay-ou"
+        }
+      },
+      {
+        "id": "OU-01",
+        "level": 2,
+        "name": {
+          "local": "Beng",
+          "en": "Beng",
+          "slug": "beng-ou-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.448",
+      "lon": "101.647"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1953822",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Bông-Nua",
+      "en": "Ban Bong-Nua",
+      "slug": "ban-bong-nua-1953822"
+    },
+    "code": {
+      "id": "1953822",
+      "iso": null
+    },
+    "parent": {
+      "id": "OU-01",
+      "level": 2,
+      "name": {
+        "local": "Beng",
+        "en": "Beng",
+        "slug": "beng-ou-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "OU",
+        "level": 1,
+        "name": {
+          "local": "Oudomxay",
+          "en": "Oudomxay",
+          "slug": "oudomxay-ou"
+        }
+      },
+      {
+        "id": "OU-01",
+        "level": 2,
+        "name": {
+          "local": "Beng",
+          "en": "Beng",
+          "slug": "beng-ou-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.461",
+      "lon": "101.643"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1953839",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Bông-Tai",
+      "en": "Ban Bong-Tai",
+      "slug": "ban-bong-tai-1953839"
+    },
+    "code": {
+      "id": "1953839",
+      "iso": null
+    },
+    "parent": {
+      "id": "OU-01",
+      "level": 2,
+      "name": {
+        "local": "Beng",
+        "en": "Beng",
+        "slug": "beng-ou-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "OU",
+        "level": 1,
+        "name": {
+          "local": "Oudomxay",
+          "en": "Oudomxay",
+          "slug": "oudomxay-ou"
+        }
+      },
+      {
+        "id": "OU-01",
+        "level": 2,
+        "name": {
+          "local": "Beng",
+          "en": "Beng",
+          "slug": "beng-ou-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.409",
+      "lon": "101.674"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1953781",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Chomchang",
+      "en": "Ban Chomchang",
+      "slug": "ban-chomchang-1953781"
+    },
+    "code": {
+      "id": "1953781",
+      "iso": null
+    },
+    "parent": {
+      "id": "OU-01",
+      "level": 2,
+      "name": {
+        "local": "Beng",
+        "en": "Beng",
+        "slug": "beng-ou-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "OU",
+        "level": 1,
+        "name": {
+          "local": "Oudomxay",
+          "en": "Oudomxay",
+          "slug": "oudomxay-ou"
+        }
+      },
+      {
+        "id": "OU-01",
+        "level": 2,
+        "name": {
+          "local": "Beng",
+          "en": "Beng",
+          "slug": "beng-ou-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.485",
+      "lon": "101.776"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1953841",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Choy",
+      "en": "Ban Choy",
+      "slug": "ban-choy-1953841"
+    },
+    "code": {
+      "id": "1953841",
+      "iso": null
+    },
+    "parent": {
+      "id": "OU-01",
+      "level": 2,
+      "name": {
+        "local": "Beng",
+        "en": "Beng",
+        "slug": "beng-ou-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "OU",
+        "level": 1,
+        "name": {
+          "local": "Oudomxay",
+          "en": "Oudomxay",
+          "slug": "oudomxay-ou"
+        }
+      },
+      {
+        "id": "OU-01",
+        "level": 2,
+        "name": {
+          "local": "Beng",
+          "en": "Beng",
+          "slug": "beng-ou-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.403",
+      "lon": "101.501"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1953811",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Dindèng",
+      "en": "Ban Dindeng",
+      "slug": "ban-dindeng-1953811"
+    },
+    "code": {
+      "id": "1953811",
+      "iso": null
+    },
+    "parent": {
+      "id": "OU-01",
+      "level": 2,
+      "name": {
+        "local": "Beng",
+        "en": "Beng",
+        "slug": "beng-ou-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "OU",
+        "level": 1,
+        "name": {
+          "local": "Oudomxay",
+          "en": "Oudomxay",
+          "slug": "oudomxay-ou"
+        }
+      },
+      {
+        "id": "OU-01",
+        "level": 2,
+        "name": {
+          "local": "Beng",
+          "en": "Beng",
+          "slug": "beng-ou-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.474",
+      "lon": "101.734"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1953568",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Dônghankong",
+      "en": "Ban Donghankong",
+      "slug": "ban-donghankong-1953568"
+    },
+    "code": {
+      "id": "1953568",
+      "iso": null
+    },
+    "parent": {
+      "id": "OU-01",
+      "level": 2,
+      "name": {
+        "local": "Beng",
+        "en": "Beng",
+        "slug": "beng-ou-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "OU",
+        "level": 1,
+        "name": {
+          "local": "Oudomxay",
+          "en": "Oudomxay",
+          "slug": "oudomxay-ou"
+        }
+      },
+      {
+        "id": "OU-01",
+        "level": 2,
+        "name": {
+          "local": "Beng",
+          "en": "Beng",
+          "slug": "beng-ou-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.189",
+      "lon": "101.723"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1664404",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Donkèo",
+      "en": "Ban Donkeo",
+      "slug": "ban-donkeo-1664404"
+    },
+    "code": {
+      "id": "1664404",
+      "iso": null
+    },
+    "parent": {
+      "id": "OU-01",
+      "level": 2,
+      "name": {
+        "local": "Beng",
+        "en": "Beng",
+        "slug": "beng-ou-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "OU",
+        "level": 1,
+        "name": {
+          "local": "Oudomxay",
+          "en": "Oudomxay",
+          "slug": "oudomxay-ou"
+        }
+      },
+      {
+        "id": "OU-01",
+        "level": 2,
+        "name": {
+          "local": "Beng",
+          "en": "Beng",
+          "slug": "beng-ou-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.325",
+      "lon": "101.657"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1664351",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Dounkoun",
+      "en": "Ban Dounkoun",
+      "slug": "ban-dounkoun-1664351"
+    },
+    "code": {
+      "id": "1664351",
+      "iso": null
+    },
+    "parent": {
+      "id": "OU-01",
+      "level": 2,
+      "name": {
+        "local": "Beng",
+        "en": "Beng",
+        "slug": "beng-ou-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "OU",
+        "level": 1,
+        "name": {
+          "local": "Oudomxay",
+          "en": "Oudomxay",
+          "slug": "oudomxay-ou"
+        }
+      },
+      {
+        "id": "OU-01",
+        "level": 2,
+        "name": {
+          "local": "Beng",
+          "en": "Beng",
+          "slug": "beng-ou-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.417",
+      "lon": "101.783"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1953868",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Gno",
+      "en": "Ban Gno",
+      "slug": "ban-gno-1953868"
+    },
+    "code": {
+      "id": "1953868",
+      "iso": null
+    },
+    "parent": {
+      "id": "OU-01",
+      "level": 2,
+      "name": {
+        "local": "Beng",
+        "en": "Beng",
+        "slug": "beng-ou-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "OU",
+        "level": 1,
+        "name": {
+          "local": "Oudomxay",
+          "en": "Oudomxay",
+          "slug": "oudomxay-ou"
+        }
+      },
+      {
+        "id": "OU-01",
+        "level": 2,
+        "name": {
+          "local": "Beng",
+          "en": "Beng",
+          "slug": "beng-ou-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.344",
+      "lon": "101.68"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1953567",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Gnouana",
+      "en": "Ban Gnouana",
+      "slug": "ban-gnouana-1953567"
+    },
+    "code": {
+      "id": "1953567",
+      "iso": null
+    },
+    "parent": {
+      "id": "OU-01",
+      "level": 2,
+      "name": {
+        "local": "Beng",
+        "en": "Beng",
+        "slug": "beng-ou-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "OU",
+        "level": 1,
+        "name": {
+          "local": "Oudomxay",
+          "en": "Oudomxay",
+          "slug": "oudomxay-ou"
+        }
+      },
+      {
+        "id": "OU-01",
+        "level": 2,
+        "name": {
+          "local": "Beng",
+          "en": "Beng",
+          "slug": "beng-ou-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.196",
+      "lon": "101.799"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1664168",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Hatkai",
+      "en": "Ban Hatkai",
+      "slug": "ban-hatkai-1664168"
+    },
+    "code": {
+      "id": "1664168",
+      "iso": null
+    },
+    "parent": {
+      "id": "OU-01",
+      "level": 2,
+      "name": {
+        "local": "Beng",
+        "en": "Beng",
+        "slug": "beng-ou-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "OU",
+        "level": 1,
+        "name": {
+          "local": "Oudomxay",
+          "en": "Oudomxay",
+          "slug": "oudomxay-ou"
+        }
+      },
+      {
+        "id": "OU-01",
+        "level": 2,
+        "name": {
+          "local": "Beng",
+          "en": "Beng",
+          "slug": "beng-ou-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.233",
+      "lon": "101.567"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1953554",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Hômxang",
+      "en": "Ban Homxang",
+      "slug": "ban-homxang-1953554"
+    },
+    "code": {
+      "id": "1953554",
+      "iso": null
+    },
+    "parent": {
+      "id": "OU-01",
+      "level": 2,
+      "name": {
+        "local": "Beng",
+        "en": "Beng",
+        "slug": "beng-ou-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "OU",
+        "level": 1,
+        "name": {
+          "local": "Oudomxay",
+          "en": "Oudomxay",
+          "slug": "oudomxay-ou"
+        }
+      },
+      {
+        "id": "OU-01",
+        "level": 2,
+        "name": {
+          "local": "Beng",
+          "en": "Beng",
+          "slug": "beng-ou-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.214",
+      "lon": "101.542"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1663793",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houayla",
+      "en": "Ban Houayla",
+      "slug": "ban-houayla-1663793"
+    },
+    "code": {
+      "id": "1663793",
+      "iso": null
+    },
+    "parent": {
+      "id": "OU-01",
+      "level": 2,
+      "name": {
+        "local": "Beng",
+        "en": "Beng",
+        "slug": "beng-ou-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "OU",
+        "level": 1,
+        "name": {
+          "local": "Oudomxay",
+          "en": "Oudomxay",
+          "slug": "oudomxay-ou"
+        }
+      },
+      {
+        "id": "OU-01",
+        "level": 2,
+        "name": {
+          "local": "Beng",
+          "en": "Beng",
+          "slug": "beng-ou-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.433",
+      "lon": "101.783"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1663794",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houayla",
+      "en": "Ban Houayla",
+      "slug": "ban-houayla-1663794"
+    },
+    "code": {
+      "id": "1663794",
+      "iso": null
+    },
+    "parent": {
+      "id": "OU-01",
+      "level": 2,
+      "name": {
+        "local": "Beng",
+        "en": "Beng",
+        "slug": "beng-ou-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "OU",
+        "level": 1,
+        "name": {
+          "local": "Oudomxay",
+          "en": "Oudomxay",
+          "slug": "oudomxay-ou"
+        }
+      },
+      {
+        "id": "OU-01",
+        "level": 2,
+        "name": {
+          "local": "Beng",
+          "en": "Beng",
+          "slug": "beng-ou-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.35",
+      "lon": "101.683"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1953514",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houayla",
+      "en": "Ban Houayla",
+      "slug": "ban-houayla-1953514"
+    },
+    "code": {
+      "id": "1953514",
+      "iso": null
+    },
+    "parent": {
+      "id": "OU-01",
+      "level": 2,
+      "name": {
+        "local": "Beng",
+        "en": "Beng",
+        "slug": "beng-ou-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "OU",
+        "level": 1,
+        "name": {
+          "local": "Oudomxay",
+          "en": "Oudomxay",
+          "slug": "oudomxay-ou"
+        }
+      },
+      {
+        "id": "OU-01",
+        "level": 2,
+        "name": {
+          "local": "Beng",
+          "en": "Beng",
+          "slug": "beng-ou-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.292",
+      "lon": "101.64"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1953836",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houayxang",
+      "en": "Ban Houayxang",
+      "slug": "ban-houayxang-1953836"
+    },
+    "code": {
+      "id": "1953836",
+      "iso": null
+    },
+    "parent": {
+      "id": "OU-01",
+      "level": 2,
+      "name": {
+        "local": "Beng",
+        "en": "Beng",
+        "slug": "beng-ou-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "OU",
+        "level": 1,
+        "name": {
+          "local": "Oudomxay",
+          "en": "Oudomxay",
+          "slug": "oudomxay-ou"
+        }
+      },
+      {
+        "id": "OU-01",
+        "level": 2,
+        "name": {
+          "local": "Beng",
+          "en": "Beng",
+          "slug": "beng-ou-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.424",
+      "lon": "101.783"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1953808",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Hoy",
+      "en": "Ban Hoy",
+      "slug": "ban-hoy-1953808"
+    },
+    "code": {
+      "id": "1953808",
+      "iso": null
+    },
+    "parent": {
+      "id": "OU-01",
+      "level": 2,
+      "name": {
+        "local": "Beng",
+        "en": "Beng",
+        "slug": "beng-ou-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "OU",
+        "level": 1,
+        "name": {
+          "local": "Oudomxay",
+          "en": "Oudomxay",
+          "slug": "oudomxay-ou"
+        }
+      },
+      {
+        "id": "OU-01",
+        "level": 2,
+        "name": {
+          "local": "Beng",
+          "en": "Beng",
+          "slug": "beng-ou-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.465",
+      "lon": "101.68"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1953858",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Kanlang",
+      "en": "Ban Kanlang",
+      "slug": "ban-kanlang-1953858"
+    },
+    "code": {
+      "id": "1953858",
+      "iso": null
+    },
+    "parent": {
+      "id": "OU-01",
+      "level": 2,
+      "name": {
+        "local": "Beng",
+        "en": "Beng",
+        "slug": "beng-ou-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "OU",
+        "level": 1,
+        "name": {
+          "local": "Oudomxay",
+          "en": "Oudomxay",
+          "slug": "oudomxay-ou"
+        }
+      },
+      {
+        "id": "OU-01",
+        "level": 2,
+        "name": {
+          "local": "Beng",
+          "en": "Beng",
+          "slug": "beng-ou-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.368",
+      "lon": "101.559"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1953772",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Kanvang",
+      "en": "Ban Kanvang",
+      "slug": "ban-kanvang-1953772"
+    },
+    "code": {
+      "id": "1953772",
+      "iso": null
+    },
+    "parent": {
+      "id": "OU-01",
+      "level": 2,
+      "name": {
+        "local": "Beng",
+        "en": "Beng",
+        "slug": "beng-ou-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "OU",
+        "level": 1,
+        "name": {
+          "local": "Oudomxay",
+          "en": "Oudomxay",
+          "slug": "oudomxay-ou"
+        }
+      },
+      {
+        "id": "OU-01",
+        "level": 2,
+        "name": {
+          "local": "Beng",
+          "en": "Beng",
+          "slug": "beng-ou-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.512",
+      "lon": "101.591"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1953744",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Kè",
+      "en": "Ban Ke",
+      "slug": "ban-ke-1953744"
+    },
+    "code": {
+      "id": "1953744",
+      "iso": null
+    },
+    "parent": {
+      "id": "OU-01",
+      "level": 2,
+      "name": {
+        "local": "Beng",
+        "en": "Beng",
+        "slug": "beng-ou-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "OU",
+        "level": 1,
+        "name": {
+          "local": "Oudomxay",
+          "en": "Oudomxay",
+          "slug": "oudomxay-ou"
+        }
+      },
+      {
+        "id": "OU-01",
+        "level": 2,
+        "name": {
+          "local": "Beng",
+          "en": "Beng",
+          "slug": "beng-ou-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.545",
+      "lon": "101.618"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1953773",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Khèngdèt",
+      "en": "Ban Khengdet",
+      "slug": "ban-khengdet-1953773"
+    },
+    "code": {
+      "id": "1953773",
+      "iso": null
+    },
+    "parent": {
+      "id": "OU-01",
+      "level": 2,
+      "name": {
+        "local": "Beng",
+        "en": "Beng",
+        "slug": "beng-ou-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "OU",
+        "level": 1,
+        "name": {
+          "local": "Oudomxay",
+          "en": "Oudomxay",
+          "slug": "oudomxay-ou"
+        }
+      },
+      {
+        "id": "OU-01",
+        "level": 2,
+        "name": {
+          "local": "Beng",
+          "en": "Beng",
+          "slug": "beng-ou-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.504",
+      "lon": "101.769"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1953877",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Khon",
+      "en": "Ban Khon",
+      "slug": "ban-khon-1953877"
+    },
+    "code": {
+      "id": "1953877",
+      "iso": null
+    },
+    "parent": {
+      "id": "OU-01",
+      "level": 2,
+      "name": {
+        "local": "Beng",
+        "en": "Beng",
+        "slug": "beng-ou-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "OU",
+        "level": 1,
+        "name": {
+          "local": "Oudomxay",
+          "en": "Oudomxay",
+          "slug": "oudomxay-ou"
+        }
+      },
+      {
+        "id": "OU-01",
+        "level": 2,
+        "name": {
+          "local": "Beng",
+          "en": "Beng",
+          "slug": "beng-ou-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.338",
+      "lon": "101.509"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1953832",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Kiousangvan",
+      "en": "Ban Kiousangvan",
+      "slug": "ban-kiousangvan-1953832"
+    },
+    "code": {
+      "id": "1953832",
+      "iso": null
+    },
+    "parent": {
+      "id": "OU-01",
+      "level": 2,
+      "name": {
+        "local": "Beng",
+        "en": "Beng",
+        "slug": "beng-ou-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "OU",
+        "level": 1,
+        "name": {
+          "local": "Oudomxay",
+          "en": "Oudomxay",
+          "slug": "oudomxay-ou"
+        }
+      },
+      {
+        "id": "OU-01",
+        "level": 2,
+        "name": {
+          "local": "Beng",
+          "en": "Beng",
+          "slug": "beng-ou-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.436",
+      "lon": "101.896"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1953572",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Kôk-Hai",
+      "en": "Ban Kok-Hai",
+      "slug": "ban-kok-hai-1953572"
+    },
+    "code": {
+      "id": "1953572",
+      "iso": null
+    },
+    "parent": {
+      "id": "OU-01",
+      "level": 2,
+      "name": {
+        "local": "Beng",
+        "en": "Beng",
+        "slug": "beng-ou-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "OU",
+        "level": 1,
+        "name": {
+          "local": "Oudomxay",
+          "en": "Oudomxay",
+          "slug": "oudomxay-ou"
+        }
+      },
+      {
+        "id": "OU-01",
+        "level": 2,
+        "name": {
+          "local": "Beng",
+          "en": "Beng",
+          "slug": "beng-ou-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.203",
+      "lon": "101.586"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1953542",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Kôkngiou",
+      "en": "Ban Kokngiou",
+      "slug": "ban-kokngiou-1953542"
+    },
+    "code": {
+      "id": "1953542",
+      "iso": null
+    },
+    "parent": {
+      "id": "OU-01",
+      "level": 2,
+      "name": {
+        "local": "Beng",
+        "en": "Beng",
+        "slug": "beng-ou-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "OU",
+        "level": 1,
+        "name": {
+          "local": "Oudomxay",
+          "en": "Oudomxay",
+          "slug": "oudomxay-ou"
+        }
+      },
+      {
+        "id": "OU-01",
+        "level": 2,
+        "name": {
+          "local": "Beng",
+          "en": "Beng",
+          "slug": "beng-ou-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.266",
+      "lon": "101.584"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1953520",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Konkham",
+      "en": "Ban Konkham",
+      "slug": "ban-konkham-1953520"
+    },
+    "code": {
+      "id": "1953520",
+      "iso": null
+    },
+    "parent": {
+      "id": "OU-01",
+      "level": 2,
+      "name": {
+        "local": "Beng",
+        "en": "Beng",
+        "slug": "beng-ou-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "OU",
+        "level": 1,
+        "name": {
+          "local": "Oudomxay",
+          "en": "Oudomxay",
+          "slug": "oudomxay-ou"
+        }
+      },
+      {
+        "id": "OU-01",
+        "level": 2,
+        "name": {
+          "local": "Beng",
+          "en": "Beng",
+          "slug": "beng-ou-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.283",
+      "lon": "101.616"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1953838",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Lai-Gnai",
+      "en": "Ban Lai-Gnai",
+      "slug": "ban-lai-gnai-1953838"
+    },
+    "code": {
+      "id": "1953838",
+      "iso": null
+    },
+    "parent": {
+      "id": "OU-01",
+      "level": 2,
+      "name": {
+        "local": "Beng",
+        "en": "Beng",
+        "slug": "beng-ou-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "OU",
+        "level": 1,
+        "name": {
+          "local": "Oudomxay",
+          "en": "Oudomxay",
+          "slug": "oudomxay-ou"
+        }
+      },
+      {
+        "id": "OU-01",
+        "level": 2,
+        "name": {
+          "local": "Beng",
+          "en": "Beng",
+          "slug": "beng-ou-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.411",
+      "lon": "101.688"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1953846",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Lai-Noy",
+      "en": "Ban Lai-Noy",
+      "slug": "ban-lai-noy-1953846"
+    },
+    "code": {
+      "id": "1953846",
+      "iso": null
+    },
+    "parent": {
+      "id": "OU-01",
+      "level": 2,
+      "name": {
+        "local": "Beng",
+        "en": "Beng",
+        "slug": "beng-ou-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "OU",
+        "level": 1,
+        "name": {
+          "local": "Oudomxay",
+          "en": "Oudomxay",
+          "slug": "oudomxay-ou"
+        }
+      },
+      {
+        "id": "OU-01",
+        "level": 2,
+        "name": {
+          "local": "Beng",
+          "en": "Beng",
+          "slug": "beng-ou-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.402",
+      "lon": "101.688"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1953553",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Lak",
+      "en": "Ban Lak",
+      "slug": "ban-lak-1953553"
+    },
+    "code": {
+      "id": "1953553",
+      "iso": null
+    },
+    "parent": {
+      "id": "OU-01",
+      "level": 2,
+      "name": {
+        "local": "Beng",
+        "en": "Beng",
+        "slug": "beng-ou-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "OU",
+        "level": 1,
+        "name": {
+          "local": "Oudomxay",
+          "en": "Oudomxay",
+          "slug": "oudomxay-ou"
+        }
+      },
+      {
+        "id": "OU-01",
+        "level": 2,
+        "name": {
+          "local": "Beng",
+          "en": "Beng",
+          "slug": "beng-ou-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.244",
+      "lon": "101.633"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1953576",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Lamoua",
+      "en": "Ban Lamoua",
+      "slug": "ban-lamoua-1953576"
+    },
+    "code": {
+      "id": "1953576",
+      "iso": null
+    },
+    "parent": {
+      "id": "OU-01",
+      "level": 2,
+      "name": {
+        "local": "Beng",
+        "en": "Beng",
+        "slug": "beng-ou-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "OU",
+        "level": 1,
+        "name": {
+          "local": "Oudomxay",
+          "en": "Oudomxay",
+          "slug": "oudomxay-ou"
+        }
+      },
+      {
+        "id": "OU-01",
+        "level": 2,
+        "name": {
+          "local": "Beng",
+          "en": "Beng",
+          "slug": "beng-ou-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.184",
+      "lon": "101.577"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1662573",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Laotatông",
+      "en": "Ban Laotatong",
+      "slug": "ban-laotatong-1662573"
+    },
+    "code": {
+      "id": "1662573",
+      "iso": null
+    },
+    "parent": {
+      "id": "OU-01",
+      "level": 2,
+      "name": {
+        "local": "Beng",
+        "en": "Beng",
+        "slug": "beng-ou-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "OU",
+        "level": 1,
+        "name": {
+          "local": "Oudomxay",
+          "en": "Oudomxay",
+          "slug": "oudomxay-ou"
+        }
+      },
+      {
+        "id": "OU-01",
+        "level": 2,
+        "name": {
+          "local": "Beng",
+          "en": "Beng",
+          "slug": "beng-ou-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.373",
+      "lon": "101.922"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1662387",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Loxé",
+      "en": "Ban Loxe",
+      "slug": "ban-loxe-1662387"
+    },
+    "code": {
+      "id": "1662387",
+      "iso": null
+    },
+    "parent": {
+      "id": "OU-01",
+      "level": 2,
+      "name": {
+        "local": "Beng",
+        "en": "Beng",
+        "slug": "beng-ou-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "OU",
+        "level": 1,
+        "name": {
+          "local": "Oudomxay",
+          "en": "Oudomxay",
+          "slug": "oudomxay-ou"
+        }
+      },
+      {
+        "id": "OU-01",
+        "level": 2,
+        "name": {
+          "local": "Beng",
+          "en": "Beng",
+          "slug": "beng-ou-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.483",
+      "lon": "101.867"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1953850",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Mai",
+      "en": "Ban Mai",
+      "slug": "ban-mai-1953850"
+    },
+    "code": {
+      "id": "1953850",
+      "iso": null
+    },
+    "parent": {
+      "id": "OU-01",
+      "level": 2,
+      "name": {
+        "local": "Beng",
+        "en": "Beng",
+        "slug": "beng-ou-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "OU",
+        "level": 1,
+        "name": {
+          "local": "Oudomxay",
+          "en": "Oudomxay",
+          "slug": "oudomxay-ou"
+        }
+      },
+      {
+        "id": "OU-01",
+        "level": 2,
+        "name": {
+          "local": "Beng",
+          "en": "Beng",
+          "slug": "beng-ou-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.405",
+      "lon": "101.851"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1953840",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Môkchak",
+      "en": "Ban Mokchak",
+      "slug": "ban-mokchak-1953840"
+    },
+    "code": {
+      "id": "1953840",
+      "iso": null
+    },
+    "parent": {
+      "id": "OU-01",
+      "level": 2,
+      "name": {
+        "local": "Beng",
+        "en": "Beng",
+        "slug": "beng-ou-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "OU",
+        "level": 1,
+        "name": {
+          "local": "Oudomxay",
+          "en": "Oudomxay",
+          "slug": "oudomxay-ou"
+        }
+      },
+      {
+        "id": "OU-01",
+        "level": 2,
+        "name": {
+          "local": "Beng",
+          "en": "Beng",
+          "slug": "beng-ou-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.423",
+      "lon": "101.551"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1953879",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Môkchông",
+      "en": "Ban Mokchong",
+      "slug": "ban-mokchong-1953879"
+    },
+    "code": {
+      "id": "1953879",
+      "iso": null
+    },
+    "parent": {
+      "id": "OU-01",
+      "level": 2,
+      "name": {
+        "local": "Beng",
+        "en": "Beng",
+        "slug": "beng-ou-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "OU",
+        "level": 1,
+        "name": {
+          "local": "Oudomxay",
+          "en": "Oudomxay",
+          "slug": "oudomxay-ou"
+        }
+      },
+      {
+        "id": "OU-01",
+        "level": 2,
+        "name": {
+          "local": "Beng",
+          "en": "Beng",
+          "slug": "beng-ou-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.336",
+      "lon": "101.549"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1953803",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Môkkala",
+      "en": "Ban Mokkala",
+      "slug": "ban-mokkala-1953803"
+    },
+    "code": {
+      "id": "1953803",
+      "iso": null
+    },
+    "parent": {
+      "id": "OU-01",
+      "level": 2,
+      "name": {
+        "local": "Beng",
+        "en": "Beng",
+        "slug": "beng-ou-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "OU",
+        "level": 1,
+        "name": {
+          "local": "Oudomxay",
+          "en": "Oudomxay",
+          "slug": "oudomxay-ou"
+        }
+      },
+      {
+        "id": "OU-01",
+        "level": 2,
+        "name": {
+          "local": "Beng",
+          "en": "Beng",
+          "slug": "beng-ou-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.484",
+      "lon": "101.601"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1953813",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Môkkha",
+      "en": "Ban Mokkha",
+      "slug": "ban-mokkha-1953813"
+    },
+    "code": {
+      "id": "1953813",
+      "iso": null
+    },
+    "parent": {
+      "id": "OU-01",
+      "level": 2,
+      "name": {
+        "local": "Beng",
+        "en": "Beng",
+        "slug": "beng-ou-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "OU",
+        "level": 1,
+        "name": {
+          "local": "Oudomxay",
+          "en": "Oudomxay",
+          "slug": "oudomxay-ou"
+        }
+      },
+      {
+        "id": "OU-01",
+        "level": 2,
+        "name": {
+          "local": "Beng",
+          "en": "Beng",
+          "slug": "beng-ou-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.473",
+      "lon": "101.747"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1953780",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Môkkloup",
+      "en": "Ban Mokkloup",
+      "slug": "ban-mokkloup-1953780"
+    },
+    "code": {
+      "id": "1953780",
+      "iso": null
+    },
+    "parent": {
+      "id": "OU-01",
+      "level": 2,
+      "name": {
+        "local": "Beng",
+        "en": "Beng",
+        "slug": "beng-ou-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "OU",
+        "level": 1,
+        "name": {
+          "local": "Oudomxay",
+          "en": "Oudomxay",
+          "slug": "oudomxay-ou"
+        }
+      },
+      {
+        "id": "OU-01",
+        "level": 2,
+        "name": {
+          "local": "Beng",
+          "en": "Beng",
+          "slug": "beng-ou-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.491",
+      "lon": "101.804"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1953873",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Môkkôk",
+      "en": "Ban Mokkok",
+      "slug": "ban-mokkok-1953873"
+    },
+    "code": {
+      "id": "1953873",
+      "iso": null
+    },
+    "parent": {
+      "id": "OU-01",
+      "level": 2,
+      "name": {
+        "local": "Beng",
+        "en": "Beng",
+        "slug": "beng-ou-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "OU",
+        "level": 1,
+        "name": {
+          "local": "Oudomxay",
+          "en": "Oudomxay",
+          "slug": "oudomxay-ou"
+        }
+      },
+      {
+        "id": "OU-01",
+        "level": 2,
+        "name": {
+          "local": "Beng",
+          "en": "Beng",
+          "slug": "beng-ou-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.345",
+      "lon": "101.583"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1953875",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Môklavan",
+      "en": "Ban Moklavan",
+      "slug": "ban-moklavan-1953875"
+    },
+    "code": {
+      "id": "1953875",
+      "iso": null
+    },
+    "parent": {
+      "id": "OU-01",
+      "level": 2,
+      "name": {
+        "local": "Beng",
+        "en": "Beng",
+        "slug": "beng-ou-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "OU",
+        "level": 1,
+        "name": {
+          "local": "Oudomxay",
+          "en": "Oudomxay",
+          "slug": "oudomxay-ou"
+        }
+      },
+      {
+        "id": "OU-01",
+        "level": 2,
+        "name": {
+          "local": "Beng",
+          "en": "Beng",
+          "slug": "beng-ou-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.352",
+      "lon": "101.545"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1953843",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Môkviang",
+      "en": "Ban Mokviang",
+      "slug": "ban-mokviang-1953843"
+    },
+    "code": {
+      "id": "1953843",
+      "iso": null
+    },
+    "parent": {
+      "id": "OU-01",
+      "level": 2,
+      "name": {
+        "local": "Beng",
+        "en": "Beng",
+        "slug": "beng-ou-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "OU",
+        "level": 1,
+        "name": {
+          "local": "Oudomxay",
+          "en": "Oudomxay",
+          "slug": "oudomxay-ou"
+        }
+      },
+      {
+        "id": "OU-01",
+        "level": 2,
+        "name": {
+          "local": "Beng",
+          "en": "Beng",
+          "slug": "beng-ou-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.408",
+      "lon": "101.524"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1953830",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Muanghông",
+      "en": "Ban Muanghong",
+      "slug": "ban-muanghong-1953830"
+    },
+    "code": {
+      "id": "1953830",
+      "iso": null
+    },
+    "parent": {
+      "id": "OU-01",
+      "level": 2,
+      "name": {
+        "local": "Beng",
+        "en": "Beng",
+        "slug": "beng-ou-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "OU",
+        "level": 1,
+        "name": {
+          "local": "Oudomxay",
+          "en": "Oudomxay",
+          "slug": "oudomxay-ou"
+        }
+      },
+      {
+        "id": "OU-01",
+        "level": 2,
+        "name": {
+          "local": "Beng",
+          "en": "Beng",
+          "slug": "beng-ou-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.433",
+      "lon": "101.71"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1953522",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nabon",
+      "en": "Ban Nabon",
+      "slug": "ban-nabon-1953522"
+    },
+    "code": {
+      "id": "1953522",
+      "iso": null
+    },
+    "parent": {
+      "id": "OU-01",
+      "level": 2,
+      "name": {
+        "local": "Beng",
+        "en": "Beng",
+        "slug": "beng-ou-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "OU",
+        "level": 1,
+        "name": {
+          "local": "Oudomxay",
+          "en": "Oudomxay",
+          "slug": "oudomxay-ou"
+        }
+      },
+      {
+        "id": "OU-01",
+        "level": 2,
+        "name": {
+          "local": "Beng",
+          "en": "Beng",
+          "slug": "beng-ou-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.275",
+      "lon": "101.607"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1953569",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nahôm",
+      "en": "Ban Nahom",
+      "slug": "ban-nahom-1953569"
+    },
+    "code": {
+      "id": "1953569",
+      "iso": null
+    },
+    "parent": {
+      "id": "OU-01",
+      "level": 2,
+      "name": {
+        "local": "Beng",
+        "en": "Beng",
+        "slug": "beng-ou-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "OU",
+        "level": 1,
+        "name": {
+          "local": "Oudomxay",
+          "en": "Oudomxay",
+          "slug": "oudomxay-ou"
+        }
+      },
+      {
+        "id": "OU-01",
+        "level": 2,
+        "name": {
+          "local": "Beng",
+          "en": "Beng",
+          "slug": "beng-ou-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.197",
+      "lon": "101.671"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1953507",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nahouay",
+      "en": "Ban Nahouay",
+      "slug": "ban-nahouay-1953507"
+    },
+    "code": {
+      "id": "1953507",
+      "iso": null
+    },
+    "parent": {
+      "id": "OU-01",
+      "level": 2,
+      "name": {
+        "local": "Beng",
+        "en": "Beng",
+        "slug": "beng-ou-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "OU",
+        "level": 1,
+        "name": {
+          "local": "Oudomxay",
+          "en": "Oudomxay",
+          "slug": "oudomxay-ou"
+        }
+      },
+      {
+        "id": "OU-01",
+        "level": 2,
+        "name": {
+          "local": "Beng",
+          "en": "Beng",
+          "slug": "beng-ou-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.303",
+      "lon": "101.649"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1953872",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nalai",
+      "en": "Ban Nalai",
+      "slug": "ban-nalai-1953872"
+    },
+    "code": {
+      "id": "1953872",
+      "iso": null
+    },
+    "parent": {
+      "id": "OU-01",
+      "level": 2,
+      "name": {
+        "local": "Beng",
+        "en": "Beng",
+        "slug": "beng-ou-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "OU",
+        "level": 1,
+        "name": {
+          "local": "Oudomxay",
+          "en": "Oudomxay",
+          "slug": "oudomxay-ou"
+        }
+      },
+      {
+        "id": "OU-01",
+        "level": 2,
+        "name": {
+          "local": "Beng",
+          "en": "Beng",
+          "slug": "beng-ou-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.339",
+      "lon": "101.675"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1953779",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nambo",
+      "en": "Ban Nambo",
+      "slug": "ban-nambo-1953779"
+    },
+    "code": {
+      "id": "1953779",
+      "iso": null
+    },
+    "parent": {
+      "id": "OU-01",
+      "level": 2,
+      "name": {
+        "local": "Beng",
+        "en": "Beng",
+        "slug": "beng-ou-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "OU",
+        "level": 1,
+        "name": {
+          "local": "Oudomxay",
+          "en": "Oudomxay",
+          "slug": "oudomxay-ou"
+        }
+      },
+      {
+        "id": "OU-01",
+        "level": 2,
+        "name": {
+          "local": "Beng",
+          "en": "Beng",
+          "slug": "beng-ou-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.496",
+      "lon": "101.833"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1953558",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Namchalan",
+      "en": "Ban Namchalan",
+      "slug": "ban-namchalan-1953558"
+    },
+    "code": {
+      "id": "1953558",
+      "iso": null
+    },
+    "parent": {
+      "id": "OU-01",
+      "level": 2,
+      "name": {
+        "local": "Beng",
+        "en": "Beng",
+        "slug": "beng-ou-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "OU",
+        "level": 1,
+        "name": {
+          "local": "Oudomxay",
+          "en": "Oudomxay",
+          "slug": "oudomxay-ou"
+        }
+      },
+      {
+        "id": "OU-01",
+        "level": 2,
+        "name": {
+          "local": "Beng",
+          "en": "Beng",
+          "slug": "beng-ou-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.217",
+      "lon": "101.724"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1953809",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Namching",
+      "en": "Ban Namching",
+      "slug": "ban-namching-1953809"
+    },
+    "code": {
+      "id": "1953809",
+      "iso": null
+    },
+    "parent": {
+      "id": "OU-01",
+      "level": 2,
+      "name": {
+        "local": "Beng",
+        "en": "Beng",
+        "slug": "beng-ou-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "OU",
+        "level": 1,
+        "name": {
+          "local": "Oudomxay",
+          "en": "Oudomxay",
+          "slug": "oudomxay-ou"
+        }
+      },
+      {
+        "id": "OU-01",
+        "level": 2,
+        "name": {
+          "local": "Beng",
+          "en": "Beng",
+          "slug": "beng-ou-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.47",
+      "lon": "101.709"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1953512",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Namdo",
+      "en": "Ban Namdo",
+      "slug": "ban-namdo-1953512"
+    },
+    "code": {
+      "id": "1953512",
+      "iso": null
+    },
+    "parent": {
+      "id": "OU-01",
+      "level": 2,
+      "name": {
+        "local": "Beng",
+        "en": "Beng",
+        "slug": "beng-ou-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "OU",
+        "level": 1,
+        "name": {
+          "local": "Oudomxay",
+          "en": "Oudomxay",
+          "slug": "oudomxay-ou"
+        }
+      },
+      {
+        "id": "OU-01",
+        "level": 2,
+        "name": {
+          "local": "Beng",
+          "en": "Beng",
+          "slug": "beng-ou-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.299",
+      "lon": "101.618"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1953837",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Namèt",
+      "en": "Ban Namet",
+      "slug": "ban-namet-1953837"
+    },
+    "code": {
+      "id": "1953837",
+      "iso": null
+    },
+    "parent": {
+      "id": "OU-01",
+      "level": 2,
+      "name": {
+        "local": "Beng",
+        "en": "Beng",
+        "slug": "beng-ou-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "OU",
+        "level": 1,
+        "name": {
+          "local": "Oudomxay",
+          "en": "Oudomxay",
+          "slug": "oudomxay-ou"
+        }
+      },
+      {
+        "id": "OU-01",
+        "level": 2,
+        "name": {
+          "local": "Beng",
+          "en": "Beng",
+          "slug": "beng-ou-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.424",
+      "lon": "101.789"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1953515",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Namhao",
+      "en": "Ban Namhao",
+      "slug": "ban-namhao-1953515"
+    },
+    "code": {
+      "id": "1953515",
+      "iso": null
+    },
+    "parent": {
+      "id": "OU-01",
+      "level": 2,
+      "name": {
+        "local": "Beng",
+        "en": "Beng",
+        "slug": "beng-ou-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "OU",
+        "level": 1,
+        "name": {
+          "local": "Oudomxay",
+          "en": "Oudomxay",
+          "slug": "oudomxay-ou"
+        }
+      },
+      {
+        "id": "OU-01",
+        "level": 2,
+        "name": {
+          "local": "Beng",
+          "en": "Beng",
+          "slug": "beng-ou-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.299",
+      "lon": "101.702"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1953523",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Namhèng",
+      "en": "Ban Namheng",
+      "slug": "ban-namheng-1953523"
+    },
+    "code": {
+      "id": "1953523",
+      "iso": null
+    },
+    "parent": {
+      "id": "OU-01",
+      "level": 2,
+      "name": {
+        "local": "Beng",
+        "en": "Beng",
+        "slug": "beng-ou-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "OU",
+        "level": 1,
+        "name": {
+          "local": "Oudomxay",
+          "en": "Oudomxay",
+          "slug": "oudomxay-ou"
+        }
+      },
+      {
+        "id": "OU-01",
+        "level": 2,
+        "name": {
+          "local": "Beng",
+          "en": "Beng",
+          "slug": "beng-ou-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.282",
+      "lon": "101.568"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1953768",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Namhèng",
+      "en": "Ban Namheng",
+      "slug": "ban-namheng-1953768"
+    },
+    "code": {
+      "id": "1953768",
+      "iso": null
+    },
+    "parent": {
+      "id": "OU-01",
+      "level": 2,
+      "name": {
+        "local": "Beng",
+        "en": "Beng",
+        "slug": "beng-ou-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "OU",
+        "level": 1,
+        "name": {
+          "local": "Oudomxay",
+          "en": "Oudomxay",
+          "slug": "oudomxay-ou"
+        }
+      },
+      {
+        "id": "OU-01",
+        "level": 2,
+        "name": {
+          "local": "Beng",
+          "en": "Beng",
+          "slug": "beng-ou-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.532",
+      "lon": "101.639"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1953862",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Namka-Nua",
+      "en": "Ban Namka-Nua",
+      "slug": "ban-namka-nua-1953862"
+    },
+    "code": {
+      "id": "1953862",
+      "iso": null
+    },
+    "parent": {
+      "id": "OU-01",
+      "level": 2,
+      "name": {
+        "local": "Beng",
+        "en": "Beng",
+        "slug": "beng-ou-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "OU",
+        "level": 1,
+        "name": {
+          "local": "Oudomxay",
+          "en": "Oudomxay",
+          "slug": "oudomxay-ou"
+        }
+      },
+      {
+        "id": "OU-01",
+        "level": 2,
+        "name": {
+          "local": "Beng",
+          "en": "Beng",
+          "slug": "beng-ou-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.362",
+      "lon": "101.877"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1953496",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Namkhong",
+      "en": "Ban Namkhong",
+      "slug": "ban-namkhong-1953496"
+    },
+    "code": {
+      "id": "1953496",
+      "iso": null
+    },
+    "parent": {
+      "id": "OU-01",
+      "level": 2,
+      "name": {
+        "local": "Beng",
+        "en": "Beng",
+        "slug": "beng-ou-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "OU",
+        "level": 1,
+        "name": {
+          "local": "Oudomxay",
+          "en": "Oudomxay",
+          "slug": "oudomxay-ou"
+        }
+      },
+      {
+        "id": "OU-01",
+        "level": 2,
+        "name": {
+          "local": "Beng",
+          "en": "Beng",
+          "slug": "beng-ou-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.324",
+      "lon": "101.565"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1953547",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Namko-Tai",
+      "en": "Ban Namko-Tai",
+      "slug": "ban-namko-tai-1953547"
+    },
+    "code": {
+      "id": "1953547",
+      "iso": null
+    },
+    "parent": {
+      "id": "OU-01",
+      "level": 2,
+      "name": {
+        "local": "Beng",
+        "en": "Beng",
+        "slug": "beng-ou-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "OU",
+        "level": 1,
+        "name": {
+          "local": "Oudomxay",
+          "en": "Oudomxay",
+          "slug": "oudomxay-ou"
+        }
+      },
+      {
+        "id": "OU-01",
+        "level": 2,
+        "name": {
+          "local": "Beng",
+          "en": "Beng",
+          "slug": "beng-ou-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.263",
+      "lon": "101.806"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1953524",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Namlông",
+      "en": "Ban Namlong",
+      "slug": "ban-namlong-1953524"
+    },
+    "code": {
+      "id": "1953524",
+      "iso": null
+    },
+    "parent": {
+      "id": "OU-01",
+      "level": 2,
+      "name": {
+        "local": "Beng",
+        "en": "Beng",
+        "slug": "beng-ou-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "OU",
+        "level": 1,
+        "name": {
+          "local": "Oudomxay",
+          "en": "Oudomxay",
+          "slug": "oudomxay-ou"
+        }
+      },
+      {
+        "id": "OU-01",
+        "level": 2,
+        "name": {
+          "local": "Beng",
+          "en": "Beng",
+          "slug": "beng-ou-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.27",
+      "lon": "101.542"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1953760",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Namma",
+      "en": "Ban Namma",
+      "slug": "ban-namma-1953760"
+    },
+    "code": {
+      "id": "1953760",
+      "iso": null
+    },
+    "parent": {
+      "id": "OU-01",
+      "level": 2,
+      "name": {
+        "local": "Beng",
+        "en": "Beng",
+        "slug": "beng-ou-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "OU",
+        "level": 1,
+        "name": {
+          "local": "Oudomxay",
+          "en": "Oudomxay",
+          "slug": "oudomxay-ou"
+        }
+      },
+      {
+        "id": "OU-01",
+        "level": 2,
+        "name": {
+          "local": "Beng",
+          "en": "Beng",
+          "slug": "beng-ou-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.527",
+      "lon": "101.808"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1953552",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Namngao",
+      "en": "Ban Namngao",
+      "slug": "ban-namngao-1953552"
+    },
+    "code": {
+      "id": "1953552",
+      "iso": null
+    },
+    "parent": {
+      "id": "OU-01",
+      "level": 2,
+      "name": {
+        "local": "Beng",
+        "en": "Beng",
+        "slug": "beng-ou-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "OU",
+        "level": 1,
+        "name": {
+          "local": "Oudomxay",
+          "en": "Oudomxay",
+          "slug": "oudomxay-ou"
+        }
+      },
+      {
+        "id": "OU-01",
+        "level": 2,
+        "name": {
+          "local": "Beng",
+          "en": "Beng",
+          "slug": "beng-ou-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.231",
+      "lon": "101.67"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1953749",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nampa",
+      "en": "Ban Nampa",
+      "slug": "ban-nampa-1953749"
+    },
+    "code": {
+      "id": "1953749",
+      "iso": null
+    },
+    "parent": {
+      "id": "OU-01",
+      "level": 2,
+      "name": {
+        "local": "Beng",
+        "en": "Beng",
+        "slug": "beng-ou-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "OU",
+        "level": 1,
+        "name": {
+          "local": "Oudomxay",
+          "en": "Oudomxay",
+          "slug": "oudomxay-ou"
+        }
+      },
+      {
+        "id": "OU-01",
+        "level": 2,
+        "name": {
+          "local": "Beng",
+          "en": "Beng",
+          "slug": "beng-ou-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.544",
+      "lon": "101.641"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1953503",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nampèn",
+      "en": "Ban Nampen",
+      "slug": "ban-nampen-1953503"
+    },
+    "code": {
+      "id": "1953503",
+      "iso": null
+    },
+    "parent": {
+      "id": "OU-01",
+      "level": 2,
+      "name": {
+        "local": "Beng",
+        "en": "Beng",
+        "slug": "beng-ou-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "OU",
+        "level": 1,
+        "name": {
+          "local": "Oudomxay",
+          "en": "Oudomxay",
+          "slug": "oudomxay-ou"
+        }
+      },
+      {
+        "id": "OU-01",
+        "level": 2,
+        "name": {
+          "local": "Beng",
+          "en": "Beng",
+          "slug": "beng-ou-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.314",
+      "lon": "101.716"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1953855",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nampèng",
+      "en": "Ban Nampeng",
+      "slug": "ban-nampeng-1953855"
+    },
+    "code": {
+      "id": "1953855",
+      "iso": null
+    },
+    "parent": {
+      "id": "OU-01",
+      "level": 2,
+      "name": {
+        "local": "Beng",
+        "en": "Beng",
+        "slug": "beng-ou-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "OU",
+        "level": 1,
+        "name": {
+          "local": "Oudomxay",
+          "en": "Oudomxay",
+          "slug": "oudomxay-ou"
+        }
+      },
+      {
+        "id": "OU-01",
+        "level": 2,
+        "name": {
+          "local": "Beng",
+          "en": "Beng",
+          "slug": "beng-ou-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.39",
+      "lon": "101.687"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1953776",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Namphao",
+      "en": "Ban Namphao",
+      "slug": "ban-namphao-1953776"
+    },
+    "code": {
+      "id": "1953776",
+      "iso": null
+    },
+    "parent": {
+      "id": "OU-01",
+      "level": 2,
+      "name": {
+        "local": "Beng",
+        "en": "Beng",
+        "slug": "beng-ou-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "OU",
+        "level": 1,
+        "name": {
+          "local": "Oudomxay",
+          "en": "Oudomxay",
+          "slug": "oudomxay-ou"
+        }
+      },
+      {
+        "id": "OU-01",
+        "level": 2,
+        "name": {
+          "local": "Beng",
+          "en": "Beng",
+          "slug": "beng-ou-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.505",
+      "lon": "101.792"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1953510",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Namplèk",
+      "en": "Ban Namplek",
+      "slug": "ban-namplek-1953510"
+    },
+    "code": {
+      "id": "1953510",
+      "iso": null
+    },
+    "parent": {
+      "id": "OU-01",
+      "level": 2,
+      "name": {
+        "local": "Beng",
+        "en": "Beng",
+        "slug": "beng-ou-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "OU",
+        "level": 1,
+        "name": {
+          "local": "Oudomxay",
+          "en": "Oudomxay",
+          "slug": "oudomxay-ou"
+        }
+      },
+      {
+        "id": "OU-01",
+        "level": 2,
+        "name": {
+          "local": "Beng",
+          "en": "Beng",
+          "slug": "beng-ou-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.303",
+      "lon": "101.538"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1953816",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nampoung",
+      "en": "Ban Nampoung",
+      "slug": "ban-nampoung-1953816"
+    },
+    "code": {
+      "id": "1953816",
+      "iso": null
+    },
+    "parent": {
+      "id": "OU-01",
+      "level": 2,
+      "name": {
+        "local": "Beng",
+        "en": "Beng",
+        "slug": "beng-ou-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "OU",
+        "level": 1,
+        "name": {
+          "local": "Oudomxay",
+          "en": "Oudomxay",
+          "slug": "oudomxay-ou"
+        }
+      },
+      {
+        "id": "OU-01",
+        "level": 2,
+        "name": {
+          "local": "Beng",
+          "en": "Beng",
+          "slug": "beng-ou-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.475",
+      "lon": "101.845"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1953519",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Namtham",
+      "en": "Ban Namtham",
+      "slug": "ban-namtham-1953519"
+    },
+    "code": {
+      "id": "1953519",
+      "iso": null
+    },
+    "parent": {
+      "id": "OU-01",
+      "level": 2,
+      "name": {
+        "local": "Beng",
+        "en": "Beng",
+        "slug": "beng-ou-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "OU",
+        "level": 1,
+        "name": {
+          "local": "Oudomxay",
+          "en": "Oudomxay",
+          "slug": "oudomxay-ou"
+        }
+      },
+      {
+        "id": "OU-01",
+        "level": 2,
+        "name": {
+          "local": "Beng",
+          "en": "Beng",
+          "slug": "beng-ou-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.274",
+      "lon": "101.842"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1953829",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Namtouy",
+      "en": "Ban Namtouy",
+      "slug": "ban-namtouy-1953829"
+    },
+    "code": {
+      "id": "1953829",
+      "iso": null
+    },
+    "parent": {
+      "id": "OU-01",
+      "level": 2,
+      "name": {
+        "local": "Beng",
+        "en": "Beng",
+        "slug": "beng-ou-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "OU",
+        "level": 1,
+        "name": {
+          "local": "Oudomxay",
+          "en": "Oudomxay",
+          "slug": "oudomxay-ou"
+        }
+      },
+      {
+        "id": "OU-01",
+        "level": 2,
+        "name": {
+          "local": "Beng",
+          "en": "Beng",
+          "slug": "beng-ou-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.426",
+      "lon": "101.615"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1953831",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Namxat",
+      "en": "Ban Namxat",
+      "slug": "ban-namxat-1953831"
+    },
+    "code": {
+      "id": "1953831",
+      "iso": null
+    },
+    "parent": {
+      "id": "OU-01",
+      "level": 2,
+      "name": {
+        "local": "Beng",
+        "en": "Beng",
+        "slug": "beng-ou-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "OU",
+        "level": 1,
+        "name": {
+          "local": "Oudomxay",
+          "en": "Oudomxay",
+          "slug": "oudomxay-ou"
+        }
+      },
+      {
+        "id": "OU-01",
+        "level": 2,
+        "name": {
+          "local": "Beng",
+          "en": "Beng",
+          "slug": "beng-ou-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.433",
+      "lon": "101.885"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1953508",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nangiou",
+      "en": "Ban Nangiou",
+      "slug": "ban-nangiou-1953508"
+    },
+    "code": {
+      "id": "1953508",
+      "iso": null
+    },
+    "parent": {
+      "id": "OU-01",
+      "level": 2,
+      "name": {
+        "local": "Beng",
+        "en": "Beng",
+        "slug": "beng-ou-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "OU",
+        "level": 1,
+        "name": {
+          "local": "Oudomxay",
+          "en": "Oudomxay",
+          "slug": "oudomxay-ou"
+        }
+      },
+      {
+        "id": "OU-01",
+        "level": 2,
+        "name": {
+          "local": "Beng",
+          "en": "Beng",
+          "slug": "beng-ou-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.312",
+      "lon": "101.634"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1953856",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nangoua",
+      "en": "Ban Nangoua",
+      "slug": "ban-nangoua-1953856"
+    },
+    "code": {
+      "id": "1953856",
+      "iso": null
+    },
+    "parent": {
+      "id": "OU-01",
+      "level": 2,
+      "name": {
+        "local": "Beng",
+        "en": "Beng",
+        "slug": "beng-ou-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "OU",
+        "level": 1,
+        "name": {
+          "local": "Oudomxay",
+          "en": "Oudomxay",
+          "slug": "oudomxay-ou"
+        }
+      },
+      {
+        "id": "OU-01",
+        "level": 2,
+        "name": {
+          "local": "Beng",
+          "en": "Beng",
+          "slug": "beng-ou-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.382",
+      "lon": "101.678"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1953820",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Napa-Nua",
+      "en": "Ban Napa-Nua",
+      "slug": "ban-napa-nua-1953820"
+    },
+    "code": {
+      "id": "1953820",
+      "iso": null
+    },
+    "parent": {
+      "id": "OU-01",
+      "level": 2,
+      "name": {
+        "local": "Beng",
+        "en": "Beng",
+        "slug": "beng-ou-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "OU",
+        "level": 1,
+        "name": {
+          "local": "Oudomxay",
+          "en": "Oudomxay",
+          "slug": "oudomxay-ou"
+        }
+      },
+      {
+        "id": "OU-01",
+        "level": 2,
+        "name": {
+          "local": "Beng",
+          "en": "Beng",
+          "slug": "beng-ou-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.458",
+      "lon": "101.834"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1661290",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Napa-Tai",
+      "en": "Ban Napa-Tai",
+      "slug": "ban-napa-tai-1661290"
+    },
+    "code": {
+      "id": "1661290",
+      "iso": null
+    },
+    "parent": {
+      "id": "OU-01",
+      "level": 2,
+      "name": {
+        "local": "Beng",
+        "en": "Beng",
+        "slug": "beng-ou-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "OU",
+        "level": 1,
+        "name": {
+          "local": "Oudomxay",
+          "en": "Oudomxay",
+          "slug": "oudomxay-ou"
+        }
+      },
+      {
+        "id": "OU-01",
+        "level": 2,
+        "name": {
+          "local": "Beng",
+          "en": "Beng",
+          "slug": "beng-ou-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.455",
+      "lon": "101.828"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1953505",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Naphô",
+      "en": "Ban Napho",
+      "slug": "ban-napho-1953505"
+    },
+    "code": {
+      "id": "1953505",
+      "iso": null
+    },
+    "parent": {
+      "id": "OU-01",
+      "level": 2,
+      "name": {
+        "local": "Beng",
+        "en": "Beng",
+        "slug": "beng-ou-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "OU",
+        "level": 1,
+        "name": {
+          "local": "Oudomxay",
+          "en": "Oudomxay",
+          "slug": "oudomxay-ou"
+        }
+      },
+      {
+        "id": "OU-01",
+        "level": 2,
+        "name": {
+          "local": "Beng",
+          "en": "Beng",
+          "slug": "beng-ou-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.315",
+      "lon": "101.657"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1660411",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Palet",
+      "en": "Ban Palet",
+      "slug": "ban-palet-1660411"
+    },
+    "code": {
+      "id": "1660411",
+      "iso": null
+    },
+    "parent": {
+      "id": "OU-01",
+      "level": 2,
+      "name": {
+        "local": "Beng",
+        "en": "Beng",
+        "slug": "beng-ou-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "OU",
+        "level": 1,
+        "name": {
+          "local": "Oudomxay",
+          "en": "Oudomxay",
+          "slug": "oudomxay-ou"
+        }
+      },
+      {
+        "id": "OU-01",
+        "level": 2,
+        "name": {
+          "local": "Beng",
+          "en": "Beng",
+          "slug": "beng-ou-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.4",
+      "lon": "101.5"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1660400",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Pana",
+      "en": "Ban Pana",
+      "slug": "ban-pana-1660400"
+    },
+    "code": {
+      "id": "1660400",
+      "iso": null
+    },
+    "parent": {
+      "id": "OU-01",
+      "level": 2,
+      "name": {
+        "local": "Beng",
+        "en": "Beng",
+        "slug": "beng-ou-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "OU",
+        "level": 1,
+        "name": {
+          "local": "Oudomxay",
+          "en": "Oudomxay",
+          "slug": "oudomxay-ou"
+        }
+      },
+      {
+        "id": "OU-01",
+        "level": 2,
+        "name": {
+          "local": "Beng",
+          "en": "Beng",
+          "slug": "beng-ou-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.333",
+      "lon": "101.517"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1953498",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Pangdua",
+      "en": "Ban Pangdua",
+      "slug": "ban-pangdua-1953498"
+    },
+    "code": {
+      "id": "1953498",
+      "iso": null
+    },
+    "parent": {
+      "id": "OU-01",
+      "level": 2,
+      "name": {
+        "local": "Beng",
+        "en": "Beng",
+        "slug": "beng-ou-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "OU",
+        "level": 1,
+        "name": {
+          "local": "Oudomxay",
+          "en": "Oudomxay",
+          "slug": "oudomxay-ou"
+        }
+      },
+      {
+        "id": "OU-01",
+        "level": 2,
+        "name": {
+          "local": "Beng",
+          "en": "Beng",
+          "slug": "beng-ou-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.329",
+      "lon": "101.669"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1953860",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Panggnôm",
+      "en": "Ban Panggnom",
+      "slug": "ban-panggnom-1953860"
+    },
+    "code": {
+      "id": "1953860",
+      "iso": null
+    },
+    "parent": {
+      "id": "OU-01",
+      "level": 2,
+      "name": {
+        "local": "Beng",
+        "en": "Beng",
+        "slug": "beng-ou-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "OU",
+        "level": 1,
+        "name": {
+          "local": "Oudomxay",
+          "en": "Oudomxay",
+          "slug": "oudomxay-ou"
+        }
+      },
+      {
+        "id": "OU-01",
+        "level": 2,
+        "name": {
+          "local": "Beng",
+          "en": "Beng",
+          "slug": "beng-ou-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.367",
+      "lon": "101.712"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1953828",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Panghouayhok",
+      "en": "Ban Panghouayhok",
+      "slug": "ban-panghouayhok-1953828"
+    },
+    "code": {
+      "id": "1953828",
+      "iso": null
+    },
+    "parent": {
+      "id": "OU-01",
+      "level": 2,
+      "name": {
+        "local": "Beng",
+        "en": "Beng",
+        "slug": "beng-ou-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "OU",
+        "level": 1,
+        "name": {
+          "local": "Oudomxay",
+          "en": "Oudomxay",
+          "slug": "oudomxay-ou"
+        }
+      },
+      {
+        "id": "OU-01",
+        "level": 2,
+        "name": {
+          "local": "Beng",
+          "en": "Beng",
+          "slug": "beng-ou-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.431",
+      "lon": "101.561"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1953854",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Pangthong",
+      "en": "Ban Pangthong",
+      "slug": "ban-pangthong-1953854"
+    },
+    "code": {
+      "id": "1953854",
+      "iso": null
+    },
+    "parent": {
+      "id": "OU-01",
+      "level": 2,
+      "name": {
+        "local": "Beng",
+        "en": "Beng",
+        "slug": "beng-ou-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "OU",
+        "level": 1,
+        "name": {
+          "local": "Oudomxay",
+          "en": "Oudomxay",
+          "slug": "oudomxay-ou"
+        }
+      },
+      {
+        "id": "OU-01",
+        "level": 2,
+        "name": {
+          "local": "Beng",
+          "en": "Beng",
+          "slug": "beng-ou-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.383",
+      "lon": "101.741"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1953778",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phia-Tai",
+      "en": "Ban Phia-Tai",
+      "slug": "ban-phia-tai-1953778"
+    },
+    "code": {
+      "id": "1953778",
+      "iso": null
+    },
+    "parent": {
+      "id": "OU-01",
+      "level": 2,
+      "name": {
+        "local": "Beng",
+        "en": "Beng",
+        "slug": "beng-ou-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "OU",
+        "level": 1,
+        "name": {
+          "local": "Oudomxay",
+          "en": "Oudomxay",
+          "slug": "oudomxay-ou"
+        }
+      },
+      {
+        "id": "OU-01",
+        "level": 2,
+        "name": {
+          "local": "Beng",
+          "en": "Beng",
+          "slug": "beng-ou-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.494",
+      "lon": "101.862"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1953521",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phônxai",
+      "en": "Ban Phonxai",
+      "slug": "ban-phonxai-1953521"
+    },
+    "code": {
+      "id": "1953521",
+      "iso": null
+    },
+    "parent": {
+      "id": "OU-01",
+      "level": 2,
+      "name": {
+        "local": "Beng",
+        "en": "Beng",
+        "slug": "beng-ou-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "OU",
+        "level": 1,
+        "name": {
+          "local": "Oudomxay",
+          "en": "Oudomxay",
+          "slug": "oudomxay-ou"
+        }
+      },
+      {
+        "id": "OU-01",
+        "level": 2,
+        "name": {
+          "local": "Beng",
+          "en": "Beng",
+          "slug": "beng-ou-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.281",
+      "lon": "101.611"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1953847",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phougnout",
+      "en": "Ban Phougnout",
+      "slug": "ban-phougnout-1953847"
+    },
+    "code": {
+      "id": "1953847",
+      "iso": null
+    },
+    "parent": {
+      "id": "OU-01",
+      "level": 2,
+      "name": {
+        "local": "Beng",
+        "en": "Beng",
+        "slug": "beng-ou-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "OU",
+        "level": 1,
+        "name": {
+          "local": "Oudomxay",
+          "en": "Oudomxay",
+          "slug": "oudomxay-ou"
+        }
+      },
+      {
+        "id": "OU-01",
+        "level": 2,
+        "name": {
+          "local": "Beng",
+          "en": "Beng",
+          "slug": "beng-ou-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.399",
+      "lon": "101.681"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1953545",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phoukham",
+      "en": "Ban Phoukham",
+      "slug": "ban-phoukham-1953545"
+    },
+    "code": {
+      "id": "1953545",
+      "iso": null
+    },
+    "parent": {
+      "id": "OU-01",
+      "level": 2,
+      "name": {
+        "local": "Beng",
+        "en": "Beng",
+        "slug": "beng-ou-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "OU",
+        "level": 1,
+        "name": {
+          "local": "Oudomxay",
+          "en": "Oudomxay",
+          "slug": "oudomxay-ou"
+        }
+      },
+      {
+        "id": "OU-01",
+        "level": 2,
+        "name": {
+          "local": "Beng",
+          "en": "Beng",
+          "slug": "beng-ou-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.266",
+      "lon": "101.595"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1953546",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phouloung",
+      "en": "Ban Phouloung",
+      "slug": "ban-phouloung-1953546"
+    },
+    "code": {
+      "id": "1953546",
+      "iso": null
+    },
+    "parent": {
+      "id": "OU-01",
+      "level": 2,
+      "name": {
+        "local": "Beng",
+        "en": "Beng",
+        "slug": "beng-ou-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "OU",
+        "level": 1,
+        "name": {
+          "local": "Oudomxay",
+          "en": "Oudomxay",
+          "slug": "oudomxay-ou"
+        }
+      },
+      {
+        "id": "OU-01",
+        "level": 2,
+        "name": {
+          "local": "Beng",
+          "en": "Beng",
+          "slug": "beng-ou-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.26",
+      "lon": "101.659"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1953497",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phousang",
+      "en": "Ban Phousang",
+      "slug": "ban-phousang-1953497"
+    },
+    "code": {
+      "id": "1953497",
+      "iso": null
+    },
+    "parent": {
+      "id": "OU-01",
+      "level": 2,
+      "name": {
+        "local": "Beng",
+        "en": "Beng",
+        "slug": "beng-ou-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "OU",
+        "level": 1,
+        "name": {
+          "local": "Oudomxay",
+          "en": "Oudomxay",
+          "slug": "oudomxay-ou"
+        }
+      },
+      {
+        "id": "OU-01",
+        "level": 2,
+        "name": {
+          "local": "Beng",
+          "en": "Beng",
+          "slug": "beng-ou-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.324",
+      "lon": "101.64"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1956360",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phouxang",
+      "en": "Ban Phouxang",
+      "slug": "ban-phouxang-1956360"
+    },
+    "code": {
+      "id": "1956360",
+      "iso": null
+    },
+    "parent": {
+      "id": "OU-01",
+      "level": 2,
+      "name": {
+        "local": "Beng",
+        "en": "Beng",
+        "slug": "beng-ou-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "OU",
+        "level": 1,
+        "name": {
+          "local": "Oudomxay",
+          "en": "Oudomxay",
+          "slug": "oudomxay-ou"
+        }
+      },
+      {
+        "id": "OU-01",
+        "level": 2,
+        "name": {
+          "local": "Beng",
+          "en": "Beng",
+          "slug": "beng-ou-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.395",
+      "lon": "101.5"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1953825",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Pom",
+      "en": "Ban Pom",
+      "slug": "ban-pom-1953825"
+    },
+    "code": {
+      "id": "1953825",
+      "iso": null
+    },
+    "parent": {
+      "id": "OU-01",
+      "level": 2,
+      "name": {
+        "local": "Beng",
+        "en": "Beng",
+        "slug": "beng-ou-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "OU",
+        "level": 1,
+        "name": {
+          "local": "Oudomxay",
+          "en": "Oudomxay",
+          "slug": "oudomxay-ou"
+        }
+      },
+      {
+        "id": "OU-01",
+        "level": 2,
+        "name": {
+          "local": "Beng",
+          "en": "Beng",
+          "slug": "beng-ou-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.438",
+      "lon": "101.512"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1953541",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Sakôp",
+      "en": "Ban Sakop",
+      "slug": "ban-sakop-1953541"
+    },
+    "code": {
+      "id": "1953541",
+      "iso": null
+    },
+    "parent": {
+      "id": "OU-01",
+      "level": 2,
+      "name": {
+        "local": "Beng",
+        "en": "Beng",
+        "slug": "beng-ou-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "OU",
+        "level": 1,
+        "name": {
+          "local": "Oudomxay",
+          "en": "Oudomxay",
+          "slug": "oudomxay-ou"
+        }
+      },
+      {
+        "id": "OU-01",
+        "level": 2,
+        "name": {
+          "local": "Beng",
+          "en": "Beng",
+          "slug": "beng-ou-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.271",
+      "lon": "101.501"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1953544",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Samkang",
+      "en": "Ban Samkang",
+      "slug": "ban-samkang-1953544"
+    },
+    "code": {
+      "id": "1953544",
+      "iso": null
+    },
+    "parent": {
+      "id": "OU-01",
+      "level": 2,
+      "name": {
+        "local": "Beng",
+        "en": "Beng",
+        "slug": "beng-ou-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "OU",
+        "level": 1,
+        "name": {
+          "local": "Oudomxay",
+          "en": "Oudomxay",
+          "slug": "oudomxay-ou"
+        }
+      },
+      {
+        "id": "OU-01",
+        "level": 2,
+        "name": {
+          "local": "Beng",
+          "en": "Beng",
+          "slug": "beng-ou-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.253",
+      "lon": "101.585"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1659343",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Sèn-In",
+      "en": "Ban Sen-In",
+      "slug": "ban-sen-in-1659343"
+    },
+    "code": {
+      "id": "1659343",
+      "iso": null
+    },
+    "parent": {
+      "id": "OU-01",
+      "level": 2,
+      "name": {
+        "local": "Beng",
+        "en": "Beng",
+        "slug": "beng-ou-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "OU",
+        "level": 1,
+        "name": {
+          "local": "Oudomxay",
+          "en": "Oudomxay",
+          "slug": "oudomxay-ou"
+        }
+      },
+      {
+        "id": "OU-01",
+        "level": 2,
+        "name": {
+          "local": "Beng",
+          "en": "Beng",
+          "slug": "beng-ou-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.333",
+      "lon": "101.867"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1953570",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Sènmon",
+      "en": "Ban Senmon",
+      "slug": "ban-senmon-1953570"
+    },
+    "code": {
+      "id": "1953570",
+      "iso": null
+    },
+    "parent": {
+      "id": "OU-01",
+      "level": 2,
+      "name": {
+        "local": "Beng",
+        "en": "Beng",
+        "slug": "beng-ou-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "OU",
+        "level": 1,
+        "name": {
+          "local": "Oudomxay",
+          "en": "Oudomxay",
+          "slug": "oudomxay-ou"
+        }
+      },
+      {
+        "id": "OU-01",
+        "level": 2,
+        "name": {
+          "local": "Beng",
+          "en": "Beng",
+          "slug": "beng-ou-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.202",
+      "lon": "101.602"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1953556",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Sènxi",
+      "en": "Ban Senxi",
+      "slug": "ban-senxi-1953556"
+    },
+    "code": {
+      "id": "1953556",
+      "iso": null
+    },
+    "parent": {
+      "id": "OU-01",
+      "level": 2,
+      "name": {
+        "local": "Beng",
+        "en": "Beng",
+        "slug": "beng-ou-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "OU",
+        "level": 1,
+        "name": {
+          "local": "Oudomxay",
+          "en": "Oudomxay",
+          "slug": "oudomxay-ou"
+        }
+      },
+      {
+        "id": "OU-01",
+        "level": 2,
+        "name": {
+          "local": "Beng",
+          "en": "Beng",
+          "slug": "beng-ou-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.224",
+      "lon": "101.615"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1953861",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Sôplo",
+      "en": "Ban Soplo",
+      "slug": "ban-soplo-1953861"
+    },
+    "code": {
+      "id": "1953861",
+      "iso": null
+    },
+    "parent": {
+      "id": "OU-01",
+      "level": 2,
+      "name": {
+        "local": "Beng",
+        "en": "Beng",
+        "slug": "beng-ou-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "OU",
+        "level": 1,
+        "name": {
+          "local": "Oudomxay",
+          "en": "Oudomxay",
+          "slug": "oudomxay-ou"
+        }
+      },
+      {
+        "id": "OU-01",
+        "level": 2,
+        "name": {
+          "local": "Beng",
+          "en": "Beng",
+          "slug": "beng-ou-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.358",
+      "lon": "101.708"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1953511",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Takouan",
+      "en": "Ban Takouan",
+      "slug": "ban-takouan-1953511"
+    },
+    "code": {
+      "id": "1953511",
+      "iso": null
+    },
+    "parent": {
+      "id": "OU-01",
+      "level": 2,
+      "name": {
+        "local": "Beng",
+        "en": "Beng",
+        "slug": "beng-ou-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "OU",
+        "level": 1,
+        "name": {
+          "local": "Oudomxay",
+          "en": "Oudomxay",
+          "slug": "oudomxay-ou"
+        }
+      },
+      {
+        "id": "OU-01",
+        "level": 2,
+        "name": {
+          "local": "Beng",
+          "en": "Beng",
+          "slug": "beng-ou-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.314",
+      "lon": "101.525"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1953801",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Tangdou",
+      "en": "Ban Tangdou",
+      "slug": "ban-tangdou-1953801"
+    },
+    "code": {
+      "id": "1953801",
+      "iso": null
+    },
+    "parent": {
+      "id": "OU-01",
+      "level": 2,
+      "name": {
+        "local": "Beng",
+        "en": "Beng",
+        "slug": "beng-ou-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "OU",
+        "level": 1,
+        "name": {
+          "local": "Oudomxay",
+          "en": "Oudomxay",
+          "slug": "oudomxay-ou"
+        }
+      },
+      {
+        "id": "OU-01",
+        "level": 2,
+        "name": {
+          "local": "Beng",
+          "en": "Beng",
+          "slug": "beng-ou-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.498",
+      "lon": "101.651"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1953513",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Thakat",
+      "en": "Ban Thakat",
+      "slug": "ban-thakat-1953513"
+    },
+    "code": {
+      "id": "1953513",
+      "iso": null
+    },
+    "parent": {
+      "id": "OU-01",
+      "level": 2,
+      "name": {
+        "local": "Beng",
+        "en": "Beng",
+        "slug": "beng-ou-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "OU",
+        "level": 1,
+        "name": {
+          "local": "Oudomxay",
+          "en": "Oudomxay",
+          "slug": "oudomxay-ou"
+        }
+      },
+      {
+        "id": "OU-01",
+        "level": 2,
+        "name": {
+          "local": "Beng",
+          "en": "Beng",
+          "slug": "beng-ou-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.287",
+      "lon": "101.625"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1953849",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Thamun",
+      "en": "Ban Thamun",
+      "slug": "ban-thamun-1953849"
+    },
+    "code": {
+      "id": "1953849",
+      "iso": null
+    },
+    "parent": {
+      "id": "OU-01",
+      "level": 2,
+      "name": {
+        "local": "Beng",
+        "en": "Beng",
+        "slug": "beng-ou-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "OU",
+        "level": 1,
+        "name": {
+          "local": "Oudomxay",
+          "en": "Oudomxay",
+          "slug": "oudomxay-ou"
+        }
+      },
+      {
+        "id": "OU-01",
+        "level": 2,
+        "name": {
+          "local": "Beng",
+          "en": "Beng",
+          "slug": "beng-ou-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.408",
+      "lon": "101.767"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1956390",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Tôkmôk",
+      "en": "Ban Tokmok",
+      "slug": "ban-tokmok-1956390"
+    },
+    "code": {
+      "id": "1956390",
+      "iso": null
+    },
+    "parent": {
+      "id": "OU-01",
+      "level": 2,
+      "name": {
+        "local": "Beng",
+        "en": "Beng",
+        "slug": "beng-ou-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "OU",
+        "level": 1,
+        "name": {
+          "local": "Oudomxay",
+          "en": "Oudomxay",
+          "slug": "oudomxay-ou"
+        }
+      },
+      {
+        "id": "OU-01",
+        "level": 2,
+        "name": {
+          "local": "Beng",
+          "en": "Beng",
+          "slug": "beng-ou-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.352",
+      "lon": "101.485"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1953807",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Tongchong",
+      "en": "Ban Tongchong",
+      "slug": "ban-tongchong-1953807"
+    },
+    "code": {
+      "id": "1953807",
+      "iso": null
+    },
+    "parent": {
+      "id": "OU-01",
+      "level": 2,
+      "name": {
+        "local": "Beng",
+        "en": "Beng",
+        "slug": "beng-ou-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "OU",
+        "level": 1,
+        "name": {
+          "local": "Oudomxay",
+          "en": "Oudomxay",
+          "slug": "oudomxay-ou"
+        }
+      },
+      {
+        "id": "OU-01",
+        "level": 2,
+        "name": {
+          "local": "Beng",
+          "en": "Beng",
+          "slug": "beng-ou-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.469",
+      "lon": "101.61"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1953747",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Tôngpalang",
+      "en": "Ban Tongpalang",
+      "slug": "ban-tongpalang-1953747"
+    },
+    "code": {
+      "id": "1953747",
+      "iso": null
+    },
+    "parent": {
+      "id": "OU-01",
+      "level": 2,
+      "name": {
+        "local": "Beng",
+        "en": "Beng",
+        "slug": "beng-ou-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "OU",
+        "level": 1,
+        "name": {
+          "local": "Oudomxay",
+          "en": "Oudomxay",
+          "slug": "oudomxay-ou"
+        }
+      },
+      {
+        "id": "OU-01",
+        "level": 2,
+        "name": {
+          "local": "Beng",
+          "en": "Beng",
+          "slug": "beng-ou-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.545",
+      "lon": "101.63"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1953782",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Tongsaluang",
+      "en": "Ban Tongsaluang",
+      "slug": "ban-tongsaluang-1953782"
+    },
+    "code": {
+      "id": "1953782",
+      "iso": null
+    },
+    "parent": {
+      "id": "OU-01",
+      "level": 2,
+      "name": {
+        "local": "Beng",
+        "en": "Beng",
+        "slug": "beng-ou-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "OU",
+        "level": 1,
+        "name": {
+          "local": "Oudomxay",
+          "en": "Oudomxay",
+          "slug": "oudomxay-ou"
+        }
+      },
+      {
+        "id": "OU-01",
+        "level": 2,
+        "name": {
+          "local": "Beng",
+          "en": "Beng",
+          "slug": "beng-ou-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.489",
+      "lon": "101.736"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1953857",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Tôngthoun",
+      "en": "Ban Tongthoun",
+      "slug": "ban-tongthoun-1953857"
+    },
+    "code": {
+      "id": "1953857",
+      "iso": null
+    },
+    "parent": {
+      "id": "OU-01",
+      "level": 2,
+      "name": {
+        "local": "Beng",
+        "en": "Beng",
+        "slug": "beng-ou-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "OU",
+        "level": 1,
+        "name": {
+          "local": "Oudomxay",
+          "en": "Oudomxay",
+          "slug": "oudomxay-ou"
+        }
+      },
+      {
+        "id": "OU-01",
+        "level": 2,
+        "name": {
+          "local": "Beng",
+          "en": "Beng",
+          "slug": "beng-ou-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.37",
+      "lon": "101.518"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1953525",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Touting",
+      "en": "Ban Touting",
+      "slug": "ban-touting-1953525"
+    },
+    "code": {
+      "id": "1953525",
+      "iso": null
+    },
+    "parent": {
+      "id": "OU-01",
+      "level": 2,
+      "name": {
+        "local": "Beng",
+        "en": "Beng",
+        "slug": "beng-ou-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "OU",
+        "level": 1,
+        "name": {
+          "local": "Oudomxay",
+          "en": "Oudomxay",
+          "slug": "oudomxay-ou"
+        }
+      },
+      {
+        "id": "OU-01",
+        "level": 2,
+        "name": {
+          "local": "Beng",
+          "en": "Beng",
+          "slug": "beng-ou-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.281",
+      "lon": "101.503"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1953859",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Vangmôn",
+      "en": "Ban Vangmon",
+      "slug": "ban-vangmon-1953859"
+    },
+    "code": {
+      "id": "1953859",
+      "iso": null
+    },
+    "parent": {
+      "id": "OU-01",
+      "level": 2,
+      "name": {
+        "local": "Beng",
+        "en": "Beng",
+        "slug": "beng-ou-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "OU",
+        "level": 1,
+        "name": {
+          "local": "Oudomxay",
+          "en": "Oudomxay",
+          "slug": "oudomxay-ou"
+        }
+      },
+      {
+        "id": "OU-01",
+        "level": 2,
+        "name": {
+          "local": "Beng",
+          "en": "Beng",
+          "slug": "beng-ou-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.364",
+      "lon": "101.642"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1953555",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Vangva",
+      "en": "Ban Vangva",
+      "slug": "ban-vangva-1953555"
+    },
+    "code": {
+      "id": "1953555",
+      "iso": null
+    },
+    "parent": {
+      "id": "OU-01",
+      "level": 2,
+      "name": {
+        "local": "Beng",
+        "en": "Beng",
+        "slug": "beng-ou-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "OU",
+        "level": 1,
+        "name": {
+          "local": "Oudomxay",
+          "en": "Oudomxay",
+          "slug": "oudomxay-ou"
+        }
+      },
+      {
+        "id": "OU-01",
+        "level": 2,
+        "name": {
+          "local": "Beng",
+          "en": "Beng",
+          "slug": "beng-ou-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.228",
+      "lon": "101.56"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1658050",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Xiang Kang",
+      "en": "Ban Xiang Kang",
+      "slug": "ban-xiang-kang-1658050"
+    },
+    "code": {
+      "id": "1658050",
+      "iso": null
+    },
+    "parent": {
+      "id": "OU-01",
+      "level": 2,
+      "name": {
+        "local": "Beng",
+        "en": "Beng",
+        "slug": "beng-ou-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "OU",
+        "level": 1,
+        "name": {
+          "local": "Oudomxay",
+          "en": "Oudomxay",
+          "slug": "oudomxay-ou"
+        }
+      },
+      {
+        "id": "OU-01",
+        "level": 2,
+        "name": {
+          "local": "Beng",
+          "en": "Beng",
+          "slug": "beng-ou-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.467",
+      "lon": "101.85"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1953864",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Xianglè",
+      "en": "Ban Xiangle",
+      "slug": "ban-xiangle-1953864"
+    },
+    "code": {
+      "id": "1953864",
+      "iso": null
+    },
+    "parent": {
+      "id": "OU-01",
+      "level": 2,
+      "name": {
+        "local": "Beng",
+        "en": "Beng",
+        "slug": "beng-ou-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "OU",
+        "level": 1,
+        "name": {
+          "local": "Oudomxay",
+          "en": "Oudomxay",
+          "slug": "oudomxay-ou"
+        }
+      },
+      {
+        "id": "OU-01",
+        "level": 2,
+        "name": {
+          "local": "Beng",
+          "en": "Beng",
+          "slug": "beng-ou-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.354",
+      "lon": "101.686"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1953581",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Xôm",
+      "en": "Ban Xom",
+      "slug": "ban-xom-1953581"
+    },
+    "code": {
+      "id": "1953581",
+      "iso": null
+    },
+    "parent": {
+      "id": "OU-01",
+      "level": 2,
+      "name": {
+        "local": "Beng",
+        "en": "Beng",
+        "slug": "beng-ou-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "OU",
+        "level": 1,
+        "name": {
+          "local": "Oudomxay",
+          "en": "Oudomxay",
+          "slug": "oudomxay-ou"
+        }
+      },
+      {
+        "id": "OU-01",
+        "level": 2,
+        "name": {
+          "local": "Beng",
+          "en": "Beng",
+          "slug": "beng-ou-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.167",
+      "lon": "101.779"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1953870",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Houayhôk",
+      "en": "Houayhok",
+      "slug": "houayhok-1953870"
+    },
+    "code": {
+      "id": "1953870",
+      "iso": null
+    },
+    "parent": {
+      "id": "OU-01",
+      "level": 2,
+      "name": {
+        "local": "Beng",
+        "en": "Beng",
+        "slug": "beng-ou-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "OU",
+        "level": 1,
+        "name": {
+          "local": "Oudomxay",
+          "en": "Oudomxay",
+          "slug": "oudomxay-ou"
+        }
+      },
+      {
+        "id": "OU-01",
+        "level": 2,
+        "name": {
+          "local": "Beng",
+          "en": "Beng",
+          "slug": "beng-ou-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.339",
+      "lon": "101.661"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1655231",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Muang Bèng",
+      "en": "Muang Beng",
+      "slug": "muang-beng-1655231"
+    },
+    "code": {
+      "id": "1655231",
+      "iso": null
+    },
+    "parent": {
+      "id": "OU-01",
+      "level": 2,
+      "name": {
+        "local": "Beng",
+        "en": "Beng",
+        "slug": "beng-ou-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "OU",
+        "level": 1,
+        "name": {
+          "local": "Oudomxay",
+          "en": "Oudomxay",
+          "slug": "oudomxay-ou"
+        }
+      },
+      {
+        "id": "OU-01",
+        "level": 2,
+        "name": {
+          "local": "Beng",
+          "en": "Beng",
+          "slug": "beng-ou-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.367",
+      "lon": "101.733"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

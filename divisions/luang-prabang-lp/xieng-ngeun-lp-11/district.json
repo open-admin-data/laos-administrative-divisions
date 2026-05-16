@@ -1,0 +1,47 @@
+{
+  "id": "LP-11",
+  "level": 2,
+  "level_name": {
+    "local": "ເມືອງ",
+    "en": "District"
+  },
+  "name": {
+    "local": "Xieng Ngeun",
+    "en": "Xieng Ngeun",
+    "slug": "xieng-ngeun-lp-11"
+  },
+  "code": {
+    "id": "LP-11",
+    "iso": null
+  },
+  "parent": {
+    "id": "LP",
+    "level": 1,
+    "name": {
+      "local": "Luang Prabang",
+      "en": "Luang Prabang",
+      "slug": "luang-prabang-lp"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "LP",
+      "level": 1,
+      "name": {
+        "local": "Luang Prabang",
+        "en": "Luang Prabang",
+        "slug": "luang-prabang-lp"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 165
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "19.643",
+    "lon": "102.356"
+  },
+  "metadata": {},
+  "source": {}
+}

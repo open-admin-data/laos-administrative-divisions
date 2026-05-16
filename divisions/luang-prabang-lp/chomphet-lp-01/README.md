@@ -1,0 +1,133 @@
+# Chomphet
+
+[Home](../../../) &gt; [Luang Prabang](../) > **Chomphet**
+
+Chomphet is a district in Laos, under Luang Prabang.
+
+## Overview
+
+| Item | Details |
+|------|---------|
+| Villages | 104 |
+| Code | LP-01 |
+| Coordinates | 19.886, 101.914 |
+| Parent | Luang Prabang |
+
+## Villages
+
+| # | Name | Coordinates | Code |
+|---|------|-------------|------|
+| 1 | Ban Bouamlao | 19.916, 102.075 | 1957138 |
+| 2 | Ban Bouamxiang | 19.933, 102.051 | 1664819 |
+| 3 | Ban Chan | 19.878, 102.11 | 1957165 |
+| 4 | Ban Chôk (Ban Chok) | 19.955, 102.025 | 1957100 |
+| 5 | Ban Chong | 19.881, 101.992 | 1664685 |
+| 6 | Ban Dan | 19.956, 102.234 | 1664613 |
+| 7 | Ban Donxai | 19.877, 101.934 | 1953658 |
+| 8 | Ban Houay-Èn (Ban Houay-En) | 19.836, 101.861 | 1953732 |
+| 9 | Ban Houay-Ôn (Ban Houay-On) | 19.93, 102.079 | 1957108 |
+| 10 | Ban Houaychôk (Ban Houaychok) | 20.037, 102.141 | 1956794 |
+| 11 | Ban Houaydua | 19.799, 101.91 | 1953601 |
+| 12 | Ban Houaygno | 20.07, 102.186 | 1663517 |
+| 13 | Ban Houayhang | 19.902, 101.784 | 1953718 |
+| 14 | Ban Houayhia | 19.857, 101.881 | 1953724 |
+| 15 | Ban Houaykatoy-Nua | 19.742, 101.826 | 1953755 |
+| 16 | Ban Houaykatoy-Tai | 19.733, 101.821 | 1953756 |
+| 17 | Ban Houaykhan | 19.835, 101.905 | 1953652 |
+| 18 | Ban Houaykhèn (Ban Houaykhen) | 19.996, 102.063 | 1957067 |
+| 19 | Ban Houaykhèo (Ban Houaykheo) | 19.895, 102.04 | 1957140 |
+| 20 | Ban Houaykhouay | 19.967, 102.15 | 1663817 |
+| 21 | Ban Houayko | 20.033, 102.217 | 1663810 |
+| 22 | Ban Houaykoun | 19.758, 101.795 | 1953740 |
+| 23 | Ban Houayliang | 19.969, 101.892 | 1953681 |
+| 24 | Ban Houayliang | 20.004, 102.032 | 1956790 |
+| 25 | Ban Houayliang | 19.997, 102.036 | 1957066 |
+| 26 | Ban Houaymiang | 19.941, 101.985 | 1953674 |
+| 27 | Ban Houaynak | 19.95, 101.906 | 1953682 |
+| 28 | Ban Houaypông (Ban Houaypong) | 19.935, 102.146 | 1957109 |
+| 29 | Ban Houaysa | 19.856, 101.973 | 1953659 |
+| 30 | Ban Houaytao | 19.772, 101.88 | 1953602 |
+| 31 | Ban Houaythak | 19.873, 101.912 | 1953723 |
+| 32 | Ban Houaythong | 19.673, 101.708 | 1953764 |
+| 33 | Ban Houayving | 19.995, 102.014 | 1957065 |
+| 34 | Ban Houayxaikhao | 19.806, 101.814 | 1953725 |
+| 35 | Ban Houayxèng (Ban Houayxeng) | 19.948, 102.101 | 1957098 |
+| 36 | Ban Kaykon-Nua | 19.767, 101.824 | 1953746 |
+| 37 | Ban Kaykon-Tai | 19.76, 101.823 | 1953750 |
+| 38 | Ban Kènghang-Gnai (Ban Kenghang-Gnai) | 19.933, 101.774 | 1953908 |
+| 39 | Ban Kèngkhèn (Ban Kengkhen) | 20.047, 102.057 | 1956791 |
+| 40 | Ban Khôk-Lamphay (Ban Khok-Lamphay) | 19.942, 101.81 | 1953694 |
+| 41 | Ban Khôk-Long (Ban Khok-Long) | 20.018, 101.941 | 1953614 |
+| 42 | Ban Khôklouang (Ban Khoklouang) | 20.032, 101.962 | 1953613 |
+| 43 | Ban Kiap | 19.922, 102.065 | 1957107 |
+| 44 | Ban Kioulè (Ban Kioule) | 19.984, 102.03 | 1957080 |
+| 45 | Ban Klom Pho | 19.933, 101.8 | 1662858 |
+| 46 | Ban Latkhôk (Ban Latkhok) | 19.897, 102.097 | 1957141 |
+| 47 | Ban Lè (Ban Le) | 20.007, 101.933 | 1662496 |
+| 48 | Ban Môkkouan (Ban Mokkouan) | 19.93, 101.74 | 1953909 |
+| 49 | Ban Môkplang (Ban Mokplang) | 19.996, 102.138 | 1957069 |
+| 50 | Ban Mouangkèo (Ban Mouangkeo) | 20.053, 102.203 | 1662223 |
+| 51 | Ban Muangkham | 19.929, 102.18 | 1662214 |
+| 52 | Ban Na | 19.968, 102.117 | 1662134 |
+| 53 | Ban Naang | 19.891, 101.957 | 1953665 |
+| 54 | Ban Naboua | 19.936, 102.15 | 1957110 |
+| 55 | Ban Nahai | 19.801, 101.869 | 1953604 |
+| 56 | Ban Nakham | 19.901, 101.98 | 1953668 |
+| 57 | Ban Nakham | 19.935, 102.011 | 1957106 |
+| 58 | Ban Nakham | 19.914, 102.135 | 1957137 |
+| 59 | Ban Nakhèng (Ban Nakheng) | 19.83, 101.937 | 1953653 |
+| 60 | Ban Nakhôm (Ban Nakhom) | 19.946, 102.034 | 1957101 |
+| 61 | Ban Nakua | 19.826, 101.966 | 1953563 |
+| 62 | Ban Naleu | 19.909, 102.127 | 1957136 |
+| 63 | Ban Nalôm (Ban Nalom) | 19.803, 101.835 | 1953729 |
+| 64 | Ban Nangvang | 19.868, 101.889 | 1953721 |
+| 65 | Ban Natha | 19.898, 102.127 | 1957144 |
+| 66 | Ban Navang | 19.956, 101.985 | 1953676 |
+| 67 | Ban Naveuy | 19.818, 101.889 | 1953651 |
+| 68 | Ban Naxao | 19.91, 101.972 | 1953667 |
+| 69 | Ban Pak-Hang-Nua | 19.666, 101.805 | 1954301 |
+| 70 | Ban Pak-Hang-Tai | 19.662, 101.822 | 1954302 |
+| 71 | Ban Pakkôn (Ban Pakkon) | 19.953, 101.865 | 1953686 |
+| 72 | Ban Paklung | 19.865, 102.038 | 1660495 |
+| 73 | Ban Pèo (Ban Peo) | 19.964, 102.111 | 1660329 |
+| 74 | Ban Phadao | 19.855, 101.946 | 1953657 |
+| 75 | Ban Phônxai (Ban Phonxai) | 19.933, 102.164 | 1957111 |
+| 76 | Ban Phoudam | 20.025, 102.119 | 1956793 |
+| 77 | Ban Phoudam | 19.966, 102.067 | 1957081 |
+| 78 | Ban Phoulouang | 19.755, 101.858 | 1953758 |
+| 79 | Ban Phoulouang-Nua | 20.006, 102.119 | 1956792 |
+| 80 | Ban Phoulouang-Tai | 19.999, 102.147 | 1957070 |
+| 81 | Ban Phoulouangdeum | 19.999, 102.126 | 1957068 |
+| 82 | Ban Phoumiang | 19.891, 101.869 | 1953720 |
+| 83 | Ban Phoupot | 19.714, 101.832 | 1953759 |
+| 84 | Ban Phouxangnan | 19.895, 101.855 | 1953719 |
+| 85 | Ban Poungthong | 19.911, 102.058 | 1957139 |
+| 86 | Ban Saluan | 19.838, 102.009 | 1659498 |
+| 87 | Ban Samphan | 19.703, 101.739 | 1953766 |
+| 88 | Ban Sanôk (Ban Sanok) | 19.939, 102.209 | 1659418 |
+| 89 | Ban Simoungkhoun | 19.938, 102.2 | 1957096 |
+| 90 | Ban Sôm (Ban Som) | 19.975, 102.126 | 1659175 |
+| 91 | Ban Tat-Lè (Ban Tat-Le) | 19.8, 101.844 | 1953730 |
+| 92 | Ban Thaphô (Ban Thapho) | 19.896, 102.104 | 1957142 |
+| 93 | Ban Thinhông (Ban Thinhong) | 20.011, 102.221 | 1658527 |
+| 94 | Ban Thon | 19.977, 102.097 | 1658513 |
+| 95 | Ban Vanglè (Ban Vangle) | 20.038, 102.214 | 1956788 |
+| 96 | Ban Vangli | 19.887, 101.908 | 1953722 |
+| 97 | Ban Vangsa | 19.683, 101.777 | 1953762 |
+| 98 | Ban Ving-Nua | 19.919, 101.931 | 1953670 |
+| 99 | Ban Ving-Tai | 19.915, 101.928 | 1953671 |
+| 100 | Ban Xiangmèn (Ban Xiangmen) | 19.896, 102.128 | 1652052 |
+| 101 | Ban Xong Tai | 19.667, 101.817 | 1657985 |
+| 102 | Ban Xong-Nua | 19.751, 101.937 | 1953564 |
+| 103 | Ban Xong-Tai | 19.745, 101.926 | 1657988 |
+| 104 | Ban Yamai | 19.95, 101.9 | 1657976 |
+
+## Data Files
+
+- [district.json](district.json) — District metadata
+- [village.json](village.json) — All villages (JSON)
+- [village.csv](village.csv) — CSV format
+
+---
+
+<- Back to [Luang Prabang](../)

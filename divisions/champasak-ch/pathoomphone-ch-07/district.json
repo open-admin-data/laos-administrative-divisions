@@ -1,0 +1,47 @@
+{
+  "id": "CH-07",
+  "level": 2,
+  "level_name": {
+    "local": "ເມືອງ",
+    "en": "District"
+  },
+  "name": {
+    "local": "Pathoomphone",
+    "en": "Pathoomphone",
+    "slug": "pathoomphone-ch-07"
+  },
+  "code": {
+    "id": "CH-07",
+    "iso": null
+  },
+  "parent": {
+    "id": "CH",
+    "level": 1,
+    "name": {
+      "local": "Champasak",
+      "en": "Champasak",
+      "slug": "champasak-ch"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CH",
+      "level": 1,
+      "name": {
+        "local": "Champasak",
+        "en": "Champasak",
+        "slug": "champasak-ch"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 105
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.651",
+    "lon": "106.187"
+  },
+  "metadata": {},
+  "source": {}
+}

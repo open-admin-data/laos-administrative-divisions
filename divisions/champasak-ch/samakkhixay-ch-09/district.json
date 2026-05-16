@@ -1,0 +1,47 @@
+{
+  "id": "CH-09",
+  "level": 2,
+  "level_name": {
+    "local": "ເມືອງ",
+    "en": "District"
+  },
+  "name": {
+    "local": "Samakkhixay",
+    "en": "Samakkhixay",
+    "slug": "samakkhixay-ch-09"
+  },
+  "code": {
+    "id": "CH-09",
+    "iso": null
+  },
+  "parent": {
+    "id": "CH",
+    "level": 1,
+    "name": {
+      "local": "Champasak",
+      "en": "Champasak",
+      "slug": "champasak-ch"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CH",
+      "level": 1,
+      "name": {
+        "local": "Champasak",
+        "en": "Champasak",
+        "slug": "champasak-ch"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 23
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.963",
+    "lon": "106.794"
+  },
+  "metadata": {},
+  "source": {}
+}

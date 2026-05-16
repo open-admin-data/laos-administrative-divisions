@@ -1,0 +1,47 @@
+{
+  "id": "KH-02",
+  "level": 2,
+  "level_name": {
+    "local": "ເມືອງ",
+    "en": "District"
+  },
+  "name": {
+    "local": "Hinboon",
+    "en": "Hinboon",
+    "slug": "hinboon-kh-02"
+  },
+  "code": {
+    "id": "KH-02",
+    "iso": null
+  },
+  "parent": {
+    "id": "KH",
+    "level": 1,
+    "name": {
+      "local": "Khammouane",
+      "en": "Khammouane",
+      "slug": "khammouane-kh"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KH",
+      "level": 1,
+      "name": {
+        "local": "Khammouane",
+        "en": "Khammouane",
+        "slug": "khammouane-kh"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 117
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.838",
+    "lon": "104.427"
+  },
+  "metadata": {},
+  "source": {}
+}

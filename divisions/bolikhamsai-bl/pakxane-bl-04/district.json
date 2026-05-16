@@ -1,0 +1,47 @@
+{
+  "id": "BL-04",
+  "level": 2,
+  "level_name": {
+    "local": "ເມືອງ",
+    "en": "District"
+  },
+  "name": {
+    "local": "Pakxane",
+    "en": "Pakxane",
+    "slug": "pakxane-bl-04"
+  },
+  "code": {
+    "id": "BL-04",
+    "iso": null
+  },
+  "parent": {
+    "id": "BL",
+    "level": 1,
+    "name": {
+      "local": "Bolikhamsai",
+      "en": "Bolikhamsai",
+      "slug": "bolikhamsai-bl"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BL",
+      "level": 1,
+      "name": {
+        "local": "Bolikhamsai",
+        "en": "Bolikhamsai",
+        "slug": "bolikhamsai-bl"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 73
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "18.451",
+    "lon": "103.742"
+  },
+  "metadata": {},
+  "source": {}
+}

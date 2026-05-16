@@ -1,0 +1,4268 @@
+[
+  {
+    "id": "1664753",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Chaloum",
+      "en": "Ban Chaloum",
+      "slug": "ban-chaloum-1664753"
+    },
+    "code": {
+      "id": "1664753",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-04",
+      "level": 2,
+      "name": {
+        "local": "Mahaxay",
+        "en": "Mahaxay",
+        "slug": "mahaxay-kh-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-04",
+        "level": 2,
+        "name": {
+          "local": "Mahaxay",
+          "en": "Mahaxay",
+          "slug": "mahaxay-kh-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.263",
+      "lon": "105.336"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1664610",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Dang",
+      "en": "Ban Dang",
+      "slug": "ban-dang-1664610"
+    },
+    "code": {
+      "id": "1664610",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-04",
+      "level": 2,
+      "name": {
+        "local": "Mahaxay",
+        "en": "Mahaxay",
+        "slug": "mahaxay-kh-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-04",
+        "level": 2,
+        "name": {
+          "local": "Mahaxay",
+          "en": "Mahaxay",
+          "slug": "mahaxay-kh-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.457",
+      "lon": "105.254"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1664569",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Don",
+      "en": "Ban Don",
+      "slug": "ban-don-1664569"
+    },
+    "code": {
+      "id": "1664569",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-04",
+      "level": 2,
+      "name": {
+        "local": "Mahaxay",
+        "en": "Mahaxay",
+        "slug": "mahaxay-kh-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-04",
+        "level": 2,
+        "name": {
+          "local": "Mahaxay",
+          "en": "Mahaxay",
+          "slug": "mahaxay-kh-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.265",
+      "lon": "105.281"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11235002",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Dondông-Mai",
+      "en": "Ban Dondong-Mai",
+      "slug": "ban-dondong-mai-11235002"
+    },
+    "code": {
+      "id": "11235002",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-04",
+      "level": 2,
+      "name": {
+        "local": "Mahaxay",
+        "en": "Mahaxay",
+        "slug": "mahaxay-kh-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-04",
+        "level": 2,
+        "name": {
+          "local": "Mahaxay",
+          "en": "Mahaxay",
+          "slug": "mahaxay-kh-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.249",
+      "lon": "105.26"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1664296",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Gnangkham",
+      "en": "Ban Gnangkham",
+      "slug": "ban-gnangkham-1664296"
+    },
+    "code": {
+      "id": "1664296",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-04",
+      "level": 2,
+      "name": {
+        "local": "Mahaxay",
+        "en": "Mahaxay",
+        "slug": "mahaxay-kh-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-04",
+        "level": 2,
+        "name": {
+          "local": "Mahaxay",
+          "en": "Mahaxay",
+          "slug": "mahaxay-kh-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.464",
+      "lon": "105.378"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1664244",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Hai",
+      "en": "Ban Hai",
+      "slug": "ban-hai-1664244"
+    },
+    "code": {
+      "id": "1664244",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-04",
+      "level": 2,
+      "name": {
+        "local": "Mahaxay",
+        "en": "Mahaxay",
+        "slug": "mahaxay-kh-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-04",
+        "level": 2,
+        "name": {
+          "local": "Mahaxay",
+          "en": "Mahaxay",
+          "slug": "mahaxay-kh-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.346",
+      "lon": "105.37"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1664231",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Haithôngxôm",
+      "en": "Ban Haithongxom",
+      "slug": "ban-haithongxom-1664231"
+    },
+    "code": {
+      "id": "1664231",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-04",
+      "level": 2,
+      "name": {
+        "local": "Mahaxay",
+        "en": "Mahaxay",
+        "slug": "mahaxay-kh-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-04",
+        "level": 2,
+        "name": {
+          "local": "Mahaxay",
+          "en": "Mahaxay",
+          "slug": "mahaxay-kh-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.351",
+      "lon": "105.587"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1663470",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Ilan",
+      "en": "Ban Ilan",
+      "slug": "ban-ilan-1663470"
+    },
+    "code": {
+      "id": "1663470",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-04",
+      "level": 2,
+      "name": {
+        "local": "Mahaxay",
+        "en": "Mahaxay",
+        "slug": "mahaxay-kh-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-04",
+        "level": 2,
+        "name": {
+          "local": "Mahaxay",
+          "en": "Mahaxay",
+          "slug": "mahaxay-kh-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.489",
+      "lon": "105.328"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1663396",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Kang",
+      "en": "Ban Kang",
+      "slug": "ban-kang-1663396"
+    },
+    "code": {
+      "id": "1663396",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-04",
+      "level": 2,
+      "name": {
+        "local": "Mahaxay",
+        "en": "Mahaxay",
+        "slug": "mahaxay-kh-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-04",
+        "level": 2,
+        "name": {
+          "local": "Mahaxay",
+          "en": "Mahaxay",
+          "slug": "mahaxay-kh-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.348",
+      "lon": "105.515"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1663310",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Kava",
+      "en": "Ban Kava",
+      "slug": "ban-kava-1663310"
+    },
+    "code": {
+      "id": "1663310",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-04",
+      "level": 2,
+      "name": {
+        "local": "Mahaxay",
+        "en": "Mahaxay",
+        "slug": "mahaxay-kh-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-04",
+        "level": 2,
+        "name": {
+          "local": "Mahaxay",
+          "en": "Mahaxay",
+          "slug": "mahaxay-kh-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.329",
+      "lon": "105.272"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1663309",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Kavak",
+      "en": "Ban Kavak",
+      "slug": "ban-kavak-1663309"
+    },
+    "code": {
+      "id": "1663309",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-04",
+      "level": 2,
+      "name": {
+        "local": "Mahaxay",
+        "en": "Mahaxay",
+        "slug": "mahaxay-kh-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-04",
+        "level": 2,
+        "name": {
+          "local": "Mahaxay",
+          "en": "Mahaxay",
+          "slug": "mahaxay-kh-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.31",
+      "lon": "105.615"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1663122",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Khamhai",
+      "en": "Ban Khamhai",
+      "slug": "ban-khamhai-1663122"
+    },
+    "code": {
+      "id": "1663122",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-04",
+      "level": 2,
+      "name": {
+        "local": "Mahaxay",
+        "en": "Mahaxay",
+        "slug": "mahaxay-kh-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-04",
+        "level": 2,
+        "name": {
+          "local": "Mahaxay",
+          "en": "Mahaxay",
+          "slug": "mahaxay-kh-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.374",
+      "lon": "105.151"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1663098",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Khamphà",
+      "en": "Ban Khampha",
+      "slug": "ban-khampha-1663098"
+    },
+    "code": {
+      "id": "1663098",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-04",
+      "level": 2,
+      "name": {
+        "local": "Mahaxay",
+        "en": "Mahaxay",
+        "slug": "mahaxay-kh-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-04",
+        "level": 2,
+        "name": {
+          "local": "Mahaxay",
+          "en": "Mahaxay",
+          "slug": "mahaxay-kh-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.282",
+      "lon": "105.195"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11235000",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Khamphèna",
+      "en": "Ban Khamphena",
+      "slug": "ban-khamphena-11235000"
+    },
+    "code": {
+      "id": "11235000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-04",
+      "level": 2,
+      "name": {
+        "local": "Mahaxay",
+        "en": "Mahaxay",
+        "slug": "mahaxay-kh-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-04",
+        "level": 2,
+        "name": {
+          "local": "Mahaxay",
+          "en": "Mahaxay",
+          "slug": "mahaxay-kh-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.274",
+      "lon": "105.209"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1663096",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Khamphuang",
+      "en": "Ban Khamphuang",
+      "slug": "ban-khamphuang-1663096"
+    },
+    "code": {
+      "id": "1663096",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-04",
+      "level": 2,
+      "name": {
+        "local": "Mahaxay",
+        "en": "Mahaxay",
+        "slug": "mahaxay-kh-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-04",
+        "level": 2,
+        "name": {
+          "local": "Mahaxay",
+          "en": "Mahaxay",
+          "slug": "mahaxay-kh-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.315",
+      "lon": "105.176"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1662760",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Kouankhoay",
+      "en": "Ban Kouankhoay",
+      "slug": "ban-kouankhoay-1662760"
+    },
+    "code": {
+      "id": "1662760",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-04",
+      "level": 2,
+      "name": {
+        "local": "Mahaxay",
+        "en": "Mahaxay",
+        "slug": "mahaxay-kh-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-04",
+        "level": 2,
+        "name": {
+          "local": "Mahaxay",
+          "en": "Mahaxay",
+          "slug": "mahaxay-kh-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.46",
+      "lon": "105.071"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11235028",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Kouanlouang-Mai",
+      "en": "Ban Kouanlouang-Mai",
+      "slug": "ban-kouanlouang-mai-11235028"
+    },
+    "code": {
+      "id": "11235028",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-04",
+      "level": 2,
+      "name": {
+        "local": "Mahaxay",
+        "en": "Mahaxay",
+        "slug": "mahaxay-kh-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-04",
+        "level": 2,
+        "name": {
+          "local": "Mahaxay",
+          "en": "Mahaxay",
+          "slug": "mahaxay-kh-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.315",
+      "lon": "105.31"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1662753",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Kouantan",
+      "en": "Ban Kouantan",
+      "slug": "ban-kouantan-1662753"
+    },
+    "code": {
+      "id": "1662753",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-04",
+      "level": 2,
+      "name": {
+        "local": "Mahaxay",
+        "en": "Mahaxay",
+        "slug": "mahaxay-kh-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-04",
+        "level": 2,
+        "name": {
+          "local": "Mahaxay",
+          "en": "Mahaxay",
+          "slug": "mahaxay-kh-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.322",
+      "lon": "105.44"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1662614",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Lao",
+      "en": "Ban Lao",
+      "slug": "ban-lao-1662614"
+    },
+    "code": {
+      "id": "1662614",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-04",
+      "level": 2,
+      "name": {
+        "local": "Mahaxay",
+        "en": "Mahaxay",
+        "slug": "mahaxay-kh-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-04",
+        "level": 2,
+        "name": {
+          "local": "Mahaxay",
+          "en": "Mahaxay",
+          "slug": "mahaxay-kh-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.458",
+      "lon": "104.985"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1655493",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Mahaxai",
+      "en": "Ban Mahaxai",
+      "slug": "ban-mahaxai-1655493"
+    },
+    "code": {
+      "id": "1655493",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-04",
+      "level": 2,
+      "name": {
+        "local": "Mahaxay",
+        "en": "Mahaxay",
+        "slug": "mahaxay-kh-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-04",
+        "level": 2,
+        "name": {
+          "local": "Mahaxay",
+          "en": "Mahaxay",
+          "slug": "mahaxay-kh-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.417",
+      "lon": "105.198"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1662362",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Mai",
+      "en": "Ban Mai",
+      "slug": "ban-mai-1662362"
+    },
+    "code": {
+      "id": "1662362",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-04",
+      "level": 2,
+      "name": {
+        "local": "Mahaxay",
+        "en": "Mahaxay",
+        "slug": "mahaxay-kh-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-04",
+        "level": 2,
+        "name": {
+          "local": "Mahaxay",
+          "en": "Mahaxay",
+          "slug": "mahaxay-kh-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.284",
+      "lon": "105.234"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13433866",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Mai",
+      "en": "Ban Mai",
+      "slug": "ban-mai-13433866"
+    },
+    "code": {
+      "id": "13433866",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-04",
+      "level": 2,
+      "name": {
+        "local": "Mahaxay",
+        "en": "Mahaxay",
+        "slug": "mahaxay-kh-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-04",
+        "level": 2,
+        "name": {
+          "local": "Mahaxay",
+          "en": "Mahaxay",
+          "slug": "mahaxay-kh-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.339",
+      "lon": "105.29"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11214108",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Mai-Nasao",
+      "en": "Ban Mai-Nasao",
+      "slug": "ban-mai-nasao-11214108"
+    },
+    "code": {
+      "id": "11214108",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-04",
+      "level": 2,
+      "name": {
+        "local": "Mahaxay",
+        "en": "Mahaxay",
+        "slug": "mahaxay-kh-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-04",
+        "level": 2,
+        "name": {
+          "local": "Mahaxay",
+          "en": "Mahaxay",
+          "slug": "mahaxay-kh-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.317",
+      "lon": "105.599"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1662329",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Man",
+      "en": "Ban Man",
+      "slug": "ban-man-1662329"
+    },
+    "code": {
+      "id": "1662329",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-04",
+      "level": 2,
+      "name": {
+        "local": "Mahaxay",
+        "en": "Mahaxay",
+        "slug": "mahaxay-kh-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-04",
+        "level": 2,
+        "name": {
+          "local": "Mahaxay",
+          "en": "Mahaxay",
+          "slug": "mahaxay-kh-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.404",
+      "lon": "105.473"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1662033",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nadou",
+      "en": "Ban Nadou",
+      "slug": "ban-nadou-1662033"
+    },
+    "code": {
+      "id": "1662033",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-04",
+      "level": 2,
+      "name": {
+        "local": "Mahaxay",
+        "en": "Mahaxay",
+        "slug": "mahaxay-kh-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-04",
+        "level": 2,
+        "name": {
+          "local": "Mahaxay",
+          "en": "Mahaxay",
+          "slug": "mahaxay-kh-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.434",
+      "lon": "105.024"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1661977",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nahang",
+      "en": "Ban Nahang",
+      "slug": "ban-nahang-1661977"
+    },
+    "code": {
+      "id": "1661977",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-04",
+      "level": 2,
+      "name": {
+        "local": "Mahaxay",
+        "en": "Mahaxay",
+        "slug": "mahaxay-kh-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-04",
+        "level": 2,
+        "name": {
+          "local": "Mahaxay",
+          "en": "Mahaxay",
+          "slug": "mahaxay-kh-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.247",
+      "lon": "105.326"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1661955",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nahi",
+      "en": "Ban Nahi",
+      "slug": "ban-nahi-1661955"
+    },
+    "code": {
+      "id": "1661955",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-04",
+      "level": 2,
+      "name": {
+        "local": "Mahaxay",
+        "en": "Mahaxay",
+        "slug": "mahaxay-kh-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-04",
+        "level": 2,
+        "name": {
+          "local": "Mahaxay",
+          "en": "Mahaxay",
+          "slug": "mahaxay-kh-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.443",
+      "lon": "105.377"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1661868",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nakathang-Dông",
+      "en": "Ban Nakathang-Dong",
+      "slug": "ban-nakathang-dong-1661868"
+    },
+    "code": {
+      "id": "1661868",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-04",
+      "level": 2,
+      "name": {
+        "local": "Mahaxay",
+        "en": "Mahaxay",
+        "slug": "mahaxay-kh-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-04",
+        "level": 2,
+        "name": {
+          "local": "Mahaxay",
+          "en": "Mahaxay",
+          "slug": "mahaxay-kh-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.221",
+      "lon": "105.334"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1661867",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nakathang-Thông",
+      "en": "Ban Nakathang-Thong",
+      "slug": "ban-nakathang-thong-1661867"
+    },
+    "code": {
+      "id": "1661867",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-04",
+      "level": 2,
+      "name": {
+        "local": "Mahaxay",
+        "en": "Mahaxay",
+        "slug": "mahaxay-kh-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-04",
+        "level": 2,
+        "name": {
+          "local": "Mahaxay",
+          "en": "Mahaxay",
+          "slug": "mahaxay-kh-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.229",
+      "lon": "105.331"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11235034",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nakathangkang-Mai",
+      "en": "Ban Nakathangkang-Mai",
+      "slug": "ban-nakathangkang-mai-11235034"
+    },
+    "code": {
+      "id": "11235034",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-04",
+      "level": 2,
+      "name": {
+        "local": "Mahaxay",
+        "en": "Mahaxay",
+        "slug": "mahaxay-kh-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-04",
+        "level": 2,
+        "name": {
+          "local": "Mahaxay",
+          "en": "Mahaxay",
+          "slug": "mahaxay-kh-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.227",
+      "lon": "105.338"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1661786",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nakhai",
+      "en": "Ban Nakhai",
+      "slug": "ban-nakhai-1661786"
+    },
+    "code": {
+      "id": "1661786",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-04",
+      "level": 2,
+      "name": {
+        "local": "Mahaxay",
+        "en": "Mahaxay",
+        "slug": "mahaxay-kh-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-04",
+        "level": 2,
+        "name": {
+          "local": "Mahaxay",
+          "en": "Mahaxay",
+          "slug": "mahaxay-kh-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.48",
+      "lon": "105.35"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1661823",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nakham",
+      "en": "Ban Nakham",
+      "slug": "ban-nakham-1661823"
+    },
+    "code": {
+      "id": "1661823",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-04",
+      "level": 2,
+      "name": {
+        "local": "Mahaxay",
+        "en": "Mahaxay",
+        "slug": "mahaxay-kh-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-04",
+        "level": 2,
+        "name": {
+          "local": "Mahaxay",
+          "en": "Mahaxay",
+          "slug": "mahaxay-kh-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.455",
+      "lon": "105"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11234996",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nakhè",
+      "en": "Ban Nakhe",
+      "slug": "ban-nakhe-11234996"
+    },
+    "code": {
+      "id": "11234996",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-04",
+      "level": 2,
+      "name": {
+        "local": "Mahaxay",
+        "en": "Mahaxay",
+        "slug": "mahaxay-kh-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-04",
+        "level": 2,
+        "name": {
+          "local": "Mahaxay",
+          "en": "Mahaxay",
+          "slug": "mahaxay-kh-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.323",
+      "lon": "105.284"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1661736",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nakiao",
+      "en": "Ban Nakiao",
+      "slug": "ban-nakiao-1661736"
+    },
+    "code": {
+      "id": "1661736",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-04",
+      "level": 2,
+      "name": {
+        "local": "Mahaxay",
+        "en": "Mahaxay",
+        "slug": "mahaxay-kh-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-04",
+        "level": 2,
+        "name": {
+          "local": "Mahaxay",
+          "en": "Mahaxay",
+          "slug": "mahaxay-kh-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.455",
+      "lon": "105.216"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1661728",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nakok",
+      "en": "Ban Nakok",
+      "slug": "ban-nakok-1661728"
+    },
+    "code": {
+      "id": "1661728",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-04",
+      "level": 2,
+      "name": {
+        "local": "Mahaxay",
+        "en": "Mahaxay",
+        "slug": "mahaxay-kh-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-04",
+        "level": 2,
+        "name": {
+          "local": "Mahaxay",
+          "en": "Mahaxay",
+          "slug": "mahaxay-kh-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.444",
+      "lon": "105.145"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1661675",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nalaolouang",
+      "en": "Ban Nalaolouang",
+      "slug": "ban-nalaolouang-1661675"
+    },
+    "code": {
+      "id": "1661675",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-04",
+      "level": 2,
+      "name": {
+        "local": "Mahaxay",
+        "en": "Mahaxay",
+        "slug": "mahaxay-kh-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-04",
+        "level": 2,
+        "name": {
+          "local": "Mahaxay",
+          "en": "Mahaxay",
+          "slug": "mahaxay-kh-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.451",
+      "lon": "105.169"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1661624",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Namakba",
+      "en": "Ban Namakba",
+      "slug": "ban-namakba-1661624"
+    },
+    "code": {
+      "id": "1661624",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-04",
+      "level": 2,
+      "name": {
+        "local": "Mahaxay",
+        "en": "Mahaxay",
+        "slug": "mahaxay-kh-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-04",
+        "level": 2,
+        "name": {
+          "local": "Mahaxay",
+          "en": "Mahaxay",
+          "slug": "mahaxay-kh-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.263",
+      "lon": "105.32"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11235024",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Namakba-Tai",
+      "en": "Ban Namakba-Tai",
+      "slug": "ban-namakba-tai-11235024"
+    },
+    "code": {
+      "id": "11235024",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-04",
+      "level": 2,
+      "name": {
+        "local": "Mahaxay",
+        "en": "Mahaxay",
+        "slug": "mahaxay-kh-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-04",
+        "level": 2,
+        "name": {
+          "local": "Mahaxay",
+          "en": "Mahaxay",
+          "slug": "mahaxay-kh-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.256",
+      "lon": "105.308"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1661341",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nangiou",
+      "en": "Ban Nangiou",
+      "slug": "ban-nangiou-1661341"
+    },
+    "code": {
+      "id": "1661341",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-04",
+      "level": 2,
+      "name": {
+        "local": "Mahaxay",
+        "en": "Mahaxay",
+        "slug": "mahaxay-kh-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-04",
+        "level": 2,
+        "name": {
+          "local": "Mahaxay",
+          "en": "Mahaxay",
+          "slug": "mahaxay-kh-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.274",
+      "lon": "105.256"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11214107",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Naphakèo",
+      "en": "Ban Naphakeo",
+      "slug": "ban-naphakeo-11214107"
+    },
+    "code": {
+      "id": "11214107",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-04",
+      "level": 2,
+      "name": {
+        "local": "Mahaxay",
+        "en": "Mahaxay",
+        "slug": "mahaxay-kh-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-04",
+        "level": 2,
+        "name": {
+          "local": "Mahaxay",
+          "en": "Mahaxay",
+          "slug": "mahaxay-kh-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.298",
+      "lon": "105.62"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1661202",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Napouak",
+      "en": "Ban Napouak",
+      "slug": "ban-napouak-1661202"
+    },
+    "code": {
+      "id": "1661202",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-04",
+      "level": 2,
+      "name": {
+        "local": "Mahaxay",
+        "en": "Mahaxay",
+        "slug": "mahaxay-kh-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-04",
+        "level": 2,
+        "name": {
+          "local": "Mahaxay",
+          "en": "Mahaxay",
+          "slug": "mahaxay-kh-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.314",
+      "lon": "105.428"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1661163",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nasathoung",
+      "en": "Ban Nasathoung",
+      "slug": "ban-nasathoung-1661163"
+    },
+    "code": {
+      "id": "1661163",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-04",
+      "level": 2,
+      "name": {
+        "local": "Mahaxay",
+        "en": "Mahaxay",
+        "slug": "mahaxay-kh-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-04",
+        "level": 2,
+        "name": {
+          "local": "Mahaxay",
+          "en": "Mahaxay",
+          "slug": "mahaxay-kh-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.265",
+      "lon": "105.323"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1660982",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nasè",
+      "en": "Ban Nase",
+      "slug": "ban-nase-1660982"
+    },
+    "code": {
+      "id": "1660982",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-04",
+      "level": 2,
+      "name": {
+        "local": "Mahaxay",
+        "en": "Mahaxay",
+        "slug": "mahaxay-kh-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-04",
+        "level": 2,
+        "name": {
+          "local": "Mahaxay",
+          "en": "Mahaxay",
+          "slug": "mahaxay-kh-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.405",
+      "lon": "105.052"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1661116",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nataphoy",
+      "en": "Ban Nataphoy",
+      "slug": "ban-nataphoy-1661116"
+    },
+    "code": {
+      "id": "1661116",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-04",
+      "level": 2,
+      "name": {
+        "local": "Mahaxay",
+        "en": "Mahaxay",
+        "slug": "mahaxay-kh-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-04",
+        "level": 2,
+        "name": {
+          "local": "Mahaxay",
+          "en": "Mahaxay",
+          "slug": "mahaxay-kh-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.307",
+      "lon": "105.46"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11234007",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Naten",
+      "en": "Ban Naten",
+      "slug": "ban-naten-11234007"
+    },
+    "code": {
+      "id": "11234007",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-04",
+      "level": 2,
+      "name": {
+        "local": "Mahaxay",
+        "en": "Mahaxay",
+        "slug": "mahaxay-kh-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-04",
+        "level": 2,
+        "name": {
+          "local": "Mahaxay",
+          "en": "Mahaxay",
+          "slug": "mahaxay-kh-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.461",
+      "lon": "105.069"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1661099",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nathan",
+      "en": "Ban Nathan",
+      "slug": "ban-nathan-1661099"
+    },
+    "code": {
+      "id": "1661099",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-04",
+      "level": 2,
+      "name": {
+        "local": "Mahaxay",
+        "en": "Mahaxay",
+        "slug": "mahaxay-kh-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-04",
+        "level": 2,
+        "name": {
+          "local": "Mahaxay",
+          "en": "Mahaxay",
+          "slug": "mahaxay-kh-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.468",
+      "lon": "105.365"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1661071",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nathon",
+      "en": "Ban Nathon",
+      "slug": "ban-nathon-1661071"
+    },
+    "code": {
+      "id": "1661071",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-04",
+      "level": 2,
+      "name": {
+        "local": "Mahaxay",
+        "en": "Mahaxay",
+        "slug": "mahaxay-kh-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-04",
+        "level": 2,
+        "name": {
+          "local": "Mahaxay",
+          "en": "Mahaxay",
+          "slug": "mahaxay-kh-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.277",
+      "lon": "105.266"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1661037",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Natoung",
+      "en": "Ban Natoung",
+      "slug": "ban-natoung-1661037"
+    },
+    "code": {
+      "id": "1661037",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-04",
+      "level": 2,
+      "name": {
+        "local": "Mahaxay",
+        "en": "Mahaxay",
+        "slug": "mahaxay-kh-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-04",
+        "level": 2,
+        "name": {
+          "local": "Mahaxay",
+          "en": "Mahaxay",
+          "slug": "mahaxay-kh-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.458",
+      "lon": "105.092"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1660895",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nôndèng",
+      "en": "Ban Nondeng",
+      "slug": "ban-nondeng-1660895"
+    },
+    "code": {
+      "id": "1660895",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-04",
+      "level": 2,
+      "name": {
+        "local": "Mahaxay",
+        "en": "Mahaxay",
+        "slug": "mahaxay-kh-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-04",
+        "level": 2,
+        "name": {
+          "local": "Mahaxay",
+          "en": "Mahaxay",
+          "slug": "mahaxay-kh-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.26",
+      "lon": "105.235"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11234026",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nongkok",
+      "en": "Ban Nongkok",
+      "slug": "ban-nongkok-11234026"
+    },
+    "code": {
+      "id": "11234026",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-04",
+      "level": 2,
+      "name": {
+        "local": "Mahaxay",
+        "en": "Mahaxay",
+        "slug": "mahaxay-kh-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-04",
+        "level": 2,
+        "name": {
+          "local": "Mahaxay",
+          "en": "Mahaxay",
+          "slug": "mahaxay-kh-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.486",
+      "lon": "105.338"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1660703",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nongphu",
+      "en": "Ban Nongphu",
+      "slug": "ban-nongphu-1660703"
+    },
+    "code": {
+      "id": "1660703",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-04",
+      "level": 2,
+      "name": {
+        "local": "Mahaxay",
+        "en": "Mahaxay",
+        "slug": "mahaxay-kh-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-04",
+        "level": 2,
+        "name": {
+          "local": "Mahaxay",
+          "en": "Mahaxay",
+          "slug": "mahaxay-kh-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.333",
+      "lon": "105.467"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1660434",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Pakxong",
+      "en": "Ban Pakxong",
+      "slug": "ban-pakxong-1660434"
+    },
+    "code": {
+      "id": "1660434",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-04",
+      "level": 2,
+      "name": {
+        "local": "Mahaxay",
+        "en": "Mahaxay",
+        "slug": "mahaxay-kh-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-04",
+        "level": 2,
+        "name": {
+          "local": "Mahaxay",
+          "en": "Mahaxay",
+          "slug": "mahaxay-kh-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.406",
+      "lon": "105.037"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1660398",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Panam-Mai",
+      "en": "Ban Panam-Mai",
+      "slug": "ban-panam-mai-1660398"
+    },
+    "code": {
+      "id": "1660398",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-04",
+      "level": 2,
+      "name": {
+        "local": "Mahaxay",
+        "en": "Mahaxay",
+        "slug": "mahaxay-kh-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-04",
+        "level": 2,
+        "name": {
+          "local": "Mahaxay",
+          "en": "Mahaxay",
+          "slug": "mahaxay-kh-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.287",
+      "lon": "105.29"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11235025",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phakham",
+      "en": "Ban Phakham",
+      "slug": "ban-phakham-11235025"
+    },
+    "code": {
+      "id": "11235025",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-04",
+      "level": 2,
+      "name": {
+        "local": "Mahaxay",
+        "en": "Mahaxay",
+        "slug": "mahaxay-kh-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-04",
+        "level": 2,
+        "name": {
+          "local": "Mahaxay",
+          "en": "Mahaxay",
+          "slug": "mahaxay-kh-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.262",
+      "lon": "105.273"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11234021",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phakhèn",
+      "en": "Ban Phakhen",
+      "slug": "ban-phakhen-11234021"
+    },
+    "code": {
+      "id": "11234021",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-04",
+      "level": 2,
+      "name": {
+        "local": "Mahaxay",
+        "en": "Mahaxay",
+        "slug": "mahaxay-kh-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-04",
+        "level": 2,
+        "name": {
+          "local": "Mahaxay",
+          "en": "Mahaxay",
+          "slug": "mahaxay-kh-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.348",
+      "lon": "105.266"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1660206",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phanang",
+      "en": "Ban Phanang",
+      "slug": "ban-phanang-1660206"
+    },
+    "code": {
+      "id": "1660206",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-04",
+      "level": 2,
+      "name": {
+        "local": "Mahaxay",
+        "en": "Mahaxay",
+        "slug": "mahaxay-kh-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-04",
+        "level": 2,
+        "name": {
+          "local": "Mahaxay",
+          "en": "Mahaxay",
+          "slug": "mahaxay-kh-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.348",
+      "lon": "105.196"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11235030",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phasangim",
+      "en": "Ban Phasangim",
+      "slug": "ban-phasangim-11235030"
+    },
+    "code": {
+      "id": "11235030",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-04",
+      "level": 2,
+      "name": {
+        "local": "Mahaxay",
+        "en": "Mahaxay",
+        "slug": "mahaxay-kh-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-04",
+        "level": 2,
+        "name": {
+          "local": "Mahaxay",
+          "en": "Mahaxay",
+          "slug": "mahaxay-kh-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.299",
+      "lon": "105.391"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11235029",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phasanum",
+      "en": "Ban Phasanum",
+      "slug": "ban-phasanum-11235029"
+    },
+    "code": {
+      "id": "11235029",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-04",
+      "level": 2,
+      "name": {
+        "local": "Mahaxay",
+        "en": "Mahaxay",
+        "slug": "mahaxay-kh-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-04",
+        "level": 2,
+        "name": {
+          "local": "Mahaxay",
+          "en": "Mahaxay",
+          "slug": "mahaxay-kh-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.317",
+      "lon": "105.296"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11214074",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phôndeng",
+      "en": "Ban Phondeng",
+      "slug": "ban-phondeng-11214074"
+    },
+    "code": {
+      "id": "11214074",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-04",
+      "level": 2,
+      "name": {
+        "local": "Mahaxay",
+        "en": "Mahaxay",
+        "slug": "mahaxay-kh-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-04",
+        "level": 2,
+        "name": {
+          "local": "Mahaxay",
+          "en": "Mahaxay",
+          "slug": "mahaxay-kh-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.325",
+      "lon": "105.534"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1659948",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phônhinhè",
+      "en": "Ban Phonhinhe",
+      "slug": "ban-phonhinhe-1659948"
+    },
+    "code": {
+      "id": "1659948",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-04",
+      "level": 2,
+      "name": {
+        "local": "Mahaxay",
+        "en": "Mahaxay",
+        "slug": "mahaxay-kh-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-04",
+        "level": 2,
+        "name": {
+          "local": "Mahaxay",
+          "en": "Mahaxay",
+          "slug": "mahaxay-kh-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.326",
+      "lon": "105.547"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1659928",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phônial",
+      "en": "Ban Phonial",
+      "slug": "ban-phonial-1659928"
+    },
+    "code": {
+      "id": "1659928",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-04",
+      "level": 2,
+      "name": {
+        "local": "Mahaxay",
+        "en": "Mahaxay",
+        "slug": "mahaxay-kh-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-04",
+        "level": 2,
+        "name": {
+          "local": "Mahaxay",
+          "en": "Mahaxay",
+          "slug": "mahaxay-kh-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.445",
+      "lon": "105.043"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13433864",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phônlai",
+      "en": "Ban Phonlai",
+      "slug": "ban-phonlai-13433864"
+    },
+    "code": {
+      "id": "13433864",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-04",
+      "level": 2,
+      "name": {
+        "local": "Mahaxay",
+        "en": "Mahaxay",
+        "slug": "mahaxay-kh-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-04",
+        "level": 2,
+        "name": {
+          "local": "Mahaxay",
+          "en": "Mahaxay",
+          "slug": "mahaxay-kh-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.446",
+      "lon": "105.095"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11234029",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phônlék",
+      "en": "Ban Phonlek",
+      "slug": "ban-phonlek-11234029"
+    },
+    "code": {
+      "id": "11234029",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-04",
+      "level": 2,
+      "name": {
+        "local": "Mahaxay",
+        "en": "Mahaxay",
+        "slug": "mahaxay-kh-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-04",
+        "level": 2,
+        "name": {
+          "local": "Mahaxay",
+          "en": "Mahaxay",
+          "slug": "mahaxay-kh-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.343",
+      "lon": "105.467"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11233995",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phônnadi",
+      "en": "Ban Phonnadi",
+      "slug": "ban-phonnadi-11233995"
+    },
+    "code": {
+      "id": "11233995",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-04",
+      "level": 2,
+      "name": {
+        "local": "Mahaxay",
+        "en": "Mahaxay",
+        "slug": "mahaxay-kh-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-04",
+        "level": 2,
+        "name": {
+          "local": "Mahaxay",
+          "en": "Mahaxay",
+          "slug": "mahaxay-kh-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.456",
+      "lon": "105.049"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1659899",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phônphèng",
+      "en": "Ban Phonpheng",
+      "slug": "ban-phonpheng-1659899"
+    },
+    "code": {
+      "id": "1659899",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-04",
+      "level": 2,
+      "name": {
+        "local": "Mahaxay",
+        "en": "Mahaxay",
+        "slug": "mahaxay-kh-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-04",
+        "level": 2,
+        "name": {
+          "local": "Mahaxay",
+          "en": "Mahaxay",
+          "slug": "mahaxay-kh-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.35",
+      "lon": "105.267"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11234006",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phônsavan",
+      "en": "Ban Phonsavan",
+      "slug": "ban-phonsavan-11234006"
+    },
+    "code": {
+      "id": "11234006",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-04",
+      "level": 2,
+      "name": {
+        "local": "Mahaxay",
+        "en": "Mahaxay",
+        "slug": "mahaxay-kh-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-04",
+        "level": 2,
+        "name": {
+          "local": "Mahaxay",
+          "en": "Mahaxay",
+          "slug": "mahaxay-kh-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.452",
+      "lon": "105.061"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1659855",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phônxai",
+      "en": "Ban Phonxai",
+      "slug": "ban-phonxai-1659855"
+    },
+    "code": {
+      "id": "1659855",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-04",
+      "level": 2,
+      "name": {
+        "local": "Mahaxay",
+        "en": "Mahaxay",
+        "slug": "mahaxay-kh-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-04",
+        "level": 2,
+        "name": {
+          "local": "Mahaxay",
+          "en": "Mahaxay",
+          "slug": "mahaxay-kh-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.351",
+      "lon": "105.363"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1659640",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Poungxè",
+      "en": "Ban Poungxe",
+      "slug": "ban-poungxe-1659640"
+    },
+    "code": {
+      "id": "1659640",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-04",
+      "level": 2,
+      "name": {
+        "local": "Mahaxay",
+        "en": "Mahaxay",
+        "slug": "mahaxay-kh-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-04",
+        "level": 2,
+        "name": {
+          "local": "Mahaxay",
+          "en": "Mahaxay",
+          "slug": "mahaxay-kh-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.32",
+      "lon": "105.13"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1659425",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Sangphok",
+      "en": "Ban Sangphok",
+      "slug": "ban-sangphok-1659425"
+    },
+    "code": {
+      "id": "1659425",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-04",
+      "level": 2,
+      "name": {
+        "local": "Mahaxay",
+        "en": "Mahaxay",
+        "slug": "mahaxay-kh-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-04",
+        "level": 2,
+        "name": {
+          "local": "Mahaxay",
+          "en": "Mahaxay",
+          "slug": "mahaxay-kh-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.345",
+      "lon": "105.385"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11234018",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Sômsanouk",
+      "en": "Ban Somsanouk",
+      "slug": "ban-somsanouk-11234018"
+    },
+    "code": {
+      "id": "11234018",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-04",
+      "level": 2,
+      "name": {
+        "local": "Mahaxay",
+        "en": "Mahaxay",
+        "slug": "mahaxay-kh-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-04",
+        "level": 2,
+        "name": {
+          "local": "Mahaxay",
+          "en": "Mahaxay",
+          "slug": "mahaxay-kh-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.455",
+      "lon": "105.224"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1658769",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Tèng",
+      "en": "Ban Teng",
+      "slug": "ban-teng-1658769"
+    },
+    "code": {
+      "id": "1658769",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-04",
+      "level": 2,
+      "name": {
+        "local": "Mahaxay",
+        "en": "Mahaxay",
+        "slug": "mahaxay-kh-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-04",
+        "level": 2,
+        "name": {
+          "local": "Mahaxay",
+          "en": "Mahaxay",
+          "slug": "mahaxay-kh-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.297",
+      "lon": "105.423"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11235059",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Tèng-Dông",
+      "en": "Ban Teng-Dong",
+      "slug": "ban-teng-dong-11235059"
+    },
+    "code": {
+      "id": "11235059",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-04",
+      "level": 2,
+      "name": {
+        "local": "Mahaxay",
+        "en": "Mahaxay",
+        "slug": "mahaxay-kh-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-04",
+        "level": 2,
+        "name": {
+          "local": "Mahaxay",
+          "en": "Mahaxay",
+          "slug": "mahaxay-kh-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.304",
+      "lon": "105.48"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1658280",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Vangkhôk",
+      "en": "Ban Vangkhok",
+      "slug": "ban-vangkhok-1658280"
+    },
+    "code": {
+      "id": "1658280",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-04",
+      "level": 2,
+      "name": {
+        "local": "Mahaxay",
+        "en": "Mahaxay",
+        "slug": "mahaxay-kh-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-04",
+        "level": 2,
+        "name": {
+          "local": "Mahaxay",
+          "en": "Mahaxay",
+          "slug": "mahaxay-kh-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.35",
+      "lon": "105.525"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1658231",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Vangpoun",
+      "en": "Ban Vangpoun",
+      "slug": "ban-vangpoun-1658231"
+    },
+    "code": {
+      "id": "1658231",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-04",
+      "level": 2,
+      "name": {
+        "local": "Mahaxay",
+        "en": "Mahaxay",
+        "slug": "mahaxay-kh-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-04",
+        "level": 2,
+        "name": {
+          "local": "Mahaxay",
+          "en": "Mahaxay",
+          "slug": "mahaxay-kh-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.351",
+      "lon": "105.521"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1658185",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Veun",
+      "en": "Ban Veun",
+      "slug": "ban-veun-1658185"
+    },
+    "code": {
+      "id": "1658185",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-04",
+      "level": 2,
+      "name": {
+        "local": "Mahaxay",
+        "en": "Mahaxay",
+        "slug": "mahaxay-kh-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-04",
+        "level": 2,
+        "name": {
+          "local": "Mahaxay",
+          "en": "Mahaxay",
+          "slug": "mahaxay-kh-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.472",
+      "lon": "105.356"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1657990",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Xong",
+      "en": "Ban Xong",
+      "slug": "ban-xong-1657990"
+    },
+    "code": {
+      "id": "1657990",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-04",
+      "level": 2,
+      "name": {
+        "local": "Mahaxay",
+        "en": "Mahaxay",
+        "slug": "mahaxay-kh-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-04",
+        "level": 2,
+        "name": {
+          "local": "Mahaxay",
+          "en": "Mahaxay",
+          "slug": "mahaxay-kh-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.392",
+      "lon": "105.361"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11234998",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Houay Khamphèdông",
+      "en": "Houay Khamphedong",
+      "slug": "houay-khamphedong-11234998"
+    },
+    "code": {
+      "id": "11234998",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-04",
+      "level": 2,
+      "name": {
+        "local": "Mahaxay",
+        "en": "Mahaxay",
+        "slug": "mahaxay-kh-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-04",
+        "level": 2,
+        "name": {
+          "local": "Mahaxay",
+          "en": "Mahaxay",
+          "slug": "mahaxay-kh-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.292",
+      "lon": "105.216"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1654109",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Pha Khèn",
+      "en": "Pha Khen",
+      "slug": "pha-khen-1654109"
+    },
+    "code": {
+      "id": "1654109",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-04",
+      "level": 2,
+      "name": {
+        "local": "Mahaxay",
+        "en": "Mahaxay",
+        "slug": "mahaxay-kh-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-04",
+        "level": 2,
+        "name": {
+          "local": "Mahaxay",
+          "en": "Mahaxay",
+          "slug": "mahaxay-kh-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.333",
+      "lon": "105.25"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1653869",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Phou Ithao",
+      "en": "Phou Ithao",
+      "slug": "phou-ithao-1653869"
+    },
+    "code": {
+      "id": "1653869",
+      "iso": null
+    },
+    "parent": {
+      "id": "KH-04",
+      "level": 2,
+      "name": {
+        "local": "Mahaxay",
+        "en": "Mahaxay",
+        "slug": "mahaxay-kh-04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KH",
+        "level": 1,
+        "name": {
+          "local": "Khammouane",
+          "en": "Khammouane",
+          "slug": "khammouane-kh"
+        }
+      },
+      {
+        "id": "KH-04",
+        "level": 2,
+        "name": {
+          "local": "Mahaxay",
+          "en": "Mahaxay",
+          "slug": "mahaxay-kh-04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.317",
+      "lon": "105.183"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

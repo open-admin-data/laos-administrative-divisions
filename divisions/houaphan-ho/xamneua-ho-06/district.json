@@ -1,0 +1,47 @@
+{
+  "id": "HO-06",
+  "level": 2,
+  "level_name": {
+    "local": "ເມືອງ",
+    "en": "District"
+  },
+  "name": {
+    "local": "Xamneua",
+    "en": "Xamneua",
+    "slug": "xamneua-ho-06"
+  },
+  "code": {
+    "id": "HO-06",
+    "iso": null
+  },
+  "parent": {
+    "id": "HO",
+    "level": 1,
+    "name": {
+      "local": "Houaphan",
+      "en": "Houaphan",
+      "slug": "houaphan-ho"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "HO",
+      "level": 1,
+      "name": {
+        "local": "Houaphan",
+        "en": "Houaphan",
+        "slug": "houaphan-ho"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 220
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "20.401",
+    "lon": "104.067"
+  },
+  "metadata": {},
+  "source": {}
+}

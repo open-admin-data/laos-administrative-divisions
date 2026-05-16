@@ -1,0 +1,519 @@
+[
+  {
+    "id": "LP-01",
+    "level": 2,
+    "level_name": {
+      "local": "ເມືອງ",
+      "en": "District"
+    },
+    "name": {
+      "local": "Chomphet",
+      "en": "Chomphet",
+      "slug": "chomphet-lp-01"
+    },
+    "code": {
+      "id": "LP-01",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP",
+      "level": 1,
+      "name": {
+        "local": "Luang Prabang",
+        "en": "Luang Prabang",
+        "slug": "luang-prabang-lp"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 104
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.886",
+      "lon": "101.914"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LP-02",
+    "level": 2,
+    "level_name": {
+      "local": "ເມືອງ",
+      "en": "District"
+    },
+    "name": {
+      "local": "Luangprabang",
+      "en": "Luangprabang",
+      "slug": "luangprabang-lp-02"
+    },
+    "code": {
+      "id": "LP-02",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP",
+      "level": 1,
+      "name": {
+        "local": "Luang Prabang",
+        "en": "Luang Prabang",
+        "slug": "luang-prabang-lp"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 131
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.815",
+      "lon": "102.099"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LP-03",
+    "level": 2,
+    "level_name": {
+      "local": "ເມືອງ",
+      "en": "District"
+    },
+    "name": {
+      "local": "Nambak",
+      "en": "Nambak",
+      "slug": "nambak-lp-03"
+    },
+    "code": {
+      "id": "LP-03",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP",
+      "level": 1,
+      "name": {
+        "local": "Luang Prabang",
+        "en": "Luang Prabang",
+        "slug": "luang-prabang-lp"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 166
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.668",
+      "lon": "102.383"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LP-04",
+    "level": 2,
+    "level_name": {
+      "local": "ເມືອງ",
+      "en": "District"
+    },
+    "name": {
+      "local": "Nan",
+      "en": "Nan",
+      "slug": "nan-lp-04"
+    },
+    "code": {
+      "id": "LP-04",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP",
+      "level": 1,
+      "name": {
+        "local": "Luang Prabang",
+        "en": "Luang Prabang",
+        "slug": "luang-prabang-lp"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 91
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.315",
+      "lon": "101.94"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LP-05",
+    "level": 2,
+    "level_name": {
+      "local": "ເມືອງ",
+      "en": "District"
+    },
+    "name": {
+      "local": "Ngoi",
+      "en": "Ngoi",
+      "slug": "ngoi-lp-05"
+    },
+    "code": {
+      "id": "LP-05",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP",
+      "level": 1,
+      "name": {
+        "local": "Luang Prabang",
+        "en": "Luang Prabang",
+        "slug": "luang-prabang-lp"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 149
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.732",
+      "lon": "102.68"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LP-06",
+    "level": 2,
+    "level_name": {
+      "local": "ເມືອງ",
+      "en": "District"
+    },
+    "name": {
+      "local": "Pak Xeng",
+      "en": "Pak Xeng",
+      "slug": "pak-xeng-lp-06"
+    },
+    "code": {
+      "id": "LP-06",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP",
+      "level": 1,
+      "name": {
+        "local": "Luang Prabang",
+        "en": "Luang Prabang",
+        "slug": "luang-prabang-lp"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 146
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.108",
+      "lon": "102.685"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LP-07",
+    "level": 2,
+    "level_name": {
+      "local": "ເມືອງ",
+      "en": "District"
+    },
+    "name": {
+      "local": "Park Ou",
+      "en": "Park Ou",
+      "slug": "park-ou-lp-07"
+    },
+    "code": {
+      "id": "LP-07",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP",
+      "level": 1,
+      "name": {
+        "local": "Luang Prabang",
+        "en": "Luang Prabang",
+        "slug": "luang-prabang-lp"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 101
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.143",
+      "lon": "102.32"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LP-08",
+    "level": 2,
+    "level_name": {
+      "local": "ເມືອງ",
+      "en": "District"
+    },
+    "name": {
+      "local": "Phonthong",
+      "en": "Phonthong",
+      "slug": "phonthong-lp-08"
+    },
+    "code": {
+      "id": "LP-08",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP",
+      "level": 1,
+      "name": {
+        "local": "Luang Prabang",
+        "en": "Luang Prabang",
+        "slug": "luang-prabang-lp"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 0
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.915",
+      "lon": "103.126"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LP-09",
+    "level": 2,
+    "level_name": {
+      "local": "ເມືອງ",
+      "en": "District"
+    },
+    "name": {
+      "local": "Phonxay",
+      "en": "Phonxay",
+      "slug": "phonxay-lp-09"
+    },
+    "code": {
+      "id": "LP-09",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP",
+      "level": 1,
+      "name": {
+        "local": "Luang Prabang",
+        "en": "Luang Prabang",
+        "slug": "luang-prabang-lp"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 172
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.834",
+      "lon": "102.787"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LP-10",
+    "level": 2,
+    "level_name": {
+      "local": "ເມືອງ",
+      "en": "District"
+    },
+    "name": {
+      "local": "Viengkham",
+      "en": "Viengkham",
+      "slug": "viengkham-lp-10"
+    },
+    "code": {
+      "id": "LP-10",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP",
+      "level": 1,
+      "name": {
+        "local": "Luang Prabang",
+        "en": "Luang Prabang",
+        "slug": "luang-prabang-lp"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 148
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.347",
+      "lon": "103.07"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LP-11",
+    "level": 2,
+    "level_name": {
+      "local": "ເມືອງ",
+      "en": "District"
+    },
+    "name": {
+      "local": "Xieng Ngeun",
+      "en": "Xieng Ngeun",
+      "slug": "xieng-ngeun-lp-11"
+    },
+    "code": {
+      "id": "LP-11",
+      "iso": null
+    },
+    "parent": {
+      "id": "LP",
+      "level": 1,
+      "name": {
+        "local": "Luang Prabang",
+        "en": "Luang Prabang",
+        "slug": "luang-prabang-lp"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LP",
+        "level": 1,
+        "name": {
+          "local": "Luang Prabang",
+          "en": "Luang Prabang",
+          "slug": "luang-prabang-lp"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 165
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.643",
+      "lon": "102.356"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

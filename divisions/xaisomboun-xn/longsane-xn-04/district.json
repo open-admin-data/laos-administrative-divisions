@@ -1,0 +1,47 @@
+{
+  "id": "XN-04",
+  "level": 2,
+  "level_name": {
+    "local": "ເມືອງ",
+    "en": "District"
+  },
+  "name": {
+    "local": "Longsane",
+    "en": "Longsane",
+    "slug": "longsane-xn-04"
+  },
+  "code": {
+    "id": "XN-04",
+    "iso": null
+  },
+  "parent": {
+    "id": "XN",
+    "level": 1,
+    "name": {
+      "local": "Xaisomboun",
+      "en": "Xaisomboun",
+      "slug": "xaisomboun-xn"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "XN",
+      "level": 1,
+      "name": {
+        "local": "Xaisomboun",
+        "en": "Xaisomboun",
+        "slug": "xaisomboun-xn"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 35
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "18.619",
+    "lon": "102.9"
+  },
+  "metadata": {},
+  "source": {}
+}

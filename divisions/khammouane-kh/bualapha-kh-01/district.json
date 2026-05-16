@@ -1,0 +1,47 @@
+{
+  "id": "KH-01",
+  "level": 2,
+  "level_name": {
+    "local": "ເມືອງ",
+    "en": "District"
+  },
+  "name": {
+    "local": "Bualapha",
+    "en": "Bualapha",
+    "slug": "bualapha-kh-01"
+  },
+  "code": {
+    "id": "KH-01",
+    "iso": null
+  },
+  "parent": {
+    "id": "KH",
+    "level": 1,
+    "name": {
+      "local": "Khammouane",
+      "en": "Khammouane",
+      "slug": "khammouane-kh"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KH",
+      "level": 1,
+      "name": {
+        "local": "Khammouane",
+        "en": "Khammouane",
+        "slug": "khammouane-kh"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 125
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.213",
+    "lon": "106.234"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,47 @@
+{
+  "id": "XE-01",
+  "level": 2,
+  "level_name": {
+    "local": "ເມືອງ",
+    "en": "District"
+  },
+  "name": {
+    "local": "Dakcheung",
+    "en": "Dakcheung",
+    "slug": "dakcheung-xe-01"
+  },
+  "code": {
+    "id": "XE-01",
+    "iso": null
+  },
+  "parent": {
+    "id": "XE",
+    "level": 1,
+    "name": {
+      "local": "Xekong",
+      "en": "Xekong",
+      "slug": "xekong-xe"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "XE",
+      "level": 1,
+      "name": {
+        "local": "Xekong",
+        "en": "Xekong",
+        "slug": "xekong-xe"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 132
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.317",
+    "lon": "107.512"
+  },
+  "metadata": {},
+  "source": {}
+}

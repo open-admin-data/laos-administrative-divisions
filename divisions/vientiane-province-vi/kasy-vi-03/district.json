@@ -1,0 +1,47 @@
+{
+  "id": "VI-03",
+  "level": 2,
+  "level_name": {
+    "local": "ເມືອງ",
+    "en": "District"
+  },
+  "name": {
+    "local": "Kasy",
+    "en": "Kasy",
+    "slug": "kasy-vi-03"
+  },
+  "code": {
+    "id": "VI-03",
+    "iso": null
+  },
+  "parent": {
+    "id": "VI",
+    "level": 1,
+    "name": {
+      "local": "Vientiane",
+      "en": "Vientiane Province",
+      "slug": "vientiane-province-vi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "VI",
+      "level": 1,
+      "name": {
+        "local": "Vientiane",
+        "en": "Vientiane Province",
+        "slug": "vientiane-province-vi"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 83
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "19.113",
+    "lon": "102.146"
+  },
+  "metadata": {},
+  "source": {}
+}

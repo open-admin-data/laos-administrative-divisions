@@ -1,0 +1,47 @@
+{
+  "id": "XA-02",
+  "level": 2,
+  "level_name": {
+    "local": "ເມືອງ",
+    "en": "District"
+  },
+  "name": {
+    "local": "Hongsa",
+    "en": "Hongsa",
+    "slug": "hongsa-xa-02"
+  },
+  "code": {
+    "id": "XA-02",
+    "iso": null
+  },
+  "parent": {
+    "id": "XA",
+    "level": 1,
+    "name": {
+      "local": "Xaignabouli",
+      "en": "Xaignabouli",
+      "slug": "xaignabouli-xa"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "XA",
+      "level": 1,
+      "name": {
+        "local": "Xaignabouli",
+        "en": "Xaignabouli",
+        "slug": "xaignabouli-xa"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 61
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "19.724",
+    "lon": "101.47"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,30 @@
+{
+  "id": "BL",
+  "level": 1,
+  "level_name": {
+    "local": "ແຂວງ",
+    "en": "Province"
+  },
+  "name": {
+    "local": "Bolikhamsai",
+    "en": "Bolikhamsai",
+    "slug": "bolikhamsai-bl"
+  },
+  "code": {
+    "id": "BL",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 7,
+    "village": 487
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "18.514",
+    "lon": "104.384"
+  },
+  "metadata": {},
+  "source": {}
+}

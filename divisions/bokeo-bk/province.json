@@ -1,0 +1,30 @@
+{
+  "id": "BK",
+  "level": 1,
+  "level_name": {
+    "local": "ແຂວງ",
+    "en": "Province"
+  },
+  "name": {
+    "local": "Bokeo",
+    "en": "Bokeo",
+    "slug": "bokeo-bk"
+  },
+  "code": {
+    "id": "BK",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 5,
+    "village": 345
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "20.234",
+    "lon": "100.586"
+  },
+  "metadata": {},
+  "source": {}
+}

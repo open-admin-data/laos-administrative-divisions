@@ -1,0 +1,2378 @@
+[
+  {
+    "id": "1941391",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Dèt",
+      "en": "Ban Det",
+      "slug": "ban-det-1941391"
+    },
+    "code": {
+      "id": "1941391",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA-03",
+      "level": 2,
+      "name": {
+        "local": "Kenethao",
+        "en": "Kenethao",
+        "slug": "kenethao-xa-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      },
+      {
+        "id": "XA-03",
+        "level": 2,
+        "name": {
+          "local": "Kenethao",
+          "en": "Kenethao",
+          "slug": "kenethao-xa-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.784",
+      "lon": "101.243"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1941460",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Dông",
+      "en": "Ban Dong",
+      "slug": "ban-dong-1941460"
+    },
+    "code": {
+      "id": "1941460",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA-03",
+      "level": 2,
+      "name": {
+        "local": "Kenethao",
+        "en": "Kenethao",
+        "slug": "kenethao-xa-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      },
+      {
+        "id": "XA-03",
+        "level": 2,
+        "name": {
+          "local": "Kenethao",
+          "en": "Kenethao",
+          "slug": "kenethao-xa-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.717",
+      "lon": "101.241"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1664393",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Donmén",
+      "en": "Ban Donmen",
+      "slug": "ban-donmen-1664393"
+    },
+    "code": {
+      "id": "1664393",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA-03",
+      "level": 2,
+      "name": {
+        "local": "Kenethao",
+        "en": "Kenethao",
+        "slug": "kenethao-xa-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      },
+      {
+        "id": "XA-03",
+        "level": 2,
+        "name": {
+          "local": "Kenethao",
+          "en": "Kenethao",
+          "slug": "kenethao-xa-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.947",
+      "lon": "101.405"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11222467",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Donsang",
+      "en": "Ban Donsang",
+      "slug": "ban-donsang-11222467"
+    },
+    "code": {
+      "id": "11222467",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA-03",
+      "level": 2,
+      "name": {
+        "local": "Kenethao",
+        "en": "Kenethao",
+        "slug": "kenethao-xa-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      },
+      {
+        "id": "XA-03",
+        "level": 2,
+        "name": {
+          "local": "Kenethao",
+          "en": "Kenethao",
+          "slug": "kenethao-xa-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.076",
+      "lon": "101.418"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1664156",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Hat Kho",
+      "en": "Ban Hat Kho",
+      "slug": "ban-hat-kho-1664156"
+    },
+    "code": {
+      "id": "1664156",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA-03",
+      "level": 2,
+      "name": {
+        "local": "Kenethao",
+        "en": "Kenethao",
+        "slug": "kenethao-xa-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      },
+      {
+        "id": "XA-03",
+        "level": 2,
+        "name": {
+          "local": "Kenethao",
+          "en": "Kenethao",
+          "slug": "kenethao-xa-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.7",
+      "lon": "101.3"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1664183",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Hatdông",
+      "en": "Ban Hatdong",
+      "slug": "ban-hatdong-1664183"
+    },
+    "code": {
+      "id": "1664183",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA-03",
+      "level": 2,
+      "name": {
+        "local": "Kenethao",
+        "en": "Kenethao",
+        "slug": "kenethao-xa-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      },
+      {
+        "id": "XA-03",
+        "level": 2,
+        "name": {
+          "local": "Kenethao",
+          "en": "Kenethao",
+          "slug": "kenethao-xa-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.735",
+      "lon": "101.42"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1941389",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houakhoua",
+      "en": "Ban Houakhoua",
+      "slug": "ban-houakhoua-1941389"
+    },
+    "code": {
+      "id": "1941389",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA-03",
+      "level": 2,
+      "name": {
+        "local": "Kenethao",
+        "en": "Kenethao",
+        "slug": "kenethao-xa-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      },
+      {
+        "id": "XA-03",
+        "level": 2,
+        "name": {
+          "local": "Kenethao",
+          "en": "Kenethao",
+          "slug": "kenethao-xa-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.844",
+      "lon": "101.263"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1663952",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houaybouha",
+      "en": "Ban Houaybouha",
+      "slug": "ban-houaybouha-1663952"
+    },
+    "code": {
+      "id": "1663952",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA-03",
+      "level": 2,
+      "name": {
+        "local": "Kenethao",
+        "en": "Kenethao",
+        "slug": "kenethao-xa-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      },
+      {
+        "id": "XA-03",
+        "level": 2,
+        "name": {
+          "local": "Kenethao",
+          "en": "Kenethao",
+          "slug": "kenethao-xa-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.003",
+      "lon": "101.21"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1941363",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houayhia",
+      "en": "Ban Houayhia",
+      "slug": "ban-houayhia-1941363"
+    },
+    "code": {
+      "id": "1941363",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA-03",
+      "level": 2,
+      "name": {
+        "local": "Kenethao",
+        "en": "Kenethao",
+        "slug": "kenethao-xa-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      },
+      {
+        "id": "XA-03",
+        "level": 2,
+        "name": {
+          "local": "Kenethao",
+          "en": "Kenethao",
+          "slug": "kenethao-xa-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.797",
+      "lon": "101.275"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1941361",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houaykha",
+      "en": "Ban Houaykha",
+      "slug": "ban-houaykha-1941361"
+    },
+    "code": {
+      "id": "1941361",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA-03",
+      "level": 2,
+      "name": {
+        "local": "Kenethao",
+        "en": "Kenethao",
+        "slug": "kenethao-xa-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      },
+      {
+        "id": "XA-03",
+        "level": 2,
+        "name": {
+          "local": "Kenethao",
+          "en": "Kenethao",
+          "slug": "kenethao-xa-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.817",
+      "lon": "101.277"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1663778",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houayleuk",
+      "en": "Ban Houayleuk",
+      "slug": "ban-houayleuk-1663778"
+    },
+    "code": {
+      "id": "1663778",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA-03",
+      "level": 2,
+      "name": {
+        "local": "Kenethao",
+        "en": "Kenethao",
+        "slug": "kenethao-xa-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      },
+      {
+        "id": "XA-03",
+        "level": 2,
+        "name": {
+          "local": "Kenethao",
+          "en": "Kenethao",
+          "slug": "kenethao-xa-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.877",
+      "lon": "101.219"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1941375",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houaylot",
+      "en": "Ban Houaylot",
+      "slug": "ban-houaylot-1941375"
+    },
+    "code": {
+      "id": "1941375",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA-03",
+      "level": 2,
+      "name": {
+        "local": "Kenethao",
+        "en": "Kenethao",
+        "slug": "kenethao-xa-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      },
+      {
+        "id": "XA-03",
+        "level": 2,
+        "name": {
+          "local": "Kenethao",
+          "en": "Kenethao",
+          "slug": "kenethao-xa-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.885",
+      "lon": "101.343"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1941368",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houaypét",
+      "en": "Ban Houaypet",
+      "slug": "ban-houaypet-1941368"
+    },
+    "code": {
+      "id": "1941368",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA-03",
+      "level": 2,
+      "name": {
+        "local": "Kenethao",
+        "en": "Kenethao",
+        "slug": "kenethao-xa-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      },
+      {
+        "id": "XA-03",
+        "level": 2,
+        "name": {
+          "local": "Kenethao",
+          "en": "Kenethao",
+          "slug": "kenethao-xa-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.861",
+      "lon": "101.35"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1941366",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houayto",
+      "en": "Ban Houayto",
+      "slug": "ban-houayto-1941366"
+    },
+    "code": {
+      "id": "1941366",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA-03",
+      "level": 2,
+      "name": {
+        "local": "Kenethao",
+        "en": "Kenethao",
+        "slug": "kenethao-xa-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      },
+      {
+        "id": "XA-03",
+        "level": 2,
+        "name": {
+          "local": "Kenethao",
+          "en": "Kenethao",
+          "slug": "kenethao-xa-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.797",
+      "lon": "101.351"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1941417",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Kèngma",
+      "en": "Ban Kengma",
+      "slug": "ban-kengma-1941417"
+    },
+    "code": {
+      "id": "1941417",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA-03",
+      "level": 2,
+      "name": {
+        "local": "Kenethao",
+        "en": "Kenethao",
+        "slug": "kenethao-xa-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      },
+      {
+        "id": "XA-03",
+        "level": 2,
+        "name": {
+          "local": "Kenethao",
+          "en": "Kenethao",
+          "slug": "kenethao-xa-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.672",
+      "lon": "101.357"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11222471",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Khè",
+      "en": "Ban Khe",
+      "slug": "ban-khe-11222471"
+    },
+    "code": {
+      "id": "11222471",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA-03",
+      "level": 2,
+      "name": {
+        "local": "Kenethao",
+        "en": "Kenethao",
+        "slug": "kenethao-xa-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      },
+      {
+        "id": "XA-03",
+        "level": 2,
+        "name": {
+          "local": "Kenethao",
+          "en": "Kenethao",
+          "slug": "kenethao-xa-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.015",
+      "lon": "101.42"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1941415",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Khontapou",
+      "en": "Ban Khontapou",
+      "slug": "ban-khontapou-1941415"
+    },
+    "code": {
+      "id": "1941415",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA-03",
+      "level": 2,
+      "name": {
+        "local": "Kenethao",
+        "en": "Kenethao",
+        "slug": "kenethao-xa-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      },
+      {
+        "id": "XA-03",
+        "level": 2,
+        "name": {
+          "local": "Kenethao",
+          "en": "Kenethao",
+          "slug": "kenethao-xa-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.656",
+      "lon": "101.329"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1941385",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Khoumsiao",
+      "en": "Ban Khoumsiao",
+      "slug": "ban-khoumsiao-1941385"
+    },
+    "code": {
+      "id": "1941385",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA-03",
+      "level": 2,
+      "name": {
+        "local": "Kenethao",
+        "en": "Kenethao",
+        "slug": "kenethao-xa-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      },
+      {
+        "id": "XA-03",
+        "level": 2,
+        "name": {
+          "local": "Kenethao",
+          "en": "Kenethao",
+          "slug": "kenethao-xa-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.885",
+      "lon": "101.265"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1662818",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Kok Hène Pi",
+      "en": "Ban Kok Hene Pi",
+      "slug": "ban-kok-hene-pi-1662818"
+    },
+    "code": {
+      "id": "1662818",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA-03",
+      "level": 2,
+      "name": {
+        "local": "Kenethao",
+        "en": "Kenethao",
+        "slug": "kenethao-xa-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      },
+      {
+        "id": "XA-03",
+        "level": 2,
+        "name": {
+          "local": "Kenethao",
+          "en": "Kenethao",
+          "slug": "kenethao-xa-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.967",
+      "lon": "101.3"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1662824",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Kokè",
+      "en": "Ban Koke",
+      "slug": "ban-koke-1662824"
+    },
+    "code": {
+      "id": "1662824",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA-03",
+      "level": 2,
+      "name": {
+        "local": "Kenethao",
+        "en": "Kenethao",
+        "slug": "kenethao-xa-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      },
+      {
+        "id": "XA-03",
+        "level": 2,
+        "name": {
+          "local": "Kenethao",
+          "en": "Kenethao",
+          "slug": "kenethao-xa-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.725",
+      "lon": "101.248"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1941388",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Kôkhaikham",
+      "en": "Ban Kokhaikham",
+      "slug": "ban-kokhaikham-1941388"
+    },
+    "code": {
+      "id": "1941388",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA-03",
+      "level": 2,
+      "name": {
+        "local": "Kenethao",
+        "en": "Kenethao",
+        "slug": "kenethao-xa-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      },
+      {
+        "id": "XA-03",
+        "level": 2,
+        "name": {
+          "local": "Kenethao",
+          "en": "Kenethao",
+          "slug": "kenethao-xa-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.844",
+      "lon": "101.267"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1941387",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Kôkkathon",
+      "en": "Ban Kokkathon",
+      "slug": "ban-kokkathon-1941387"
+    },
+    "code": {
+      "id": "1941387",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA-03",
+      "level": 2,
+      "name": {
+        "local": "Kenethao",
+        "en": "Kenethao",
+        "slug": "kenethao-xa-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      },
+      {
+        "id": "XA-03",
+        "level": 2,
+        "name": {
+          "local": "Kenethao",
+          "en": "Kenethao",
+          "slug": "kenethao-xa-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.868",
+      "lon": "101.27"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1941362",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Mouangphao",
+      "en": "Ban Mouangphao",
+      "slug": "ban-mouangphao-1941362"
+    },
+    "code": {
+      "id": "1941362",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA-03",
+      "level": 2,
+      "name": {
+        "local": "Kenethao",
+        "en": "Kenethao",
+        "slug": "kenethao-xa-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      },
+      {
+        "id": "XA-03",
+        "level": 2,
+        "name": {
+          "local": "Kenethao",
+          "en": "Kenethao",
+          "slug": "kenethao-xa-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.803",
+      "lon": "101.255"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1662168",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Muangmo",
+      "en": "Ban Muangmo",
+      "slug": "ban-muangmo-1662168"
+    },
+    "code": {
+      "id": "1662168",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA-03",
+      "level": 2,
+      "name": {
+        "local": "Kenethao",
+        "en": "Kenethao",
+        "slug": "kenethao-xa-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      },
+      {
+        "id": "XA-03",
+        "level": 2,
+        "name": {
+          "local": "Kenethao",
+          "en": "Kenethao",
+          "slug": "kenethao-xa-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.69",
+      "lon": "101.376"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1662105",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nabon",
+      "en": "Ban Nabon",
+      "slug": "ban-nabon-1662105"
+    },
+    "code": {
+      "id": "1662105",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA-03",
+      "level": 2,
+      "name": {
+        "local": "Kenethao",
+        "en": "Kenethao",
+        "slug": "kenethao-xa-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      },
+      {
+        "id": "XA-03",
+        "level": 2,
+        "name": {
+          "local": "Kenethao",
+          "en": "Kenethao",
+          "slug": "kenethao-xa-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.755",
+      "lon": "101.39"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1941395",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nadokmai",
+      "en": "Ban Nadokmai",
+      "slug": "ban-nadokmai-1941395"
+    },
+    "code": {
+      "id": "1941395",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA-03",
+      "level": 2,
+      "name": {
+        "local": "Kenethao",
+        "en": "Kenethao",
+        "slug": "kenethao-xa-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      },
+      {
+        "id": "XA-03",
+        "level": 2,
+        "name": {
+          "local": "Kenethao",
+          "en": "Kenethao",
+          "slug": "kenethao-xa-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.958",
+      "lon": "101.231"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1941425",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nahin",
+      "en": "Ban Nahin",
+      "slug": "ban-nahin-1941425"
+    },
+    "code": {
+      "id": "1941425",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA-03",
+      "level": 2,
+      "name": {
+        "local": "Kenethao",
+        "en": "Kenethao",
+        "slug": "kenethao-xa-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      },
+      {
+        "id": "XA-03",
+        "level": 2,
+        "name": {
+          "local": "Kenethao",
+          "en": "Kenethao",
+          "slug": "kenethao-xa-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.71",
+      "lon": "101.297"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11222468",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nakham",
+      "en": "Ban Nakham",
+      "slug": "ban-nakham-11222468"
+    },
+    "code": {
+      "id": "11222468",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA-03",
+      "level": 2,
+      "name": {
+        "local": "Kenethao",
+        "en": "Kenethao",
+        "slug": "kenethao-xa-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      },
+      {
+        "id": "XA-03",
+        "level": 2,
+        "name": {
+          "local": "Kenethao",
+          "en": "Kenethao",
+          "slug": "kenethao-xa-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.054",
+      "lon": "101.413"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1941423",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Namkiang",
+      "en": "Ban Namkiang",
+      "slug": "ban-namkiang-1941423"
+    },
+    "code": {
+      "id": "1941423",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA-03",
+      "level": 2,
+      "name": {
+        "local": "Kenethao",
+        "en": "Kenethao",
+        "slug": "kenethao-xa-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      },
+      {
+        "id": "XA-03",
+        "level": 2,
+        "name": {
+          "local": "Kenethao",
+          "en": "Kenethao",
+          "slug": "kenethao-xa-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.68",
+      "lon": "101.254"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1661400",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Namtao",
+      "en": "Ban Namtao",
+      "slug": "ban-namtao-1661400"
+    },
+    "code": {
+      "id": "1661400",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA-03",
+      "level": 2,
+      "name": {
+        "local": "Kenethao",
+        "en": "Kenethao",
+        "slug": "kenethao-xa-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      },
+      {
+        "id": "XA-03",
+        "level": 2,
+        "name": {
+          "local": "Kenethao",
+          "en": "Kenethao",
+          "slug": "kenethao-xa-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.842",
+      "lon": "101.246"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1660894",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nong",
+      "en": "Ban Nong",
+      "slug": "ban-nong-1660894"
+    },
+    "code": {
+      "id": "1660894",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA-03",
+      "level": 2,
+      "name": {
+        "local": "Kenethao",
+        "en": "Kenethao",
+        "slug": "kenethao-xa-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      },
+      {
+        "id": "XA-03",
+        "level": 2,
+        "name": {
+          "local": "Kenethao",
+          "en": "Kenethao",
+          "slug": "kenethao-xa-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.931",
+      "lon": "101.258"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1660500",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Pak Khem",
+      "en": "Ban Pak Khem",
+      "slug": "ban-pak-khem-1660500"
+    },
+    "code": {
+      "id": "1660500",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA-03",
+      "level": 2,
+      "name": {
+        "local": "Kenethao",
+        "en": "Kenethao",
+        "slug": "kenethao-xa-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      },
+      {
+        "id": "XA-03",
+        "level": 2,
+        "name": {
+          "local": "Kenethao",
+          "en": "Kenethao",
+          "slug": "kenethao-xa-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.817",
+      "lon": "101.283"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1660489",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Pak Nam Péne",
+      "en": "Ban Pak Nam Pene",
+      "slug": "ban-pak-nam-pene-1660489"
+    },
+    "code": {
+      "id": "1660489",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA-03",
+      "level": 2,
+      "name": {
+        "local": "Kenethao",
+        "en": "Kenethao",
+        "slug": "kenethao-xa-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      },
+      {
+        "id": "XA-03",
+        "level": 2,
+        "name": {
+          "local": "Kenethao",
+          "en": "Kenethao",
+          "slug": "kenethao-xa-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.8",
+      "lon": "101.267"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1660490",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Pak Nam Pene",
+      "en": "Ban Pak Nam Pene",
+      "slug": "ban-pak-nam-pene-1660490"
+    },
+    "code": {
+      "id": "1660490",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA-03",
+      "level": 2,
+      "name": {
+        "local": "Kenethao",
+        "en": "Kenethao",
+        "slug": "kenethao-xa-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      },
+      {
+        "id": "XA-03",
+        "level": 2,
+        "name": {
+          "local": "Kenethao",
+          "en": "Kenethao",
+          "slug": "kenethao-xa-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.783",
+      "lon": "101.233"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1660501",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Pakkhém",
+      "en": "Ban Pakkhem",
+      "slug": "ban-pakkhem-1660501"
+    },
+    "code": {
+      "id": "1660501",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA-03",
+      "level": 2,
+      "name": {
+        "local": "Kenethao",
+        "en": "Kenethao",
+        "slug": "kenethao-xa-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      },
+      {
+        "id": "XA-03",
+        "level": 2,
+        "name": {
+          "local": "Kenethao",
+          "en": "Kenethao",
+          "slug": "kenethao-xa-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.818",
+      "lon": "101.24"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1941390",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Paktôm",
+      "en": "Ban Paktom",
+      "slug": "ban-paktom-1941390"
+    },
+    "code": {
+      "id": "1941390",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA-03",
+      "level": 2,
+      "name": {
+        "local": "Kenethao",
+        "en": "Kenethao",
+        "slug": "kenethao-xa-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      },
+      {
+        "id": "XA-03",
+        "level": 2,
+        "name": {
+          "local": "Kenethao",
+          "en": "Kenethao",
+          "slug": "kenethao-xa-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.782",
+      "lon": "101.238"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1941386",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phônpapo",
+      "en": "Ban Phonpapo",
+      "slug": "ban-phonpapo-1941386"
+    },
+    "code": {
+      "id": "1941386",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA-03",
+      "level": 2,
+      "name": {
+        "local": "Kenethao",
+        "en": "Kenethao",
+        "slug": "kenethao-xa-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      },
+      {
+        "id": "XA-03",
+        "level": 2,
+        "name": {
+          "local": "Kenethao",
+          "en": "Kenethao",
+          "slug": "kenethao-xa-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.875",
+      "lon": "101.256"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1659673",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Pông",
+      "en": "Ban Pong",
+      "slug": "ban-pong-1659673"
+    },
+    "code": {
+      "id": "1659673",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA-03",
+      "level": 2,
+      "name": {
+        "local": "Kenethao",
+        "en": "Kenethao",
+        "slug": "kenethao-xa-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      },
+      {
+        "id": "XA-03",
+        "level": 2,
+        "name": {
+          "local": "Kenethao",
+          "en": "Kenethao",
+          "slug": "kenethao-xa-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.924",
+      "lon": "101.213"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1941383",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Pôngdèng",
+      "en": "Ban Pongdeng",
+      "slug": "ban-pongdeng-1941383"
+    },
+    "code": {
+      "id": "1941383",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA-03",
+      "level": 2,
+      "name": {
+        "local": "Kenethao",
+        "en": "Kenethao",
+        "slug": "kenethao-xa-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      },
+      {
+        "id": "XA-03",
+        "level": 2,
+        "name": {
+          "local": "Kenethao",
+          "en": "Kenethao",
+          "slug": "kenethao-xa-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.951",
+      "lon": "101.283"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1941419",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Samxông",
+      "en": "Ban Samxong",
+      "slug": "ban-samxong-1941419"
+    },
+    "code": {
+      "id": "1941419",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA-03",
+      "level": 2,
+      "name": {
+        "local": "Kenethao",
+        "en": "Kenethao",
+        "slug": "kenethao-xa-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      },
+      {
+        "id": "XA-03",
+        "level": 2,
+        "name": {
+          "local": "Kenethao",
+          "en": "Kenethao",
+          "slug": "kenethao-xa-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.701",
+      "lon": "101.33"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1941396",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Souankouay",
+      "en": "Ban Souankouay",
+      "slug": "ban-souankouay-1941396"
+    },
+    "code": {
+      "id": "1941396",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA-03",
+      "level": 2,
+      "name": {
+        "local": "Kenethao",
+        "en": "Kenethao",
+        "slug": "kenethao-xa-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      },
+      {
+        "id": "XA-03",
+        "level": 2,
+        "name": {
+          "local": "Kenethao",
+          "en": "Kenethao",
+          "slug": "kenethao-xa-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.968",
+      "lon": "101.211"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1941394",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Vangpa",
+      "en": "Ban Vangpa",
+      "slug": "ban-vangpa-1941394"
+    },
+    "code": {
+      "id": "1941394",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA-03",
+      "level": 2,
+      "name": {
+        "local": "Kenethao",
+        "en": "Kenethao",
+        "slug": "kenethao-xa-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      },
+      {
+        "id": "XA-03",
+        "level": 2,
+        "name": {
+          "local": "Kenethao",
+          "en": "Kenethao",
+          "slug": "kenethao-xa-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.945",
+      "lon": "101.207"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1941393",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Vangpoun",
+      "en": "Ban Vangpoun",
+      "slug": "ban-vangpoun-1941393"
+    },
+    "code": {
+      "id": "1941393",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA-03",
+      "level": 2,
+      "name": {
+        "local": "Kenethao",
+        "en": "Kenethao",
+        "slug": "kenethao-xa-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      },
+      {
+        "id": "XA-03",
+        "level": 2,
+        "name": {
+          "local": "Kenethao",
+          "en": "Kenethao",
+          "slug": "kenethao-xa-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.844",
+      "lon": "101.222"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1655201",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Muang Kènthao",
+      "en": "Muang Kenthao",
+      "slug": "muang-kenthao-1655201"
+    },
+    "code": {
+      "id": "1655201",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA-03",
+      "level": 2,
+      "name": {
+        "local": "Kenethao",
+        "en": "Kenethao",
+        "slug": "kenethao-xa-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      },
+      {
+        "id": "XA-03",
+        "level": 2,
+        "name": {
+          "local": "Kenethao",
+          "en": "Kenethao",
+          "slug": "kenethao-xa-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.733",
+      "lon": "101.398"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

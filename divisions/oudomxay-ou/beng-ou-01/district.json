@@ -1,0 +1,47 @@
+{
+  "id": "OU-01",
+  "level": 2,
+  "level_name": {
+    "local": "ເມືອງ",
+    "en": "District"
+  },
+  "name": {
+    "local": "Beng",
+    "en": "Beng",
+    "slug": "beng-ou-01"
+  },
+  "code": {
+    "id": "OU-01",
+    "iso": null
+  },
+  "parent": {
+    "id": "OU",
+    "level": 1,
+    "name": {
+      "local": "Oudomxay",
+      "en": "Oudomxay",
+      "slug": "oudomxay-ou"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "OU",
+      "level": 1,
+      "name": {
+        "local": "Oudomxay",
+        "en": "Oudomxay",
+        "slug": "oudomxay-ou"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 114
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "20.339",
+    "lon": "101.752"
+  },
+  "metadata": {},
+  "source": {}
+}

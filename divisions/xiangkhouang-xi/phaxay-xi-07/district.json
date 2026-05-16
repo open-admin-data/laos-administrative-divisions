@@ -1,0 +1,47 @@
+{
+  "id": "XI-07",
+  "level": 2,
+  "level_name": {
+    "local": "ເມືອງ",
+    "en": "District"
+  },
+  "name": {
+    "local": "Phaxay",
+    "en": "Phaxay",
+    "slug": "phaxay-xi-07"
+  },
+  "code": {
+    "id": "XI-07",
+    "iso": null
+  },
+  "parent": {
+    "id": "XI",
+    "level": 1,
+    "name": {
+      "local": "Xiangkhouang",
+      "en": "Xiangkhouang",
+      "slug": "xiangkhouang-xi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "XI",
+      "level": 1,
+      "name": {
+        "local": "Xiangkhouang",
+        "en": "Xiangkhouang",
+        "slug": "xiangkhouang-xi"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 83
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "19.192",
+    "lon": "103.113"
+  },
+  "metadata": {},
+  "source": {}
+}

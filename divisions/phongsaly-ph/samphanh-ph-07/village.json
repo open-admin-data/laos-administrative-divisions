@@ -1,0 +1,4754 @@
+[
+  {
+    "id": "1665023",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Achang",
+      "en": "Ban Achang",
+      "slug": "ban-achang-1665023"
+    },
+    "code": {
+      "id": "1665023",
+      "iso": null
+    },
+    "parent": {
+      "id": "PH-07",
+      "level": 2,
+      "name": {
+        "local": "Samphanh",
+        "en": "Samphanh",
+        "slug": "samphanh-ph-07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PH",
+        "level": 1,
+        "name": {
+          "local": "Phongsaly",
+          "en": "Phongsaly",
+          "slug": "phongsaly-ph"
+        }
+      },
+      {
+        "id": "PH-07",
+        "level": 2,
+        "name": {
+          "local": "Samphanh",
+          "en": "Samphanh",
+          "slug": "samphanh-ph-07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.292",
+      "lon": "102.166"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1665140",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Acholaosa",
+      "en": "Ban Acholaosa",
+      "slug": "ban-acholaosa-1665140"
+    },
+    "code": {
+      "id": "1665140",
+      "iso": null
+    },
+    "parent": {
+      "id": "PH-07",
+      "level": 2,
+      "name": {
+        "local": "Samphanh",
+        "en": "Samphanh",
+        "slug": "samphanh-ph-07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PH",
+        "level": 1,
+        "name": {
+          "local": "Phongsaly",
+          "en": "Phongsaly",
+          "slug": "phongsaly-ph"
+        }
+      },
+      {
+        "id": "PH-07",
+        "level": 2,
+        "name": {
+          "local": "Samphanh",
+          "en": "Samphanh",
+          "slug": "samphanh-ph-07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.319",
+      "lon": "102.161"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1664973",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Aseuy",
+      "en": "Ban Aseuy",
+      "slug": "ban-aseuy-1664973"
+    },
+    "code": {
+      "id": "1664973",
+      "iso": null
+    },
+    "parent": {
+      "id": "PH-07",
+      "level": 2,
+      "name": {
+        "local": "Samphanh",
+        "en": "Samphanh",
+        "slug": "samphanh-ph-07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PH",
+        "level": 1,
+        "name": {
+          "local": "Phongsaly",
+          "en": "Phongsaly",
+          "slug": "phongsaly-ph"
+        }
+      },
+      {
+        "id": "PH-07",
+        "level": 2,
+        "name": {
+          "local": "Samphanh",
+          "en": "Samphanh",
+          "slug": "samphanh-ph-07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.282",
+      "lon": "102.204"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1953022",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Avu",
+      "en": "Ban Avu",
+      "slug": "ban-avu-1953022"
+    },
+    "code": {
+      "id": "1953022",
+      "iso": null
+    },
+    "parent": {
+      "id": "PH-07",
+      "level": 2,
+      "name": {
+        "local": "Samphanh",
+        "en": "Samphanh",
+        "slug": "samphanh-ph-07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PH",
+        "level": 1,
+        "name": {
+          "local": "Phongsaly",
+          "en": "Phongsaly",
+          "slug": "phongsaly-ph"
+        }
+      },
+      {
+        "id": "PH-07",
+        "level": 2,
+        "name": {
+          "local": "Samphanh",
+          "en": "Samphanh",
+          "slug": "samphanh-ph-07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.367",
+      "lon": "102.391"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1952752",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Cheuyya",
+      "en": "Ban Cheuyya",
+      "slug": "ban-cheuyya-1952752"
+    },
+    "code": {
+      "id": "1952752",
+      "iso": null
+    },
+    "parent": {
+      "id": "PH-07",
+      "level": 2,
+      "name": {
+        "local": "Samphanh",
+        "en": "Samphanh",
+        "slug": "samphanh-ph-07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PH",
+        "level": 1,
+        "name": {
+          "local": "Phongsaly",
+          "en": "Phongsaly",
+          "slug": "phongsaly-ph"
+        }
+      },
+      {
+        "id": "PH-07",
+        "level": 2,
+        "name": {
+          "local": "Samphanh",
+          "en": "Samphanh",
+          "slug": "samphanh-ph-07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.401",
+      "lon": "102.199"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1654499",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Euyalao-Noy",
+      "en": "Ban Euyalao-Noy",
+      "slug": "ban-euyalao-noy-1654499"
+    },
+    "code": {
+      "id": "1654499",
+      "iso": null
+    },
+    "parent": {
+      "id": "PH-07",
+      "level": 2,
+      "name": {
+        "local": "Samphanh",
+        "en": "Samphanh",
+        "slug": "samphanh-ph-07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PH",
+        "level": 1,
+        "name": {
+          "local": "Phongsaly",
+          "en": "Phongsaly",
+          "slug": "phongsaly-ph"
+        }
+      },
+      {
+        "id": "PH-07",
+        "level": 2,
+        "name": {
+          "local": "Samphanh",
+          "en": "Samphanh",
+          "slug": "samphanh-ph-07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.35",
+      "lon": "102.184"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1952750",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Gnang-Nua",
+      "en": "Ban Gnang-Nua",
+      "slug": "ban-gnang-nua-1952750"
+    },
+    "code": {
+      "id": "1952750",
+      "iso": null
+    },
+    "parent": {
+      "id": "PH-07",
+      "level": 2,
+      "name": {
+        "local": "Samphanh",
+        "en": "Samphanh",
+        "slug": "samphanh-ph-07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PH",
+        "level": 1,
+        "name": {
+          "local": "Phongsaly",
+          "en": "Phongsaly",
+          "slug": "phongsaly-ph"
+        }
+      },
+      {
+        "id": "PH-07",
+        "level": 2,
+        "name": {
+          "local": "Samphanh",
+          "en": "Samphanh",
+          "slug": "samphanh-ph-07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.405",
+      "lon": "102.392"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1953016",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Gnang-Tai",
+      "en": "Ban Gnang-Tai",
+      "slug": "ban-gnang-tai-1953016"
+    },
+    "code": {
+      "id": "1953016",
+      "iso": null
+    },
+    "parent": {
+      "id": "PH-07",
+      "level": 2,
+      "name": {
+        "local": "Samphanh",
+        "en": "Samphanh",
+        "slug": "samphanh-ph-07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PH",
+        "level": 1,
+        "name": {
+          "local": "Phongsaly",
+          "en": "Phongsaly",
+          "slug": "phongsaly-ph"
+        }
+      },
+      {
+        "id": "PH-07",
+        "level": 2,
+        "name": {
+          "local": "Samphanh",
+          "en": "Samphanh",
+          "slug": "samphanh-ph-07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.385",
+      "lon": "102.454"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1954943",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Hatlan",
+      "en": "Ban Hatlan",
+      "slug": "ban-hatlan-1954943"
+    },
+    "code": {
+      "id": "1954943",
+      "iso": null
+    },
+    "parent": {
+      "id": "PH-07",
+      "level": 2,
+      "name": {
+        "local": "Samphanh",
+        "en": "Samphanh",
+        "slug": "samphanh-ph-07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PH",
+        "level": 1,
+        "name": {
+          "local": "Phongsaly",
+          "en": "Phongsaly",
+          "slug": "phongsaly-ph"
+        }
+      },
+      {
+        "id": "PH-07",
+        "level": 2,
+        "name": {
+          "local": "Samphanh",
+          "en": "Samphanh",
+          "slug": "samphanh-ph-07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.323",
+      "lon": "102.357"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1664164",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Hatnga-Nua",
+      "en": "Ban Hatnga-Nua",
+      "slug": "ban-hatnga-nua-1664164"
+    },
+    "code": {
+      "id": "1664164",
+      "iso": null
+    },
+    "parent": {
+      "id": "PH-07",
+      "level": 2,
+      "name": {
+        "local": "Samphanh",
+        "en": "Samphanh",
+        "slug": "samphanh-ph-07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PH",
+        "level": 1,
+        "name": {
+          "local": "Phongsaly",
+          "en": "Phongsaly",
+          "slug": "phongsaly-ph"
+        }
+      },
+      {
+        "id": "PH-07",
+        "level": 2,
+        "name": {
+          "local": "Samphanh",
+          "en": "Samphanh",
+          "slug": "samphanh-ph-07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.283",
+      "lon": "102.375"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1664137",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Hatnga-Tai",
+      "en": "Ban Hatnga-Tai",
+      "slug": "ban-hatnga-tai-1664137"
+    },
+    "code": {
+      "id": "1664137",
+      "iso": null
+    },
+    "parent": {
+      "id": "PH-07",
+      "level": 2,
+      "name": {
+        "local": "Samphanh",
+        "en": "Samphanh",
+        "slug": "samphanh-ph-07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PH",
+        "level": 1,
+        "name": {
+          "local": "Phongsaly",
+          "en": "Phongsaly",
+          "slug": "phongsaly-ph"
+        }
+      },
+      {
+        "id": "PH-07",
+        "level": 2,
+        "name": {
+          "local": "Samphanh",
+          "en": "Samphanh",
+          "slug": "samphanh-ph-07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.272",
+      "lon": "102.424"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1952739",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houaygna",
+      "en": "Ban Houaygna",
+      "slug": "ban-houaygna-1952739"
+    },
+    "code": {
+      "id": "1952739",
+      "iso": null
+    },
+    "parent": {
+      "id": "PH-07",
+      "level": 2,
+      "name": {
+        "local": "Samphanh",
+        "en": "Samphanh",
+        "slug": "samphanh-ph-07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PH",
+        "level": 1,
+        "name": {
+          "local": "Phongsaly",
+          "en": "Phongsaly",
+          "slug": "phongsaly-ph"
+        }
+      },
+      {
+        "id": "PH-07",
+        "level": 2,
+        "name": {
+          "local": "Samphanh",
+          "en": "Samphanh",
+          "slug": "samphanh-ph-07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.451",
+      "lon": "102.302"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1953024",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houayna",
+      "en": "Ban Houayna",
+      "slug": "ban-houayna-1953024"
+    },
+    "code": {
+      "id": "1953024",
+      "iso": null
+    },
+    "parent": {
+      "id": "PH-07",
+      "level": 2,
+      "name": {
+        "local": "Samphanh",
+        "en": "Samphanh",
+        "slug": "samphanh-ph-07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PH",
+        "level": 1,
+        "name": {
+          "local": "Phongsaly",
+          "en": "Phongsaly",
+          "slug": "phongsaly-ph"
+        }
+      },
+      {
+        "id": "PH-07",
+        "level": 2,
+        "name": {
+          "local": "Samphanh",
+          "en": "Samphanh",
+          "slug": "samphanh-ph-07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.358",
+      "lon": "102.384"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1953011",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houaythong",
+      "en": "Ban Houaythong",
+      "slug": "ban-houaythong-1953011"
+    },
+    "code": {
+      "id": "1953011",
+      "iso": null
+    },
+    "parent": {
+      "id": "PH-07",
+      "level": 2,
+      "name": {
+        "local": "Samphanh",
+        "en": "Samphanh",
+        "slug": "samphanh-ph-07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PH",
+        "level": 1,
+        "name": {
+          "local": "Phongsaly",
+          "en": "Phongsaly",
+          "slug": "phongsaly-ph"
+        }
+      },
+      {
+        "id": "PH-07",
+        "level": 2,
+        "name": {
+          "local": "Samphanh",
+          "en": "Samphanh",
+          "slug": "samphanh-ph-07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.375",
+      "lon": "102.355"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1655208",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Hounxianghoung",
+      "en": "Ban Hounxianghoung",
+      "slug": "ban-hounxianghoung-1655208"
+    },
+    "code": {
+      "id": "1655208",
+      "iso": null
+    },
+    "parent": {
+      "id": "PH-07",
+      "level": 2,
+      "name": {
+        "local": "Samphanh",
+        "en": "Samphanh",
+        "slug": "samphanh-ph-07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PH",
+        "level": 1,
+        "name": {
+          "local": "Phongsaly",
+          "en": "Phongsaly",
+          "slug": "phongsaly-ph"
+        }
+      },
+      {
+        "id": "PH-07",
+        "level": 2,
+        "name": {
+          "local": "Samphanh",
+          "en": "Samphanh",
+          "slug": "samphanh-ph-07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.609",
+      "lon": "102.301"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1954937",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Ilak",
+      "en": "Ban Ilak",
+      "slug": "ban-ilak-1954937"
+    },
+    "code": {
+      "id": "1954937",
+      "iso": null
+    },
+    "parent": {
+      "id": "PH-07",
+      "level": 2,
+      "name": {
+        "local": "Samphanh",
+        "en": "Samphanh",
+        "slug": "samphanh-ph-07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PH",
+        "level": 1,
+        "name": {
+          "local": "Phongsaly",
+          "en": "Phongsaly",
+          "slug": "phongsaly-ph"
+        }
+      },
+      {
+        "id": "PH-07",
+        "level": 2,
+        "name": {
+          "local": "Samphanh",
+          "en": "Samphanh",
+          "slug": "samphanh-ph-07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.285",
+      "lon": "102.254"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1656643",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Kènghi",
+      "en": "Ban Kenghi",
+      "slug": "ban-kenghi-1656643"
+    },
+    "code": {
+      "id": "1656643",
+      "iso": null
+    },
+    "parent": {
+      "id": "PH-07",
+      "level": 2,
+      "name": {
+        "local": "Samphanh",
+        "en": "Samphanh",
+        "slug": "samphanh-ph-07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PH",
+        "level": 1,
+        "name": {
+          "local": "Phongsaly",
+          "en": "Phongsaly",
+          "slug": "phongsaly-ph"
+        }
+      },
+      {
+        "id": "PH-07",
+        "level": 2,
+        "name": {
+          "local": "Samphanh",
+          "en": "Samphanh",
+          "slug": "samphanh-ph-07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.483",
+      "lon": "102.326"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1952670",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Kèngkhoun",
+      "en": "Ban Kengkhoun",
+      "slug": "ban-kengkhoun-1952670"
+    },
+    "code": {
+      "id": "1952670",
+      "iso": null
+    },
+    "parent": {
+      "id": "PH-07",
+      "level": 2,
+      "name": {
+        "local": "Samphanh",
+        "en": "Samphanh",
+        "slug": "samphanh-ph-07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PH",
+        "level": 1,
+        "name": {
+          "local": "Phongsaly",
+          "en": "Phongsaly",
+          "slug": "phongsaly-ph"
+        }
+      },
+      {
+        "id": "PH-07",
+        "level": 2,
+        "name": {
+          "local": "Samphanh",
+          "en": "Samphanh",
+          "slug": "samphanh-ph-07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.534",
+      "lon": "102.329"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1952672",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Kèngvèng",
+      "en": "Ban Kengveng",
+      "slug": "ban-kengveng-1952672"
+    },
+    "code": {
+      "id": "1952672",
+      "iso": null
+    },
+    "parent": {
+      "id": "PH-07",
+      "level": 2,
+      "name": {
+        "local": "Samphanh",
+        "en": "Samphanh",
+        "slug": "samphanh-ph-07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PH",
+        "level": 1,
+        "name": {
+          "local": "Phongsaly",
+          "en": "Phongsaly",
+          "slug": "phongsaly-ph"
+        }
+      },
+      {
+        "id": "PH-07",
+        "level": 2,
+        "name": {
+          "local": "Samphanh",
+          "en": "Samphanh",
+          "slug": "samphanh-ph-07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.513",
+      "lon": "102.326"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1663077",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Khana",
+      "en": "Ban Khana",
+      "slug": "ban-khana-1663077"
+    },
+    "code": {
+      "id": "1663077",
+      "iso": null
+    },
+    "parent": {
+      "id": "PH-07",
+      "level": 2,
+      "name": {
+        "local": "Samphanh",
+        "en": "Samphanh",
+        "slug": "samphanh-ph-07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PH",
+        "level": 1,
+        "name": {
+          "local": "Phongsaly",
+          "en": "Phongsaly",
+          "slug": "phongsaly-ph"
+        }
+      },
+      {
+        "id": "PH-07",
+        "level": 2,
+        "name": {
+          "local": "Samphanh",
+          "en": "Samphanh",
+          "slug": "samphanh-ph-07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.437",
+      "lon": "102.351"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1954889",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Khonnammou",
+      "en": "Ban Khonnammou",
+      "slug": "ban-khonnammou-1954889"
+    },
+    "code": {
+      "id": "1954889",
+      "iso": null
+    },
+    "parent": {
+      "id": "PH-07",
+      "level": 2,
+      "name": {
+        "local": "Samphanh",
+        "en": "Samphanh",
+        "slug": "samphanh-ph-07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PH",
+        "level": 1,
+        "name": {
+          "local": "Phongsaly",
+          "en": "Phongsaly",
+          "slug": "phongsaly-ph"
+        }
+      },
+      {
+        "id": "PH-07",
+        "level": 2,
+        "name": {
+          "local": "Samphanh",
+          "en": "Samphanh",
+          "slug": "samphanh-ph-07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.287",
+      "lon": "102.114"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1952669",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Kôkkhô",
+      "en": "Ban Kokkho",
+      "slug": "ban-kokkho-1952669"
+    },
+    "code": {
+      "id": "1952669",
+      "iso": null
+    },
+    "parent": {
+      "id": "PH-07",
+      "level": 2,
+      "name": {
+        "local": "Samphanh",
+        "en": "Samphanh",
+        "slug": "samphanh-ph-07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PH",
+        "level": 1,
+        "name": {
+          "local": "Phongsaly",
+          "en": "Phongsaly",
+          "slug": "phongsaly-ph"
+        }
+      },
+      {
+        "id": "PH-07",
+        "level": 2,
+        "name": {
+          "local": "Samphanh",
+          "en": "Samphanh",
+          "slug": "samphanh-ph-07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.544",
+      "lon": "102.3"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1954949",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Kongkhoum",
+      "en": "Ban Kongkhoum",
+      "slug": "ban-kongkhoum-1954949"
+    },
+    "code": {
+      "id": "1954949",
+      "iso": null
+    },
+    "parent": {
+      "id": "PH-07",
+      "level": 2,
+      "name": {
+        "local": "Samphanh",
+        "en": "Samphanh",
+        "slug": "samphanh-ph-07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PH",
+        "level": 1,
+        "name": {
+          "local": "Phongsaly",
+          "en": "Phongsaly",
+          "slug": "phongsaly-ph"
+        }
+      },
+      {
+        "id": "PH-07",
+        "level": 2,
+        "name": {
+          "local": "Samphanh",
+          "en": "Samphanh",
+          "slug": "samphanh-ph-07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.237",
+      "lon": "102.297"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1952756",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Kongsani",
+      "en": "Ban Kongsani",
+      "slug": "ban-kongsani-1952756"
+    },
+    "code": {
+      "id": "1952756",
+      "iso": null
+    },
+    "parent": {
+      "id": "PH-07",
+      "level": 2,
+      "name": {
+        "local": "Samphanh",
+        "en": "Samphanh",
+        "slug": "samphanh-ph-07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PH",
+        "level": 1,
+        "name": {
+          "local": "Phongsaly",
+          "en": "Phongsaly",
+          "slug": "phongsaly-ph"
+        }
+      },
+      {
+        "id": "PH-07",
+        "level": 2,
+        "name": {
+          "local": "Samphanh",
+          "en": "Samphanh",
+          "slug": "samphanh-ph-07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.395",
+      "lon": "102.278"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1954948",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Laolép",
+      "en": "Ban Laolep",
+      "slug": "ban-laolep-1954948"
+    },
+    "code": {
+      "id": "1954948",
+      "iso": null
+    },
+    "parent": {
+      "id": "PH-07",
+      "level": 2,
+      "name": {
+        "local": "Samphanh",
+        "en": "Samphanh",
+        "slug": "samphanh-ph-07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PH",
+        "level": 1,
+        "name": {
+          "local": "Phongsaly",
+          "en": "Phongsaly",
+          "slug": "phongsaly-ph"
+        }
+      },
+      {
+        "id": "PH-07",
+        "level": 2,
+        "name": {
+          "local": "Samphanh",
+          "en": "Samphanh",
+          "slug": "samphanh-ph-07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.31",
+      "lon": "102.299"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1953008",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Laopan",
+      "en": "Ban Laopan",
+      "slug": "ban-laopan-1953008"
+    },
+    "code": {
+      "id": "1953008",
+      "iso": null
+    },
+    "parent": {
+      "id": "PH-07",
+      "level": 2,
+      "name": {
+        "local": "Samphanh",
+        "en": "Samphanh",
+        "slug": "samphanh-ph-07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PH",
+        "level": 1,
+        "name": {
+          "local": "Phongsaly",
+          "en": "Phongsaly",
+          "slug": "phongsaly-ph"
+        }
+      },
+      {
+        "id": "PH-07",
+        "level": 2,
+        "name": {
+          "local": "Samphanh",
+          "en": "Samphanh",
+          "slug": "samphanh-ph-07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.372",
+      "lon": "102.278"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1952742",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Laopanlouang",
+      "en": "Ban Laopanlouang",
+      "slug": "ban-laopanlouang-1952742"
+    },
+    "code": {
+      "id": "1952742",
+      "iso": null
+    },
+    "parent": {
+      "id": "PH-07",
+      "level": 2,
+      "name": {
+        "local": "Samphanh",
+        "en": "Samphanh",
+        "slug": "samphanh-ph-07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PH",
+        "level": 1,
+        "name": {
+          "local": "Phongsaly",
+          "en": "Phongsaly",
+          "slug": "phongsaly-ph"
+        }
+      },
+      {
+        "id": "PH-07",
+        "level": 2,
+        "name": {
+          "local": "Samphanh",
+          "en": "Samphanh",
+          "slug": "samphanh-ph-07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.445",
+      "lon": "102.233"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1655835",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Laosèn",
+      "en": "Ban Laosen",
+      "slug": "ban-laosen-1655835"
+    },
+    "code": {
+      "id": "1655835",
+      "iso": null
+    },
+    "parent": {
+      "id": "PH-07",
+      "level": 2,
+      "name": {
+        "local": "Samphanh",
+        "en": "Samphanh",
+        "slug": "samphanh-ph-07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PH",
+        "level": 1,
+        "name": {
+          "local": "Phongsaly",
+          "en": "Phongsaly",
+          "slug": "phongsaly-ph"
+        }
+      },
+      {
+        "id": "PH-07",
+        "level": 2,
+        "name": {
+          "local": "Samphanh",
+          "en": "Samphanh",
+          "slug": "samphanh-ph-07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.306",
+      "lon": "102.272"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1662553",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Lasa Laeu",
+      "en": "Ban Lasa Laeu",
+      "slug": "ban-lasa-laeu-1662553"
+    },
+    "code": {
+      "id": "1662553",
+      "iso": null
+    },
+    "parent": {
+      "id": "PH-07",
+      "level": 2,
+      "name": {
+        "local": "Samphanh",
+        "en": "Samphanh",
+        "slug": "samphanh-ph-07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PH",
+        "level": 1,
+        "name": {
+          "local": "Phongsaly",
+          "en": "Phongsaly",
+          "slug": "phongsaly-ph"
+        }
+      },
+      {
+        "id": "PH-07",
+        "level": 2,
+        "name": {
+          "local": "Samphanh",
+          "en": "Samphanh",
+          "slug": "samphanh-ph-07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.217",
+      "lon": "102.217"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1662468",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Likna",
+      "en": "Ban Likna",
+      "slug": "ban-likna-1662468"
+    },
+    "code": {
+      "id": "1662468",
+      "iso": null
+    },
+    "parent": {
+      "id": "PH-07",
+      "level": 2,
+      "name": {
+        "local": "Samphanh",
+        "en": "Samphanh",
+        "slug": "samphanh-ph-07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PH",
+        "level": 1,
+        "name": {
+          "local": "Phongsaly",
+          "en": "Phongsaly",
+          "slug": "phongsaly-ph"
+        }
+      },
+      {
+        "id": "PH-07",
+        "level": 2,
+        "name": {
+          "local": "Samphanh",
+          "en": "Samphanh",
+          "slug": "samphanh-ph-07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.345",
+      "lon": "102.35"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1654498",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Lixingxô",
+      "en": "Ban Lixingxo",
+      "slug": "ban-lixingxo-1654498"
+    },
+    "code": {
+      "id": "1654498",
+      "iso": null
+    },
+    "parent": {
+      "id": "PH-07",
+      "level": 2,
+      "name": {
+        "local": "Samphanh",
+        "en": "Samphanh",
+        "slug": "samphanh-ph-07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PH",
+        "level": 1,
+        "name": {
+          "local": "Phongsaly",
+          "en": "Phongsaly",
+          "slug": "phongsaly-ph"
+        }
+      },
+      {
+        "id": "PH-07",
+        "level": 2,
+        "name": {
+          "local": "Samphanh",
+          "en": "Samphanh",
+          "slug": "samphanh-ph-07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.368",
+      "lon": "102.2"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1954941",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Môkgnôm",
+      "en": "Ban Mokgnom",
+      "slug": "ban-mokgnom-1954941"
+    },
+    "code": {
+      "id": "1954941",
+      "iso": null
+    },
+    "parent": {
+      "id": "PH-07",
+      "level": 2,
+      "name": {
+        "local": "Samphanh",
+        "en": "Samphanh",
+        "slug": "samphanh-ph-07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PH",
+        "level": 1,
+        "name": {
+          "local": "Phongsaly",
+          "en": "Phongsaly",
+          "slug": "phongsaly-ph"
+        }
+      },
+      {
+        "id": "PH-07",
+        "level": 2,
+        "name": {
+          "local": "Samphanh",
+          "en": "Samphanh",
+          "slug": "samphanh-ph-07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.292",
+      "lon": "102.333"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1954938",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Môkkôk-Mai",
+      "en": "Ban Mokkok-Mai",
+      "slug": "ban-mokkok-mai-1954938"
+    },
+    "code": {
+      "id": "1954938",
+      "iso": null
+    },
+    "parent": {
+      "id": "PH-07",
+      "level": 2,
+      "name": {
+        "local": "Samphanh",
+        "en": "Samphanh",
+        "slug": "samphanh-ph-07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PH",
+        "level": 1,
+        "name": {
+          "local": "Phongsaly",
+          "en": "Phongsaly",
+          "slug": "phongsaly-ph"
+        }
+      },
+      {
+        "id": "PH-07",
+        "level": 2,
+        "name": {
+          "local": "Samphanh",
+          "en": "Samphanh",
+          "slug": "samphanh-ph-07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.295",
+      "lon": "102.248"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1954934",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Môkkok-Nôy",
+      "en": "Ban Mokkok-Noy",
+      "slug": "ban-mokkok-noy-1954934"
+    },
+    "code": {
+      "id": "1954934",
+      "iso": null
+    },
+    "parent": {
+      "id": "PH-07",
+      "level": 2,
+      "name": {
+        "local": "Samphanh",
+        "en": "Samphanh",
+        "slug": "samphanh-ph-07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PH",
+        "level": 1,
+        "name": {
+          "local": "Phongsaly",
+          "en": "Phongsaly",
+          "slug": "phongsaly-ph"
+        }
+      },
+      {
+        "id": "PH-07",
+        "level": 2,
+        "name": {
+          "local": "Samphanh",
+          "en": "Samphanh",
+          "slug": "samphanh-ph-07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.265",
+      "lon": "102.232"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1952671",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Môklôm",
+      "en": "Ban Moklom",
+      "slug": "ban-moklom-1952671"
+    },
+    "code": {
+      "id": "1952671",
+      "iso": null
+    },
+    "parent": {
+      "id": "PH-07",
+      "level": 2,
+      "name": {
+        "local": "Samphanh",
+        "en": "Samphanh",
+        "slug": "samphanh-ph-07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PH",
+        "level": 1,
+        "name": {
+          "local": "Phongsaly",
+          "en": "Phongsaly",
+          "slug": "phongsaly-ph"
+        }
+      },
+      {
+        "id": "PH-07",
+        "level": 2,
+        "name": {
+          "local": "Samphanh",
+          "en": "Samphanh",
+          "slug": "samphanh-ph-07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.529",
+      "lon": "102.367"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1655064",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Moukki",
+      "en": "Ban Moukki",
+      "slug": "ban-moukki-1655064"
+    },
+    "code": {
+      "id": "1655064",
+      "iso": null
+    },
+    "parent": {
+      "id": "PH-07",
+      "level": 2,
+      "name": {
+        "local": "Samphanh",
+        "en": "Samphanh",
+        "slug": "samphanh-ph-07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PH",
+        "level": 1,
+        "name": {
+          "local": "Phongsaly",
+          "en": "Phongsaly",
+          "slug": "phongsaly-ph"
+        }
+      },
+      {
+        "id": "PH-07",
+        "level": 2,
+        "name": {
+          "local": "Samphanh",
+          "en": "Samphanh",
+          "slug": "samphanh-ph-07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.39",
+      "lon": "102.224"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1952751",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Moukkikang",
+      "en": "Ban Moukkikang",
+      "slug": "ban-moukkikang-1952751"
+    },
+    "code": {
+      "id": "1952751",
+      "iso": null
+    },
+    "parent": {
+      "id": "PH-07",
+      "level": 2,
+      "name": {
+        "local": "Samphanh",
+        "en": "Samphanh",
+        "slug": "samphanh-ph-07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PH",
+        "level": 1,
+        "name": {
+          "local": "Phongsaly",
+          "en": "Phongsaly",
+          "slug": "phongsaly-ph"
+        }
+      },
+      {
+        "id": "PH-07",
+        "level": 2,
+        "name": {
+          "local": "Samphanh",
+          "en": "Samphanh",
+          "slug": "samphanh-ph-07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.413",
+      "lon": "102.247"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1952708",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Na-Ou",
+      "en": "Ban Na-Ou",
+      "slug": "ban-na-ou-1952708"
+    },
+    "code": {
+      "id": "1952708",
+      "iso": null
+    },
+    "parent": {
+      "id": "PH-07",
+      "level": 2,
+      "name": {
+        "local": "Samphanh",
+        "en": "Samphanh",
+        "slug": "samphanh-ph-07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PH",
+        "level": 1,
+        "name": {
+          "local": "Phongsaly",
+          "en": "Phongsaly",
+          "slug": "phongsaly-ph"
+        }
+      },
+      {
+        "id": "PH-07",
+        "level": 2,
+        "name": {
+          "local": "Samphanh",
+          "en": "Samphanh",
+          "slug": "samphanh-ph-07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.49",
+      "lon": "102.431"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1952709",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nam-Om",
+      "en": "Ban Nam-Om",
+      "slug": "ban-nam-om-1952709"
+    },
+    "code": {
+      "id": "1952709",
+      "iso": null
+    },
+    "parent": {
+      "id": "PH-07",
+      "level": 2,
+      "name": {
+        "local": "Samphanh",
+        "en": "Samphanh",
+        "slug": "samphanh-ph-07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PH",
+        "level": 1,
+        "name": {
+          "local": "Phongsaly",
+          "en": "Phongsaly",
+          "slug": "phongsaly-ph"
+        }
+      },
+      {
+        "id": "PH-07",
+        "level": 2,
+        "name": {
+          "local": "Samphanh",
+          "en": "Samphanh",
+          "slug": "samphanh-ph-07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.492",
+      "lon": "102.386"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1953013",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Namgnouan",
+      "en": "Ban Namgnouan",
+      "slug": "ban-namgnouan-1953013"
+    },
+    "code": {
+      "id": "1953013",
+      "iso": null
+    },
+    "parent": {
+      "id": "PH-07",
+      "level": 2,
+      "name": {
+        "local": "Samphanh",
+        "en": "Samphanh",
+        "slug": "samphanh-ph-07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PH",
+        "level": 1,
+        "name": {
+          "local": "Phongsaly",
+          "en": "Phongsaly",
+          "slug": "phongsaly-ph"
+        }
+      },
+      {
+        "id": "PH-07",
+        "level": 2,
+        "name": {
+          "local": "Samphanh",
+          "en": "Samphanh",
+          "slug": "samphanh-ph-07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.371",
+      "lon": "102.433"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1952663",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Namhai",
+      "en": "Ban Namhai",
+      "slug": "ban-namhai-1952663"
+    },
+    "code": {
+      "id": "1952663",
+      "iso": null
+    },
+    "parent": {
+      "id": "PH-07",
+      "level": 2,
+      "name": {
+        "local": "Samphanh",
+        "en": "Samphanh",
+        "slug": "samphanh-ph-07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PH",
+        "level": 1,
+        "name": {
+          "local": "Phongsaly",
+          "en": "Phongsaly",
+          "slug": "phongsaly-ph"
+        }
+      },
+      {
+        "id": "PH-07",
+        "level": 2,
+        "name": {
+          "local": "Samphanh",
+          "en": "Samphanh",
+          "slug": "samphanh-ph-07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.552",
+      "lon": "102.354"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1952653",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Namhoun",
+      "en": "Ban Namhoun",
+      "slug": "ban-namhoun-1952653"
+    },
+    "code": {
+      "id": "1952653",
+      "iso": null
+    },
+    "parent": {
+      "id": "PH-07",
+      "level": 2,
+      "name": {
+        "local": "Samphanh",
+        "en": "Samphanh",
+        "slug": "samphanh-ph-07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PH",
+        "level": 1,
+        "name": {
+          "local": "Phongsaly",
+          "en": "Phongsaly",
+          "slug": "phongsaly-ph"
+        }
+      },
+      {
+        "id": "PH-07",
+        "level": 2,
+        "name": {
+          "local": "Samphanh",
+          "en": "Samphanh",
+          "slug": "samphanh-ph-07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.62",
+      "lon": "102.404"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1954942",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Namloy",
+      "en": "Ban Namloy",
+      "slug": "ban-namloy-1954942"
+    },
+    "code": {
+      "id": "1954942",
+      "iso": null
+    },
+    "parent": {
+      "id": "PH-07",
+      "level": 2,
+      "name": {
+        "local": "Samphanh",
+        "en": "Samphanh",
+        "slug": "samphanh-ph-07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PH",
+        "level": 1,
+        "name": {
+          "local": "Phongsaly",
+          "en": "Phongsaly",
+          "slug": "phongsaly-ph"
+        }
+      },
+      {
+        "id": "PH-07",
+        "level": 2,
+        "name": {
+          "local": "Samphanh",
+          "en": "Samphanh",
+          "slug": "samphanh-ph-07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.317",
+      "lon": "102.321"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1952738",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Namnga",
+      "en": "Ban Namnga",
+      "slug": "ban-namnga-1952738"
+    },
+    "code": {
+      "id": "1952738",
+      "iso": null
+    },
+    "parent": {
+      "id": "PH-07",
+      "level": 2,
+      "name": {
+        "local": "Samphanh",
+        "en": "Samphanh",
+        "slug": "samphanh-ph-07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PH",
+        "level": 1,
+        "name": {
+          "local": "Phongsaly",
+          "en": "Phongsaly",
+          "slug": "phongsaly-ph"
+        }
+      },
+      {
+        "id": "PH-07",
+        "level": 2,
+        "name": {
+          "local": "Samphanh",
+          "en": "Samphanh",
+          "slug": "samphanh-ph-07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.446",
+      "lon": "102.46"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1952673",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nampông",
+      "en": "Ban Nampong",
+      "slug": "ban-nampong-1952673"
+    },
+    "code": {
+      "id": "1952673",
+      "iso": null
+    },
+    "parent": {
+      "id": "PH-07",
+      "level": 2,
+      "name": {
+        "local": "Samphanh",
+        "en": "Samphanh",
+        "slug": "samphanh-ph-07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PH",
+        "level": 1,
+        "name": {
+          "local": "Phongsaly",
+          "en": "Phongsaly",
+          "slug": "phongsaly-ph"
+        }
+      },
+      {
+        "id": "PH-07",
+        "level": 2,
+        "name": {
+          "local": "Samphanh",
+          "en": "Samphanh",
+          "slug": "samphanh-ph-07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.519",
+      "lon": "102.28"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1952654",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nongkham",
+      "en": "Ban Nongkham",
+      "slug": "ban-nongkham-1952654"
+    },
+    "code": {
+      "id": "1952654",
+      "iso": null
+    },
+    "parent": {
+      "id": "PH-07",
+      "level": 2,
+      "name": {
+        "local": "Samphanh",
+        "en": "Samphanh",
+        "slug": "samphanh-ph-07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PH",
+        "level": 1,
+        "name": {
+          "local": "Phongsaly",
+          "en": "Phongsaly",
+          "slug": "phongsaly-ph"
+        }
+      },
+      {
+        "id": "PH-07",
+        "level": 2,
+        "name": {
+          "local": "Samphanh",
+          "en": "Samphanh",
+          "slug": "samphanh-ph-07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.617",
+      "lon": "102.378"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1654520",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Ômananam",
+      "en": "Ban Omananam",
+      "slug": "ban-omananam-1654520"
+    },
+    "code": {
+      "id": "1654520",
+      "iso": null
+    },
+    "parent": {
+      "id": "PH-07",
+      "level": 2,
+      "name": {
+        "local": "Samphanh",
+        "en": "Samphanh",
+        "slug": "samphanh-ph-07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PH",
+        "level": 1,
+        "name": {
+          "local": "Phongsaly",
+          "en": "Phongsaly",
+          "slug": "phongsaly-ph"
+        }
+      },
+      {
+        "id": "PH-07",
+        "level": 2,
+        "name": {
+          "local": "Samphanh",
+          "en": "Samphanh",
+          "slug": "samphanh-ph-07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.477",
+      "lon": "102.229"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1952749",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Ômtham",
+      "en": "Ban Omtham",
+      "slug": "ban-omtham-1952749"
+    },
+    "code": {
+      "id": "1952749",
+      "iso": null
+    },
+    "parent": {
+      "id": "PH-07",
+      "level": 2,
+      "name": {
+        "local": "Samphanh",
+        "en": "Samphanh",
+        "slug": "samphanh-ph-07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PH",
+        "level": 1,
+        "name": {
+          "local": "Phongsaly",
+          "en": "Phongsaly",
+          "slug": "phongsaly-ph"
+        }
+      },
+      {
+        "id": "PH-07",
+        "level": 2,
+        "name": {
+          "local": "Samphanh",
+          "en": "Samphanh",
+          "slug": "samphanh-ph-07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.416",
+      "lon": "102.405"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1654316",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phagnasi",
+      "en": "Ban Phagnasi",
+      "slug": "ban-phagnasi-1654316"
+    },
+    "code": {
+      "id": "1654316",
+      "iso": null
+    },
+    "parent": {
+      "id": "PH-07",
+      "level": 2,
+      "name": {
+        "local": "Samphanh",
+        "en": "Samphanh",
+        "slug": "samphanh-ph-07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PH",
+        "level": 1,
+        "name": {
+          "local": "Phongsaly",
+          "en": "Phongsaly",
+          "slug": "phongsaly-ph"
+        }
+      },
+      {
+        "id": "PH-07",
+        "level": 2,
+        "name": {
+          "local": "Samphanh",
+          "en": "Samphanh",
+          "slug": "samphanh-ph-07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.693",
+      "lon": "102.37"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1954933",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phiacheu",
+      "en": "Ban Phiacheu",
+      "slug": "ban-phiacheu-1954933"
+    },
+    "code": {
+      "id": "1954933",
+      "iso": null
+    },
+    "parent": {
+      "id": "PH-07",
+      "level": 2,
+      "name": {
+        "local": "Samphanh",
+        "en": "Samphanh",
+        "slug": "samphanh-ph-07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PH",
+        "level": 1,
+        "name": {
+          "local": "Phongsaly",
+          "en": "Phongsaly",
+          "slug": "phongsaly-ph"
+        }
+      },
+      {
+        "id": "PH-07",
+        "level": 2,
+        "name": {
+          "local": "Samphanh",
+          "en": "Samphanh",
+          "slug": "samphanh-ph-07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.245",
+      "lon": "102.213"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1954935",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phiang",
+      "en": "Ban Phiang",
+      "slug": "ban-phiang-1954935"
+    },
+    "code": {
+      "id": "1954935",
+      "iso": null
+    },
+    "parent": {
+      "id": "PH-07",
+      "level": 2,
+      "name": {
+        "local": "Samphanh",
+        "en": "Samphanh",
+        "slug": "samphanh-ph-07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PH",
+        "level": 1,
+        "name": {
+          "local": "Phongsaly",
+          "en": "Phongsaly",
+          "slug": "phongsaly-ph"
+        }
+      },
+      {
+        "id": "PH-07",
+        "level": 2,
+        "name": {
+          "local": "Samphanh",
+          "en": "Samphanh",
+          "slug": "samphanh-ph-07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.302",
+      "lon": "102.229"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1653226",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phianglouang",
+      "en": "Ban Phianglouang",
+      "slug": "ban-phianglouang-1653226"
+    },
+    "code": {
+      "id": "1653226",
+      "iso": null
+    },
+    "parent": {
+      "id": "PH-07",
+      "level": 2,
+      "name": {
+        "local": "Samphanh",
+        "en": "Samphanh",
+        "slug": "samphanh-ph-07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PH",
+        "level": 1,
+        "name": {
+          "local": "Phongsaly",
+          "en": "Phongsaly",
+          "slug": "phongsaly-ph"
+        }
+      },
+      {
+        "id": "PH-07",
+        "level": 2,
+        "name": {
+          "local": "Samphanh",
+          "en": "Samphanh",
+          "slug": "samphanh-ph-07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.21",
+      "lon": "102.226"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1653818",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phiasi",
+      "en": "Ban Phiasi",
+      "slug": "ban-phiasi-1653818"
+    },
+    "code": {
+      "id": "1653818",
+      "iso": null
+    },
+    "parent": {
+      "id": "PH-07",
+      "level": 2,
+      "name": {
+        "local": "Samphanh",
+        "en": "Samphanh",
+        "slug": "samphanh-ph-07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PH",
+        "level": 1,
+        "name": {
+          "local": "Phongsaly",
+          "en": "Phongsaly",
+          "slug": "phongsaly-ph"
+        }
+      },
+      {
+        "id": "PH-07",
+        "level": 2,
+        "name": {
+          "local": "Samphanh",
+          "en": "Samphanh",
+          "slug": "samphanh-ph-07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.698",
+      "lon": "102.377"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1653809",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phiaxaí",
+      "en": "Ban Phiaxai",
+      "slug": "ban-phiaxai-1653809"
+    },
+    "code": {
+      "id": "1653809",
+      "iso": null
+    },
+    "parent": {
+      "id": "PH-07",
+      "level": 2,
+      "name": {
+        "local": "Samphanh",
+        "en": "Samphanh",
+        "slug": "samphanh-ph-07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PH",
+        "level": 1,
+        "name": {
+          "local": "Phongsaly",
+          "en": "Phongsaly",
+          "slug": "phongsaly-ph"
+        }
+      },
+      {
+        "id": "PH-07",
+        "level": 2,
+        "name": {
+          "local": "Samphanh",
+          "en": "Samphanh",
+          "slug": "samphanh-ph-07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.648",
+      "lon": "102.313"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1952743",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phongkou",
+      "en": "Ban Phongkou",
+      "slug": "ban-phongkou-1952743"
+    },
+    "code": {
+      "id": "1952743",
+      "iso": null
+    },
+    "parent": {
+      "id": "PH-07",
+      "level": 2,
+      "name": {
+        "local": "Samphanh",
+        "en": "Samphanh",
+        "slug": "samphanh-ph-07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PH",
+        "level": 1,
+        "name": {
+          "local": "Phongsaly",
+          "en": "Phongsaly",
+          "slug": "phongsaly-ph"
+        }
+      },
+      {
+        "id": "PH-07",
+        "level": 2,
+        "name": {
+          "local": "Samphanh",
+          "en": "Samphanh",
+          "slug": "samphanh-ph-07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.443",
+      "lon": "102.215"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1954944",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phônsaat",
+      "en": "Ban Phonsaat",
+      "slug": "ban-phonsaat-1954944"
+    },
+    "code": {
+      "id": "1954944",
+      "iso": null
+    },
+    "parent": {
+      "id": "PH-07",
+      "level": 2,
+      "name": {
+        "local": "Samphanh",
+        "en": "Samphanh",
+        "slug": "samphanh-ph-07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PH",
+        "level": 1,
+        "name": {
+          "local": "Phongsaly",
+          "en": "Phongsaly",
+          "slug": "phongsaly-ph"
+        }
+      },
+      {
+        "id": "PH-07",
+        "level": 2,
+        "name": {
+          "local": "Samphanh",
+          "en": "Samphanh",
+          "slug": "samphanh-ph-07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.33",
+      "lon": "102.359"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1952741",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phousang-Kao",
+      "en": "Ban Phousang-Kao",
+      "slug": "ban-phousang-kao-1952741"
+    },
+    "code": {
+      "id": "1952741",
+      "iso": null
+    },
+    "parent": {
+      "id": "PH-07",
+      "level": 2,
+      "name": {
+        "local": "Samphanh",
+        "en": "Samphanh",
+        "slug": "samphanh-ph-07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PH",
+        "level": 1,
+        "name": {
+          "local": "Phongsaly",
+          "en": "Phongsaly",
+          "slug": "phongsaly-ph"
+        }
+      },
+      {
+        "id": "PH-07",
+        "level": 2,
+        "name": {
+          "local": "Samphanh",
+          "en": "Samphanh",
+          "slug": "samphanh-ph-07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.452",
+      "lon": "102.285"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1952740",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phousang-Mai",
+      "en": "Ban Phousang-Mai",
+      "slug": "ban-phousang-mai-1952740"
+    },
+    "code": {
+      "id": "1952740",
+      "iso": null
+    },
+    "parent": {
+      "id": "PH-07",
+      "level": 2,
+      "name": {
+        "local": "Samphanh",
+        "en": "Samphanh",
+        "slug": "samphanh-ph-07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PH",
+        "level": 1,
+        "name": {
+          "local": "Phongsaly",
+          "en": "Phongsaly",
+          "slug": "phongsaly-ph"
+        }
+      },
+      {
+        "id": "PH-07",
+        "level": 2,
+        "name": {
+          "local": "Samphanh",
+          "en": "Samphanh",
+          "slug": "samphanh-ph-07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.45",
+      "lon": "102.293"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1653646",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phouxang",
+      "en": "Ban Phouxang",
+      "slug": "ban-phouxang-1653646"
+    },
+    "code": {
+      "id": "1653646",
+      "iso": null
+    },
+    "parent": {
+      "id": "PH-07",
+      "level": 2,
+      "name": {
+        "local": "Samphanh",
+        "en": "Samphanh",
+        "slug": "samphanh-ph-07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PH",
+        "level": 1,
+        "name": {
+          "local": "Phongsaly",
+          "en": "Phongsaly",
+          "slug": "phongsaly-ph"
+        }
+      },
+      {
+        "id": "PH-07",
+        "level": 2,
+        "name": {
+          "local": "Samphanh",
+          "en": "Samphanh",
+          "slug": "samphanh-ph-07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.491",
+      "lon": "102.261"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1954931",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Polo",
+      "en": "Ban Polo",
+      "slug": "ban-polo-1954931"
+    },
+    "code": {
+      "id": "1954931",
+      "iso": null
+    },
+    "parent": {
+      "id": "PH-07",
+      "level": 2,
+      "name": {
+        "local": "Samphanh",
+        "en": "Samphanh",
+        "slug": "samphanh-ph-07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PH",
+        "level": 1,
+        "name": {
+          "local": "Phongsaly",
+          "en": "Phongsaly",
+          "slug": "phongsaly-ph"
+        }
+      },
+      {
+        "id": "PH-07",
+        "level": 2,
+        "name": {
+          "local": "Samphanh",
+          "en": "Samphanh",
+          "slug": "samphanh-ph-07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.242",
+      "lon": "102.18"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11247846",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Polou",
+      "en": "Ban Polou",
+      "slug": "ban-polou-11247846"
+    },
+    "code": {
+      "id": "11247846",
+      "iso": null
+    },
+    "parent": {
+      "id": "PH-07",
+      "level": 2,
+      "name": {
+        "local": "Samphanh",
+        "en": "Samphanh",
+        "slug": "samphanh-ph-07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PH",
+        "level": 1,
+        "name": {
+          "local": "Phongsaly",
+          "en": "Phongsaly",
+          "slug": "phongsaly-ph"
+        }
+      },
+      {
+        "id": "PH-07",
+        "level": 2,
+        "name": {
+          "local": "Samphanh",
+          "en": "Samphanh",
+          "slug": "samphanh-ph-07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.234",
+      "lon": "102.202"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1953034",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Sakèo",
+      "en": "Ban Sakeo",
+      "slug": "ban-sakeo-1953034"
+    },
+    "code": {
+      "id": "1953034",
+      "iso": null
+    },
+    "parent": {
+      "id": "PH-07",
+      "level": 2,
+      "name": {
+        "local": "Samphanh",
+        "en": "Samphanh",
+        "slug": "samphanh-ph-07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PH",
+        "level": 1,
+        "name": {
+          "local": "Phongsaly",
+          "en": "Phongsaly",
+          "slug": "phongsaly-ph"
+        }
+      },
+      {
+        "id": "PH-07",
+        "level": 2,
+        "name": {
+          "local": "Samphanh",
+          "en": "Samphanh",
+          "slug": "samphanh-ph-07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.345",
+      "lon": "102.301"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1652957",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Sala-Loum",
+      "en": "Ban Sala-Loum",
+      "slug": "ban-sala-loum-1652957"
+    },
+    "code": {
+      "id": "1652957",
+      "iso": null
+    },
+    "parent": {
+      "id": "PH-07",
+      "level": 2,
+      "name": {
+        "local": "Samphanh",
+        "en": "Samphanh",
+        "slug": "samphanh-ph-07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PH",
+        "level": 1,
+        "name": {
+          "local": "Phongsaly",
+          "en": "Phongsaly",
+          "slug": "phongsaly-ph"
+        }
+      },
+      {
+        "id": "PH-07",
+        "level": 2,
+        "name": {
+          "local": "Samphanh",
+          "en": "Samphanh",
+          "slug": "samphanh-ph-07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.641",
+      "lon": "102.318"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1952645",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Sala-Theung",
+      "en": "Ban Sala-Theung",
+      "slug": "ban-sala-theung-1952645"
+    },
+    "code": {
+      "id": "1952645",
+      "iso": null
+    },
+    "parent": {
+      "id": "PH-07",
+      "level": 2,
+      "name": {
+        "local": "Samphanh",
+        "en": "Samphanh",
+        "slug": "samphanh-ph-07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PH",
+        "level": 1,
+        "name": {
+          "local": "Phongsaly",
+          "en": "Phongsaly",
+          "slug": "phongsaly-ph"
+        }
+      },
+      {
+        "id": "PH-07",
+        "level": 2,
+        "name": {
+          "local": "Samphanh",
+          "en": "Samphanh",
+          "slug": "samphanh-ph-07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.657",
+      "lon": "102.318"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1952652",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Sanamphoumop",
+      "en": "Ban Sanamphoumop",
+      "slug": "ban-sanamphoumop-1952652"
+    },
+    "code": {
+      "id": "1952652",
+      "iso": null
+    },
+    "parent": {
+      "id": "PH-07",
+      "level": 2,
+      "name": {
+        "local": "Samphanh",
+        "en": "Samphanh",
+        "slug": "samphanh-ph-07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PH",
+        "level": 1,
+        "name": {
+          "local": "Phongsaly",
+          "en": "Phongsaly",
+          "slug": "phongsaly-ph"
+        }
+      },
+      {
+        "id": "PH-07",
+        "level": 2,
+        "name": {
+          "local": "Samphanh",
+          "en": "Samphanh",
+          "slug": "samphanh-ph-07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.622",
+      "lon": "102.272"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1954946",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Sangkhao",
+      "en": "Ban Sangkhao",
+      "slug": "ban-sangkhao-1954946"
+    },
+    "code": {
+      "id": "1954946",
+      "iso": null
+    },
+    "parent": {
+      "id": "PH-07",
+      "level": 2,
+      "name": {
+        "local": "Samphanh",
+        "en": "Samphanh",
+        "slug": "samphanh-ph-07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PH",
+        "level": 1,
+        "name": {
+          "local": "Phongsaly",
+          "en": "Phongsaly",
+          "slug": "phongsaly-ph"
+        }
+      },
+      {
+        "id": "PH-07",
+        "level": 2,
+        "name": {
+          "local": "Samphanh",
+          "en": "Samphanh",
+          "slug": "samphanh-ph-07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.284",
+      "lon": "102.366"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1952747",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Saxai",
+      "en": "Ban Saxai",
+      "slug": "ban-saxai-1952747"
+    },
+    "code": {
+      "id": "1952747",
+      "iso": null
+    },
+    "parent": {
+      "id": "PH-07",
+      "level": 2,
+      "name": {
+        "local": "Samphanh",
+        "en": "Samphanh",
+        "slug": "samphanh-ph-07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PH",
+        "level": 1,
+        "name": {
+          "local": "Phongsaly",
+          "en": "Phongsaly",
+          "slug": "phongsaly-ph"
+        }
+      },
+      {
+        "id": "PH-07",
+        "level": 2,
+        "name": {
+          "local": "Samphanh",
+          "en": "Samphanh",
+          "slug": "samphanh-ph-07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.436",
+      "lon": "102.382"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1659266",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Sen Quan",
+      "en": "Ban Sen Quan",
+      "slug": "ban-sen-quan-1659266"
+    },
+    "code": {
+      "id": "1659266",
+      "iso": null
+    },
+    "parent": {
+      "id": "PH-07",
+      "level": 2,
+      "name": {
+        "local": "Samphanh",
+        "en": "Samphanh",
+        "slug": "samphanh-ph-07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PH",
+        "level": 1,
+        "name": {
+          "local": "Phongsaly",
+          "en": "Phongsaly",
+          "slug": "phongsaly-ph"
+        }
+      },
+      {
+        "id": "PH-07",
+        "level": 2,
+        "name": {
+          "local": "Samphanh",
+          "en": "Samphanh",
+          "slug": "samphanh-ph-07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.433",
+      "lon": "102.317"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1954936",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Sèngsakiouchô",
+      "en": "Ban Sengsakioucho",
+      "slug": "ban-sengsakioucho-1954936"
+    },
+    "code": {
+      "id": "1954936",
+      "iso": null
+    },
+    "parent": {
+      "id": "PH-07",
+      "level": 2,
+      "name": {
+        "local": "Samphanh",
+        "en": "Samphanh",
+        "slug": "samphanh-ph-07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PH",
+        "level": 1,
+        "name": {
+          "local": "Phongsaly",
+          "en": "Phongsaly",
+          "slug": "phongsaly-ph"
+        }
+      },
+      {
+        "id": "PH-07",
+        "level": 2,
+        "name": {
+          "local": "Samphanh",
+          "en": "Samphanh",
+          "slug": "samphanh-ph-07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.308",
+      "lon": "102.237"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1952706",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Sènkham",
+      "en": "Ban Senkham",
+      "slug": "ban-senkham-1952706"
+    },
+    "code": {
+      "id": "1952706",
+      "iso": null
+    },
+    "parent": {
+      "id": "PH-07",
+      "level": 2,
+      "name": {
+        "local": "Samphanh",
+        "en": "Samphanh",
+        "slug": "samphanh-ph-07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PH",
+        "level": 1,
+        "name": {
+          "local": "Phongsaly",
+          "en": "Phongsaly",
+          "slug": "phongsaly-ph"
+        }
+      },
+      {
+        "id": "PH-07",
+        "level": 2,
+        "name": {
+          "local": "Samphanh",
+          "en": "Samphanh",
+          "slug": "samphanh-ph-07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.497",
+      "lon": "102.288"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1652795",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Sènkoang",
+      "en": "Ban Senkoang",
+      "slug": "ban-senkoang-1652795"
+    },
+    "code": {
+      "id": "1652795",
+      "iso": null
+    },
+    "parent": {
+      "id": "PH-07",
+      "level": 2,
+      "name": {
+        "local": "Samphanh",
+        "en": "Samphanh",
+        "slug": "samphanh-ph-07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PH",
+        "level": 1,
+        "name": {
+          "local": "Phongsaly",
+          "en": "Phongsaly",
+          "slug": "phongsaly-ph"
+        }
+      },
+      {
+        "id": "PH-07",
+        "level": 2,
+        "name": {
+          "local": "Samphanh",
+          "en": "Samphanh",
+          "slug": "samphanh-ph-07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.212",
+      "lon": "102.18"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1652111",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Sènlouang",
+      "en": "Ban Senlouang",
+      "slug": "ban-senlouang-1652111"
+    },
+    "code": {
+      "id": "1652111",
+      "iso": null
+    },
+    "parent": {
+      "id": "PH-07",
+      "level": 2,
+      "name": {
+        "local": "Samphanh",
+        "en": "Samphanh",
+        "slug": "samphanh-ph-07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PH",
+        "level": 1,
+        "name": {
+          "local": "Phongsaly",
+          "en": "Phongsaly",
+          "slug": "phongsaly-ph"
+        }
+      },
+      {
+        "id": "PH-07",
+        "level": 2,
+        "name": {
+          "local": "Samphanh",
+          "en": "Samphanh",
+          "slug": "samphanh-ph-07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.672",
+      "lon": "102.369"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1954939",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Sènlouang",
+      "en": "Ban Senlouang",
+      "slug": "ban-senlouang-1954939"
+    },
+    "code": {
+      "id": "1954939",
+      "iso": null
+    },
+    "parent": {
+      "id": "PH-07",
+      "level": 2,
+      "name": {
+        "local": "Samphanh",
+        "en": "Samphanh",
+        "slug": "samphanh-ph-07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PH",
+        "level": 1,
+        "name": {
+          "local": "Phongsaly",
+          "en": "Phongsaly",
+          "slug": "phongsaly-ph"
+        }
+      },
+      {
+        "id": "PH-07",
+        "level": 2,
+        "name": {
+          "local": "Samphanh",
+          "en": "Samphanh",
+          "slug": "samphanh-ph-07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.274",
+      "lon": "102.296"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1952748",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Sènlu",
+      "en": "Ban Senlu",
+      "slug": "ban-senlu-1952748"
+    },
+    "code": {
+      "id": "1952748",
+      "iso": null
+    },
+    "parent": {
+      "id": "PH-07",
+      "level": 2,
+      "name": {
+        "local": "Samphanh",
+        "en": "Samphanh",
+        "slug": "samphanh-ph-07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PH",
+        "level": 1,
+        "name": {
+          "local": "Phongsaly",
+          "en": "Phongsaly",
+          "slug": "phongsaly-ph"
+        }
+      },
+      {
+        "id": "PH-07",
+        "level": 2,
+        "name": {
+          "local": "Samphanh",
+          "en": "Samphanh",
+          "slug": "samphanh-ph-07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.423",
+      "lon": "102.475"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1653266",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Sènphôm",
+      "en": "Ban Senphom",
+      "slug": "ban-senphom-1653266"
+    },
+    "code": {
+      "id": "1653266",
+      "iso": null
+    },
+    "parent": {
+      "id": "PH-07",
+      "level": 2,
+      "name": {
+        "local": "Samphanh",
+        "en": "Samphanh",
+        "slug": "samphanh-ph-07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PH",
+        "level": 1,
+        "name": {
+          "local": "Phongsaly",
+          "en": "Phongsaly",
+          "slug": "phongsaly-ph"
+        }
+      },
+      {
+        "id": "PH-07",
+        "level": 2,
+        "name": {
+          "local": "Samphanh",
+          "en": "Samphanh",
+          "slug": "samphanh-ph-07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.507",
+      "lon": "102.309"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1952662",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Sènphôm-Mai",
+      "en": "Ban Senphom-Mai",
+      "slug": "ban-senphom-mai-1952662"
+    },
+    "code": {
+      "id": "1952662",
+      "iso": null
+    },
+    "parent": {
+      "id": "PH-07",
+      "level": 2,
+      "name": {
+        "local": "Samphanh",
+        "en": "Samphanh",
+        "slug": "samphanh-ph-07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PH",
+        "level": 1,
+        "name": {
+          "local": "Phongsaly",
+          "en": "Phongsaly",
+          "slug": "phongsaly-ph"
+        }
+      },
+      {
+        "id": "PH-07",
+        "level": 2,
+        "name": {
+          "local": "Samphanh",
+          "en": "Samphanh",
+          "slug": "samphanh-ph-07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.568",
+      "lon": "102.335"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1954940",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Singha",
+      "en": "Ban Singha",
+      "slug": "ban-singha-1954940"
+    },
+    "code": {
+      "id": "1954940",
+      "iso": null
+    },
+    "parent": {
+      "id": "PH-07",
+      "level": 2,
+      "name": {
+        "local": "Samphanh",
+        "en": "Samphanh",
+        "slug": "samphanh-ph-07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PH",
+        "level": 1,
+        "name": {
+          "local": "Phongsaly",
+          "en": "Phongsaly",
+          "slug": "phongsaly-ph"
+        }
+      },
+      {
+        "id": "PH-07",
+        "level": 2,
+        "name": {
+          "local": "Samphanh",
+          "en": "Samphanh",
+          "slug": "samphanh-ph-07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.271",
+      "lon": "102.344"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1653213",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Sinxai",
+      "en": "Ban Sinxai",
+      "slug": "ban-sinxai-1653213"
+    },
+    "code": {
+      "id": "1653213",
+      "iso": null
+    },
+    "parent": {
+      "id": "PH-07",
+      "level": 2,
+      "name": {
+        "local": "Samphanh",
+        "en": "Samphanh",
+        "slug": "samphanh-ph-07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PH",
+        "level": 1,
+        "name": {
+          "local": "Phongsaly",
+          "en": "Phongsaly",
+          "slug": "phongsaly-ph"
+        }
+      },
+      {
+        "id": "PH-07",
+        "level": 2,
+        "name": {
+          "local": "Samphanh",
+          "en": "Samphanh",
+          "slug": "samphanh-ph-07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.693",
+      "lon": "102.342"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1953035",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Tangchak",
+      "en": "Ban Tangchak",
+      "slug": "ban-tangchak-1953035"
+    },
+    "code": {
+      "id": "1953035",
+      "iso": null
+    },
+    "parent": {
+      "id": "PH-07",
+      "level": 2,
+      "name": {
+        "local": "Samphanh",
+        "en": "Samphanh",
+        "slug": "samphanh-ph-07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PH",
+        "level": 1,
+        "name": {
+          "local": "Phongsaly",
+          "en": "Phongsaly",
+          "slug": "phongsaly-ph"
+        }
+      },
+      {
+        "id": "PH-07",
+        "level": 2,
+        "name": {
+          "local": "Samphanh",
+          "en": "Samphanh",
+          "slug": "samphanh-ph-07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.337",
+      "lon": "102.462"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1954969",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Tangchak",
+      "en": "Ban Tangchak",
+      "slug": "ban-tangchak-1954969"
+    },
+    "code": {
+      "id": "1954969",
+      "iso": null
+    },
+    "parent": {
+      "id": "PH-07",
+      "level": 2,
+      "name": {
+        "local": "Samphanh",
+        "en": "Samphanh",
+        "slug": "samphanh-ph-07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PH",
+        "level": 1,
+        "name": {
+          "local": "Phongsaly",
+          "en": "Phongsaly",
+          "slug": "phongsaly-ph"
+        }
+      },
+      {
+        "id": "PH-07",
+        "level": 2,
+        "name": {
+          "local": "Samphanh",
+          "en": "Samphanh",
+          "slug": "samphanh-ph-07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.285",
+      "lon": "102.45"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1953025",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Thavong",
+      "en": "Ban Thavong",
+      "slug": "ban-thavong-1953025"
+    },
+    "code": {
+      "id": "1953025",
+      "iso": null
+    },
+    "parent": {
+      "id": "PH-07",
+      "level": 2,
+      "name": {
+        "local": "Samphanh",
+        "en": "Samphanh",
+        "slug": "samphanh-ph-07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PH",
+        "level": 1,
+        "name": {
+          "local": "Phongsaly",
+          "en": "Phongsaly",
+          "slug": "phongsaly-ph"
+        }
+      },
+      {
+        "id": "PH-07",
+        "level": 2,
+        "name": {
+          "local": "Samphanh",
+          "en": "Samphanh",
+          "slug": "samphanh-ph-07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.36",
+      "lon": "102.323"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1657825",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Cha Long Sen Sai",
+      "en": "Cha Long Sen Sai",
+      "slug": "cha-long-sen-sai-1657825"
+    },
+    "code": {
+      "id": "1657825",
+      "iso": null
+    },
+    "parent": {
+      "id": "PH-07",
+      "level": 2,
+      "name": {
+        "local": "Samphanh",
+        "en": "Samphanh",
+        "slug": "samphanh-ph-07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PH",
+        "level": 1,
+        "name": {
+          "local": "Phongsaly",
+          "en": "Phongsaly",
+          "slug": "phongsaly-ph"
+        }
+      },
+      {
+        "id": "PH-07",
+        "level": 2,
+        "name": {
+          "local": "Samphanh",
+          "en": "Samphanh",
+          "slug": "samphanh-ph-07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.45",
+      "lon": "102.233"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1657675",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Chung Cha",
+      "en": "Chung Cha",
+      "slug": "chung-cha-1657675"
+    },
+    "code": {
+      "id": "1657675",
+      "iso": null
+    },
+    "parent": {
+      "id": "PH-07",
+      "level": 2,
+      "name": {
+        "local": "Samphanh",
+        "en": "Samphanh",
+        "slug": "samphanh-ph-07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PH",
+        "level": 1,
+        "name": {
+          "local": "Phongsaly",
+          "en": "Phongsaly",
+          "slug": "phongsaly-ph"
+        }
+      },
+      {
+        "id": "PH-07",
+        "level": 2,
+        "name": {
+          "local": "Samphanh",
+          "en": "Samphanh",
+          "slug": "samphanh-ph-07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.533",
+      "lon": "102.417"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11247354",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Honghian Matthagnôm",
+      "en": "Honghian Matthagnom",
+      "slug": "honghian-matthagnom-11247354"
+    },
+    "code": {
+      "id": "11247354",
+      "iso": null
+    },
+    "parent": {
+      "id": "PH-07",
+      "level": 2,
+      "name": {
+        "local": "Samphanh",
+        "en": "Samphanh",
+        "slug": "samphanh-ph-07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PH",
+        "level": 1,
+        "name": {
+          "local": "Phongsaly",
+          "en": "Phongsaly",
+          "slug": "phongsaly-ph"
+        }
+      },
+      {
+        "id": "PH-07",
+        "level": 2,
+        "name": {
+          "local": "Samphanh",
+          "en": "Samphanh",
+          "slug": "samphanh-ph-07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.355",
+      "lon": "102.345"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1655860",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Lao Chung",
+      "en": "Lao Chung",
+      "slug": "lao-chung-1655860"
+    },
+    "code": {
+      "id": "1655860",
+      "iso": null
+    },
+    "parent": {
+      "id": "PH-07",
+      "level": 2,
+      "name": {
+        "local": "Samphanh",
+        "en": "Samphanh",
+        "slug": "samphanh-ph-07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PH",
+        "level": 1,
+        "name": {
+          "local": "Phongsaly",
+          "en": "Phongsaly",
+          "slug": "phongsaly-ph"
+        }
+      },
+      {
+        "id": "PH-07",
+        "level": 2,
+        "name": {
+          "local": "Samphanh",
+          "en": "Samphanh",
+          "slug": "samphanh-ph-07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.317",
+      "lon": "102.3"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1653229",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Sen Naly",
+      "en": "Sen Naly",
+      "slug": "sen-naly-1653229"
+    },
+    "code": {
+      "id": "1653229",
+      "iso": null
+    },
+    "parent": {
+      "id": "PH-07",
+      "level": 2,
+      "name": {
+        "local": "Samphanh",
+        "en": "Samphanh",
+        "slug": "samphanh-ph-07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PH",
+        "level": 1,
+        "name": {
+          "local": "Phongsaly",
+          "en": "Phongsaly",
+          "slug": "phongsaly-ph"
+        }
+      },
+      {
+        "id": "PH-07",
+        "level": 2,
+        "name": {
+          "local": "Samphanh",
+          "en": "Samphanh",
+          "slug": "samphanh-ph-07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.333",
+      "lon": "102.25"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1653214",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Sen Sai (1)",
+      "en": "Sen Sai (1)",
+      "slug": "sen-sai-1-1653214"
+    },
+    "code": {
+      "id": "1653214",
+      "iso": null
+    },
+    "parent": {
+      "id": "PH-07",
+      "level": 2,
+      "name": {
+        "local": "Samphanh",
+        "en": "Samphanh",
+        "slug": "samphanh-ph-07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PH",
+        "level": 1,
+        "name": {
+          "local": "Phongsaly",
+          "en": "Phongsaly",
+          "slug": "phongsaly-ph"
+        }
+      },
+      {
+        "id": "PH-07",
+        "level": 2,
+        "name": {
+          "local": "Samphanh",
+          "en": "Samphanh",
+          "slug": "samphanh-ph-07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.683",
+      "lon": "102.367"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1651949",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Y Sang Cho Ma",
+      "en": "Y Sang Cho Ma",
+      "slug": "y-sang-cho-ma-1651949"
+    },
+    "code": {
+      "id": "1651949",
+      "iso": null
+    },
+    "parent": {
+      "id": "PH-07",
+      "level": 2,
+      "name": {
+        "local": "Samphanh",
+        "en": "Samphanh",
+        "slug": "samphanh-ph-07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PH",
+        "level": 1,
+        "name": {
+          "local": "Phongsaly",
+          "en": "Phongsaly",
+          "slug": "phongsaly-ph"
+        }
+      },
+      {
+        "id": "PH-07",
+        "level": 2,
+        "name": {
+          "local": "Samphanh",
+          "en": "Samphanh",
+          "slug": "samphanh-ph-07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.3",
+      "lon": "102.233"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

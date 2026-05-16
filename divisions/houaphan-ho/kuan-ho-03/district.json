@@ -1,0 +1,47 @@
+{
+  "id": "HO-03",
+  "level": 2,
+  "level_name": {
+    "local": "ເມືອງ",
+    "en": "District"
+  },
+  "name": {
+    "local": "Kuan",
+    "en": "Kuan",
+    "slug": "kuan-ho-03"
+  },
+  "code": {
+    "id": "HO-03",
+    "iso": null
+  },
+  "parent": {
+    "id": "HO",
+    "level": 1,
+    "name": {
+      "local": "Houaphan",
+      "en": "Houaphan",
+      "slug": "houaphan-ho"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "HO",
+      "level": 1,
+      "name": {
+        "local": "Houaphan",
+        "en": "Houaphan",
+        "slug": "houaphan-ho"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 102
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "19.717",
+    "lon": "104.43"
+  },
+  "metadata": {},
+  "source": {}
+}

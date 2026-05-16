@@ -1,0 +1,47 @@
+{
+  "id": "OU-05",
+  "level": 2,
+  "level_name": {
+    "local": "ເມືອງ",
+    "en": "District"
+  },
+  "name": {
+    "local": "Nga",
+    "en": "Nga",
+    "slug": "nga-ou-05"
+  },
+  "code": {
+    "id": "OU-05",
+    "iso": null
+  },
+  "parent": {
+    "id": "OU",
+    "level": 1,
+    "name": {
+      "local": "Oudomxay",
+      "en": "Oudomxay",
+      "slug": "oudomxay-ou"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "OU",
+      "level": 1,
+      "name": {
+        "local": "Oudomxay",
+        "en": "Oudomxay",
+        "slug": "oudomxay-ou"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 132
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "20.106",
+    "lon": "101.853"
+  },
+  "metadata": {},
+  "source": {}
+}

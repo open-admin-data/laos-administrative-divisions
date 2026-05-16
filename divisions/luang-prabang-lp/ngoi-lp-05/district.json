@@ -1,0 +1,47 @@
+{
+  "id": "LP-05",
+  "level": 2,
+  "level_name": {
+    "local": "ເມືອງ",
+    "en": "District"
+  },
+  "name": {
+    "local": "Ngoi",
+    "en": "Ngoi",
+    "slug": "ngoi-lp-05"
+  },
+  "code": {
+    "id": "LP-05",
+    "iso": null
+  },
+  "parent": {
+    "id": "LP",
+    "level": 1,
+    "name": {
+      "local": "Luang Prabang",
+      "en": "Luang Prabang",
+      "slug": "luang-prabang-lp"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "LP",
+      "level": 1,
+      "name": {
+        "local": "Luang Prabang",
+        "en": "Luang Prabang",
+        "slug": "luang-prabang-lp"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 149
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "20.732",
+    "lon": "102.68"
+  },
+  "metadata": {},
+  "source": {}
+}

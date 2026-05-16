@@ -1,0 +1,47 @@
+{
+  "id": "PH-01",
+  "level": 2,
+  "level_name": {
+    "local": "ເມືອງ",
+    "en": "District"
+  },
+  "name": {
+    "local": "Boon Neua",
+    "en": "Boon Neua",
+    "slug": "boon-neua-ph-01"
+  },
+  "code": {
+    "id": "PH-01",
+    "iso": null
+  },
+  "parent": {
+    "id": "PH",
+    "level": 1,
+    "name": {
+      "local": "Phongsaly",
+      "en": "Phongsaly",
+      "slug": "phongsaly-ph"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PH",
+      "level": 1,
+      "name": {
+        "local": "Phongsaly",
+        "en": "Phongsaly",
+        "slug": "phongsaly-ph"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 60
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "21.657",
+    "lon": "101.793"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,47 @@
+{
+  "id": "PH-04",
+  "level": 2,
+  "level_name": {
+    "local": "ເມືອງ",
+    "en": "District"
+  },
+  "name": {
+    "local": "May",
+    "en": "May",
+    "slug": "may-ph-04"
+  },
+  "code": {
+    "id": "PH-04",
+    "iso": null
+  },
+  "parent": {
+    "id": "PH",
+    "level": 1,
+    "name": {
+      "local": "Phongsaly",
+      "en": "Phongsaly",
+      "slug": "phongsaly-ph"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PH",
+      "level": 1,
+      "name": {
+        "local": "Phongsaly",
+        "en": "Phongsaly",
+        "slug": "phongsaly-ph"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 149
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "21.48",
+    "lon": "102.865"
+  },
+  "metadata": {},
+  "source": {}
+}

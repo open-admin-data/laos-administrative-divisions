@@ -1,0 +1,47 @@
+{
+  "id": "XI-02",
+  "level": 2,
+  "level_name": {
+    "local": "ເມືອງ",
+    "en": "District"
+  },
+  "name": {
+    "local": "Kham",
+    "en": "Kham",
+    "slug": "kham-xi-02"
+  },
+  "code": {
+    "id": "XI-02",
+    "iso": null
+  },
+  "parent": {
+    "id": "XI",
+    "level": 1,
+    "name": {
+      "local": "Xiangkhouang",
+      "en": "Xiangkhouang",
+      "slug": "xiangkhouang-xi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "XI",
+      "level": 1,
+      "name": {
+        "local": "Xiangkhouang",
+        "en": "Xiangkhouang",
+        "slug": "xiangkhouang-xi"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 155
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "19.888",
+    "lon": "103.704"
+  },
+  "metadata": {},
+  "source": {}
+}

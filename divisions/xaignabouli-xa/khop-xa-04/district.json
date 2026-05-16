@@ -1,0 +1,47 @@
+{
+  "id": "XA-04",
+  "level": 2,
+  "level_name": {
+    "local": "ເມືອງ",
+    "en": "District"
+  },
+  "name": {
+    "local": "Khop",
+    "en": "Khop",
+    "slug": "khop-xa-04"
+  },
+  "code": {
+    "id": "XA-04",
+    "iso": null
+  },
+  "parent": {
+    "id": "XA",
+    "level": 1,
+    "name": {
+      "local": "Xaignabouli",
+      "en": "Xaignabouli",
+      "slug": "xaignabouli-xa"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "XA",
+      "level": 1,
+      "name": {
+        "local": "Xaignabouli",
+        "en": "Xaignabouli",
+        "slug": "xaignabouli-xa"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 43
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "19.693",
+    "lon": "100.561"
+  },
+  "metadata": {},
+  "source": {}
+}

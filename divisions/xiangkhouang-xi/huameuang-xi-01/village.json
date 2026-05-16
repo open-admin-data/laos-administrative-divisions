@@ -1,0 +1,7400 @@
+[
+  {
+    "id": "1664816",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Bouak",
+      "en": "Ban Bouak",
+      "slug": "ban-bouak-1664816"
+    },
+    "code": {
+      "id": "1664816",
+      "iso": null
+    },
+    "parent": {
+      "id": "XI-01",
+      "level": 2,
+      "name": {
+        "local": "Huameuang",
+        "en": "Huameuang",
+        "slug": "huameuang-xi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XI",
+        "level": 1,
+        "name": {
+          "local": "Xiangkhouang",
+          "en": "Xiangkhouang",
+          "slug": "xiangkhouang-xi"
+        }
+      },
+      {
+        "id": "XI-01",
+        "level": 2,
+        "name": {
+          "local": "Huameuang",
+          "en": "Huameuang",
+          "slug": "huameuang-xi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.015",
+      "lon": "104.018"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1952777",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Choumkong",
+      "en": "Ban Choumkong",
+      "slug": "ban-choumkong-1952777"
+    },
+    "code": {
+      "id": "1952777",
+      "iso": null
+    },
+    "parent": {
+      "id": "XI-01",
+      "level": 2,
+      "name": {
+        "local": "Huameuang",
+        "en": "Huameuang",
+        "slug": "huameuang-xi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XI",
+        "level": 1,
+        "name": {
+          "local": "Xiangkhouang",
+          "en": "Xiangkhouang",
+          "slug": "xiangkhouang-xi"
+        }
+      },
+      {
+        "id": "XI-01",
+        "level": 2,
+        "name": {
+          "local": "Huameuang",
+          "en": "Huameuang",
+          "slug": "huameuang-xi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.966",
+      "lon": "104.089"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1664595",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Dèndin",
+      "en": "Ban Dendin",
+      "slug": "ban-dendin-1664595"
+    },
+    "code": {
+      "id": "1664595",
+      "iso": null
+    },
+    "parent": {
+      "id": "XI-01",
+      "level": 2,
+      "name": {
+        "local": "Huameuang",
+        "en": "Huameuang",
+        "slug": "huameuang-xi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XI",
+        "level": 1,
+        "name": {
+          "local": "Xiangkhouang",
+          "en": "Xiangkhouang",
+          "slug": "xiangkhouang-xi"
+        }
+      },
+      {
+        "id": "XI-01",
+        "level": 2,
+        "name": {
+          "local": "Huameuang",
+          "en": "Huameuang",
+          "slug": "huameuang-xi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.867",
+      "lon": "104.017"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1954178",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Dokkham",
+      "en": "Ban Dokkham",
+      "slug": "ban-dokkham-1954178"
+    },
+    "code": {
+      "id": "1954178",
+      "iso": null
+    },
+    "parent": {
+      "id": "XI-01",
+      "level": 2,
+      "name": {
+        "local": "Huameuang",
+        "en": "Huameuang",
+        "slug": "huameuang-xi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XI",
+        "level": 1,
+        "name": {
+          "local": "Xiangkhouang",
+          "en": "Xiangkhouang",
+          "slug": "xiangkhouang-xi"
+        }
+      },
+      {
+        "id": "XI-01",
+        "level": 2,
+        "name": {
+          "local": "Huameuang",
+          "en": "Huameuang",
+          "slug": "huameuang-xi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.174",
+      "lon": "103.801"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1664558",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Don",
+      "en": "Ban Don",
+      "slug": "ban-don-1664558"
+    },
+    "code": {
+      "id": "1664558",
+      "iso": null
+    },
+    "parent": {
+      "id": "XI-01",
+      "level": 2,
+      "name": {
+        "local": "Huameuang",
+        "en": "Huameuang",
+        "slug": "huameuang-xi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XI",
+        "level": 1,
+        "name": {
+          "local": "Xiangkhouang",
+          "en": "Xiangkhouang",
+          "slug": "xiangkhouang-xi"
+        }
+      },
+      {
+        "id": "XI-01",
+        "level": 2,
+        "name": {
+          "local": "Huameuang",
+          "en": "Huameuang",
+          "slug": "huameuang-xi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.868",
+      "lon": "104.01"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1664525",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Dông",
+      "en": "Ban Dong",
+      "slug": "ban-dong-1664525"
+    },
+    "code": {
+      "id": "1664525",
+      "iso": null
+    },
+    "parent": {
+      "id": "XI-01",
+      "level": 2,
+      "name": {
+        "local": "Huameuang",
+        "en": "Huameuang",
+        "slug": "huameuang-xi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XI",
+        "level": 1,
+        "name": {
+          "local": "Xiangkhouang",
+          "en": "Xiangkhouang",
+          "slug": "xiangkhouang-xi"
+        }
+      },
+      {
+        "id": "XI-01",
+        "level": 2,
+        "name": {
+          "local": "Huameuang",
+          "en": "Huameuang",
+          "slug": "huameuang-xi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.066",
+      "lon": "103.95"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1664340",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Ekpong-Lin",
+      "en": "Ban Ekpong-Lin",
+      "slug": "ban-ekpong-lin-1664340"
+    },
+    "code": {
+      "id": "1664340",
+      "iso": null
+    },
+    "parent": {
+      "id": "XI-01",
+      "level": 2,
+      "name": {
+        "local": "Huameuang",
+        "en": "Huameuang",
+        "slug": "huameuang-xi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XI",
+        "level": 1,
+        "name": {
+          "local": "Xiangkhouang",
+          "en": "Xiangkhouang",
+          "slug": "xiangkhouang-xi"
+        }
+      },
+      {
+        "id": "XI-01",
+        "level": 2,
+        "name": {
+          "local": "Huameuang",
+          "en": "Huameuang",
+          "slug": "huameuang-xi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.933",
+      "lon": "104.033"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1664263",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Gnotpiak",
+      "en": "Ban Gnotpiak",
+      "slug": "ban-gnotpiak-1664263"
+    },
+    "code": {
+      "id": "1664263",
+      "iso": null
+    },
+    "parent": {
+      "id": "XI-01",
+      "level": 2,
+      "name": {
+        "local": "Huameuang",
+        "en": "Huameuang",
+        "slug": "huameuang-xi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XI",
+        "level": 1,
+        "name": {
+          "local": "Xiangkhouang",
+          "en": "Xiangkhouang",
+          "slug": "xiangkhouang-xi"
+        }
+      },
+      {
+        "id": "XI-01",
+        "level": 2,
+        "name": {
+          "local": "Huameuang",
+          "en": "Huameuang",
+          "slug": "huameuang-xi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.906",
+      "lon": "103.988"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1956946",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Gnottao",
+      "en": "Ban Gnottao",
+      "slug": "ban-gnottao-1956946"
+    },
+    "code": {
+      "id": "1956946",
+      "iso": null
+    },
+    "parent": {
+      "id": "XI-01",
+      "level": 2,
+      "name": {
+        "local": "Huameuang",
+        "en": "Huameuang",
+        "slug": "huameuang-xi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XI",
+        "level": 1,
+        "name": {
+          "local": "Xiangkhouang",
+          "en": "Xiangkhouang",
+          "slug": "xiangkhouang-xi"
+        }
+      },
+      {
+        "id": "XI-01",
+        "level": 2,
+        "name": {
+          "local": "Huameuang",
+          "en": "Huameuang",
+          "slug": "huameuang-xi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.065",
+      "lon": "104.06"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1664219",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Hang",
+      "en": "Ban Hang",
+      "slug": "ban-hang-1664219"
+    },
+    "code": {
+      "id": "1664219",
+      "iso": null
+    },
+    "parent": {
+      "id": "XI-01",
+      "level": 2,
+      "name": {
+        "local": "Huameuang",
+        "en": "Huameuang",
+        "slug": "huameuang-xi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XI",
+        "level": 1,
+        "name": {
+          "local": "Xiangkhouang",
+          "en": "Xiangkhouang",
+          "slug": "xiangkhouang-xi"
+        }
+      },
+      {
+        "id": "XI-01",
+        "level": 2,
+        "name": {
+          "local": "Huameuang",
+          "en": "Huameuang",
+          "slug": "huameuang-xi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.917",
+      "lon": "103.867"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1664174",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Hat Hêng",
+      "en": "Ban Hat Heng",
+      "slug": "ban-hat-heng-1664174"
+    },
+    "code": {
+      "id": "1664174",
+      "iso": null
+    },
+    "parent": {
+      "id": "XI-01",
+      "level": 2,
+      "name": {
+        "local": "Huameuang",
+        "en": "Huameuang",
+        "slug": "huameuang-xi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XI",
+        "level": 1,
+        "name": {
+          "local": "Xiangkhouang",
+          "en": "Xiangkhouang",
+          "slug": "xiangkhouang-xi"
+        }
+      },
+      {
+        "id": "XI-01",
+        "level": 2,
+        "name": {
+          "local": "Huameuang",
+          "en": "Huameuang",
+          "slug": "huameuang-xi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.2",
+      "lon": "103.9"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1954274",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Hatli",
+      "en": "Ban Hatli",
+      "slug": "ban-hatli-1954274"
+    },
+    "code": {
+      "id": "1954274",
+      "iso": null
+    },
+    "parent": {
+      "id": "XI-01",
+      "level": 2,
+      "name": {
+        "local": "Huameuang",
+        "en": "Huameuang",
+        "slug": "huameuang-xi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XI",
+        "level": 1,
+        "name": {
+          "local": "Xiangkhouang",
+          "en": "Xiangkhouang",
+          "slug": "xiangkhouang-xi"
+        }
+      },
+      {
+        "id": "XI-01",
+        "level": 2,
+        "name": {
+          "local": "Huameuang",
+          "en": "Huameuang",
+          "slug": "huameuang-xi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.003",
+      "lon": "103.833"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1664109",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Hattôp",
+      "en": "Ban Hattop",
+      "slug": "ban-hattop-1664109"
+    },
+    "code": {
+      "id": "1664109",
+      "iso": null
+    },
+    "parent": {
+      "id": "XI-01",
+      "level": 2,
+      "name": {
+        "local": "Huameuang",
+        "en": "Huameuang",
+        "slug": "huameuang-xi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XI",
+        "level": 1,
+        "name": {
+          "local": "Xiangkhouang",
+          "en": "Xiangkhouang",
+          "slug": "xiangkhouang-xi"
+        }
+      },
+      {
+        "id": "XI-01",
+        "level": 2,
+        "name": {
+          "local": "Huameuang",
+          "en": "Huameuang",
+          "slug": "huameuang-xi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.033",
+      "lon": "103.7"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1952765",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Hinpèn",
+      "en": "Ban Hinpen",
+      "slug": "ban-hinpen-1952765"
+    },
+    "code": {
+      "id": "1952765",
+      "iso": null
+    },
+    "parent": {
+      "id": "XI-01",
+      "level": 2,
+      "name": {
+        "local": "Huameuang",
+        "en": "Huameuang",
+        "slug": "huameuang-xi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XI",
+        "level": 1,
+        "name": {
+          "local": "Xiangkhouang",
+          "en": "Xiangkhouang",
+          "slug": "xiangkhouang-xi"
+        }
+      },
+      {
+        "id": "XI-01",
+        "level": 2,
+        "name": {
+          "local": "Huameuang",
+          "en": "Huameuang",
+          "slug": "huameuang-xi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.947",
+      "lon": "104.046"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1954243",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Hômsay",
+      "en": "Ban Homsay",
+      "slug": "ban-homsay-1954243"
+    },
+    "code": {
+      "id": "1954243",
+      "iso": null
+    },
+    "parent": {
+      "id": "XI-01",
+      "level": 2,
+      "name": {
+        "local": "Huameuang",
+        "en": "Huameuang",
+        "slug": "huameuang-xi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XI",
+        "level": 1,
+        "name": {
+          "local": "Xiangkhouang",
+          "en": "Xiangkhouang",
+          "slug": "xiangkhouang-xi"
+        }
+      },
+      {
+        "id": "XI-01",
+        "level": 2,
+        "name": {
+          "local": "Huameuang",
+          "en": "Huameuang",
+          "slug": "huameuang-xi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.068",
+      "lon": "103.846"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1954257",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Hômthong",
+      "en": "Ban Homthong",
+      "slug": "ban-homthong-1954257"
+    },
+    "code": {
+      "id": "1954257",
+      "iso": null
+    },
+    "parent": {
+      "id": "XI-01",
+      "level": 2,
+      "name": {
+        "local": "Huameuang",
+        "en": "Huameuang",
+        "slug": "huameuang-xi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XI",
+        "level": 1,
+        "name": {
+          "local": "Xiangkhouang",
+          "en": "Xiangkhouang",
+          "slug": "xiangkhouang-xi"
+        }
+      },
+      {
+        "id": "XI-01",
+        "level": 2,
+        "name": {
+          "local": "Huameuang",
+          "en": "Huameuang",
+          "slug": "huameuang-xi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.044",
+      "lon": "103.605"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1952793",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Hông-Oy",
+      "en": "Ban Hong-Oy",
+      "slug": "ban-hong-oy-1952793"
+    },
+    "code": {
+      "id": "1952793",
+      "iso": null
+    },
+    "parent": {
+      "id": "XI-01",
+      "level": 2,
+      "name": {
+        "local": "Huameuang",
+        "en": "Huameuang",
+        "slug": "huameuang-xi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XI",
+        "level": 1,
+        "name": {
+          "local": "Xiangkhouang",
+          "en": "Xiangkhouang",
+          "slug": "xiangkhouang-xi"
+        }
+      },
+      {
+        "id": "XI-01",
+        "level": 2,
+        "name": {
+          "local": "Huameuang",
+          "en": "Huameuang",
+          "slug": "huameuang-xi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.992",
+      "lon": "104.065"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1657121",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houamuang",
+      "en": "Ban Houamuang",
+      "slug": "ban-houamuang-1657121"
+    },
+    "code": {
+      "id": "1657121",
+      "iso": null
+    },
+    "parent": {
+      "id": "XI-01",
+      "level": 2,
+      "name": {
+        "local": "Huameuang",
+        "en": "Huameuang",
+        "slug": "huameuang-xi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XI",
+        "level": 1,
+        "name": {
+          "local": "Xiangkhouang",
+          "en": "Xiangkhouang",
+          "slug": "xiangkhouang-xi"
+        }
+      },
+      {
+        "id": "XI-01",
+        "level": 2,
+        "name": {
+          "local": "Huameuang",
+          "en": "Huameuang",
+          "slug": "huameuang-xi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.24",
+      "lon": "103.595"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1661381",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houamuang",
+      "en": "Ban Houamuang",
+      "slug": "ban-houamuang-1661381"
+    },
+    "code": {
+      "id": "1661381",
+      "iso": null
+    },
+    "parent": {
+      "id": "XI-01",
+      "level": 2,
+      "name": {
+        "local": "Huameuang",
+        "en": "Huameuang",
+        "slug": "huameuang-xi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XI",
+        "level": 1,
+        "name": {
+          "local": "Xiangkhouang",
+          "en": "Xiangkhouang",
+          "slug": "xiangkhouang-xi"
+        }
+      },
+      {
+        "id": "XI-01",
+        "level": 2,
+        "name": {
+          "local": "Huameuang",
+          "en": "Huameuang",
+          "slug": "huameuang-xi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.167",
+      "lon": "103.814"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1954241",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houaphou",
+      "en": "Ban Houaphou",
+      "slug": "ban-houaphou-1954241"
+    },
+    "code": {
+      "id": "1954241",
+      "iso": null
+    },
+    "parent": {
+      "id": "XI-01",
+      "level": 2,
+      "name": {
+        "local": "Huameuang",
+        "en": "Huameuang",
+        "slug": "huameuang-xi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XI",
+        "level": 1,
+        "name": {
+          "local": "Xiangkhouang",
+          "en": "Xiangkhouang",
+          "slug": "xiangkhouang-xi"
+        }
+      },
+      {
+        "id": "XI-01",
+        "level": 2,
+        "name": {
+          "local": "Huameuang",
+          "en": "Huameuang",
+          "slug": "huameuang-xi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.069",
+      "lon": "103.701"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1663965",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houaxiang",
+      "en": "Ban Houaxiang",
+      "slug": "ban-houaxiang-1663965"
+    },
+    "code": {
+      "id": "1663965",
+      "iso": null
+    },
+    "parent": {
+      "id": "XI-01",
+      "level": 2,
+      "name": {
+        "local": "Huameuang",
+        "en": "Huameuang",
+        "slug": "huameuang-xi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XI",
+        "level": 1,
+        "name": {
+          "local": "Xiangkhouang",
+          "en": "Xiangkhouang",
+          "slug": "xiangkhouang-xi"
+        }
+      },
+      {
+        "id": "XI-01",
+        "level": 2,
+        "name": {
+          "local": "Huameuang",
+          "en": "Huameuang",
+          "slug": "huameuang-xi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.206",
+      "lon": "103.837"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1663924",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houay Eng",
+      "en": "Ban Houay Eng",
+      "slug": "ban-houay-eng-1663924"
+    },
+    "code": {
+      "id": "1663924",
+      "iso": null
+    },
+    "parent": {
+      "id": "XI-01",
+      "level": 2,
+      "name": {
+        "local": "Huameuang",
+        "en": "Huameuang",
+        "slug": "huameuang-xi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XI",
+        "level": 1,
+        "name": {
+          "local": "Xiangkhouang",
+          "en": "Xiangkhouang",
+          "slug": "xiangkhouang-xi"
+        }
+      },
+      {
+        "id": "XI-01",
+        "level": 2,
+        "name": {
+          "local": "Huameuang",
+          "en": "Huameuang",
+          "slug": "huameuang-xi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.033",
+      "lon": "103.85"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1663642",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houay Sada",
+      "en": "Ban Houay Sada",
+      "slug": "ban-houay-sada-1663642"
+    },
+    "code": {
+      "id": "1663642",
+      "iso": null
+    },
+    "parent": {
+      "id": "XI-01",
+      "level": 2,
+      "name": {
+        "local": "Huameuang",
+        "en": "Huameuang",
+        "slug": "huameuang-xi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XI",
+        "level": 1,
+        "name": {
+          "local": "Xiangkhouang",
+          "en": "Xiangkhouang",
+          "slug": "xiangkhouang-xi"
+        }
+      },
+      {
+        "id": "XI-01",
+        "level": 2,
+        "name": {
+          "local": "Huameuang",
+          "en": "Huameuang",
+          "slug": "huameuang-xi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.033",
+      "lon": "103.967"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1954261",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houay-Mai",
+      "en": "Ban Houay-Mai",
+      "slug": "ban-houay-mai-1954261"
+    },
+    "code": {
+      "id": "1954261",
+      "iso": null
+    },
+    "parent": {
+      "id": "XI-01",
+      "level": 2,
+      "name": {
+        "local": "Huameuang",
+        "en": "Huameuang",
+        "slug": "huameuang-xi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XI",
+        "level": 1,
+        "name": {
+          "local": "Xiangkhouang",
+          "en": "Xiangkhouang",
+          "slug": "xiangkhouang-xi"
+        }
+      },
+      {
+        "id": "XI-01",
+        "level": 2,
+        "name": {
+          "local": "Huameuang",
+          "en": "Huameuang",
+          "slug": "huameuang-xi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.027",
+      "lon": "103.802"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1664034",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houay-Nua",
+      "en": "Ban Houay-Nua",
+      "slug": "ban-houay-nua-1664034"
+    },
+    "code": {
+      "id": "1664034",
+      "iso": null
+    },
+    "parent": {
+      "id": "XI-01",
+      "level": 2,
+      "name": {
+        "local": "Huameuang",
+        "en": "Huameuang",
+        "slug": "huameuang-xi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XI",
+        "level": 1,
+        "name": {
+          "local": "Xiangkhouang",
+          "en": "Xiangkhouang",
+          "slug": "xiangkhouang-xi"
+        }
+      },
+      {
+        "id": "XI-01",
+        "level": 2,
+        "name": {
+          "local": "Huameuang",
+          "en": "Huameuang",
+          "slug": "huameuang-xi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.176",
+      "lon": "103.692"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1663767",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houaychalot",
+      "en": "Ban Houaychalot",
+      "slug": "ban-houaychalot-1663767"
+    },
+    "code": {
+      "id": "1663767",
+      "iso": null
+    },
+    "parent": {
+      "id": "XI-01",
+      "level": 2,
+      "name": {
+        "local": "Huameuang",
+        "en": "Huameuang",
+        "slug": "huameuang-xi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XI",
+        "level": 1,
+        "name": {
+          "local": "Xiangkhouang",
+          "en": "Xiangkhouang",
+          "slug": "xiangkhouang-xi"
+        }
+      },
+      {
+        "id": "XI-01",
+        "level": 2,
+        "name": {
+          "local": "Huameuang",
+          "en": "Huameuang",
+          "slug": "huameuang-xi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.907",
+      "lon": "103.89"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1952317",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houaychalot",
+      "en": "Ban Houaychalot",
+      "slug": "ban-houaychalot-1952317"
+    },
+    "code": {
+      "id": "1952317",
+      "iso": null
+    },
+    "parent": {
+      "id": "XI-01",
+      "level": 2,
+      "name": {
+        "local": "Huameuang",
+        "en": "Huameuang",
+        "slug": "huameuang-xi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XI",
+        "level": 1,
+        "name": {
+          "local": "Xiangkhouang",
+          "en": "Xiangkhouang",
+          "slug": "xiangkhouang-xi"
+        }
+      },
+      {
+        "id": "XI-01",
+        "level": 2,
+        "name": {
+          "local": "Huameuang",
+          "en": "Huameuang",
+          "slug": "huameuang-xi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.907",
+      "lon": "103.889"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1663552",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houaychiang",
+      "en": "Ban Houaychiang",
+      "slug": "ban-houaychiang-1663552"
+    },
+    "code": {
+      "id": "1663552",
+      "iso": null
+    },
+    "parent": {
+      "id": "XI-01",
+      "level": 2,
+      "name": {
+        "local": "Huameuang",
+        "en": "Huameuang",
+        "slug": "huameuang-xi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XI",
+        "level": 1,
+        "name": {
+          "local": "Xiangkhouang",
+          "en": "Xiangkhouang",
+          "slug": "xiangkhouang-xi"
+        }
+      },
+      {
+        "id": "XI-01",
+        "level": 2,
+        "name": {
+          "local": "Huameuang",
+          "en": "Huameuang",
+          "slug": "huameuang-xi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.053",
+      "lon": "104.125"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1954190",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houaygnôm",
+      "en": "Ban Houaygnom",
+      "slug": "ban-houaygnom-1954190"
+    },
+    "code": {
+      "id": "1954190",
+      "iso": null
+    },
+    "parent": {
+      "id": "XI-01",
+      "level": 2,
+      "name": {
+        "local": "Huameuang",
+        "en": "Huameuang",
+        "slug": "huameuang-xi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XI",
+        "level": 1,
+        "name": {
+          "local": "Xiangkhouang",
+          "en": "Xiangkhouang",
+          "slug": "xiangkhouang-xi"
+        }
+      },
+      {
+        "id": "XI-01",
+        "level": 2,
+        "name": {
+          "local": "Huameuang",
+          "en": "Huameuang",
+          "slug": "huameuang-xi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.155",
+      "lon": "103.663"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1663912",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houayhai",
+      "en": "Ban Houayhai",
+      "slug": "ban-houayhai-1663912"
+    },
+    "code": {
+      "id": "1663912",
+      "iso": null
+    },
+    "parent": {
+      "id": "XI-01",
+      "level": 2,
+      "name": {
+        "local": "Huameuang",
+        "en": "Huameuang",
+        "slug": "huameuang-xi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XI",
+        "level": 1,
+        "name": {
+          "local": "Xiangkhouang",
+          "en": "Xiangkhouang",
+          "slug": "xiangkhouang-xi"
+        }
+      },
+      {
+        "id": "XI-01",
+        "level": 2,
+        "name": {
+          "local": "Huameuang",
+          "en": "Huameuang",
+          "slug": "huameuang-xi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.998",
+      "lon": "103.926"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1954212",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houayhia",
+      "en": "Ban Houayhia",
+      "slug": "ban-houayhia-1954212"
+    },
+    "code": {
+      "id": "1954212",
+      "iso": null
+    },
+    "parent": {
+      "id": "XI-01",
+      "level": 2,
+      "name": {
+        "local": "Huameuang",
+        "en": "Huameuang",
+        "slug": "huameuang-xi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XI",
+        "level": 1,
+        "name": {
+          "local": "Xiangkhouang",
+          "en": "Xiangkhouang",
+          "slug": "xiangkhouang-xi"
+        }
+      },
+      {
+        "id": "XI-01",
+        "level": 2,
+        "name": {
+          "local": "Huameuang",
+          "en": "Huameuang",
+          "slug": "huameuang-xi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.124",
+      "lon": "103.773"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1952324",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houayhôk",
+      "en": "Ban Houayhok",
+      "slug": "ban-houayhok-1952324"
+    },
+    "code": {
+      "id": "1952324",
+      "iso": null
+    },
+    "parent": {
+      "id": "XI-01",
+      "level": 2,
+      "name": {
+        "local": "Huameuang",
+        "en": "Huameuang",
+        "slug": "huameuang-xi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XI",
+        "level": 1,
+        "name": {
+          "local": "Xiangkhouang",
+          "en": "Xiangkhouang",
+          "slug": "xiangkhouang-xi"
+        }
+      },
+      {
+        "id": "XI-01",
+        "level": 2,
+        "name": {
+          "local": "Huameuang",
+          "en": "Huameuang",
+          "slug": "huameuang-xi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.884",
+      "lon": "103.966"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1954159",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houayhou",
+      "en": "Ban Houayhou",
+      "slug": "ban-houayhou-1954159"
+    },
+    "code": {
+      "id": "1954159",
+      "iso": null
+    },
+    "parent": {
+      "id": "XI-01",
+      "level": 2,
+      "name": {
+        "local": "Huameuang",
+        "en": "Huameuang",
+        "slug": "huameuang-xi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XI",
+        "level": 1,
+        "name": {
+          "local": "Xiangkhouang",
+          "en": "Xiangkhouang",
+          "slug": "xiangkhouang-xi"
+        }
+      },
+      {
+        "id": "XI-01",
+        "level": 2,
+        "name": {
+          "local": "Huameuang",
+          "en": "Huameuang",
+          "slug": "huameuang-xi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.224",
+      "lon": "103.714"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1663822",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houaykhoan",
+      "en": "Ban Houaykhoan",
+      "slug": "ban-houaykhoan-1663822"
+    },
+    "code": {
+      "id": "1663822",
+      "iso": null
+    },
+    "parent": {
+      "id": "XI-01",
+      "level": 2,
+      "name": {
+        "local": "Huameuang",
+        "en": "Huameuang",
+        "slug": "huameuang-xi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XI",
+        "level": 1,
+        "name": {
+          "local": "Xiangkhouang",
+          "en": "Xiangkhouang",
+          "slug": "xiangkhouang-xi"
+        }
+      },
+      {
+        "id": "XI-01",
+        "level": 2,
+        "name": {
+          "local": "Huameuang",
+          "en": "Huameuang",
+          "slug": "huameuang-xi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.847",
+      "lon": "103.934"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1954217",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houaymoun",
+      "en": "Ban Houaymoun",
+      "slug": "ban-houaymoun-1954217"
+    },
+    "code": {
+      "id": "1954217",
+      "iso": null
+    },
+    "parent": {
+      "id": "XI-01",
+      "level": 2,
+      "name": {
+        "local": "Huameuang",
+        "en": "Huameuang",
+        "slug": "huameuang-xi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XI",
+        "level": 1,
+        "name": {
+          "local": "Xiangkhouang",
+          "en": "Xiangkhouang",
+          "slug": "xiangkhouang-xi"
+        }
+      },
+      {
+        "id": "XI-01",
+        "level": 2,
+        "name": {
+          "local": "Huameuang",
+          "en": "Huameuang",
+          "slug": "huameuang-xi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.102",
+      "lon": "103.813"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1663641",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houaysadoung",
+      "en": "Ban Houaysadoung",
+      "slug": "ban-houaysadoung-1663641"
+    },
+    "code": {
+      "id": "1663641",
+      "iso": null
+    },
+    "parent": {
+      "id": "XI-01",
+      "level": 2,
+      "name": {
+        "local": "Huameuang",
+        "en": "Huameuang",
+        "slug": "huameuang-xi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XI",
+        "level": 1,
+        "name": {
+          "local": "Xiangkhouang",
+          "en": "Xiangkhouang",
+          "slug": "xiangkhouang-xi"
+        }
+      },
+      {
+        "id": "XI-01",
+        "level": 2,
+        "name": {
+          "local": "Huameuang",
+          "en": "Huameuang",
+          "slug": "huameuang-xi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.963",
+      "lon": "103.928"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1954247",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houaysadoung",
+      "en": "Ban Houaysadoung",
+      "slug": "ban-houaysadoung-1954247"
+    },
+    "code": {
+      "id": "1954247",
+      "iso": null
+    },
+    "parent": {
+      "id": "XI-01",
+      "level": 2,
+      "name": {
+        "local": "Huameuang",
+        "en": "Huameuang",
+        "slug": "huameuang-xi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XI",
+        "level": 1,
+        "name": {
+          "local": "Xiangkhouang",
+          "en": "Xiangkhouang",
+          "slug": "xiangkhouang-xi"
+        }
+      },
+      {
+        "id": "XI-01",
+        "level": 2,
+        "name": {
+          "local": "Huameuang",
+          "en": "Huameuang",
+          "slug": "huameuang-xi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.06",
+      "lon": "103.961"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1952295",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houmphan",
+      "en": "Ban Houmphan",
+      "slug": "ban-houmphan-1952295"
+    },
+    "code": {
+      "id": "1952295",
+      "iso": null
+    },
+    "parent": {
+      "id": "XI-01",
+      "level": 2,
+      "name": {
+        "local": "Huameuang",
+        "en": "Huameuang",
+        "slug": "huameuang-xi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XI",
+        "level": 1,
+        "name": {
+          "local": "Xiangkhouang",
+          "en": "Xiangkhouang",
+          "slug": "xiangkhouang-xi"
+        }
+      },
+      {
+        "id": "XI-01",
+        "level": 2,
+        "name": {
+          "local": "Huameuang",
+          "en": "Huameuang",
+          "slug": "huameuang-xi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.968",
+      "lon": "103.877"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1954160",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Kadèng",
+      "en": "Ban Kadeng",
+      "slug": "ban-kadeng-1954160"
+    },
+    "code": {
+      "id": "1954160",
+      "iso": null
+    },
+    "parent": {
+      "id": "XI-01",
+      "level": 2,
+      "name": {
+        "local": "Huameuang",
+        "en": "Huameuang",
+        "slug": "huameuang-xi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XI",
+        "level": 1,
+        "name": {
+          "local": "Xiangkhouang",
+          "en": "Xiangkhouang",
+          "slug": "xiangkhouang-xi"
+        }
+      },
+      {
+        "id": "XI-01",
+        "level": 2,
+        "name": {
+          "local": "Huameuang",
+          "en": "Huameuang",
+          "slug": "huameuang-xi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.223",
+      "lon": "103.744"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1954214",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Kang",
+      "en": "Ban Kang",
+      "slug": "ban-kang-1954214"
+    },
+    "code": {
+      "id": "1954214",
+      "iso": null
+    },
+    "parent": {
+      "id": "XI-01",
+      "level": 2,
+      "name": {
+        "local": "Huameuang",
+        "en": "Huameuang",
+        "slug": "huameuang-xi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XI",
+        "level": 1,
+        "name": {
+          "local": "Xiangkhouang",
+          "en": "Xiangkhouang",
+          "slug": "xiangkhouang-xi"
+        }
+      },
+      {
+        "id": "XI-01",
+        "level": 2,
+        "name": {
+          "local": "Huameuang",
+          "en": "Huameuang",
+          "slug": "huameuang-xi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.138",
+      "lon": "103.729"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1663185",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Kèo Gnoung",
+      "en": "Ban Keo Gnoung",
+      "slug": "ban-keo-gnoung-1663185"
+    },
+    "code": {
+      "id": "1663185",
+      "iso": null
+    },
+    "parent": {
+      "id": "XI-01",
+      "level": 2,
+      "name": {
+        "local": "Huameuang",
+        "en": "Huameuang",
+        "slug": "huameuang-xi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XI",
+        "level": 1,
+        "name": {
+          "local": "Xiangkhouang",
+          "en": "Xiangkhouang",
+          "slug": "xiangkhouang-xi"
+        }
+      },
+      {
+        "id": "XI-01",
+        "level": 2,
+        "name": {
+          "local": "Huameuang",
+          "en": "Huameuang",
+          "slug": "huameuang-xi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.067",
+      "lon": "103.85"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1663167",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Kèo Tao",
+      "en": "Ban Keo Tao",
+      "slug": "ban-keo-tao-1663167"
+    },
+    "code": {
+      "id": "1663167",
+      "iso": null
+    },
+    "parent": {
+      "id": "XI-01",
+      "level": 2,
+      "name": {
+        "local": "Huameuang",
+        "en": "Huameuang",
+        "slug": "huameuang-xi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XI",
+        "level": 1,
+        "name": {
+          "local": "Xiangkhouang",
+          "en": "Xiangkhouang",
+          "slug": "xiangkhouang-xi"
+        }
+      },
+      {
+        "id": "XI-01",
+        "level": 2,
+        "name": {
+          "local": "Huameuang",
+          "en": "Huameuang",
+          "slug": "huameuang-xi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.025",
+      "lon": "103.887"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1663173",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Kèo-Nguak",
+      "en": "Ban Keo-Nguak",
+      "slug": "ban-keo-nguak-1663173"
+    },
+    "code": {
+      "id": "1663173",
+      "iso": null
+    },
+    "parent": {
+      "id": "XI-01",
+      "level": 2,
+      "name": {
+        "local": "Huameuang",
+        "en": "Huameuang",
+        "slug": "huameuang-xi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XI",
+        "level": 1,
+        "name": {
+          "local": "Xiangkhouang",
+          "en": "Xiangkhouang",
+          "slug": "xiangkhouang-xi"
+        }
+      },
+      {
+        "id": "XI-01",
+        "level": 2,
+        "name": {
+          "local": "Huameuang",
+          "en": "Huameuang",
+          "slug": "huameuang-xi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.924",
+      "lon": "103.892"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1663179",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Kèokoup",
+      "en": "Ban Keokoup",
+      "slug": "ban-keokoup-1663179"
+    },
+    "code": {
+      "id": "1663179",
+      "iso": null
+    },
+    "parent": {
+      "id": "XI-01",
+      "level": 2,
+      "name": {
+        "local": "Huameuang",
+        "en": "Huameuang",
+        "slug": "huameuang-xi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XI",
+        "level": 1,
+        "name": {
+          "local": "Xiangkhouang",
+          "en": "Xiangkhouang",
+          "slug": "xiangkhouang-xi"
+        }
+      },
+      {
+        "id": "XI-01",
+        "level": 2,
+        "name": {
+          "local": "Huameuang",
+          "en": "Huameuang",
+          "slug": "huameuang-xi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.967",
+      "lon": "104.017"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1954242",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Kèotat",
+      "en": "Ban Keotat",
+      "slug": "ban-keotat-1954242"
+    },
+    "code": {
+      "id": "1954242",
+      "iso": null
+    },
+    "parent": {
+      "id": "XI-01",
+      "level": 2,
+      "name": {
+        "local": "Huameuang",
+        "en": "Huameuang",
+        "slug": "huameuang-xi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XI",
+        "level": 1,
+        "name": {
+          "local": "Xiangkhouang",
+          "en": "Xiangkhouang",
+          "slug": "xiangkhouang-xi"
+        }
+      },
+      {
+        "id": "XI-01",
+        "level": 2,
+        "name": {
+          "local": "Huameuang",
+          "en": "Huameuang",
+          "slug": "huameuang-xi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.073",
+      "lon": "103.822"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1663160",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Keu",
+      "en": "Ban Keu",
+      "slug": "ban-keu-1663160"
+    },
+    "code": {
+      "id": "1663160",
+      "iso": null
+    },
+    "parent": {
+      "id": "XI-01",
+      "level": 2,
+      "name": {
+        "local": "Huameuang",
+        "en": "Huameuang",
+        "slug": "huameuang-xi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XI",
+        "level": 1,
+        "name": {
+          "local": "Xiangkhouang",
+          "en": "Xiangkhouang",
+          "slug": "xiangkhouang-xi"
+        }
+      },
+      {
+        "id": "XI-01",
+        "level": 2,
+        "name": {
+          "local": "Huameuang",
+          "en": "Huameuang",
+          "slug": "huameuang-xi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.049",
+      "lon": "104.08"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1663062",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Khang Khao",
+      "en": "Ban Khang Khao",
+      "slug": "ban-khang-khao-1663062"
+    },
+    "code": {
+      "id": "1663062",
+      "iso": null
+    },
+    "parent": {
+      "id": "XI-01",
+      "level": 2,
+      "name": {
+        "local": "Huameuang",
+        "en": "Huameuang",
+        "slug": "huameuang-xi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XI",
+        "level": 1,
+        "name": {
+          "local": "Xiangkhouang",
+          "en": "Xiangkhouang",
+          "slug": "xiangkhouang-xi"
+        }
+      },
+      {
+        "id": "XI-01",
+        "level": 2,
+        "name": {
+          "local": "Huameuang",
+          "en": "Huameuang",
+          "slug": "huameuang-xi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.167",
+      "lon": "103.817"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1956837",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Không",
+      "en": "Ban Khong",
+      "slug": "ban-khong-1956837"
+    },
+    "code": {
+      "id": "1956837",
+      "iso": null
+    },
+    "parent": {
+      "id": "XI-01",
+      "level": 2,
+      "name": {
+        "local": "Huameuang",
+        "en": "Huameuang",
+        "slug": "huameuang-xi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XI",
+        "level": 1,
+        "name": {
+          "local": "Xiangkhouang",
+          "en": "Xiangkhouang",
+          "slug": "xiangkhouang-xi"
+        }
+      },
+      {
+        "id": "XI-01",
+        "level": 2,
+        "name": {
+          "local": "Huameuang",
+          "en": "Huameuang",
+          "slug": "huameuang-xi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.044",
+      "lon": "103.498"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1954254",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Komouang",
+      "en": "Ban Komouang",
+      "slug": "ban-komouang-1954254"
+    },
+    "code": {
+      "id": "1954254",
+      "iso": null
+    },
+    "parent": {
+      "id": "XI-01",
+      "level": 2,
+      "name": {
+        "local": "Huameuang",
+        "en": "Huameuang",
+        "slug": "huameuang-xi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XI",
+        "level": 1,
+        "name": {
+          "local": "Xiangkhouang",
+          "en": "Xiangkhouang",
+          "slug": "xiangkhouang-xi"
+        }
+      },
+      {
+        "id": "XI-01",
+        "level": 2,
+        "name": {
+          "local": "Huameuang",
+          "en": "Huameuang",
+          "slug": "huameuang-xi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.055",
+      "lon": "103.529"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1952779",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Lôngko",
+      "en": "Ban Longko",
+      "slug": "ban-longko-1952779"
+    },
+    "code": {
+      "id": "1952779",
+      "iso": null
+    },
+    "parent": {
+      "id": "XI-01",
+      "level": 2,
+      "name": {
+        "local": "Huameuang",
+        "en": "Huameuang",
+        "slug": "huameuang-xi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XI",
+        "level": 1,
+        "name": {
+          "local": "Xiangkhouang",
+          "en": "Xiangkhouang",
+          "slug": "xiangkhouang-xi"
+        }
+      },
+      {
+        "id": "XI-01",
+        "level": 2,
+        "name": {
+          "local": "Huameuang",
+          "en": "Huameuang",
+          "slug": "huameuang-xi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.93",
+      "lon": "104.056"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1662356",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Maignan",
+      "en": "Ban Maignan",
+      "slug": "ban-maignan-1662356"
+    },
+    "code": {
+      "id": "1662356",
+      "iso": null
+    },
+    "parent": {
+      "id": "XI-01",
+      "level": 2,
+      "name": {
+        "local": "Huameuang",
+        "en": "Huameuang",
+        "slug": "huameuang-xi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XI",
+        "level": 1,
+        "name": {
+          "local": "Xiangkhouang",
+          "en": "Xiangkhouang",
+          "slug": "xiangkhouang-xi"
+        }
+      },
+      {
+        "id": "XI-01",
+        "level": 2,
+        "name": {
+          "local": "Huameuang",
+          "en": "Huameuang",
+          "slug": "huameuang-xi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.004",
+      "lon": "103.956"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1954275",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Maignan",
+      "en": "Ban Maignan",
+      "slug": "ban-maignan-1954275"
+    },
+    "code": {
+      "id": "1954275",
+      "iso": null
+    },
+    "parent": {
+      "id": "XI-01",
+      "level": 2,
+      "name": {
+        "local": "Huameuang",
+        "en": "Huameuang",
+        "slug": "huameuang-xi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XI",
+        "level": 1,
+        "name": {
+          "local": "Xiangkhouang",
+          "en": "Xiangkhouang",
+          "slug": "xiangkhouang-xi"
+        }
+      },
+      {
+        "id": "XI-01",
+        "level": 2,
+        "name": {
+          "local": "Huameuang",
+          "en": "Huameuang",
+          "slug": "huameuang-xi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.003",
+      "lon": "103.945"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1662335",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Malat",
+      "en": "Ban Malat",
+      "slug": "ban-malat-1662335"
+    },
+    "code": {
+      "id": "1662335",
+      "iso": null
+    },
+    "parent": {
+      "id": "XI-01",
+      "level": 2,
+      "name": {
+        "local": "Huameuang",
+        "en": "Huameuang",
+        "slug": "huameuang-xi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XI",
+        "level": 1,
+        "name": {
+          "local": "Xiangkhouang",
+          "en": "Xiangkhouang",
+          "slug": "xiangkhouang-xi"
+        }
+      },
+      {
+        "id": "XI-01",
+        "level": 2,
+        "name": {
+          "local": "Huameuang",
+          "en": "Huameuang",
+          "slug": "huameuang-xi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.998",
+      "lon": "103.892"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1662299",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Mêo Khang Khao",
+      "en": "Ban Meo Khang Khao",
+      "slug": "ban-meo-khang-khao-1662299"
+    },
+    "code": {
+      "id": "1662299",
+      "iso": null
+    },
+    "parent": {
+      "id": "XI-01",
+      "level": 2,
+      "name": {
+        "local": "Huameuang",
+        "en": "Huameuang",
+        "slug": "huameuang-xi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XI",
+        "level": 1,
+        "name": {
+          "local": "Xiangkhouang",
+          "en": "Xiangkhouang",
+          "slug": "xiangkhouang-xi"
+        }
+      },
+      {
+        "id": "XI-01",
+        "level": 2,
+        "name": {
+          "local": "Huameuang",
+          "en": "Huameuang",
+          "slug": "huameuang-xi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.167",
+      "lon": "103.8"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1954250",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Mo",
+      "en": "Ban Mo",
+      "slug": "ban-mo-1954250"
+    },
+    "code": {
+      "id": "1954250",
+      "iso": null
+    },
+    "parent": {
+      "id": "XI-01",
+      "level": 2,
+      "name": {
+        "local": "Huameuang",
+        "en": "Huameuang",
+        "slug": "huameuang-xi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XI",
+        "level": 1,
+        "name": {
+          "local": "Xiangkhouang",
+          "en": "Xiangkhouang",
+          "slug": "xiangkhouang-xi"
+        }
+      },
+      {
+        "id": "XI-01",
+        "level": 2,
+        "name": {
+          "local": "Huameuang",
+          "en": "Huameuang",
+          "slug": "huameuang-xi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.057",
+      "lon": "103.637"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1662247",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Mon",
+      "en": "Ban Mon",
+      "slug": "ban-mon-1662247"
+    },
+    "code": {
+      "id": "1662247",
+      "iso": null
+    },
+    "parent": {
+      "id": "XI-01",
+      "level": 2,
+      "name": {
+        "local": "Huameuang",
+        "en": "Huameuang",
+        "slug": "huameuang-xi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XI",
+        "level": 1,
+        "name": {
+          "local": "Xiangkhouang",
+          "en": "Xiangkhouang",
+          "slug": "xiangkhouang-xi"
+        }
+      },
+      {
+        "id": "XI-01",
+        "level": 2,
+        "name": {
+          "local": "Huameuang",
+          "en": "Huameuang",
+          "slug": "huameuang-xi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.826",
+      "lon": "103.943"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1952794",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Muang-O",
+      "en": "Ban Muang-O",
+      "slug": "ban-muang-o-1952794"
+    },
+    "code": {
+      "id": "1952794",
+      "iso": null
+    },
+    "parent": {
+      "id": "XI-01",
+      "level": 2,
+      "name": {
+        "local": "Huameuang",
+        "en": "Huameuang",
+        "slug": "huameuang-xi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XI",
+        "level": 1,
+        "name": {
+          "local": "Xiangkhouang",
+          "en": "Xiangkhouang",
+          "slug": "xiangkhouang-xi"
+        }
+      },
+      {
+        "id": "XI-01",
+        "level": 2,
+        "name": {
+          "local": "Huameuang",
+          "en": "Huameuang",
+          "slug": "huameuang-xi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.998",
+      "lon": "104.085"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1655182",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Muanglap",
+      "en": "Ban Muanglap",
+      "slug": "ban-muanglap-1655182"
+    },
+    "code": {
+      "id": "1655182",
+      "iso": null
+    },
+    "parent": {
+      "id": "XI-01",
+      "level": 2,
+      "name": {
+        "local": "Huameuang",
+        "en": "Huameuang",
+        "slug": "huameuang-xi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XI",
+        "level": 1,
+        "name": {
+          "local": "Xiangkhouang",
+          "en": "Xiangkhouang",
+          "slug": "xiangkhouang-xi"
+        }
+      },
+      {
+        "id": "XI-01",
+        "level": 2,
+        "name": {
+          "local": "Huameuang",
+          "en": "Huameuang",
+          "slug": "huameuang-xi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.14",
+      "lon": "103.567"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1655133",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Muangpeun",
+      "en": "Ban Muangpeun",
+      "slug": "ban-muangpeun-1655133"
+    },
+    "code": {
+      "id": "1655133",
+      "iso": null
+    },
+    "parent": {
+      "id": "XI-01",
+      "level": 2,
+      "name": {
+        "local": "Huameuang",
+        "en": "Huameuang",
+        "slug": "huameuang-xi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XI",
+        "level": 1,
+        "name": {
+          "local": "Xiangkhouang",
+          "en": "Xiangkhouang",
+          "slug": "xiangkhouang-xi"
+        }
+      },
+      {
+        "id": "XI-01",
+        "level": 2,
+        "name": {
+          "local": "Huameuang",
+          "en": "Huameuang",
+          "slug": "huameuang-xi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.213",
+      "lon": "103.869"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1661945",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Na Hing",
+      "en": "Ban Na Hing",
+      "slug": "ban-na-hing-1661945"
+    },
+    "code": {
+      "id": "1661945",
+      "iso": null
+    },
+    "parent": {
+      "id": "XI-01",
+      "level": 2,
+      "name": {
+        "local": "Huameuang",
+        "en": "Huameuang",
+        "slug": "huameuang-xi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XI",
+        "level": 1,
+        "name": {
+          "local": "Xiangkhouang",
+          "en": "Xiangkhouang",
+          "slug": "xiangkhouang-xi"
+        }
+      },
+      {
+        "id": "XI-01",
+        "level": 2,
+        "name": {
+          "local": "Huameuang",
+          "en": "Huameuang",
+          "slug": "huameuang-xi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.183",
+      "lon": "103.9"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1952778",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nahing",
+      "en": "Ban Nahing",
+      "slug": "ban-nahing-1952778"
+    },
+    "code": {
+      "id": "1952778",
+      "iso": null
+    },
+    "parent": {
+      "id": "XI-01",
+      "level": 2,
+      "name": {
+        "local": "Huameuang",
+        "en": "Huameuang",
+        "slug": "huameuang-xi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XI",
+        "level": 1,
+        "name": {
+          "local": "Xiangkhouang",
+          "en": "Xiangkhouang",
+          "slug": "xiangkhouang-xi"
+        }
+      },
+      {
+        "id": "XI-01",
+        "level": 2,
+        "name": {
+          "local": "Huameuang",
+          "en": "Huameuang",
+          "slug": "huameuang-xi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.954",
+      "lon": "104.091"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1952790",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nakéng",
+      "en": "Ban Nakeng",
+      "slug": "ban-nakeng-1952790"
+    },
+    "code": {
+      "id": "1952790",
+      "iso": null
+    },
+    "parent": {
+      "id": "XI-01",
+      "level": 2,
+      "name": {
+        "local": "Huameuang",
+        "en": "Huameuang",
+        "slug": "huameuang-xi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XI",
+        "level": 1,
+        "name": {
+          "local": "Xiangkhouang",
+          "en": "Xiangkhouang",
+          "slug": "xiangkhouang-xi"
+        }
+      },
+      {
+        "id": "XI-01",
+        "level": 2,
+        "name": {
+          "local": "Huameuang",
+          "en": "Huameuang",
+          "slug": "huameuang-xi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.96",
+      "lon": "104.135"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1954209",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nakham",
+      "en": "Ban Nakham",
+      "slug": "ban-nakham-1954209"
+    },
+    "code": {
+      "id": "1954209",
+      "iso": null
+    },
+    "parent": {
+      "id": "XI-01",
+      "level": 2,
+      "name": {
+        "local": "Huameuang",
+        "en": "Huameuang",
+        "slug": "huameuang-xi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XI",
+        "level": 1,
+        "name": {
+          "local": "Xiangkhouang",
+          "en": "Xiangkhouang",
+          "slug": "xiangkhouang-xi"
+        }
+      },
+      {
+        "id": "XI-01",
+        "level": 2,
+        "name": {
+          "local": "Huameuang",
+          "en": "Huameuang",
+          "slug": "huameuang-xi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.13",
+      "lon": "103.867"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1952761",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Namén",
+      "en": "Ban Namen",
+      "slug": "ban-namen-1952761"
+    },
+    "code": {
+      "id": "1952761",
+      "iso": null
+    },
+    "parent": {
+      "id": "XI-01",
+      "level": 2,
+      "name": {
+        "local": "Huameuang",
+        "en": "Huameuang",
+        "slug": "huameuang-xi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XI",
+        "level": 1,
+        "name": {
+          "local": "Xiangkhouang",
+          "en": "Xiangkhouang",
+          "slug": "xiangkhouang-xi"
+        }
+      },
+      {
+        "id": "XI-01",
+        "level": 2,
+        "name": {
+          "local": "Huameuang",
+          "en": "Huameuang",
+          "slug": "huameuang-xi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.943",
+      "lon": "104.009"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1956952",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Namlèm",
+      "en": "Ban Namlem",
+      "slug": "ban-namlem-1956952"
+    },
+    "code": {
+      "id": "1956952",
+      "iso": null
+    },
+    "parent": {
+      "id": "XI-01",
+      "level": 2,
+      "name": {
+        "local": "Huameuang",
+        "en": "Huameuang",
+        "slug": "huameuang-xi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XI",
+        "level": 1,
+        "name": {
+          "local": "Xiangkhouang",
+          "en": "Xiangkhouang",
+          "slug": "xiangkhouang-xi"
+        }
+      },
+      {
+        "id": "XI-01",
+        "level": 2,
+        "name": {
+          "local": "Huameuang",
+          "en": "Huameuang",
+          "slug": "huameuang-xi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.042",
+      "lon": "104.117"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1664848",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nampong",
+      "en": "Ban Nampong",
+      "slug": "ban-nampong-1664848"
+    },
+    "code": {
+      "id": "1664848",
+      "iso": null
+    },
+    "parent": {
+      "id": "XI-01",
+      "level": 2,
+      "name": {
+        "local": "Huameuang",
+        "en": "Huameuang",
+        "slug": "huameuang-xi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XI",
+        "level": 1,
+        "name": {
+          "local": "Xiangkhouang",
+          "en": "Xiangkhouang",
+          "slug": "xiangkhouang-xi"
+        }
+      },
+      {
+        "id": "XI-01",
+        "level": 2,
+        "name": {
+          "local": "Huameuang",
+          "en": "Huameuang",
+          "slug": "huameuang-xi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.225",
+      "lon": "103.859"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1952776",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nampong",
+      "en": "Ban Nampong",
+      "slug": "ban-nampong-1952776"
+    },
+    "code": {
+      "id": "1952776",
+      "iso": null
+    },
+    "parent": {
+      "id": "XI-01",
+      "level": 2,
+      "name": {
+        "local": "Huameuang",
+        "en": "Huameuang",
+        "slug": "huameuang-xi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XI",
+        "level": 1,
+        "name": {
+          "local": "Xiangkhouang",
+          "en": "Xiangkhouang",
+          "slug": "xiangkhouang-xi"
+        }
+      },
+      {
+        "id": "XI-01",
+        "level": 2,
+        "name": {
+          "local": "Huameuang",
+          "en": "Huameuang",
+          "slug": "huameuang-xi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.97",
+      "lon": "104.066"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1954189",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Namtat",
+      "en": "Ban Namtat",
+      "slug": "ban-namtat-1954189"
+    },
+    "code": {
+      "id": "1954189",
+      "iso": null
+    },
+    "parent": {
+      "id": "XI-01",
+      "level": 2,
+      "name": {
+        "local": "Huameuang",
+        "en": "Huameuang",
+        "slug": "huameuang-xi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XI",
+        "level": 1,
+        "name": {
+          "local": "Xiangkhouang",
+          "en": "Xiangkhouang",
+          "slug": "xiangkhouang-xi"
+        }
+      },
+      {
+        "id": "XI-01",
+        "level": 2,
+        "name": {
+          "local": "Huameuang",
+          "en": "Huameuang",
+          "slug": "huameuang-xi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.169",
+      "lon": "103.788"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1954253",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Naphiang",
+      "en": "Ban Naphiang",
+      "slug": "ban-naphiang-1954253"
+    },
+    "code": {
+      "id": "1954253",
+      "iso": null
+    },
+    "parent": {
+      "id": "XI-01",
+      "level": 2,
+      "name": {
+        "local": "Huameuang",
+        "en": "Huameuang",
+        "slug": "huameuang-xi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XI",
+        "level": 1,
+        "name": {
+          "local": "Xiangkhouang",
+          "en": "Xiangkhouang",
+          "slug": "xiangkhouang-xi"
+        }
+      },
+      {
+        "id": "XI-01",
+        "level": 2,
+        "name": {
+          "local": "Huameuang",
+          "en": "Huameuang",
+          "slug": "huameuang-xi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.049",
+      "lon": "103.58"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1660985",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Naxai",
+      "en": "Ban Naxai",
+      "slug": "ban-naxai-1660985"
+    },
+    "code": {
+      "id": "1660985",
+      "iso": null
+    },
+    "parent": {
+      "id": "XI-01",
+      "level": 2,
+      "name": {
+        "local": "Huameuang",
+        "en": "Huameuang",
+        "slug": "huameuang-xi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XI",
+        "level": 1,
+        "name": {
+          "local": "Xiangkhouang",
+          "en": "Xiangkhouang",
+          "slug": "xiangkhouang-xi"
+        }
+      },
+      {
+        "id": "XI-01",
+        "level": 2,
+        "name": {
+          "local": "Huameuang",
+          "en": "Huameuang",
+          "slug": "huameuang-xi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.167",
+      "lon": "103.741"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1660789",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nongkhay",
+      "en": "Ban Nongkhay",
+      "slug": "ban-nongkhay-1660789"
+    },
+    "code": {
+      "id": "1660789",
+      "iso": null
+    },
+    "parent": {
+      "id": "XI-01",
+      "level": 2,
+      "name": {
+        "local": "Huameuang",
+        "en": "Huameuang",
+        "slug": "huameuang-xi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XI",
+        "level": 1,
+        "name": {
+          "local": "Xiangkhouang",
+          "en": "Xiangkhouang",
+          "slug": "xiangkhouang-xi"
+        }
+      },
+      {
+        "id": "XI-01",
+        "level": 2,
+        "name": {
+          "local": "Huameuang",
+          "en": "Huameuang",
+          "slug": "huameuang-xi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.967",
+      "lon": "104.017"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1956951",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Pa",
+      "en": "Ban Pa",
+      "slug": "ban-pa-1956951"
+    },
+    "code": {
+      "id": "1956951",
+      "iso": null
+    },
+    "parent": {
+      "id": "XI-01",
+      "level": 2,
+      "name": {
+        "local": "Huameuang",
+        "en": "Huameuang",
+        "slug": "huameuang-xi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XI",
+        "level": 1,
+        "name": {
+          "local": "Xiangkhouang",
+          "en": "Xiangkhouang",
+          "slug": "xiangkhouang-xi"
+        }
+      },
+      {
+        "id": "XI-01",
+        "level": 2,
+        "name": {
+          "local": "Huameuang",
+          "en": "Huameuang",
+          "slug": "huameuang-xi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.052",
+      "lon": "104.109"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1952769",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Pacha",
+      "en": "Ban Pacha",
+      "slug": "ban-pacha-1952769"
+    },
+    "code": {
+      "id": "1952769",
+      "iso": null
+    },
+    "parent": {
+      "id": "XI-01",
+      "level": 2,
+      "name": {
+        "local": "Huameuang",
+        "en": "Huameuang",
+        "slug": "huameuang-xi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XI",
+        "level": 1,
+        "name": {
+          "local": "Xiangkhouang",
+          "en": "Xiangkhouang",
+          "slug": "xiangkhouang-xi"
+        }
+      },
+      {
+        "id": "XI-01",
+        "level": 2,
+        "name": {
+          "local": "Huameuang",
+          "en": "Huameuang",
+          "slug": "huameuang-xi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.899",
+      "lon": "104.025"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1954154",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Pacha",
+      "en": "Ban Pacha",
+      "slug": "ban-pacha-1954154"
+    },
+    "code": {
+      "id": "1954154",
+      "iso": null
+    },
+    "parent": {
+      "id": "XI-01",
+      "level": 2,
+      "name": {
+        "local": "Huameuang",
+        "en": "Huameuang",
+        "slug": "huameuang-xi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XI",
+        "level": 1,
+        "name": {
+          "local": "Xiangkhouang",
+          "en": "Xiangkhouang",
+          "slug": "xiangkhouang-xi"
+        }
+      },
+      {
+        "id": "XI-01",
+        "level": 2,
+        "name": {
+          "local": "Huameuang",
+          "en": "Huameuang",
+          "slug": "huameuang-xi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.23",
+      "lon": "103.933"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1954218",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Pacha",
+      "en": "Ban Pacha",
+      "slug": "ban-pacha-1954218"
+    },
+    "code": {
+      "id": "1954218",
+      "iso": null
+    },
+    "parent": {
+      "id": "XI-01",
+      "level": 2,
+      "name": {
+        "local": "Huameuang",
+        "en": "Huameuang",
+        "slug": "huameuang-xi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XI",
+        "level": 1,
+        "name": {
+          "local": "Xiangkhouang",
+          "en": "Xiangkhouang",
+          "slug": "xiangkhouang-xi"
+        }
+      },
+      {
+        "id": "XI-01",
+        "level": 2,
+        "name": {
+          "local": "Huameuang",
+          "en": "Huameuang",
+          "slug": "huameuang-xi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.102",
+      "lon": "103.885"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1952766",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Pakèk",
+      "en": "Ban Pakek",
+      "slug": "ban-pakek-1952766"
+    },
+    "code": {
+      "id": "1952766",
+      "iso": null
+    },
+    "parent": {
+      "id": "XI-01",
+      "level": 2,
+      "name": {
+        "local": "Huameuang",
+        "en": "Huameuang",
+        "slug": "huameuang-xi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XI",
+        "level": 1,
+        "name": {
+          "local": "Xiangkhouang",
+          "en": "Xiangkhouang",
+          "slug": "xiangkhouang-xi"
+        }
+      },
+      {
+        "id": "XI-01",
+        "level": 2,
+        "name": {
+          "local": "Huameuang",
+          "en": "Huameuang",
+          "slug": "huameuang-xi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.932",
+      "lon": "104.022"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1660528",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Pakha",
+      "en": "Ban Pakha",
+      "slug": "ban-pakha-1660528"
+    },
+    "code": {
+      "id": "1660528",
+      "iso": null
+    },
+    "parent": {
+      "id": "XI-01",
+      "level": 2,
+      "name": {
+        "local": "Huameuang",
+        "en": "Huameuang",
+        "slug": "huameuang-xi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XI",
+        "level": 1,
+        "name": {
+          "local": "Xiangkhouang",
+          "en": "Xiangkhouang",
+          "slug": "xiangkhouang-xi"
+        }
+      },
+      {
+        "id": "XI-01",
+        "level": 2,
+        "name": {
+          "local": "Huameuang",
+          "en": "Huameuang",
+          "slug": "huameuang-xi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.127",
+      "lon": "103.934"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1952783",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Pakhôm",
+      "en": "Ban Pakhom",
+      "slug": "ban-pakhom-1952783"
+    },
+    "code": {
+      "id": "1952783",
+      "iso": null
+    },
+    "parent": {
+      "id": "XI-01",
+      "level": 2,
+      "name": {
+        "local": "Huameuang",
+        "en": "Huameuang",
+        "slug": "huameuang-xi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XI",
+        "level": 1,
+        "name": {
+          "local": "Xiangkhouang",
+          "en": "Xiangkhouang",
+          "slug": "xiangkhouang-xi"
+        }
+      },
+      {
+        "id": "XI-01",
+        "level": 2,
+        "name": {
+          "local": "Huameuang",
+          "en": "Huameuang",
+          "slug": "huameuang-xi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.913",
+      "lon": "104.114"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1952782",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Pakout",
+      "en": "Ban Pakout",
+      "slug": "ban-pakout-1952782"
+    },
+    "code": {
+      "id": "1952782",
+      "iso": null
+    },
+    "parent": {
+      "id": "XI-01",
+      "level": 2,
+      "name": {
+        "local": "Huameuang",
+        "en": "Huameuang",
+        "slug": "huameuang-xi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XI",
+        "level": 1,
+        "name": {
+          "local": "Xiangkhouang",
+          "en": "Xiangkhouang",
+          "slug": "xiangkhouang-xi"
+        }
+      },
+      {
+        "id": "XI-01",
+        "level": 2,
+        "name": {
+          "local": "Huameuang",
+          "en": "Huameuang",
+          "slug": "huameuang-xi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.923",
+      "lon": "104.105"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1660379",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Pakpèk",
+      "en": "Ban Pakpek",
+      "slug": "ban-pakpek-1660379"
+    },
+    "code": {
+      "id": "1660379",
+      "iso": null
+    },
+    "parent": {
+      "id": "XI-01",
+      "level": 2,
+      "name": {
+        "local": "Huameuang",
+        "en": "Huameuang",
+        "slug": "huameuang-xi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XI",
+        "level": 1,
+        "name": {
+          "local": "Xiangkhouang",
+          "en": "Xiangkhouang",
+          "slug": "xiangkhouang-xi"
+        }
+      },
+      {
+        "id": "XI-01",
+        "level": 2,
+        "name": {
+          "local": "Huameuang",
+          "en": "Huameuang",
+          "slug": "huameuang-xi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.245",
+      "lon": "103.909"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1660275",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phakgna",
+      "en": "Ban Phakgna",
+      "slug": "ban-phakgna-1660275"
+    },
+    "code": {
+      "id": "1660275",
+      "iso": null
+    },
+    "parent": {
+      "id": "XI-01",
+      "level": 2,
+      "name": {
+        "local": "Huameuang",
+        "en": "Huameuang",
+        "slug": "huameuang-xi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XI",
+        "level": 1,
+        "name": {
+          "local": "Xiangkhouang",
+          "en": "Xiangkhouang",
+          "slug": "xiangkhouang-xi"
+        }
+      },
+      {
+        "id": "XI-01",
+        "level": 2,
+        "name": {
+          "local": "Huameuang",
+          "en": "Huameuang",
+          "slug": "huameuang-xi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.121",
+      "lon": "103.707"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1954179",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phanang",
+      "en": "Ban Phanang",
+      "slug": "ban-phanang-1954179"
+    },
+    "code": {
+      "id": "1954179",
+      "iso": null
+    },
+    "parent": {
+      "id": "XI-01",
+      "level": 2,
+      "name": {
+        "local": "Huameuang",
+        "en": "Huameuang",
+        "slug": "huameuang-xi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XI",
+        "level": 1,
+        "name": {
+          "local": "Xiangkhouang",
+          "en": "Xiangkhouang",
+          "slug": "xiangkhouang-xi"
+        }
+      },
+      {
+        "id": "XI-01",
+        "level": 2,
+        "name": {
+          "local": "Huameuang",
+          "en": "Huameuang",
+          "slug": "huameuang-xi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.182",
+      "lon": "103.819"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1660196",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phangouat",
+      "en": "Ban Phangouat",
+      "slug": "ban-phangouat-1660196"
+    },
+    "code": {
+      "id": "1660196",
+      "iso": null
+    },
+    "parent": {
+      "id": "XI-01",
+      "level": 2,
+      "name": {
+        "local": "Huameuang",
+        "en": "Huameuang",
+        "slug": "huameuang-xi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XI",
+        "level": 1,
+        "name": {
+          "local": "Xiangkhouang",
+          "en": "Xiangkhouang",
+          "slug": "xiangkhouang-xi"
+        }
+      },
+      {
+        "id": "XI-01",
+        "level": 2,
+        "name": {
+          "local": "Huameuang",
+          "en": "Huameuang",
+          "slug": "huameuang-xi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.983",
+      "lon": "103.95"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1660100",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phiali",
+      "en": "Ban Phiali",
+      "slug": "ban-phiali-1660100"
+    },
+    "code": {
+      "id": "1660100",
+      "iso": null
+    },
+    "parent": {
+      "id": "XI-01",
+      "level": 2,
+      "name": {
+        "local": "Huameuang",
+        "en": "Huameuang",
+        "slug": "huameuang-xi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XI",
+        "level": 1,
+        "name": {
+          "local": "Xiangkhouang",
+          "en": "Xiangkhouang",
+          "slug": "xiangkhouang-xi"
+        }
+      },
+      {
+        "id": "XI-01",
+        "level": 2,
+        "name": {
+          "local": "Huameuang",
+          "en": "Huameuang",
+          "slug": "huameuang-xi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.933",
+      "lon": "104.017"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1954251",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phiangdi",
+      "en": "Ban Phiangdi",
+      "slug": "ban-phiangdi-1954251"
+    },
+    "code": {
+      "id": "1954251",
+      "iso": null
+    },
+    "parent": {
+      "id": "XI-01",
+      "level": 2,
+      "name": {
+        "local": "Huameuang",
+        "en": "Huameuang",
+        "slug": "huameuang-xi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XI",
+        "level": 1,
+        "name": {
+          "local": "Xiangkhouang",
+          "en": "Xiangkhouang",
+          "slug": "xiangkhouang-xi"
+        }
+      },
+      {
+        "id": "XI-01",
+        "level": 2,
+        "name": {
+          "local": "Huameuang",
+          "en": "Huameuang",
+          "slug": "huameuang-xi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.05",
+      "lon": "103.64"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1660109",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phiangkham",
+      "en": "Ban Phiangkham",
+      "slug": "ban-phiangkham-1660109"
+    },
+    "code": {
+      "id": "1660109",
+      "iso": null
+    },
+    "parent": {
+      "id": "XI-01",
+      "level": 2,
+      "name": {
+        "local": "Huameuang",
+        "en": "Huameuang",
+        "slug": "huameuang-xi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XI",
+        "level": 1,
+        "name": {
+          "local": "Xiangkhouang",
+          "en": "Xiangkhouang",
+          "slug": "xiangkhouang-xi"
+        }
+      },
+      {
+        "id": "XI-01",
+        "level": 2,
+        "name": {
+          "local": "Huameuang",
+          "en": "Huameuang",
+          "slug": "huameuang-xi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.14",
+      "lon": "103.743"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1954192",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phiangkham",
+      "en": "Ban Phiangkham",
+      "slug": "ban-phiangkham-1954192"
+    },
+    "code": {
+      "id": "1954192",
+      "iso": null
+    },
+    "parent": {
+      "id": "XI-01",
+      "level": 2,
+      "name": {
+        "local": "Huameuang",
+        "en": "Huameuang",
+        "slug": "huameuang-xi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XI",
+        "level": 1,
+        "name": {
+          "local": "Xiangkhouang",
+          "en": "Xiangkhouang",
+          "slug": "xiangkhouang-xi"
+        }
+      },
+      {
+        "id": "XI-01",
+        "level": 2,
+        "name": {
+          "local": "Huameuang",
+          "en": "Huameuang",
+          "slug": "huameuang-xi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.141",
+      "lon": "103.743"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1660123",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phônhông",
+      "en": "Ban Phonhong",
+      "slug": "ban-phonhong-1660123"
+    },
+    "code": {
+      "id": "1660123",
+      "iso": null
+    },
+    "parent": {
+      "id": "XI-01",
+      "level": 2,
+      "name": {
+        "local": "Huameuang",
+        "en": "Huameuang",
+        "slug": "huameuang-xi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XI",
+        "level": 1,
+        "name": {
+          "local": "Xiangkhouang",
+          "en": "Xiangkhouang",
+          "slug": "xiangkhouang-xi"
+        }
+      },
+      {
+        "id": "XI-01",
+        "level": 2,
+        "name": {
+          "local": "Huameuang",
+          "en": "Huameuang",
+          "slug": "huameuang-xi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.193",
+      "lon": "103.876"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1954172",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phônhông",
+      "en": "Ban Phonhong",
+      "slug": "ban-phonhong-1954172"
+    },
+    "code": {
+      "id": "1954172",
+      "iso": null
+    },
+    "parent": {
+      "id": "XI-01",
+      "level": 2,
+      "name": {
+        "local": "Huameuang",
+        "en": "Huameuang",
+        "slug": "huameuang-xi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XI",
+        "level": 1,
+        "name": {
+          "local": "Xiangkhouang",
+          "en": "Xiangkhouang",
+          "slug": "xiangkhouang-xi"
+        }
+      },
+      {
+        "id": "XI-01",
+        "level": 2,
+        "name": {
+          "local": "Huameuang",
+          "en": "Huameuang",
+          "slug": "huameuang-xi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.193",
+      "lon": "103.878"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1659792",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phou Koui",
+      "en": "Ban Phou Koui",
+      "slug": "ban-phou-koui-1659792"
+    },
+    "code": {
+      "id": "1659792",
+      "iso": null
+    },
+    "parent": {
+      "id": "XI-01",
+      "level": 2,
+      "name": {
+        "local": "Huameuang",
+        "en": "Huameuang",
+        "slug": "huameuang-xi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XI",
+        "level": 1,
+        "name": {
+          "local": "Xiangkhouang",
+          "en": "Xiangkhouang",
+          "slug": "xiangkhouang-xi"
+        }
+      },
+      {
+        "id": "XI-01",
+        "level": 2,
+        "name": {
+          "local": "Huameuang",
+          "en": "Huameuang",
+          "slug": "huameuang-xi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.117",
+      "lon": "103.783"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1659789",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phoulao",
+      "en": "Ban Phoulao",
+      "slug": "ban-phoulao-1659789"
+    },
+    "code": {
+      "id": "1659789",
+      "iso": null
+    },
+    "parent": {
+      "id": "XI-01",
+      "level": 2,
+      "name": {
+        "local": "Huameuang",
+        "en": "Huameuang",
+        "slug": "huameuang-xi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XI",
+        "level": 1,
+        "name": {
+          "local": "Xiangkhouang",
+          "en": "Xiangkhouang",
+          "slug": "xiangkhouang-xi"
+        }
+      },
+      {
+        "id": "XI-01",
+        "level": 2,
+        "name": {
+          "local": "Huameuang",
+          "en": "Huameuang",
+          "slug": "huameuang-xi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.08",
+      "lon": "103.736"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1956836",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phoulao",
+      "en": "Ban Phoulao",
+      "slug": "ban-phoulao-1956836"
+    },
+    "code": {
+      "id": "1956836",
+      "iso": null
+    },
+    "parent": {
+      "id": "XI-01",
+      "level": 2,
+      "name": {
+        "local": "Huameuang",
+        "en": "Huameuang",
+        "slug": "huameuang-xi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XI",
+        "level": 1,
+        "name": {
+          "local": "Xiangkhouang",
+          "en": "Xiangkhouang",
+          "slug": "xiangkhouang-xi"
+        }
+      },
+      {
+        "id": "XI-01",
+        "level": 2,
+        "name": {
+          "local": "Huameuang",
+          "en": "Huameuang",
+          "slug": "huameuang-xi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.076",
+      "lon": "103.471"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1952762",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phousamsao",
+      "en": "Ban Phousamsao",
+      "slug": "ban-phousamsao-1952762"
+    },
+    "code": {
+      "id": "1952762",
+      "iso": null
+    },
+    "parent": {
+      "id": "XI-01",
+      "level": 2,
+      "name": {
+        "local": "Huameuang",
+        "en": "Huameuang",
+        "slug": "huameuang-xi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XI",
+        "level": 1,
+        "name": {
+          "local": "Xiangkhouang",
+          "en": "Xiangkhouang",
+          "slug": "xiangkhouang-xi"
+        }
+      },
+      {
+        "id": "XI-01",
+        "level": 2,
+        "name": {
+          "local": "Huameuang",
+          "en": "Huameuang",
+          "slug": "huameuang-xi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.963",
+      "lon": "104.007"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1954255",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Pounghai",
+      "en": "Ban Pounghai",
+      "slug": "ban-pounghai-1954255"
+    },
+    "code": {
+      "id": "1954255",
+      "iso": null
+    },
+    "parent": {
+      "id": "XI-01",
+      "level": 2,
+      "name": {
+        "local": "Huameuang",
+        "en": "Huameuang",
+        "slug": "huameuang-xi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XI",
+        "level": 1,
+        "name": {
+          "local": "Xiangkhouang",
+          "en": "Xiangkhouang",
+          "slug": "xiangkhouang-xi"
+        }
+      },
+      {
+        "id": "XI-01",
+        "level": 2,
+        "name": {
+          "local": "Huameuang",
+          "en": "Huameuang",
+          "slug": "huameuang-xi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.045",
+      "lon": "103.508"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1659509",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Saleut",
+      "en": "Ban Saleut",
+      "slug": "ban-saleut-1659509"
+    },
+    "code": {
+      "id": "1659509",
+      "iso": null
+    },
+    "parent": {
+      "id": "XI-01",
+      "level": 2,
+      "name": {
+        "local": "Huameuang",
+        "en": "Huameuang",
+        "slug": "huameuang-xi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XI",
+        "level": 1,
+        "name": {
+          "local": "Xiangkhouang",
+          "en": "Xiangkhouang",
+          "slug": "xiangkhouang-xi"
+        }
+      },
+      {
+        "id": "XI-01",
+        "level": 2,
+        "name": {
+          "local": "Huameuang",
+          "en": "Huameuang",
+          "slug": "huameuang-xi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.917",
+      "lon": "104"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1659502",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Salong",
+      "en": "Ban Salong",
+      "slug": "ban-salong-1659502"
+    },
+    "code": {
+      "id": "1659502",
+      "iso": null
+    },
+    "parent": {
+      "id": "XI-01",
+      "level": 2,
+      "name": {
+        "local": "Huameuang",
+        "en": "Huameuang",
+        "slug": "huameuang-xi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XI",
+        "level": 1,
+        "name": {
+          "local": "Xiangkhouang",
+          "en": "Xiangkhouang",
+          "slug": "xiangkhouang-xi"
+        }
+      },
+      {
+        "id": "XI-01",
+        "level": 2,
+        "name": {
+          "local": "Huameuang",
+          "en": "Huameuang",
+          "slug": "huameuang-xi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.946",
+      "lon": "103.969"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1954264",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Sanot",
+      "en": "Ban Sanot",
+      "slug": "ban-sanot-1954264"
+    },
+    "code": {
+      "id": "1954264",
+      "iso": null
+    },
+    "parent": {
+      "id": "XI-01",
+      "level": 2,
+      "name": {
+        "local": "Huameuang",
+        "en": "Huameuang",
+        "slug": "huameuang-xi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XI",
+        "level": 1,
+        "name": {
+          "local": "Xiangkhouang",
+          "en": "Xiangkhouang",
+          "slug": "xiangkhouang-xi"
+        }
+      },
+      {
+        "id": "XI-01",
+        "level": 2,
+        "name": {
+          "local": "Huameuang",
+          "en": "Huameuang",
+          "slug": "huameuang-xi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.019",
+      "lon": "103.933"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1956949",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Sanot",
+      "en": "Ban Sanot",
+      "slug": "ban-sanot-1956949"
+    },
+    "code": {
+      "id": "1956949",
+      "iso": null
+    },
+    "parent": {
+      "id": "XI-01",
+      "level": 2,
+      "name": {
+        "local": "Huameuang",
+        "en": "Huameuang",
+        "slug": "huameuang-xi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XI",
+        "level": 1,
+        "name": {
+          "local": "Xiangkhouang",
+          "en": "Xiangkhouang",
+          "slug": "xiangkhouang-xi"
+        }
+      },
+      {
+        "id": "XI-01",
+        "level": 2,
+        "name": {
+          "local": "Huameuang",
+          "en": "Huameuang",
+          "slug": "huameuang-xi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.104",
+      "lon": "104.144"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1952288",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Sêngkét",
+      "en": "Ban Sengket",
+      "slug": "ban-sengket-1952288"
+    },
+    "code": {
+      "id": "1952288",
+      "iso": null
+    },
+    "parent": {
+      "id": "XI-01",
+      "level": 2,
+      "name": {
+        "local": "Huameuang",
+        "en": "Huameuang",
+        "slug": "huameuang-xi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XI",
+        "level": 1,
+        "name": {
+          "local": "Xiangkhouang",
+          "en": "Xiangkhouang",
+          "slug": "xiangkhouang-xi"
+        }
+      },
+      {
+        "id": "XI-01",
+        "level": 2,
+        "name": {
+          "local": "Huameuang",
+          "en": "Huameuang",
+          "slug": "huameuang-xi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.995",
+      "lon": "103.947"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1952785",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Sômphian",
+      "en": "Ban Somphian",
+      "slug": "ban-somphian-1952785"
+    },
+    "code": {
+      "id": "1952785",
+      "iso": null
+    },
+    "parent": {
+      "id": "XI-01",
+      "level": 2,
+      "name": {
+        "local": "Huameuang",
+        "en": "Huameuang",
+        "slug": "huameuang-xi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XI",
+        "level": 1,
+        "name": {
+          "local": "Xiangkhouang",
+          "en": "Xiangkhouang",
+          "slug": "xiangkhouang-xi"
+        }
+      },
+      {
+        "id": "XI-01",
+        "level": 2,
+        "name": {
+          "local": "Huameuang",
+          "en": "Huameuang",
+          "slug": "huameuang-xi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.927",
+      "lon": "104.139"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1952780",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Sômpong",
+      "en": "Ban Sompong",
+      "slug": "ban-sompong-1952780"
+    },
+    "code": {
+      "id": "1952780",
+      "iso": null
+    },
+    "parent": {
+      "id": "XI-01",
+      "level": 2,
+      "name": {
+        "local": "Huameuang",
+        "en": "Huameuang",
+        "slug": "huameuang-xi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XI",
+        "level": 1,
+        "name": {
+          "local": "Xiangkhouang",
+          "en": "Xiangkhouang",
+          "slug": "xiangkhouang-xi"
+        }
+      },
+      {
+        "id": "XI-01",
+        "level": 2,
+        "name": {
+          "local": "Huameuang",
+          "en": "Huameuang",
+          "slug": "huameuang-xi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.917",
+      "lon": "104.081"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1653074",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Song-Kao",
+      "en": "Ban Song-Kao",
+      "slug": "ban-song-kao-1653074"
+    },
+    "code": {
+      "id": "1653074",
+      "iso": null
+    },
+    "parent": {
+      "id": "XI-01",
+      "level": 2,
+      "name": {
+        "local": "Huameuang",
+        "en": "Huameuang",
+        "slug": "huameuang-xi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XI",
+        "level": 1,
+        "name": {
+          "local": "Xiangkhouang",
+          "en": "Xiangkhouang",
+          "slug": "xiangkhouang-xi"
+        }
+      },
+      {
+        "id": "XI-01",
+        "level": 2,
+        "name": {
+          "local": "Huameuang",
+          "en": "Huameuang",
+          "slug": "huameuang-xi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.088",
+      "lon": "104.1"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1659070",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Sop Sam Houei",
+      "en": "Ban Sop Sam Houei",
+      "slug": "ban-sop-sam-houei-1659070"
+    },
+    "code": {
+      "id": "1659070",
+      "iso": null
+    },
+    "parent": {
+      "id": "XI-01",
+      "level": 2,
+      "name": {
+        "local": "Huameuang",
+        "en": "Huameuang",
+        "slug": "huameuang-xi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XI",
+        "level": 1,
+        "name": {
+          "local": "Xiangkhouang",
+          "en": "Xiangkhouang",
+          "slug": "xiangkhouang-xi"
+        }
+      },
+      {
+        "id": "XI-01",
+        "level": 2,
+        "name": {
+          "local": "Huameuang",
+          "en": "Huameuang",
+          "slug": "huameuang-xi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.9",
+      "lon": "104.033"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1653047",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Sôp-Kat",
+      "en": "Ban Sop-Kat",
+      "slug": "ban-sop-kat-1653047"
+    },
+    "code": {
+      "id": "1653047",
+      "iso": null
+    },
+    "parent": {
+      "id": "XI-01",
+      "level": 2,
+      "name": {
+        "local": "Huameuang",
+        "en": "Huameuang",
+        "slug": "huameuang-xi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XI",
+        "level": 1,
+        "name": {
+          "local": "Xiangkhouang",
+          "en": "Xiangkhouang",
+          "slug": "xiangkhouang-xi"
+        }
+      },
+      {
+        "id": "XI-01",
+        "level": 2,
+        "name": {
+          "local": "Huameuang",
+          "en": "Huameuang",
+          "slug": "huameuang-xi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.044",
+      "lon": "103.668"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1954215",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Sôp-Lap-Nua",
+      "en": "Ban Sop-Lap-Nua",
+      "slug": "ban-sop-lap-nua-1954215"
+    },
+    "code": {
+      "id": "1954215",
+      "iso": null
+    },
+    "parent": {
+      "id": "XI-01",
+      "level": 2,
+      "name": {
+        "local": "Huameuang",
+        "en": "Huameuang",
+        "slug": "huameuang-xi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XI",
+        "level": 1,
+        "name": {
+          "local": "Xiangkhouang",
+          "en": "Xiangkhouang",
+          "slug": "xiangkhouang-xi"
+        }
+      },
+      {
+        "id": "XI-01",
+        "level": 2,
+        "name": {
+          "local": "Huameuang",
+          "en": "Huameuang",
+          "slug": "huameuang-xi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.108",
+      "lon": "103.585"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1954252",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Sôp-Lap-Tai",
+      "en": "Ban Sop-Lap-Tai",
+      "slug": "ban-sop-lap-tai-1954252"
+    },
+    "code": {
+      "id": "1954252",
+      "iso": null
+    },
+    "parent": {
+      "id": "XI-01",
+      "level": 2,
+      "name": {
+        "local": "Huameuang",
+        "en": "Huameuang",
+        "slug": "huameuang-xi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XI",
+        "level": 1,
+        "name": {
+          "local": "Xiangkhouang",
+          "en": "Xiangkhouang",
+          "slug": "xiangkhouang-xi"
+        }
+      },
+      {
+        "id": "XI-01",
+        "level": 2,
+        "name": {
+          "local": "Huameuang",
+          "en": "Huameuang",
+          "slug": "huameuang-xi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.048",
+      "lon": "103.641"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1954249",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Sôp-Lèm",
+      "en": "Ban Sop-Lem",
+      "slug": "ban-sop-lem-1954249"
+    },
+    "code": {
+      "id": "1954249",
+      "iso": null
+    },
+    "parent": {
+      "id": "XI-01",
+      "level": 2,
+      "name": {
+        "local": "Huameuang",
+        "en": "Huameuang",
+        "slug": "huameuang-xi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XI",
+        "level": 1,
+        "name": {
+          "local": "Xiangkhouang",
+          "en": "Xiangkhouang",
+          "slug": "xiangkhouang-xi"
+        }
+      },
+      {
+        "id": "XI-01",
+        "level": 2,
+        "name": {
+          "local": "Huameuang",
+          "en": "Huameuang",
+          "slug": "huameuang-xi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.052",
+      "lon": "103.655"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1954191",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Sôplèm",
+      "en": "Ban Soplem",
+      "slug": "ban-soplem-1954191"
+    },
+    "code": {
+      "id": "1954191",
+      "iso": null
+    },
+    "parent": {
+      "id": "XI-01",
+      "level": 2,
+      "name": {
+        "local": "Huameuang",
+        "en": "Huameuang",
+        "slug": "huameuang-xi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XI",
+        "level": 1,
+        "name": {
+          "local": "Xiangkhouang",
+          "en": "Xiangkhouang",
+          "slug": "xiangkhouang-xi"
+        }
+      },
+      {
+        "id": "XI-01",
+        "level": 2,
+        "name": {
+          "local": "Huameuang",
+          "en": "Huameuang",
+          "slug": "huameuang-xi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.151",
+      "lon": "103.635"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1954239",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Sôpphay",
+      "en": "Ban Sopphay",
+      "slug": "ban-sopphay-1954239"
+    },
+    "code": {
+      "id": "1954239",
+      "iso": null
+    },
+    "parent": {
+      "id": "XI-01",
+      "level": 2,
+      "name": {
+        "local": "Huameuang",
+        "en": "Huameuang",
+        "slug": "huameuang-xi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XI",
+        "level": 1,
+        "name": {
+          "local": "Xiangkhouang",
+          "en": "Xiangkhouang",
+          "slug": "xiangkhouang-xi"
+        }
+      },
+      {
+        "id": "XI-01",
+        "level": 2,
+        "name": {
+          "local": "Huameuang",
+          "en": "Huameuang",
+          "slug": "huameuang-xi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.076",
+      "lon": "103.569"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1659071",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Sôpsamhouay",
+      "en": "Ban Sopsamhouay",
+      "slug": "ban-sopsamhouay-1659071"
+    },
+    "code": {
+      "id": "1659071",
+      "iso": null
+    },
+    "parent": {
+      "id": "XI-01",
+      "level": 2,
+      "name": {
+        "local": "Huameuang",
+        "en": "Huameuang",
+        "slug": "huameuang-xi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XI",
+        "level": 1,
+        "name": {
+          "local": "Xiangkhouang",
+          "en": "Xiangkhouang",
+          "slug": "xiangkhouang-xi"
+        }
+      },
+      {
+        "id": "XI-01",
+        "level": 2,
+        "name": {
+          "local": "Huameuang",
+          "en": "Huameuang",
+          "slug": "huameuang-xi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.9",
+      "lon": "104.033"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1952326",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Sôpvan",
+      "en": "Ban Sopvan",
+      "slug": "ban-sopvan-1952326"
+    },
+    "code": {
+      "id": "1952326",
+      "iso": null
+    },
+    "parent": {
+      "id": "XI-01",
+      "level": 2,
+      "name": {
+        "local": "Huameuang",
+        "en": "Huameuang",
+        "slug": "huameuang-xi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XI",
+        "level": 1,
+        "name": {
+          "local": "Xiangkhouang",
+          "en": "Xiangkhouang",
+          "slug": "xiangkhouang-xi"
+        }
+      },
+      {
+        "id": "XI-01",
+        "level": 2,
+        "name": {
+          "local": "Huameuang",
+          "en": "Huameuang",
+          "slug": "huameuang-xi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.874",
+      "lon": "103.901"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1658813",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Taniat",
+      "en": "Ban Taniat",
+      "slug": "ban-taniat-1658813"
+    },
+    "code": {
+      "id": "1658813",
+      "iso": null
+    },
+    "parent": {
+      "id": "XI-01",
+      "level": 2,
+      "name": {
+        "local": "Huameuang",
+        "en": "Huameuang",
+        "slug": "huameuang-xi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XI",
+        "level": 1,
+        "name": {
+          "local": "Xiangkhouang",
+          "en": "Xiangkhouang",
+          "slug": "xiangkhouang-xi"
+        }
+      },
+      {
+        "id": "XI-01",
+        "level": 2,
+        "name": {
+          "local": "Huameuang",
+          "en": "Huameuang",
+          "slug": "huameuang-xi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.013",
+      "lon": "103.961"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1658800",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Tat",
+      "en": "Ban Tat",
+      "slug": "ban-tat-1658800"
+    },
+    "code": {
+      "id": "1658800",
+      "iso": null
+    },
+    "parent": {
+      "id": "XI-01",
+      "level": 2,
+      "name": {
+        "local": "Huameuang",
+        "en": "Huameuang",
+        "slug": "huameuang-xi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XI",
+        "level": 1,
+        "name": {
+          "local": "Xiangkhouang",
+          "en": "Xiangkhouang",
+          "slug": "xiangkhouang-xi"
+        }
+      },
+      {
+        "id": "XI-01",
+        "level": 2,
+        "name": {
+          "local": "Huameuang",
+          "en": "Huameuang",
+          "slug": "huameuang-xi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.899",
+      "lon": "103.907"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1658655",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Tham",
+      "en": "Ban Tham",
+      "slug": "ban-tham-1658655"
+    },
+    "code": {
+      "id": "1658655",
+      "iso": null
+    },
+    "parent": {
+      "id": "XI-01",
+      "level": 2,
+      "name": {
+        "local": "Huameuang",
+        "en": "Huameuang",
+        "slug": "huameuang-xi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XI",
+        "level": 1,
+        "name": {
+          "local": "Xiangkhouang",
+          "en": "Xiangkhouang",
+          "slug": "xiangkhouang-xi"
+        }
+      },
+      {
+        "id": "XI-01",
+        "level": 2,
+        "name": {
+          "local": "Huameuang",
+          "en": "Huameuang",
+          "slug": "huameuang-xi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.045",
+      "lon": "104.035"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1658654",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Tham (2)",
+      "en": "Ban Tham (2)",
+      "slug": "ban-tham-2-1658654"
+    },
+    "code": {
+      "id": "1658654",
+      "iso": null
+    },
+    "parent": {
+      "id": "XI-01",
+      "level": 2,
+      "name": {
+        "local": "Huameuang",
+        "en": "Huameuang",
+        "slug": "huameuang-xi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XI",
+        "level": 1,
+        "name": {
+          "local": "Xiangkhouang",
+          "en": "Xiangkhouang",
+          "slug": "xiangkhouang-xi"
+        }
+      },
+      {
+        "id": "XI-01",
+        "level": 2,
+        "name": {
+          "local": "Huameuang",
+          "en": "Huameuang",
+          "slug": "huameuang-xi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.033",
+      "lon": "104.033"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1658574",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban That",
+      "en": "Ban That",
+      "slug": "ban-that-1658574"
+    },
+    "code": {
+      "id": "1658574",
+      "iso": null
+    },
+    "parent": {
+      "id": "XI-01",
+      "level": 2,
+      "name": {
+        "local": "Huameuang",
+        "en": "Huameuang",
+        "slug": "huameuang-xi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XI",
+        "level": 1,
+        "name": {
+          "local": "Xiangkhouang",
+          "en": "Xiangkhouang",
+          "slug": "xiangkhouang-xi"
+        }
+      },
+      {
+        "id": "XI-01",
+        "level": 2,
+        "name": {
+          "local": "Huameuang",
+          "en": "Huameuang",
+          "slug": "huameuang-xi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.974",
+      "lon": "103.983"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1956938",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Thaviang",
+      "en": "Ban Thaviang",
+      "slug": "ban-thaviang-1956938"
+    },
+    "code": {
+      "id": "1956938",
+      "iso": null
+    },
+    "parent": {
+      "id": "XI-01",
+      "level": 2,
+      "name": {
+        "local": "Huameuang",
+        "en": "Huameuang",
+        "slug": "huameuang-xi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XI",
+        "level": 1,
+        "name": {
+          "local": "Xiangkhouang",
+          "en": "Xiangkhouang",
+          "slug": "xiangkhouang-xi"
+        }
+      },
+      {
+        "id": "XI-01",
+        "level": 2,
+        "name": {
+          "local": "Huameuang",
+          "en": "Huameuang",
+          "slug": "huameuang-xi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.142",
+      "lon": "104.098"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1954177",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Thènbè",
+      "en": "Ban Thenbe",
+      "slug": "ban-thenbe-1954177"
+    },
+    "code": {
+      "id": "1954177",
+      "iso": null
+    },
+    "parent": {
+      "id": "XI-01",
+      "level": 2,
+      "name": {
+        "local": "Huameuang",
+        "en": "Huameuang",
+        "slug": "huameuang-xi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XI",
+        "level": 1,
+        "name": {
+          "local": "Xiangkhouang",
+          "en": "Xiangkhouang",
+          "slug": "xiangkhouang-xi"
+        }
+      },
+      {
+        "id": "XI-01",
+        "level": 2,
+        "name": {
+          "local": "Huameuang",
+          "en": "Huameuang",
+          "slug": "huameuang-xi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.196",
+      "lon": "103.735"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1658502",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Thônggnot",
+      "en": "Ban Thonggnot",
+      "slug": "ban-thonggnot-1658502"
+    },
+    "code": {
+      "id": "1658502",
+      "iso": null
+    },
+    "parent": {
+      "id": "XI-01",
+      "level": 2,
+      "name": {
+        "local": "Huameuang",
+        "en": "Huameuang",
+        "slug": "huameuang-xi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XI",
+        "level": 1,
+        "name": {
+          "local": "Xiangkhouang",
+          "en": "Xiangkhouang",
+          "slug": "xiangkhouang-xi"
+        }
+      },
+      {
+        "id": "XI-01",
+        "level": 2,
+        "name": {
+          "local": "Huameuang",
+          "en": "Huameuang",
+          "slug": "huameuang-xi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.222",
+      "lon": "103.797"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1660178",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Thôngphao",
+      "en": "Ban Thongphao",
+      "slug": "ban-thongphao-1660178"
+    },
+    "code": {
+      "id": "1660178",
+      "iso": null
+    },
+    "parent": {
+      "id": "XI-01",
+      "level": 2,
+      "name": {
+        "local": "Huameuang",
+        "en": "Huameuang",
+        "slug": "huameuang-xi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XI",
+        "level": 1,
+        "name": {
+          "local": "Xiangkhouang",
+          "en": "Xiangkhouang",
+          "slug": "xiangkhouang-xi"
+        }
+      },
+      {
+        "id": "XI-01",
+        "level": 2,
+        "name": {
+          "local": "Huameuang",
+          "en": "Huameuang",
+          "slug": "huameuang-xi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.151",
+      "lon": "103.877"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1954272",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Tinkông",
+      "en": "Ban Tinkong",
+      "slug": "ban-tinkong-1954272"
+    },
+    "code": {
+      "id": "1954272",
+      "iso": null
+    },
+    "parent": {
+      "id": "XI-01",
+      "level": 2,
+      "name": {
+        "local": "Huameuang",
+        "en": "Huameuang",
+        "slug": "huameuang-xi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XI",
+        "level": 1,
+        "name": {
+          "local": "Xiangkhouang",
+          "en": "Xiangkhouang",
+          "slug": "xiangkhouang-xi"
+        }
+      },
+      {
+        "id": "XI-01",
+        "level": 2,
+        "name": {
+          "local": "Huameuang",
+          "en": "Huameuang",
+          "slug": "huameuang-xi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.011",
+      "lon": "103.71"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1952781",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Tinpha",
+      "en": "Ban Tinpha",
+      "slug": "ban-tinpha-1952781"
+    },
+    "code": {
+      "id": "1952781",
+      "iso": null
+    },
+    "parent": {
+      "id": "XI-01",
+      "level": 2,
+      "name": {
+        "local": "Huameuang",
+        "en": "Huameuang",
+        "slug": "huameuang-xi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XI",
+        "level": 1,
+        "name": {
+          "local": "Xiangkhouang",
+          "en": "Xiangkhouang",
+          "slug": "xiangkhouang-xi"
+        }
+      },
+      {
+        "id": "XI-01",
+        "level": 2,
+        "name": {
+          "local": "Huameuang",
+          "en": "Huameuang",
+          "slug": "huameuang-xi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.904",
+      "lon": "104.076"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1660938",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Vang-Gnou",
+      "en": "Ban Vang-Gnou",
+      "slug": "ban-vang-gnou-1660938"
+    },
+    "code": {
+      "id": "1660938",
+      "iso": null
+    },
+    "parent": {
+      "id": "XI-01",
+      "level": 2,
+      "name": {
+        "local": "Huameuang",
+        "en": "Huameuang",
+        "slug": "huameuang-xi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XI",
+        "level": 1,
+        "name": {
+          "local": "Xiangkhouang",
+          "en": "Xiangkhouang",
+          "slug": "xiangkhouang-xi"
+        }
+      },
+      {
+        "id": "XI-01",
+        "level": 2,
+        "name": {
+          "local": "Huameuang",
+          "en": "Huameuang",
+          "slug": "huameuang-xi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.011",
+      "lon": "103.826"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1954157",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Vangkan",
+      "en": "Ban Vangkan",
+      "slug": "ban-vangkan-1954157"
+    },
+    "code": {
+      "id": "1954157",
+      "iso": null
+    },
+    "parent": {
+      "id": "XI-01",
+      "level": 2,
+      "name": {
+        "local": "Huameuang",
+        "en": "Huameuang",
+        "slug": "huameuang-xi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XI",
+        "level": 1,
+        "name": {
+          "local": "Xiangkhouang",
+          "en": "Xiangkhouang",
+          "slug": "xiangkhouang-xi"
+        }
+      },
+      {
+        "id": "XI-01",
+        "level": 2,
+        "name": {
+          "local": "Huameuang",
+          "en": "Huameuang",
+          "slug": "huameuang-xi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.207",
+      "lon": "103.609"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1954240",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Vangkan",
+      "en": "Ban Vangkan",
+      "slug": "ban-vangkan-1954240"
+    },
+    "code": {
+      "id": "1954240",
+      "iso": null
+    },
+    "parent": {
+      "id": "XI-01",
+      "level": 2,
+      "name": {
+        "local": "Huameuang",
+        "en": "Huameuang",
+        "slug": "huameuang-xi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XI",
+        "level": 1,
+        "name": {
+          "local": "Xiangkhouang",
+          "en": "Xiangkhouang",
+          "slug": "xiangkhouang-xi"
+        }
+      },
+      {
+        "id": "XI-01",
+        "level": 2,
+        "name": {
+          "local": "Huameuang",
+          "en": "Huameuang",
+          "slug": "huameuang-xi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.076",
+      "lon": "103.68"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1954142",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Vangphouk",
+      "en": "Ban Vangphouk",
+      "slug": "ban-vangphouk-1954142"
+    },
+    "code": {
+      "id": "1954142",
+      "iso": null
+    },
+    "parent": {
+      "id": "XI-01",
+      "level": 2,
+      "name": {
+        "local": "Huameuang",
+        "en": "Huameuang",
+        "slug": "huameuang-xi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XI",
+        "level": 1,
+        "name": {
+          "local": "Xiangkhouang",
+          "en": "Xiangkhouang",
+          "slug": "xiangkhouang-xi"
+        }
+      },
+      {
+        "id": "XI-01",
+        "level": 2,
+        "name": {
+          "local": "Huameuang",
+          "en": "Huameuang",
+          "slug": "huameuang-xi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.305",
+      "lon": "103.583"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1663496",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Vèk",
+      "en": "Ban Vek",
+      "slug": "ban-vek-1663496"
+    },
+    "code": {
+      "id": "1663496",
+      "iso": null
+    },
+    "parent": {
+      "id": "XI-01",
+      "level": 2,
+      "name": {
+        "local": "Huameuang",
+        "en": "Huameuang",
+        "slug": "huameuang-xi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XI",
+        "level": 1,
+        "name": {
+          "local": "Xiangkhouang",
+          "en": "Xiangkhouang",
+          "slug": "xiangkhouang-xi"
+        }
+      },
+      {
+        "id": "XI-01",
+        "level": 2,
+        "name": {
+          "local": "Huameuang",
+          "en": "Huameuang",
+          "slug": "huameuang-xi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.19",
+      "lon": "103.9"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1954181",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Vèk",
+      "en": "Ban Vek",
+      "slug": "ban-vek-1954181"
+    },
+    "code": {
+      "id": "1954181",
+      "iso": null
+    },
+    "parent": {
+      "id": "XI-01",
+      "level": 2,
+      "name": {
+        "local": "Huameuang",
+        "en": "Huameuang",
+        "slug": "huameuang-xi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XI",
+        "level": 1,
+        "name": {
+          "local": "Xiangkhouang",
+          "en": "Xiangkhouang",
+          "slug": "xiangkhouang-xi"
+        }
+      },
+      {
+        "id": "XI-01",
+        "level": 2,
+        "name": {
+          "local": "Huameuang",
+          "en": "Huameuang",
+          "slug": "huameuang-xi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.189",
+      "lon": "103.899"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1658161",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Viang",
+      "en": "Ban Viang",
+      "slug": "ban-viang-1658161"
+    },
+    "code": {
+      "id": "1658161",
+      "iso": null
+    },
+    "parent": {
+      "id": "XI-01",
+      "level": 2,
+      "name": {
+        "local": "Huameuang",
+        "en": "Huameuang",
+        "slug": "huameuang-xi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XI",
+        "level": 1,
+        "name": {
+          "local": "Xiangkhouang",
+          "en": "Xiangkhouang",
+          "slug": "xiangkhouang-xi"
+        }
+      },
+      {
+        "id": "XI-01",
+        "level": 2,
+        "name": {
+          "local": "Huameuang",
+          "en": "Huameuang",
+          "slug": "huameuang-xi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.898",
+      "lon": "103.944"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1954256",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Viangthong",
+      "en": "Ban Viangthong",
+      "slug": "ban-viangthong-1954256"
+    },
+    "code": {
+      "id": "1954256",
+      "iso": null
+    },
+    "parent": {
+      "id": "XI-01",
+      "level": 2,
+      "name": {
+        "local": "Huameuang",
+        "en": "Huameuang",
+        "slug": "huameuang-xi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XI",
+        "level": 1,
+        "name": {
+          "local": "Xiangkhouang",
+          "en": "Xiangkhouang",
+          "slug": "xiangkhouang-xi"
+        }
+      },
+      {
+        "id": "XI-01",
+        "level": 2,
+        "name": {
+          "local": "Huameuang",
+          "en": "Huameuang",
+          "slug": "huameuang-xi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.043",
+      "lon": "103.503"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1658000",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Xômthia",
+      "en": "Ban Xomthia",
+      "slug": "ban-xomthia-1658000"
+    },
+    "code": {
+      "id": "1658000",
+      "iso": null
+    },
+    "parent": {
+      "id": "XI-01",
+      "level": 2,
+      "name": {
+        "local": "Huameuang",
+        "en": "Huameuang",
+        "slug": "huameuang-xi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XI",
+        "level": 1,
+        "name": {
+          "local": "Xiangkhouang",
+          "en": "Xiangkhouang",
+          "slug": "xiangkhouang-xi"
+        }
+      },
+      {
+        "id": "XI-01",
+        "level": 2,
+        "name": {
+          "local": "Huameuang",
+          "en": "Huameuang",
+          "slug": "huameuang-xi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.933",
+      "lon": "103.867"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "8440796",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Houarnuang",
+      "en": "Houarnuang",
+      "slug": "houarnuang-8440796"
+    },
+    "code": {
+      "id": "8440796",
+      "iso": null
+    },
+    "parent": {
+      "id": "XI-01",
+      "level": 2,
+      "name": {
+        "local": "Huameuang",
+        "en": "Huameuang",
+        "slug": "huameuang-xi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XI",
+        "level": 1,
+        "name": {
+          "local": "Xiangkhouang",
+          "en": "Xiangkhouang",
+          "slug": "xiangkhouang-xi"
+        }
+      },
+      {
+        "id": "XI-01",
+        "level": 2,
+        "name": {
+          "local": "Huameuang",
+          "en": "Huameuang",
+          "slug": "huameuang-xi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.142",
+      "lon": "103.622"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7648310",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Huameung",
+      "en": "Huameung",
+      "slug": "huameung-7648310"
+    },
+    "code": {
+      "id": "7648310",
+      "iso": null
+    },
+    "parent": {
+      "id": "XI-01",
+      "level": 2,
+      "name": {
+        "local": "Huameuang",
+        "en": "Huameuang",
+        "slug": "huameuang-xi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XI",
+        "level": 1,
+        "name": {
+          "local": "Xiangkhouang",
+          "en": "Xiangkhouang",
+          "slug": "xiangkhouang-xi"
+        }
+      },
+      {
+        "id": "XI-01",
+        "level": 2,
+        "name": {
+          "local": "Huameuang",
+          "en": "Huameuang",
+          "slug": "huameuang-xi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.149",
+      "lon": "103.859"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1655148",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Muang O",
+      "en": "Muang O",
+      "slug": "muang-o-1655148"
+    },
+    "code": {
+      "id": "1655148",
+      "iso": null
+    },
+    "parent": {
+      "id": "XI-01",
+      "level": 2,
+      "name": {
+        "local": "Huameuang",
+        "en": "Huameuang",
+        "slug": "huameuang-xi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XI",
+        "level": 1,
+        "name": {
+          "local": "Xiangkhouang",
+          "en": "Xiangkhouang",
+          "slug": "xiangkhouang-xi"
+        }
+      },
+      {
+        "id": "XI-01",
+        "level": 2,
+        "name": {
+          "local": "Huameuang",
+          "en": "Huameuang",
+          "slug": "huameuang-xi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.133",
+      "lon": "103.75"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1655128",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Muang Phèn",
+      "en": "Muang Phen",
+      "slug": "muang-phen-1655128"
+    },
+    "code": {
+      "id": "1655128",
+      "iso": null
+    },
+    "parent": {
+      "id": "XI-01",
+      "level": 2,
+      "name": {
+        "local": "Huameuang",
+        "en": "Huameuang",
+        "slug": "huameuang-xi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XI",
+        "level": 1,
+        "name": {
+          "local": "Xiangkhouang",
+          "en": "Xiangkhouang",
+          "slug": "xiangkhouang-xi"
+        }
+      },
+      {
+        "id": "XI-01",
+        "level": 2,
+        "name": {
+          "local": "Huameuang",
+          "en": "Huameuang",
+          "slug": "huameuang-xi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.967",
+      "lon": "104.083"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1653891",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Phông-Sathon",
+      "en": "Phong-Sathon",
+      "slug": "phong-sathon-1653891"
+    },
+    "code": {
+      "id": "1653891",
+      "iso": null
+    },
+    "parent": {
+      "id": "XI-01",
+      "level": 2,
+      "name": {
+        "local": "Huameuang",
+        "en": "Huameuang",
+        "slug": "huameuang-xi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XI",
+        "level": 1,
+        "name": {
+          "local": "Xiangkhouang",
+          "en": "Xiangkhouang",
+          "slug": "xiangkhouang-xi"
+        }
+      },
+      {
+        "id": "XI-01",
+        "level": 2,
+        "name": {
+          "local": "Huameuang",
+          "en": "Huameuang",
+          "slug": "huameuang-xi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.3",
+      "lon": "103.583"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1652057",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Xiengdi",
+      "en": "Xiengdi",
+      "slug": "xiengdi-1652057"
+    },
+    "code": {
+      "id": "1652057",
+      "iso": null
+    },
+    "parent": {
+      "id": "XI-01",
+      "level": 2,
+      "name": {
+        "local": "Huameuang",
+        "en": "Huameuang",
+        "slug": "huameuang-xi-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XI",
+        "level": 1,
+        "name": {
+          "local": "Xiangkhouang",
+          "en": "Xiangkhouang",
+          "slug": "xiangkhouang-xi"
+        }
+      },
+      {
+        "id": "XI-01",
+        "level": 2,
+        "name": {
+          "local": "Huameuang",
+          "en": "Huameuang",
+          "slug": "huameuang-xi-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.033",
+      "lon": "103.733"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

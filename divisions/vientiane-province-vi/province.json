@@ -1,0 +1,30 @@
+{
+  "id": "VI",
+  "level": 1,
+  "level_name": {
+    "local": "ແຂວງ",
+    "en": "Province"
+  },
+  "name": {
+    "local": "Vientiane",
+    "en": "Vientiane Province",
+    "slug": "vientiane-province-vi"
+  },
+  "code": {
+    "id": "VI",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 11,
+    "village": 597
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "18.532",
+    "lon": "102.107"
+  },
+  "metadata": {},
+  "source": {}
+}

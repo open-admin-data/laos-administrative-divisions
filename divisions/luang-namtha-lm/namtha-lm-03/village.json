@@ -1,0 +1,5024 @@
+[
+  {
+    "id": "1664964",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Ay-On",
+      "en": "Ban Ay-On",
+      "slug": "ban-ay-on-1664964"
+    },
+    "code": {
+      "id": "1664964",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-03",
+      "level": 2,
+      "name": {
+        "local": "Namtha",
+        "en": "Namtha",
+        "slug": "namtha-lm-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-03",
+        "level": 2,
+        "name": {
+          "local": "Namtha",
+          "en": "Namtha",
+          "slug": "namtha-lm-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.05",
+      "lon": "101.6"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1664870",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Botèn",
+      "en": "Ban Boten",
+      "slug": "ban-boten-1664870"
+    },
+    "code": {
+      "id": "1664870",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-03",
+      "level": 2,
+      "name": {
+        "local": "Namtha",
+        "en": "Namtha",
+        "slug": "namtha-lm-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-03",
+        "level": 2,
+        "name": {
+          "local": "Namtha",
+          "en": "Namtha",
+          "slug": "namtha-lm-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.176",
+      "lon": "101.666"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1957213",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Bouamphiang",
+      "en": "Ban Bouamphiang",
+      "slug": "ban-bouamphiang-1957213"
+    },
+    "code": {
+      "id": "1957213",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-03",
+      "level": 2,
+      "name": {
+        "local": "Namtha",
+        "en": "Namtha",
+        "slug": "namtha-lm-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-03",
+        "level": 2,
+        "name": {
+          "local": "Namtha",
+          "en": "Namtha",
+          "slug": "namtha-lm-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.962",
+      "lon": "101.457"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1664751",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Cham Kam Sao",
+      "en": "Ban Cham Kam Sao",
+      "slug": "ban-cham-kam-sao-1664751"
+    },
+    "code": {
+      "id": "1664751",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-03",
+      "level": 2,
+      "name": {
+        "local": "Namtha",
+        "en": "Namtha",
+        "slug": "namtha-lm-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-03",
+        "level": 2,
+        "name": {
+          "local": "Namtha",
+          "en": "Namtha",
+          "slug": "namtha-lm-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.017",
+      "lon": "101.583"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1957208",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Donlè",
+      "en": "Ban Donle",
+      "slug": "ban-donle-1957208"
+    },
+    "code": {
+      "id": "1957208",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-03",
+      "level": 2,
+      "name": {
+        "local": "Namtha",
+        "en": "Namtha",
+        "slug": "namtha-lm-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-03",
+        "level": 2,
+        "name": {
+          "local": "Namtha",
+          "en": "Namtha",
+          "slug": "namtha-lm-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.946",
+      "lon": "101.422"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1957196",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Donmoun",
+      "en": "Ban Donmoun",
+      "slug": "ban-donmoun-1957196"
+    },
+    "code": {
+      "id": "1957196",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-03",
+      "level": 2,
+      "name": {
+        "local": "Namtha",
+        "en": "Namtha",
+        "slug": "namtha-lm-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-03",
+        "level": 2,
+        "name": {
+          "local": "Namtha",
+          "en": "Namtha",
+          "slug": "namtha-lm-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.903",
+      "lon": "101.384"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1955732",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Finho",
+      "en": "Ban Finho",
+      "slug": "ban-finho-1955732"
+    },
+    "code": {
+      "id": "1955732",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-03",
+      "level": 2,
+      "name": {
+        "local": "Namtha",
+        "en": "Namtha",
+        "slug": "namtha-lm-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-03",
+        "level": 2,
+        "name": {
+          "local": "Namtha",
+          "en": "Namtha",
+          "slug": "namtha-lm-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.082",
+      "lon": "101.407"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1955750",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Hatgnao",
+      "en": "Ban Hatgnao",
+      "slug": "ban-hatgnao-1955750"
+    },
+    "code": {
+      "id": "1955750",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-03",
+      "level": 2,
+      "name": {
+        "local": "Namtha",
+        "en": "Namtha",
+        "slug": "namtha-lm-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-03",
+        "level": 2,
+        "name": {
+          "local": "Namtha",
+          "en": "Namtha",
+          "slug": "namtha-lm-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.023",
+      "lon": "101.41"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1955746",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Hatgnao-Tai",
+      "en": "Ban Hatgnao-Tai",
+      "slug": "ban-hatgnao-tai-1955746"
+    },
+    "code": {
+      "id": "1955746",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-03",
+      "level": 2,
+      "name": {
+        "local": "Namtha",
+        "en": "Namtha",
+        "slug": "namtha-lm-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-03",
+        "level": 2,
+        "name": {
+          "local": "Namtha",
+          "en": "Namtha",
+          "slug": "namtha-lm-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.037",
+      "lon": "101.421"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1957198",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Hattat",
+      "en": "Ban Hattat",
+      "slug": "ban-hattat-1957198"
+    },
+    "code": {
+      "id": "1957198",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-03",
+      "level": 2,
+      "name": {
+        "local": "Namtha",
+        "en": "Namtha",
+        "slug": "namtha-lm-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-03",
+        "level": 2,
+        "name": {
+          "local": "Namtha",
+          "en": "Namtha",
+          "slug": "namtha-lm-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.907",
+      "lon": "101.431"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1664096",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Hé",
+      "en": "Ban He",
+      "slug": "ban-he-1664096"
+    },
+    "code": {
+      "id": "1664096",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-03",
+      "level": 2,
+      "name": {
+        "local": "Namtha",
+        "en": "Namtha",
+        "slug": "namtha-lm-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-03",
+        "level": 2,
+        "name": {
+          "local": "Namtha",
+          "en": "Namtha",
+          "slug": "namtha-lm-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.967",
+      "lon": "101.4"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1955742",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Hôngluay",
+      "en": "Ban Hongluay",
+      "slug": "ban-hongluay-1955742"
+    },
+    "code": {
+      "id": "1955742",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-03",
+      "level": 2,
+      "name": {
+        "local": "Namtha",
+        "en": "Namtha",
+        "slug": "namtha-lm-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-03",
+        "level": 2,
+        "name": {
+          "local": "Namtha",
+          "en": "Namtha",
+          "slug": "namtha-lm-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.054",
+      "lon": "101.4"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1957214",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houaychang",
+      "en": "Ban Houaychang",
+      "slug": "ban-houaychang-1957214"
+    },
+    "code": {
+      "id": "1957214",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-03",
+      "level": 2,
+      "name": {
+        "local": "Namtha",
+        "en": "Namtha",
+        "slug": "namtha-lm-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-03",
+        "level": 2,
+        "name": {
+          "local": "Namtha",
+          "en": "Namtha",
+          "slug": "namtha-lm-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.964",
+      "lon": "101.478"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1957210",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houayhôk",
+      "en": "Ban Houayhok",
+      "slug": "ban-houayhok-1957210"
+    },
+    "code": {
+      "id": "1957210",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-03",
+      "level": 2,
+      "name": {
+        "local": "Namtha",
+        "en": "Namtha",
+        "slug": "namtha-lm-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-03",
+        "level": 2,
+        "name": {
+          "local": "Namtha",
+          "en": "Namtha",
+          "slug": "namtha-lm-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.948",
+      "lon": "101.458"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1957227",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houaykhing",
+      "en": "Ban Houaykhing",
+      "slug": "ban-houaykhing-1957227"
+    },
+    "code": {
+      "id": "1957227",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-03",
+      "level": 2,
+      "name": {
+        "local": "Namtha",
+        "en": "Namtha",
+        "slug": "namtha-lm-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-03",
+        "level": 2,
+        "name": {
+          "local": "Namtha",
+          "en": "Namtha",
+          "slug": "namtha-lm-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.965",
+      "lon": "101.431"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1957209",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houaypoung",
+      "en": "Ban Houaypoung",
+      "slug": "ban-houaypoung-1957209"
+    },
+    "code": {
+      "id": "1957209",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-03",
+      "level": 2,
+      "name": {
+        "local": "Namtha",
+        "en": "Namtha",
+        "slug": "namtha-lm-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-03",
+        "level": 2,
+        "name": {
+          "local": "Namtha",
+          "en": "Namtha",
+          "slug": "namtha-lm-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.944",
+      "lon": "101.445"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1955699",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Kaythohan",
+      "en": "Ban Kaythohan",
+      "slug": "ban-kaythohan-1955699"
+    },
+    "code": {
+      "id": "1955699",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-03",
+      "level": 2,
+      "name": {
+        "local": "Namtha",
+        "en": "Namtha",
+        "slug": "namtha-lm-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-03",
+        "level": 2,
+        "name": {
+          "local": "Namtha",
+          "en": "Namtha",
+          "slug": "namtha-lm-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.153",
+      "lon": "101.313"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1957194",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Kiou-Ung",
+      "en": "Ban Kiou-Ung",
+      "slug": "ban-kiou-ung-1957194"
+    },
+    "code": {
+      "id": "1957194",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-03",
+      "level": 2,
+      "name": {
+        "local": "Namtha",
+        "en": "Namtha",
+        "slug": "namtha-lm-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-03",
+        "level": 2,
+        "name": {
+          "local": "Namtha",
+          "en": "Namtha",
+          "slug": "namtha-lm-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.876",
+      "lon": "101.371"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11244042",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Kokangkiou",
+      "en": "Ban Kokangkiou",
+      "slug": "ban-kokangkiou-11244042"
+    },
+    "code": {
+      "id": "11244042",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-03",
+      "level": 2,
+      "name": {
+        "local": "Namtha",
+        "en": "Namtha",
+        "slug": "namtha-lm-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-03",
+        "level": 2,
+        "name": {
+          "local": "Namtha",
+          "en": "Namtha",
+          "slug": "namtha-lm-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.07",
+      "lon": "101.699"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1955709",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Kouthahan",
+      "en": "Ban Kouthahan",
+      "slug": "ban-kouthahan-1955709"
+    },
+    "code": {
+      "id": "1955709",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-03",
+      "level": 2,
+      "name": {
+        "local": "Namtha",
+        "en": "Namtha",
+        "slug": "namtha-lm-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-03",
+        "level": 2,
+        "name": {
+          "local": "Namtha",
+          "en": "Namtha",
+          "slug": "namtha-lm-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.134",
+      "lon": "101.348"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11244004",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Kouysoung",
+      "en": "Ban Kouysoung",
+      "slug": "ban-kouysoung-11244004"
+    },
+    "code": {
+      "id": "11244004",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-03",
+      "level": 2,
+      "name": {
+        "local": "Namtha",
+        "en": "Namtha",
+        "slug": "namtha-lm-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-03",
+        "level": 2,
+        "name": {
+          "local": "Namtha",
+          "en": "Namtha",
+          "slug": "namtha-lm-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.223",
+      "lon": "101.592"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1955744",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban La",
+      "en": "Ban La",
+      "slug": "ban-la-1955744"
+    },
+    "code": {
+      "id": "1955744",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-03",
+      "level": 2,
+      "name": {
+        "local": "Namtha",
+        "en": "Namtha",
+        "slug": "namtha-lm-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-03",
+        "level": 2,
+        "name": {
+          "local": "Namtha",
+          "en": "Namtha",
+          "slug": "namtha-lm-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.061",
+      "lon": "101.432"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1955745",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban La-Noy",
+      "en": "Ban La-Noy",
+      "slug": "ban-la-noy-1955745"
+    },
+    "code": {
+      "id": "1955745",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-03",
+      "level": 2,
+      "name": {
+        "local": "Namtha",
+        "en": "Namtha",
+        "slug": "namtha-lm-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-03",
+        "level": 2,
+        "name": {
+          "local": "Namtha",
+          "en": "Namtha",
+          "slug": "namtha-lm-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.053",
+      "lon": "101.462"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1955710",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Lakkham-Kao",
+      "en": "Ban Lakkham-Kao",
+      "slug": "ban-lakkham-kao-1955710"
+    },
+    "code": {
+      "id": "1955710",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-03",
+      "level": 2,
+      "name": {
+        "local": "Namtha",
+        "en": "Namtha",
+        "slug": "namtha-lm-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-03",
+        "level": 2,
+        "name": {
+          "local": "Namtha",
+          "en": "Namtha",
+          "slug": "namtha-lm-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.12",
+      "lon": "101.384"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11244006",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Lakkham-Kao",
+      "en": "Ban Lakkham-Kao",
+      "slug": "ban-lakkham-kao-11244006"
+    },
+    "code": {
+      "id": "11244006",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-03",
+      "level": 2,
+      "name": {
+        "local": "Namtha",
+        "en": "Namtha",
+        "slug": "namtha-lm-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-03",
+        "level": 2,
+        "name": {
+          "local": "Namtha",
+          "en": "Namtha",
+          "slug": "namtha-lm-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.192",
+      "lon": "101.526"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11244005",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Lakkham-Mai",
+      "en": "Ban Lakkham-Mai",
+      "slug": "ban-lakkham-mai-11244005"
+    },
+    "code": {
+      "id": "11244005",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-03",
+      "level": 2,
+      "name": {
+        "local": "Namtha",
+        "en": "Namtha",
+        "slug": "namtha-lm-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-03",
+        "level": 2,
+        "name": {
+          "local": "Namtha",
+          "en": "Namtha",
+          "slug": "namtha-lm-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.195",
+      "lon": "101.531"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1662634",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Langkiangkou",
+      "en": "Ban Langkiangkou",
+      "slug": "ban-langkiangkou-1662634"
+    },
+    "code": {
+      "id": "1662634",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-03",
+      "level": 2,
+      "name": {
+        "local": "Namtha",
+        "en": "Namtha",
+        "slug": "namtha-lm-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-03",
+        "level": 2,
+        "name": {
+          "local": "Namtha",
+          "en": "Namtha",
+          "slug": "namtha-lm-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.155",
+      "lon": "101.672"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1662623",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Lantèn",
+      "en": "Ban Lanten",
+      "slug": "ban-lanten-1662623"
+    },
+    "code": {
+      "id": "1662623",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-03",
+      "level": 2,
+      "name": {
+        "local": "Namtha",
+        "en": "Namtha",
+        "slug": "namtha-lm-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-03",
+        "level": 2,
+        "name": {
+          "local": "Namtha",
+          "en": "Namtha",
+          "slug": "namtha-lm-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21",
+      "lon": "101.6"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1957226",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Louangnamtha",
+      "en": "Ban Louangnamtha",
+      "slug": "ban-louangnamtha-1957226"
+    },
+    "code": {
+      "id": "1957226",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-03",
+      "level": 2,
+      "name": {
+        "local": "Namtha",
+        "en": "Namtha",
+        "slug": "namtha-lm-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-03",
+        "level": 2,
+        "name": {
+          "local": "Namtha",
+          "en": "Namtha",
+          "slug": "namtha-lm-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.962",
+      "lon": "101.409"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1662357",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Mai",
+      "en": "Ban Mai",
+      "slug": "ban-mai-1662357"
+    },
+    "code": {
+      "id": "1662357",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-03",
+      "level": 2,
+      "name": {
+        "local": "Namtha",
+        "en": "Namtha",
+        "slug": "namtha-lm-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-03",
+        "level": 2,
+        "name": {
+          "local": "Namtha",
+          "en": "Namtha",
+          "slug": "namtha-lm-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21",
+      "lon": "101.433"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1957204",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Mai",
+      "en": "Ban Mai",
+      "slug": "ban-mai-1957204"
+    },
+    "code": {
+      "id": "1957204",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-03",
+      "level": 2,
+      "name": {
+        "local": "Namtha",
+        "en": "Namtha",
+        "slug": "namtha-lm-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-03",
+        "level": 2,
+        "name": {
+          "local": "Namtha",
+          "en": "Namtha",
+          "slug": "namtha-lm-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.936",
+      "lon": "101.412"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1957189",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Mat",
+      "en": "Ban Mat",
+      "slug": "ban-mat-1957189"
+    },
+    "code": {
+      "id": "1957189",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-03",
+      "level": 2,
+      "name": {
+        "local": "Namtha",
+        "en": "Namtha",
+        "slug": "namtha-lm-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-03",
+        "level": 2,
+        "name": {
+          "local": "Namtha",
+          "en": "Namtha",
+          "slug": "namtha-lm-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.901",
+      "lon": "101.28"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1661652",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Na Long",
+      "en": "Ban Na Long",
+      "slug": "ban-na-long-1661652"
+    },
+    "code": {
+      "id": "1661652",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-03",
+      "level": 2,
+      "name": {
+        "local": "Namtha",
+        "en": "Namtha",
+        "slug": "namtha-lm-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-03",
+        "level": 2,
+        "name": {
+          "local": "Namtha",
+          "en": "Namtha",
+          "slug": "namtha-lm-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.033",
+      "lon": "101.517"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1957193",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nalan",
+      "en": "Ban Nalan",
+      "slug": "ban-nalan-1957193"
+    },
+    "code": {
+      "id": "1957193",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-03",
+      "level": 2,
+      "name": {
+        "local": "Namtha",
+        "en": "Namtha",
+        "slug": "namtha-lm-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-03",
+        "level": 2,
+        "name": {
+          "local": "Namtha",
+          "en": "Namtha",
+          "slug": "namtha-lm-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.849",
+      "lon": "101.369"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1661683",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nalong",
+      "en": "Ban Nalong",
+      "slug": "ban-nalong-1661683"
+    },
+    "code": {
+      "id": "1661683",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-03",
+      "level": 2,
+      "name": {
+        "local": "Namtha",
+        "en": "Namtha",
+        "slug": "namtha-lm-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-03",
+        "level": 2,
+        "name": {
+          "local": "Namtha",
+          "en": "Namtha",
+          "slug": "namtha-lm-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.148",
+      "lon": "101.389"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1957202",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nalu",
+      "en": "Ban Nalu",
+      "slug": "ban-nalu-1957202"
+    },
+    "code": {
+      "id": "1957202",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-03",
+      "level": 2,
+      "name": {
+        "local": "Namtha",
+        "en": "Namtha",
+        "slug": "namtha-lm-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-03",
+        "level": 2,
+        "name": {
+          "local": "Namtha",
+          "en": "Namtha",
+          "slug": "namtha-lm-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.933",
+      "lon": "101.408"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1957219",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Namchang",
+      "en": "Ban Namchang",
+      "slug": "ban-namchang-1957219"
+    },
+    "code": {
+      "id": "1957219",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-03",
+      "level": 2,
+      "name": {
+        "local": "Namtha",
+        "en": "Namtha",
+        "slug": "namtha-lm-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-03",
+        "level": 2,
+        "name": {
+          "local": "Namtha",
+          "en": "Namtha",
+          "slug": "namtha-lm-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.998",
+      "lon": "101.396"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1955693",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Namdugné",
+      "en": "Ban Namdugne",
+      "slug": "ban-namdugne-1955693"
+    },
+    "code": {
+      "id": "1955693",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-03",
+      "level": 2,
+      "name": {
+        "local": "Namtha",
+        "en": "Namtha",
+        "slug": "namtha-lm-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-03",
+        "level": 2,
+        "name": {
+          "local": "Namtha",
+          "en": "Namtha",
+          "slug": "namtha-lm-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.139",
+      "lon": "101.431"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1957231",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Namha",
+      "en": "Ban Namha",
+      "slug": "ban-namha-1957231"
+    },
+    "code": {
+      "id": "1957231",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-03",
+      "level": 2,
+      "name": {
+        "local": "Namtha",
+        "en": "Namtha",
+        "slug": "namtha-lm-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-03",
+        "level": 2,
+        "name": {
+          "local": "Namtha",
+          "en": "Namtha",
+          "slug": "namtha-lm-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.827",
+      "lon": "101.282"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11244008",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Namkéo",
+      "en": "Ban Namkeo",
+      "slug": "ban-namkeo-11244008"
+    },
+    "code": {
+      "id": "11244008",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-03",
+      "level": 2,
+      "name": {
+        "local": "Namtha",
+        "en": "Namtha",
+        "slug": "namtha-lm-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-03",
+        "level": 2,
+        "name": {
+          "local": "Namtha",
+          "en": "Namtha",
+          "slug": "namtha-lm-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.013",
+      "lon": "101.539"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11244043",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Namkhèm",
+      "en": "Ban Namkhem",
+      "slug": "ban-namkhem-11244043"
+    },
+    "code": {
+      "id": "11244043",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-03",
+      "level": 2,
+      "name": {
+        "local": "Namtha",
+        "en": "Namtha",
+        "slug": "namtha-lm-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-03",
+        "level": 2,
+        "name": {
+          "local": "Namtha",
+          "en": "Namtha",
+          "slug": "namtha-lm-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.115",
+      "lon": "101.756"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1957200",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Namkhon",
+      "en": "Ban Namkhon",
+      "slug": "ban-namkhon-1957200"
+    },
+    "code": {
+      "id": "1957200",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-03",
+      "level": 2,
+      "name": {
+        "local": "Namtha",
+        "en": "Namtha",
+        "slug": "namtha-lm-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-03",
+        "level": 2,
+        "name": {
+          "local": "Namtha",
+          "en": "Namtha",
+          "slug": "namtha-lm-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.919",
+      "lon": "101.469"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1957195",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Namkoy",
+      "en": "Ban Namkoy",
+      "slug": "ban-namkoy-1957195"
+    },
+    "code": {
+      "id": "1957195",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-03",
+      "level": 2,
+      "name": {
+        "local": "Namtha",
+        "en": "Namtha",
+        "slug": "namtha-lm-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-03",
+        "level": 2,
+        "name": {
+          "local": "Namtha",
+          "en": "Namtha",
+          "slug": "namtha-lm-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.862",
+      "lon": "101.401"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1955743",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Namla",
+      "en": "Ban Namla",
+      "slug": "ban-namla-1955743"
+    },
+    "code": {
+      "id": "1955743",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-03",
+      "level": 2,
+      "name": {
+        "local": "Namtha",
+        "en": "Namtha",
+        "slug": "namtha-lm-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-03",
+        "level": 2,
+        "name": {
+          "local": "Namtha",
+          "en": "Namtha",
+          "slug": "namtha-lm-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.049",
+      "lon": "101.41"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1957192",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Namlu",
+      "en": "Ban Namlu",
+      "slug": "ban-namlu-1957192"
+    },
+    "code": {
+      "id": "1957192",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-03",
+      "level": 2,
+      "name": {
+        "local": "Namtha",
+        "en": "Namtha",
+        "slug": "namtha-lm-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-03",
+        "level": 2,
+        "name": {
+          "local": "Namtha",
+          "en": "Namtha",
+          "slug": "namtha-lm-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.899",
+      "lon": "101.359"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1955692",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Namluang",
+      "en": "Ban Namluang",
+      "slug": "ban-namluang-1955692"
+    },
+    "code": {
+      "id": "1955692",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-03",
+      "level": 2,
+      "name": {
+        "local": "Namtha",
+        "en": "Namtha",
+        "slug": "namtha-lm-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-03",
+        "level": 2,
+        "name": {
+          "local": "Namtha",
+          "en": "Namtha",
+          "slug": "namtha-lm-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.154",
+      "lon": "101.355"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1957188",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Namluang",
+      "en": "Ban Namluang",
+      "slug": "ban-namluang-1957188"
+    },
+    "code": {
+      "id": "1957188",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-03",
+      "level": 2,
+      "name": {
+        "local": "Namtha",
+        "en": "Namtha",
+        "slug": "namtha-lm-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-03",
+        "level": 2,
+        "name": {
+          "local": "Namtha",
+          "en": "Namtha",
+          "slug": "namtha-lm-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.944",
+      "lon": "101.238"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1955718",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Namluang-Kao",
+      "en": "Ban Namluang-Kao",
+      "slug": "ban-namluang-kao-1955718"
+    },
+    "code": {
+      "id": "1955718",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-03",
+      "level": 2,
+      "name": {
+        "local": "Namtha",
+        "en": "Namtha",
+        "slug": "namtha-lm-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-03",
+        "level": 2,
+        "name": {
+          "local": "Namtha",
+          "en": "Namtha",
+          "slug": "namtha-lm-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.109",
+      "lon": "101.286"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11244003",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Namluang-Kao",
+      "en": "Ban Namluang-Kao",
+      "slug": "ban-namluang-kao-11244003"
+    },
+    "code": {
+      "id": "11244003",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-03",
+      "level": 2,
+      "name": {
+        "local": "Namtha",
+        "en": "Namtha",
+        "slug": "namtha-lm-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-03",
+        "level": 2,
+        "name": {
+          "local": "Namtha",
+          "en": "Namtha",
+          "slug": "namtha-lm-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.213",
+      "lon": "101.525"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1955643",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Namluang-Mai",
+      "en": "Ban Namluang-Mai",
+      "slug": "ban-namluang-mai-1955643"
+    },
+    "code": {
+      "id": "1955643",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-03",
+      "level": 2,
+      "name": {
+        "local": "Namtha",
+        "en": "Namtha",
+        "slug": "namtha-lm-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-03",
+        "level": 2,
+        "name": {
+          "local": "Namtha",
+          "en": "Namtha",
+          "slug": "namtha-lm-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.213",
+      "lon": "101.405"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11244002",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Namluang-Mai",
+      "en": "Ban Namluang-Mai",
+      "slug": "ban-namluang-mai-11244002"
+    },
+    "code": {
+      "id": "11244002",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-03",
+      "level": 2,
+      "name": {
+        "local": "Namtha",
+        "en": "Namtha",
+        "slug": "namtha-lm-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-03",
+        "level": 2,
+        "name": {
+          "local": "Namtha",
+          "en": "Namtha",
+          "slug": "namtha-lm-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.224",
+      "lon": "101.535"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1955736",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nammat",
+      "en": "Ban Nammat",
+      "slug": "ban-nammat-1955736"
+    },
+    "code": {
+      "id": "1955736",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-03",
+      "level": 2,
+      "name": {
+        "local": "Namtha",
+        "en": "Namtha",
+        "slug": "namtha-lm-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-03",
+        "level": 2,
+        "name": {
+          "local": "Namtha",
+          "en": "Namtha",
+          "slug": "namtha-lm-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.074",
+      "lon": "101.297"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1955737",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nammat-Noy",
+      "en": "Ban Nammat-Noy",
+      "slug": "ban-nammat-noy-1955737"
+    },
+    "code": {
+      "id": "1955737",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-03",
+      "level": 2,
+      "name": {
+        "local": "Namtha",
+        "en": "Namtha",
+        "slug": "namtha-lm-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-03",
+        "level": 2,
+        "name": {
+          "local": "Namtha",
+          "en": "Namtha",
+          "slug": "namtha-lm-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.072",
+      "lon": "101.304"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1957217",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Namngèn",
+      "en": "Ban Namngen",
+      "slug": "ban-namngen-1957217"
+    },
+    "code": {
+      "id": "1957217",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-03",
+      "level": 2,
+      "name": {
+        "local": "Namtha",
+        "en": "Namtha",
+        "slug": "namtha-lm-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-03",
+        "level": 2,
+        "name": {
+          "local": "Namtha",
+          "en": "Namtha",
+          "slug": "namtha-lm-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.967",
+      "lon": "101.379"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1955964",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nampik",
+      "en": "Ban Nampik",
+      "slug": "ban-nampik-1955964"
+    },
+    "code": {
+      "id": "1955964",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-03",
+      "level": 2,
+      "name": {
+        "local": "Namtha",
+        "en": "Namtha",
+        "slug": "namtha-lm-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-03",
+        "level": 2,
+        "name": {
+          "local": "Namtha",
+          "en": "Namtha",
+          "slug": "namtha-lm-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21",
+      "lon": "101.588"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11244014",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Namtavan",
+      "en": "Ban Namtavan",
+      "slug": "ban-namtavan-11244014"
+    },
+    "code": {
+      "id": "11244014",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-03",
+      "level": 2,
+      "name": {
+        "local": "Namtha",
+        "en": "Namtha",
+        "slug": "namtha-lm-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-03",
+        "level": 2,
+        "name": {
+          "local": "Namtha",
+          "en": "Namtha",
+          "slug": "namtha-lm-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.058",
+      "lon": "101.646"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1957228",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Namthoung",
+      "en": "Ban Namthoung",
+      "slug": "ban-namthoung-1957228"
+    },
+    "code": {
+      "id": "1957228",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-03",
+      "level": 2,
+      "name": {
+        "local": "Namtha",
+        "en": "Namtha",
+        "slug": "namtha-lm-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-03",
+        "level": 2,
+        "name": {
+          "local": "Namtha",
+          "en": "Namtha",
+          "slug": "namtha-lm-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.97",
+      "lon": "101.435"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1956054",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Namtong-Nua",
+      "en": "Ban Namtong-Nua",
+      "slug": "ban-namtong-nua-1956054"
+    },
+    "code": {
+      "id": "1956054",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-03",
+      "level": 2,
+      "name": {
+        "local": "Namtha",
+        "en": "Namtha",
+        "slug": "namtha-lm-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-03",
+        "level": 2,
+        "name": {
+          "local": "Namtha",
+          "en": "Namtha",
+          "slug": "namtha-lm-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.85",
+      "lon": "101.533"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1957199",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Namtout",
+      "en": "Ban Namtout",
+      "slug": "ban-namtout-1957199"
+    },
+    "code": {
+      "id": "1957199",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-03",
+      "level": 2,
+      "name": {
+        "local": "Namtha",
+        "en": "Namtha",
+        "slug": "namtha-lm-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-03",
+        "level": 2,
+        "name": {
+          "local": "Namtha",
+          "en": "Namtha",
+          "slug": "namtha-lm-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.919",
+      "lon": "101.431"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1957190",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Namxa",
+      "en": "Ban Namxa",
+      "slug": "ban-namxa-1957190"
+    },
+    "code": {
+      "id": "1957190",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-03",
+      "level": 2,
+      "name": {
+        "local": "Namtha",
+        "en": "Namtha",
+        "slug": "namtha-lm-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-03",
+        "level": 2,
+        "name": {
+          "local": "Namtha",
+          "en": "Namtha",
+          "slug": "namtha-lm-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.882",
+      "lon": "101.272"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1661321",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nanoi",
+      "en": "Ban Nanoi",
+      "slug": "ban-nanoi-1661321"
+    },
+    "code": {
+      "id": "1661321",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-03",
+      "level": 2,
+      "name": {
+        "local": "Namtha",
+        "en": "Namtha",
+        "slug": "namtha-lm-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-03",
+        "level": 2,
+        "name": {
+          "local": "Namtha",
+          "en": "Namtha",
+          "slug": "namtha-lm-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.017",
+      "lon": "101.517"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1957211",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nanoy",
+      "en": "Ban Nanoy",
+      "slug": "ban-nanoy-1957211"
+    },
+    "code": {
+      "id": "1957211",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-03",
+      "level": 2,
+      "name": {
+        "local": "Namtha",
+        "en": "Namtha",
+        "slug": "namtha-lm-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-03",
+        "level": 2,
+        "name": {
+          "local": "Namtha",
+          "en": "Namtha",
+          "slug": "namtha-lm-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.953",
+      "lon": "101.431"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1660615",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nosèn",
+      "en": "Ban Nosen",
+      "slug": "ban-nosen-1660615"
+    },
+    "code": {
+      "id": "1660615",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-03",
+      "level": 2,
+      "name": {
+        "local": "Namtha",
+        "en": "Namtha",
+        "slug": "namtha-lm-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-03",
+        "level": 2,
+        "name": {
+          "local": "Namtha",
+          "en": "Namtha",
+          "slug": "namtha-lm-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.163",
+      "lon": "101.331"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11244007",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Ôon",
+      "en": "Ban Oon",
+      "slug": "ban-oon-11244007"
+    },
+    "code": {
+      "id": "11244007",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-03",
+      "level": 2,
+      "name": {
+        "local": "Namtha",
+        "en": "Namtha",
+        "slug": "namtha-lm-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-03",
+        "level": 2,
+        "name": {
+          "local": "Namtha",
+          "en": "Namtha",
+          "slug": "namtha-lm-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.056",
+      "lon": "101.582"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11244036",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Ôon-Mai",
+      "en": "Ban Oon-Mai",
+      "slug": "ban-oon-mai-11244036"
+    },
+    "code": {
+      "id": "11244036",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-03",
+      "level": 2,
+      "name": {
+        "local": "Namtha",
+        "en": "Namtha",
+        "slug": "namtha-lm-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-03",
+        "level": 2,
+        "name": {
+          "local": "Namtha",
+          "en": "Namtha",
+          "slug": "namtha-lm-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.054",
+      "lon": "101.592"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11244015",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Ôon-Noy",
+      "en": "Ban Oon-Noy",
+      "slug": "ban-oon-noy-11244015"
+    },
+    "code": {
+      "id": "11244015",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-03",
+      "level": 2,
+      "name": {
+        "local": "Namtha",
+        "en": "Namtha",
+        "slug": "namtha-lm-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-03",
+        "level": 2,
+        "name": {
+          "local": "Namtha",
+          "en": "Namtha",
+          "slug": "namtha-lm-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.054",
+      "lon": "101.615"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1957191",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Pakngèn",
+      "en": "Ban Pakngen",
+      "slug": "ban-pakngen-1957191"
+    },
+    "code": {
+      "id": "1957191",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-03",
+      "level": 2,
+      "name": {
+        "local": "Namtha",
+        "en": "Namtha",
+        "slug": "namtha-lm-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-03",
+        "level": 2,
+        "name": {
+          "local": "Namtha",
+          "en": "Namtha",
+          "slug": "namtha-lm-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.88",
+      "lon": "101.337"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1660396",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Pang",
+      "en": "Ban Pang",
+      "slug": "ban-pang-1660396"
+    },
+    "code": {
+      "id": "1660396",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-03",
+      "level": 2,
+      "name": {
+        "local": "Namtha",
+        "en": "Namtha",
+        "slug": "namtha-lm-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-03",
+        "level": 2,
+        "name": {
+          "local": "Namtha",
+          "en": "Namtha",
+          "slug": "namtha-lm-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.883",
+      "lon": "101.417"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1957212",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Panghouayhôk",
+      "en": "Ban Panghouayhok",
+      "slug": "ban-panghouayhok-1957212"
+    },
+    "code": {
+      "id": "1957212",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-03",
+      "level": 2,
+      "name": {
+        "local": "Namtha",
+        "en": "Namtha",
+        "slug": "namtha-lm-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-03",
+        "level": 2,
+        "name": {
+          "local": "Namtha",
+          "en": "Namtha",
+          "slug": "namtha-lm-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.959",
+      "lon": "101.436"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1957221",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Papouak",
+      "en": "Ban Papouak",
+      "slug": "ban-papouak-1957221"
+    },
+    "code": {
+      "id": "1957221",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-03",
+      "level": 2,
+      "name": {
+        "local": "Namtha",
+        "en": "Namtha",
+        "slug": "namtha-lm-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-03",
+        "level": 2,
+        "name": {
+          "local": "Namtha",
+          "en": "Namtha",
+          "slug": "namtha-lm-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.996",
+      "lon": "101.42"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1957206",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Pasak",
+      "en": "Ban Pasak",
+      "slug": "ban-pasak-1957206"
+    },
+    "code": {
+      "id": "1957206",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-03",
+      "level": 2,
+      "name": {
+        "local": "Namtha",
+        "en": "Namtha",
+        "slug": "namtha-lm-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-03",
+        "level": 2,
+        "name": {
+          "local": "Namtha",
+          "en": "Namtha",
+          "slug": "namtha-lm-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.948",
+      "lon": "101.41"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1957223",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Pè",
+      "en": "Ban Pe",
+      "slug": "ban-pe-1957223"
+    },
+    "code": {
+      "id": "1957223",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-03",
+      "level": 2,
+      "name": {
+        "local": "Namtha",
+        "en": "Namtha",
+        "slug": "namtha-lm-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-03",
+        "level": 2,
+        "name": {
+          "local": "Namtha",
+          "en": "Namtha",
+          "slug": "namtha-lm-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.983",
+      "lon": "101.412"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1957216",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phèng-Ngam",
+      "en": "Ban Pheng-Ngam",
+      "slug": "ban-pheng-ngam-1957216"
+    },
+    "code": {
+      "id": "1957216",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-03",
+      "level": 2,
+      "name": {
+        "local": "Namtha",
+        "en": "Namtha",
+        "slug": "namtha-lm-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-03",
+        "level": 2,
+        "name": {
+          "local": "Namtha",
+          "en": "Namtha",
+          "slug": "namtha-lm-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.956",
+      "lon": "101.384"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1957207",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Poung",
+      "en": "Ban Poung",
+      "slug": "ban-poung-1957207"
+    },
+    "code": {
+      "id": "1957207",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-03",
+      "level": 2,
+      "name": {
+        "local": "Namtha",
+        "en": "Namtha",
+        "slug": "namtha-lm-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-03",
+        "level": 2,
+        "name": {
+          "local": "Namtha",
+          "en": "Namtha",
+          "slug": "namtha-lm-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.951",
+      "lon": "101.419"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1659355",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Sene Luang Keo",
+      "en": "Ban Sene Luang Keo",
+      "slug": "ban-sene-luang-keo-1659355"
+    },
+    "code": {
+      "id": "1659355",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-03",
+      "level": 2,
+      "name": {
+        "local": "Namtha",
+        "en": "Namtha",
+        "slug": "namtha-lm-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-03",
+        "level": 2,
+        "name": {
+          "local": "Namtha",
+          "en": "Namtha",
+          "slug": "namtha-lm-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.05",
+      "lon": "101.7"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1659325",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Sènkouan",
+      "en": "Ban Senkouan",
+      "slug": "ban-senkouan-1659325"
+    },
+    "code": {
+      "id": "1659325",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-03",
+      "level": 2,
+      "name": {
+        "local": "Namtha",
+        "en": "Namtha",
+        "slug": "namtha-lm-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-03",
+        "level": 2,
+        "name": {
+          "local": "Namtha",
+          "en": "Namtha",
+          "slug": "namtha-lm-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.114",
+      "lon": "101.73"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1659013",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Sida",
+      "en": "Ban Sida",
+      "slug": "ban-sida-1659013"
+    },
+    "code": {
+      "id": "1659013",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-03",
+      "level": 2,
+      "name": {
+        "local": "Namtha",
+        "en": "Namtha",
+        "slug": "namtha-lm-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-03",
+        "level": 2,
+        "name": {
+          "local": "Namtha",
+          "en": "Namtha",
+          "slug": "namtha-lm-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.083",
+      "lon": "101.636"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1659100",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Sop Leui",
+      "en": "Ban Sop Leui",
+      "slug": "ban-sop-leui-1659100"
+    },
+    "code": {
+      "id": "1659100",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-03",
+      "level": 2,
+      "name": {
+        "local": "Namtha",
+        "en": "Namtha",
+        "slug": "namtha-lm-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-03",
+        "level": 2,
+        "name": {
+          "local": "Namtha",
+          "en": "Namtha",
+          "slug": "namtha-lm-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.95",
+      "lon": "101.433"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1957197",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Sôpxim",
+      "en": "Ban Sopxim",
+      "slug": "ban-sopxim-1957197"
+    },
+    "code": {
+      "id": "1957197",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-03",
+      "level": 2,
+      "name": {
+        "local": "Namtha",
+        "en": "Namtha",
+        "slug": "namtha-lm-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-03",
+        "level": 2,
+        "name": {
+          "local": "Namtha",
+          "en": "Namtha",
+          "slug": "namtha-lm-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.89",
+      "lon": "101.444"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1957215",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Tavan-Tai",
+      "en": "Ban Tavan-Tai",
+      "slug": "ban-tavan-tai-1957215"
+    },
+    "code": {
+      "id": "1957215",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-03",
+      "level": 2,
+      "name": {
+        "local": "Namtha",
+        "en": "Namtha",
+        "slug": "namtha-lm-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-03",
+        "level": 2,
+        "name": {
+          "local": "Namtha",
+          "en": "Namtha",
+          "slug": "namtha-lm-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.977",
+      "lon": "101.475"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1957205",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Tha-O",
+      "en": "Ban Tha-O",
+      "slug": "ban-tha-o-1957205"
+    },
+    "code": {
+      "id": "1957205",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-03",
+      "level": 2,
+      "name": {
+        "local": "Namtha",
+        "en": "Namtha",
+        "slug": "namtha-lm-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-03",
+        "level": 2,
+        "name": {
+          "local": "Namtha",
+          "en": "Namtha",
+          "slug": "namtha-lm-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.937",
+      "lon": "101.399"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1957222",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Thông-Ôm",
+      "en": "Ban Thong-Om",
+      "slug": "ban-thong-om-1957222"
+    },
+    "code": {
+      "id": "1957222",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-03",
+      "level": 2,
+      "name": {
+        "local": "Namtha",
+        "en": "Namtha",
+        "slug": "namtha-lm-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-03",
+        "level": 2,
+        "name": {
+          "local": "Namtha",
+          "en": "Namtha",
+          "slug": "namtha-lm-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.987",
+      "lon": "101.407"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1955751",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Thôngchai-Tai",
+      "en": "Ban Thongchai-Tai",
+      "slug": "ban-thongchai-tai-1955751"
+    },
+    "code": {
+      "id": "1955751",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-03",
+      "level": 2,
+      "name": {
+        "local": "Namtha",
+        "en": "Namtha",
+        "slug": "namtha-lm-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-03",
+        "level": 2,
+        "name": {
+          "local": "Namtha",
+          "en": "Namtha",
+          "slug": "namtha-lm-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.002",
+      "lon": "101.416"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1957229",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Thôngdi-Kao",
+      "en": "Ban Thongdi-Kao",
+      "slug": "ban-thongdi-kao-1957229"
+    },
+    "code": {
+      "id": "1957229",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-03",
+      "level": 2,
+      "name": {
+        "local": "Namtha",
+        "en": "Namtha",
+        "slug": "namtha-lm-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-03",
+        "level": 2,
+        "name": {
+          "local": "Namtha",
+          "en": "Namtha",
+          "slug": "namtha-lm-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.989",
+      "lon": "101.423"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1957230",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Thôngdi-Mai",
+      "en": "Ban Thongdi-Mai",
+      "slug": "ban-thongdi-mai-1957230"
+    },
+    "code": {
+      "id": "1957230",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-03",
+      "level": 2,
+      "name": {
+        "local": "Namtha",
+        "en": "Namtha",
+        "slug": "namtha-lm-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-03",
+        "level": 2,
+        "name": {
+          "local": "Namtha",
+          "en": "Namtha",
+          "slug": "namtha-lm-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.99",
+      "lon": "101.429"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1957218",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Thôngkang",
+      "en": "Ban Thongkang",
+      "slug": "ban-thongkang-1957218"
+    },
+    "code": {
+      "id": "1957218",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-03",
+      "level": 2,
+      "name": {
+        "local": "Namtha",
+        "en": "Namtha",
+        "slug": "namtha-lm-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-03",
+        "level": 2,
+        "name": {
+          "local": "Namtha",
+          "en": "Namtha",
+          "slug": "namtha-lm-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.97",
+      "lon": "101.379"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1957225",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Thôngkhoua",
+      "en": "Ban Thongkhoua",
+      "slug": "ban-thongkhoua-1957225"
+    },
+    "code": {
+      "id": "1957225",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-03",
+      "level": 2,
+      "name": {
+        "local": "Namtha",
+        "en": "Namtha",
+        "slug": "namtha-lm-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-03",
+        "level": 2,
+        "name": {
+          "local": "Namtha",
+          "en": "Namtha",
+          "slug": "namtha-lm-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.956",
+      "lon": "101.42"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1658414",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Tintôk",
+      "en": "Ban Tintok",
+      "slug": "ban-tintok-1658414"
+    },
+    "code": {
+      "id": "1658414",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-03",
+      "level": 2,
+      "name": {
+        "local": "Namtha",
+        "en": "Namtha",
+        "slug": "namtha-lm-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-03",
+        "level": 2,
+        "name": {
+          "local": "Namtha",
+          "en": "Namtha",
+          "slug": "namtha-lm-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.098",
+      "lon": "101.61"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1658390",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Tongban",
+      "en": "Ban Tongban",
+      "slug": "ban-tongban-1658390"
+    },
+    "code": {
+      "id": "1658390",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-03",
+      "level": 2,
+      "name": {
+        "local": "Namtha",
+        "en": "Namtha",
+        "slug": "namtha-lm-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-03",
+        "level": 2,
+        "name": {
+          "local": "Namtha",
+          "en": "Namtha",
+          "slug": "namtha-lm-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.016",
+      "lon": "101.41"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1957224",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Viang-Nua",
+      "en": "Ban Viang-Nua",
+      "slug": "ban-viang-nua-1957224"
+    },
+    "code": {
+      "id": "1957224",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-03",
+      "level": 2,
+      "name": {
+        "local": "Namtha",
+        "en": "Namtha",
+        "slug": "namtha-lm-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-03",
+        "level": 2,
+        "name": {
+          "local": "Namtha",
+          "en": "Namtha",
+          "slug": "namtha-lm-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.971",
+      "lon": "101.403"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1657986",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Xôngta",
+      "en": "Ban Xongta",
+      "slug": "ban-xongta-1657986"
+    },
+    "code": {
+      "id": "1657986",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-03",
+      "level": 2,
+      "name": {
+        "local": "Namtha",
+        "en": "Namtha",
+        "slug": "namtha-lm-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-03",
+        "level": 2,
+        "name": {
+          "local": "Namtha",
+          "en": "Namtha",
+          "slug": "namtha-lm-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.095",
+      "lon": "101.559"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1657970",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Yao",
+      "en": "Ban Yao",
+      "slug": "ban-yao-1657970"
+    },
+    "code": {
+      "id": "1657970",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-03",
+      "level": 2,
+      "name": {
+        "local": "Namtha",
+        "en": "Namtha",
+        "slug": "namtha-lm-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-03",
+        "level": 2,
+        "name": {
+          "local": "Namtha",
+          "en": "Namtha",
+          "slug": "namtha-lm-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.131",
+      "lon": "101.495"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1655562",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Luang Namtha",
+      "en": "Luang Namtha",
+      "slug": "luang-namtha-1655562"
+    },
+    "code": {
+      "id": "1655562",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-03",
+      "level": 2,
+      "name": {
+        "local": "Namtha",
+        "en": "Namtha",
+        "slug": "namtha-lm-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-03",
+        "level": 2,
+        "name": {
+          "local": "Namtha",
+          "en": "Namtha",
+          "slug": "namtha-lm-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.949",
+      "lon": "101.402"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

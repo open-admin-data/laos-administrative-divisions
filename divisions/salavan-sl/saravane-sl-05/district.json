@@ -1,0 +1,47 @@
+{
+  "id": "SL-05",
+  "level": 2,
+  "level_name": {
+    "local": "ເມືອງ",
+    "en": "District"
+  },
+  "name": {
+    "local": "Saravane",
+    "en": "Saravane",
+    "slug": "saravane-sl-05"
+  },
+  "code": {
+    "id": "SL-05",
+    "iso": null
+  },
+  "parent": {
+    "id": "SL",
+    "level": 1,
+    "name": {
+      "local": "Salavan",
+      "en": "Salavan",
+      "slug": "salavan-sl"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "SL",
+      "level": 1,
+      "name": {
+        "local": "Salavan",
+        "en": "Salavan",
+        "slug": "salavan-sl"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 154
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.621",
+    "lon": "106.381"
+  },
+  "metadata": {},
+  "source": {}
+}

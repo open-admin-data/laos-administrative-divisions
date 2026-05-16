@@ -1,0 +1,30 @@
+{
+  "id": "XE",
+  "level": 1,
+  "level_name": {
+    "local": "ແຂວງ",
+    "en": "Province"
+  },
+  "name": {
+    "local": "Xekong",
+    "en": "Xekong",
+    "slug": "xekong-xe"
+  },
+  "code": {
+    "id": "XE",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 4,
+    "village": 386
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.541",
+    "lon": "107.321"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,190 @@
+[
+  {
+    "id": "XE-01",
+    "level": 2,
+    "level_name": {
+      "local": "ເມືອງ",
+      "en": "District"
+    },
+    "name": {
+      "local": "Dakcheung",
+      "en": "Dakcheung",
+      "slug": "dakcheung-xe-01"
+    },
+    "code": {
+      "id": "XE-01",
+      "iso": null
+    },
+    "parent": {
+      "id": "XE",
+      "level": 1,
+      "name": {
+        "local": "Xekong",
+        "en": "Xekong",
+        "slug": "xekong-xe"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XE",
+        "level": 1,
+        "name": {
+          "local": "Xekong",
+          "en": "Xekong",
+          "slug": "xekong-xe"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 132
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.317",
+      "lon": "107.512"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "XE-02",
+    "level": 2,
+    "level_name": {
+      "local": "ເມືອງ",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kaleum",
+      "en": "Kaleum",
+      "slug": "kaleum-xe-02"
+    },
+    "code": {
+      "id": "XE-02",
+      "iso": null
+    },
+    "parent": {
+      "id": "XE",
+      "level": 1,
+      "name": {
+        "local": "Xekong",
+        "en": "Xekong",
+        "slug": "xekong-xe"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XE",
+        "level": 1,
+        "name": {
+          "local": "Xekong",
+          "en": "Xekong",
+          "slug": "xekong-xe"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 141
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.93",
+      "lon": "107.195"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "XE-03",
+    "level": 2,
+    "level_name": {
+      "local": "ເມືອງ",
+      "en": "District"
+    },
+    "name": {
+      "local": "Lamarm",
+      "en": "Lamarm",
+      "slug": "lamarm-xe-03"
+    },
+    "code": {
+      "id": "XE-03",
+      "iso": null
+    },
+    "parent": {
+      "id": "XE",
+      "level": 1,
+      "name": {
+        "local": "Xekong",
+        "en": "Xekong",
+        "slug": "xekong-xe"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XE",
+        "level": 1,
+        "name": {
+          "local": "Xekong",
+          "en": "Xekong",
+          "slug": "xekong-xe"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 58
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.418",
+      "lon": "106.782"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "XE-04",
+    "level": 2,
+    "level_name": {
+      "local": "ເມືອງ",
+      "en": "District"
+    },
+    "name": {
+      "local": "Thateng",
+      "en": "Thateng",
+      "slug": "thateng-xe-04"
+    },
+    "code": {
+      "id": "XE-04",
+      "iso": null
+    },
+    "parent": {
+      "id": "XE",
+      "level": 1,
+      "name": {
+        "local": "Xekong",
+        "en": "Xekong",
+        "slug": "xekong-xe"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XE",
+        "level": 1,
+        "name": {
+          "local": "Xekong",
+          "en": "Xekong",
+          "slug": "xekong-xe"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 55
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.466",
+      "lon": "106.496"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

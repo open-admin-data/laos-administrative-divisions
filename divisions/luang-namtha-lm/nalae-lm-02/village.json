@@ -1,0 +1,6212 @@
+[
+  {
+    "id": "1664890",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Bon",
+      "en": "Ban Bon",
+      "slug": "ban-bon-1664890"
+    },
+    "code": {
+      "id": "1664890",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-02",
+      "level": 2,
+      "name": {
+        "local": "Nalae",
+        "en": "Nalae",
+        "slug": "nalae-lm-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-02",
+        "level": 2,
+        "name": {
+          "local": "Nalae",
+          "en": "Nalae",
+          "slug": "nalae-lm-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.333",
+      "lon": "101.217"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1956379",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Chan-Mai",
+      "en": "Ban Chan-Mai",
+      "slug": "ban-chan-mai-1956379"
+    },
+    "code": {
+      "id": "1956379",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-02",
+      "level": 2,
+      "name": {
+        "local": "Nalae",
+        "en": "Nalae",
+        "slug": "nalae-lm-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-02",
+        "level": 2,
+        "name": {
+          "local": "Nalae",
+          "en": "Nalae",
+          "slug": "nalae-lm-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.368",
+      "lon": "101.362"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1664147",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Hat Lao",
+      "en": "Ban Hat Lao",
+      "slug": "ban-hat-lao-1664147"
+    },
+    "code": {
+      "id": "1664147",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-02",
+      "level": 2,
+      "name": {
+        "local": "Nalae",
+        "en": "Nalae",
+        "slug": "nalae-lm-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-02",
+        "level": 2,
+        "name": {
+          "local": "Nalae",
+          "en": "Nalae",
+          "slug": "nalae-lm-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.333",
+      "lon": "101.267"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1956280",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Hat-Lôm",
+      "en": "Ban Hat-Lom",
+      "slug": "ban-hat-lom-1956280"
+    },
+    "code": {
+      "id": "1956280",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-02",
+      "level": 2,
+      "name": {
+        "local": "Nalae",
+        "en": "Nalae",
+        "slug": "nalae-lm-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-02",
+        "level": 2,
+        "name": {
+          "local": "Nalae",
+          "en": "Nalae",
+          "slug": "nalae-lm-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.594",
+      "lon": "101.459"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1956260",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Hatchala",
+      "en": "Ban Hatchala",
+      "slug": "ban-hatchala-1956260"
+    },
+    "code": {
+      "id": "1956260",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-02",
+      "level": 2,
+      "name": {
+        "local": "Nalae",
+        "en": "Nalae",
+        "slug": "nalae-lm-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-02",
+        "level": 2,
+        "name": {
+          "local": "Nalae",
+          "en": "Nalae",
+          "slug": "nalae-lm-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.655",
+      "lon": "101.467"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1957233",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Hatnalèng",
+      "en": "Ban Hatnaleng",
+      "slug": "ban-hatnaleng-1957233"
+    },
+    "code": {
+      "id": "1957233",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-02",
+      "level": 2,
+      "name": {
+        "local": "Nalae",
+        "en": "Nalae",
+        "slug": "nalae-lm-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-02",
+        "level": 2,
+        "name": {
+          "local": "Nalae",
+          "en": "Nalae",
+          "slug": "nalae-lm-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.73",
+      "lon": "101.421"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1956330",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Hattè",
+      "en": "Ban Hatte",
+      "slug": "ban-hatte-1956330"
+    },
+    "code": {
+      "id": "1956330",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-02",
+      "level": 2,
+      "name": {
+        "local": "Nalae",
+        "en": "Nalae",
+        "slug": "nalae-lm-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-02",
+        "level": 2,
+        "name": {
+          "local": "Nalae",
+          "en": "Nalae",
+          "slug": "nalae-lm-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.479",
+      "lon": "101.419"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1956258",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Hatto",
+      "en": "Ban Hatto",
+      "slug": "ban-hatto-1956258"
+    },
+    "code": {
+      "id": "1956258",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-02",
+      "level": 2,
+      "name": {
+        "local": "Nalae",
+        "en": "Nalae",
+        "slug": "nalae-lm-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-02",
+        "level": 2,
+        "name": {
+          "local": "Nalae",
+          "en": "Nalae",
+          "slug": "nalae-lm-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.665",
+      "lon": "101.458"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1956350",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houaykay",
+      "en": "Ban Houaykay",
+      "slug": "ban-houaykay-1956350"
+    },
+    "code": {
+      "id": "1956350",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-02",
+      "level": 2,
+      "name": {
+        "local": "Nalae",
+        "en": "Nalae",
+        "slug": "nalae-lm-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-02",
+        "level": 2,
+        "name": {
+          "local": "Nalae",
+          "en": "Nalae",
+          "slug": "nalae-lm-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.444",
+      "lon": "101.397"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1953050",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houaykèng",
+      "en": "Ban Houaykeng",
+      "slug": "ban-houaykeng-1953050"
+    },
+    "code": {
+      "id": "1953050",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-02",
+      "level": 2,
+      "name": {
+        "local": "Nalae",
+        "en": "Nalae",
+        "slug": "nalae-lm-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-02",
+        "level": 2,
+        "name": {
+          "local": "Nalae",
+          "en": "Nalae",
+          "slug": "nalae-lm-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.334",
+      "lon": "101.214"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1956257",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houayphay",
+      "en": "Ban Houayphay",
+      "slug": "ban-houayphay-1956257"
+    },
+    "code": {
+      "id": "1956257",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-02",
+      "level": 2,
+      "name": {
+        "local": "Nalae",
+        "en": "Nalae",
+        "slug": "nalae-lm-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-02",
+        "level": 2,
+        "name": {
+          "local": "Nalae",
+          "en": "Nalae",
+          "slug": "nalae-lm-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.653",
+      "lon": "101.449"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1663494",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houn",
+      "en": "Ban Houn",
+      "slug": "ban-houn-1663494"
+    },
+    "code": {
+      "id": "1663494",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-02",
+      "level": 2,
+      "name": {
+        "local": "Nalae",
+        "en": "Nalae",
+        "slug": "nalae-lm-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-02",
+        "level": 2,
+        "name": {
+          "local": "Nalae",
+          "en": "Nalae",
+          "slug": "nalae-lm-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.436",
+      "lon": "101.342"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1956355",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Kagnè",
+      "en": "Ban Kagne",
+      "slug": "ban-kagne-1956355"
+    },
+    "code": {
+      "id": "1956355",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-02",
+      "level": 2,
+      "name": {
+        "local": "Nalae",
+        "en": "Nalae",
+        "slug": "nalae-lm-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-02",
+        "level": 2,
+        "name": {
+          "local": "Nalae",
+          "en": "Nalae",
+          "slug": "nalae-lm-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.431",
+      "lon": "101.084"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1953045",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Kalang",
+      "en": "Ban Kalang",
+      "slug": "ban-kalang-1953045"
+    },
+    "code": {
+      "id": "1953045",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-02",
+      "level": 2,
+      "name": {
+        "local": "Nalae",
+        "en": "Nalae",
+        "slug": "nalae-lm-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-02",
+        "level": 2,
+        "name": {
+          "local": "Nalae",
+          "en": "Nalae",
+          "slug": "nalae-lm-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.33",
+      "lon": "101.178"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1953806",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Kam",
+      "en": "Ban Kam",
+      "slug": "ban-kam-1953806"
+    },
+    "code": {
+      "id": "1953806",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-02",
+      "level": 2,
+      "name": {
+        "local": "Nalae",
+        "en": "Nalae",
+        "slug": "nalae-lm-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-02",
+        "level": 2,
+        "name": {
+          "local": "Nalae",
+          "en": "Nalae",
+          "slug": "nalae-lm-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.477",
+      "lon": "101.558"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1658691",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Kanha",
+      "en": "Ban Kanha",
+      "slug": "ban-kanha-1658691"
+    },
+    "code": {
+      "id": "1658691",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-02",
+      "level": 2,
+      "name": {
+        "local": "Nalae",
+        "en": "Nalae",
+        "slug": "nalae-lm-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-02",
+        "level": 2,
+        "name": {
+          "local": "Nalae",
+          "en": "Nalae",
+          "slug": "nalae-lm-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.418",
+      "lon": "101.437"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1956371",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Kaygnè",
+      "en": "Ban Kaygne",
+      "slug": "ban-kaygne-1956371"
+    },
+    "code": {
+      "id": "1956371",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-02",
+      "level": 2,
+      "name": {
+        "local": "Nalae",
+        "en": "Nalae",
+        "slug": "nalae-lm-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-02",
+        "level": 2,
+        "name": {
+          "local": "Nalae",
+          "en": "Nalae",
+          "slug": "nalae-lm-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.392",
+      "lon": "101.134"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1956354",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Khanungphèt",
+      "en": "Ban Khanungphet",
+      "slug": "ban-khanungphet-1956354"
+    },
+    "code": {
+      "id": "1956354",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-02",
+      "level": 2,
+      "name": {
+        "local": "Nalae",
+        "en": "Nalae",
+        "slug": "nalae-lm-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-02",
+        "level": 2,
+        "name": {
+          "local": "Nalae",
+          "en": "Nalae",
+          "slug": "nalae-lm-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.443",
+      "lon": "101.173"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1956255",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Khmou",
+      "en": "Ban Khmou",
+      "slug": "ban-khmou-1956255"
+    },
+    "code": {
+      "id": "1956255",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-02",
+      "level": 2,
+      "name": {
+        "local": "Nalae",
+        "en": "Nalae",
+        "slug": "nalae-lm-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-02",
+        "level": 2,
+        "name": {
+          "local": "Nalae",
+          "en": "Nalae",
+          "slug": "nalae-lm-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.662",
+      "lon": "101.346"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1956366",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Kongkham",
+      "en": "Ban Kongkham",
+      "slug": "ban-kongkham-1956366"
+    },
+    "code": {
+      "id": "1956366",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-02",
+      "level": 2,
+      "name": {
+        "local": "Nalae",
+        "en": "Nalae",
+        "slug": "nalae-lm-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-02",
+        "level": 2,
+        "name": {
+          "local": "Nalae",
+          "en": "Nalae",
+          "slug": "nalae-lm-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.413",
+      "lon": "101.279"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1956328",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Konlang",
+      "en": "Ban Konlang",
+      "slug": "ban-konlang-1956328"
+    },
+    "code": {
+      "id": "1956328",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-02",
+      "level": 2,
+      "name": {
+        "local": "Nalae",
+        "en": "Nalae",
+        "slug": "nalae-lm-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-02",
+        "level": 2,
+        "name": {
+          "local": "Nalae",
+          "en": "Nalae",
+          "slug": "nalae-lm-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.488",
+      "lon": "101.495"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1956349",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Konphout",
+      "en": "Ban Konphout",
+      "slug": "ban-konphout-1956349"
+    },
+    "code": {
+      "id": "1956349",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-02",
+      "level": 2,
+      "name": {
+        "local": "Nalae",
+        "en": "Nalae",
+        "slug": "nalae-lm-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-02",
+        "level": 2,
+        "name": {
+          "local": "Nalae",
+          "en": "Nalae",
+          "slug": "nalae-lm-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.439",
+      "lon": "101.424"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1956316",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Konsalay",
+      "en": "Ban Konsalay",
+      "slug": "ban-konsalay-1956316"
+    },
+    "code": {
+      "id": "1956316",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-02",
+      "level": 2,
+      "name": {
+        "local": "Nalae",
+        "en": "Nalae",
+        "slug": "nalae-lm-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-02",
+        "level": 2,
+        "name": {
+          "local": "Nalae",
+          "en": "Nalae",
+          "slug": "nalae-lm-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.516",
+      "lon": "101.255"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1956325",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Konti",
+      "en": "Ban Konti",
+      "slug": "ban-konti-1956325"
+    },
+    "code": {
+      "id": "1956325",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-02",
+      "level": 2,
+      "name": {
+        "local": "Nalae",
+        "en": "Nalae",
+        "slug": "nalae-lm-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-02",
+        "level": 2,
+        "name": {
+          "local": "Nalae",
+          "en": "Nalae",
+          "slug": "nalae-lm-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.503",
+      "lon": "101.229"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1956389",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Konveun",
+      "en": "Ban Konveun",
+      "slug": "ban-konveun-1956389"
+    },
+    "code": {
+      "id": "1956389",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-02",
+      "level": 2,
+      "name": {
+        "local": "Nalae",
+        "en": "Nalae",
+        "slug": "nalae-lm-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-02",
+        "level": 2,
+        "name": {
+          "local": "Nalae",
+          "en": "Nalae",
+          "slug": "nalae-lm-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.354",
+      "lon": "101.303"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1953044",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Laang",
+      "en": "Ban Laang",
+      "slug": "ban-laang-1953044"
+    },
+    "code": {
+      "id": "1953044",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-02",
+      "level": 2,
+      "name": {
+        "local": "Nalae",
+        "en": "Nalae",
+        "slug": "nalae-lm-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-02",
+        "level": 2,
+        "name": {
+          "local": "Nalae",
+          "en": "Nalae",
+          "slug": "nalae-lm-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.33",
+      "lon": "101.13"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1956339",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Laignong",
+      "en": "Ban Laignong",
+      "slug": "ban-laignong-1956339"
+    },
+    "code": {
+      "id": "1956339",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-02",
+      "level": 2,
+      "name": {
+        "local": "Nalae",
+        "en": "Nalae",
+        "slug": "nalae-lm-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-02",
+        "level": 2,
+        "name": {
+          "local": "Nalae",
+          "en": "Nalae",
+          "slug": "nalae-lm-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.457",
+      "lon": "101.114"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1956383",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Lakung",
+      "en": "Ban Lakung",
+      "slug": "ban-lakung-1956383"
+    },
+    "code": {
+      "id": "1956383",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-02",
+      "level": 2,
+      "name": {
+        "local": "Nalae",
+        "en": "Nalae",
+        "slug": "nalae-lm-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-02",
+        "level": 2,
+        "name": {
+          "local": "Nalae",
+          "en": "Nalae",
+          "slug": "nalae-lm-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.367",
+      "lon": "101.079"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1956353",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Lamchouam",
+      "en": "Ban Lamchouam",
+      "slug": "ban-lamchouam-1956353"
+    },
+    "code": {
+      "id": "1956353",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-02",
+      "level": 2,
+      "name": {
+        "local": "Nalae",
+        "en": "Nalae",
+        "slug": "nalae-lm-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-02",
+        "level": 2,
+        "name": {
+          "local": "Nalae",
+          "en": "Nalae",
+          "slug": "nalae-lm-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.439",
+      "lon": "101.198"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1953046",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Lamling",
+      "en": "Ban Lamling",
+      "slug": "ban-lamling-1953046"
+    },
+    "code": {
+      "id": "1953046",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-02",
+      "level": 2,
+      "name": {
+        "local": "Nalae",
+        "en": "Nalae",
+        "slug": "nalae-lm-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-02",
+        "level": 2,
+        "name": {
+          "local": "Nalae",
+          "en": "Nalae",
+          "slug": "nalae-lm-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.316",
+      "lon": "101.195"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1956394",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Lang-Nang",
+      "en": "Ban Lang-Nang",
+      "slug": "ban-lang-nang-1956394"
+    },
+    "code": {
+      "id": "1956394",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-02",
+      "level": 2,
+      "name": {
+        "local": "Nalae",
+        "en": "Nalae",
+        "slug": "nalae-lm-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-02",
+        "level": 2,
+        "name": {
+          "local": "Nalae",
+          "en": "Nalae",
+          "slug": "nalae-lm-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.343",
+      "lon": "101.05"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13434145",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Lao",
+      "en": "Ban Lao",
+      "slug": "ban-lao-13434145"
+    },
+    "code": {
+      "id": "13434145",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-02",
+      "level": 2,
+      "name": {
+        "local": "Nalae",
+        "en": "Nalae",
+        "slug": "nalae-lm-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-02",
+        "level": 2,
+        "name": {
+          "local": "Nalae",
+          "en": "Nalae",
+          "slug": "nalae-lm-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.571",
+      "lon": "101.459"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1956376",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Lava",
+      "en": "Ban Lava",
+      "slug": "ban-lava-1956376"
+    },
+    "code": {
+      "id": "1956376",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-02",
+      "level": 2,
+      "name": {
+        "local": "Nalae",
+        "en": "Nalae",
+        "slug": "nalae-lm-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-02",
+        "level": 2,
+        "name": {
+          "local": "Nalae",
+          "en": "Nalae",
+          "slug": "nalae-lm-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.387",
+      "lon": "101.4"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1956381",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Mô",
+      "en": "Ban Mo",
+      "slug": "ban-mo-1956381"
+    },
+    "code": {
+      "id": "1956381",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-02",
+      "level": 2,
+      "name": {
+        "local": "Nalae",
+        "en": "Nalae",
+        "slug": "nalae-lm-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-02",
+        "level": 2,
+        "name": {
+          "local": "Nalae",
+          "en": "Nalae",
+          "slug": "nalae-lm-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.369",
+      "lon": "101.224"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1956372",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Môk",
+      "en": "Ban Mok",
+      "slug": "ban-mok-1956372"
+    },
+    "code": {
+      "id": "1956372",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-02",
+      "level": 2,
+      "name": {
+        "local": "Nalae",
+        "en": "Nalae",
+        "slug": "nalae-lm-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-02",
+        "level": 2,
+        "name": {
+          "local": "Nalae",
+          "en": "Nalae",
+          "slug": "nalae-lm-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.392",
+      "lon": "101.207"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1956362",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Mok-Loy",
+      "en": "Ban Mok-Loy",
+      "slug": "ban-mok-loy-1956362"
+    },
+    "code": {
+      "id": "1956362",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-02",
+      "level": 2,
+      "name": {
+        "local": "Nalae",
+        "en": "Nalae",
+        "slug": "nalae-lm-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-02",
+        "level": 2,
+        "name": {
+          "local": "Nalae",
+          "en": "Nalae",
+          "slug": "nalae-lm-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.41",
+      "lon": "101.393"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1956296",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Môkchông",
+      "en": "Ban Mokchong",
+      "slug": "ban-mokchong-1956296"
+    },
+    "code": {
+      "id": "1956296",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-02",
+      "level": 2,
+      "name": {
+        "local": "Nalae",
+        "en": "Nalae",
+        "slug": "nalae-lm-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-02",
+        "level": 2,
+        "name": {
+          "local": "Nalae",
+          "en": "Nalae",
+          "slug": "nalae-lm-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.552",
+      "lon": "101.35"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1957238",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Môkchông",
+      "en": "Ban Mokchong",
+      "slug": "ban-mokchong-1957238"
+    },
+    "code": {
+      "id": "1957238",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-02",
+      "level": 2,
+      "name": {
+        "local": "Nalae",
+        "en": "Nalae",
+        "slug": "nalae-lm-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-02",
+        "level": 2,
+        "name": {
+          "local": "Nalae",
+          "en": "Nalae",
+          "slug": "nalae-lm-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.704",
+      "lon": "101.439"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1956364",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Môkchot",
+      "en": "Ban Mokchot",
+      "slug": "ban-mokchot-1956364"
+    },
+    "code": {
+      "id": "1956364",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-02",
+      "level": 2,
+      "name": {
+        "local": "Nalae",
+        "en": "Nalae",
+        "slug": "nalae-lm-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-02",
+        "level": 2,
+        "name": {
+          "local": "Nalae",
+          "en": "Nalae",
+          "slug": "nalae-lm-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.402",
+      "lon": "101.356"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13434146",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Môkchot",
+      "en": "Ban Mokchot",
+      "slug": "ban-mokchot-13434146"
+    },
+    "code": {
+      "id": "13434146",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-02",
+      "level": 2,
+      "name": {
+        "local": "Nalae",
+        "en": "Nalae",
+        "slug": "nalae-lm-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-02",
+        "level": 2,
+        "name": {
+          "local": "Nalae",
+          "en": "Nalae",
+          "slug": "nalae-lm-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.397",
+      "lon": "101.414"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1956387",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Môkkavi",
+      "en": "Ban Mokkavi",
+      "slug": "ban-mokkavi-1956387"
+    },
+    "code": {
+      "id": "1956387",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-02",
+      "level": 2,
+      "name": {
+        "local": "Nalae",
+        "en": "Nalae",
+        "slug": "nalae-lm-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-02",
+        "level": 2,
+        "name": {
+          "local": "Nalae",
+          "en": "Nalae",
+          "slug": "nalae-lm-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.35",
+      "lon": "101.162"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1956346",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Môkkha",
+      "en": "Ban Mokkha",
+      "slug": "ban-mokkha-1956346"
+    },
+    "code": {
+      "id": "1956346",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-02",
+      "level": 2,
+      "name": {
+        "local": "Nalae",
+        "en": "Nalae",
+        "slug": "nalae-lm-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-02",
+        "level": 2,
+        "name": {
+          "local": "Nalae",
+          "en": "Nalae",
+          "slug": "nalae-lm-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.456",
+      "lon": "101.386"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1956369",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Môkkhahôk",
+      "en": "Ban Mokkhahok",
+      "slug": "ban-mokkhahok-1956369"
+    },
+    "code": {
+      "id": "1956369",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-02",
+      "level": 2,
+      "name": {
+        "local": "Nalae",
+        "en": "Nalae",
+        "slug": "nalae-lm-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-02",
+        "level": 2,
+        "name": {
+          "local": "Nalae",
+          "en": "Nalae",
+          "slug": "nalae-lm-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.4",
+      "lon": "101.167"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1956331",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Môkkhamtun",
+      "en": "Ban Mokkhamtun",
+      "slug": "ban-mokkhamtun-1956331"
+    },
+    "code": {
+      "id": "1956331",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-02",
+      "level": 2,
+      "name": {
+        "local": "Nalae",
+        "en": "Nalae",
+        "slug": "nalae-lm-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-02",
+        "level": 2,
+        "name": {
+          "local": "Nalae",
+          "en": "Nalae",
+          "slug": "nalae-lm-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.478",
+      "lon": "101.378"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1956361",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Môkkout",
+      "en": "Ban Mokkout",
+      "slug": "ban-mokkout-1956361"
+    },
+    "code": {
+      "id": "1956361",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-02",
+      "level": 2,
+      "name": {
+        "local": "Nalae",
+        "en": "Nalae",
+        "slug": "nalae-lm-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-02",
+        "level": 2,
+        "name": {
+          "local": "Nalae",
+          "en": "Nalae",
+          "slug": "nalae-lm-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.408",
+      "lon": "101.444"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1956365",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Môkphalat",
+      "en": "Ban Mokphalat",
+      "slug": "ban-mokphalat-1956365"
+    },
+    "code": {
+      "id": "1956365",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-02",
+      "level": 2,
+      "name": {
+        "local": "Nalae",
+        "en": "Nalae",
+        "slug": "nalae-lm-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-02",
+        "level": 2,
+        "name": {
+          "local": "Nalae",
+          "en": "Nalae",
+          "slug": "nalae-lm-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.401",
+      "lon": "101.338"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1956363",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Môksatông",
+      "en": "Ban Moksatong",
+      "slug": "ban-moksatong-1956363"
+    },
+    "code": {
+      "id": "1956363",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-02",
+      "level": 2,
+      "name": {
+        "local": "Nalae",
+        "en": "Nalae",
+        "slug": "nalae-lm-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-02",
+        "level": 2,
+        "name": {
+          "local": "Nalae",
+          "en": "Nalae",
+          "slug": "nalae-lm-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.413",
+      "lon": "101.387"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1956332",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Môktou",
+      "en": "Ban Moktou",
+      "slug": "ban-moktou-1956332"
+    },
+    "code": {
+      "id": "1956332",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-02",
+      "level": 2,
+      "name": {
+        "local": "Nalae",
+        "en": "Nalae",
+        "slug": "nalae-lm-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-02",
+        "level": 2,
+        "name": {
+          "local": "Nalae",
+          "en": "Nalae",
+          "slug": "nalae-lm-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.471",
+      "lon": "101.363"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1956333",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Môktun",
+      "en": "Ban Moktun",
+      "slug": "ban-moktun-1956333"
+    },
+    "code": {
+      "id": "1956333",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-02",
+      "level": 2,
+      "name": {
+        "local": "Nalae",
+        "en": "Nalae",
+        "slug": "nalae-lm-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-02",
+        "level": 2,
+        "name": {
+          "local": "Nalae",
+          "en": "Nalae",
+          "slug": "nalae-lm-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.479",
+      "lon": "101.34"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1956336",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Môngkalay",
+      "en": "Ban Mongkalay",
+      "slug": "ban-mongkalay-1956336"
+    },
+    "code": {
+      "id": "1956336",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-02",
+      "level": 2,
+      "name": {
+        "local": "Nalae",
+        "en": "Nalae",
+        "slug": "nalae-lm-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-02",
+        "level": 2,
+        "name": {
+          "local": "Nalae",
+          "en": "Nalae",
+          "slug": "nalae-lm-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.486",
+      "lon": "101.211"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1956308",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Mongmèng",
+      "en": "Ban Mongmeng",
+      "slug": "ban-mongmeng-1956308"
+    },
+    "code": {
+      "id": "1956308",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-02",
+      "level": 2,
+      "name": {
+        "local": "Nalae",
+        "en": "Nalae",
+        "slug": "nalae-lm-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-02",
+        "level": 2,
+        "name": {
+          "local": "Nalae",
+          "en": "Nalae",
+          "slug": "nalae-lm-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.522",
+      "lon": "101.388"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1956306",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Mouay-Ou",
+      "en": "Ban Mouay-Ou",
+      "slug": "ban-mouay-ou-1956306"
+    },
+    "code": {
+      "id": "1956306",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-02",
+      "level": 2,
+      "name": {
+        "local": "Nalae",
+        "en": "Nalae",
+        "slug": "nalae-lm-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-02",
+        "level": 2,
+        "name": {
+          "local": "Nalae",
+          "en": "Nalae",
+          "slug": "nalae-lm-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.531",
+      "lon": "101.287"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1956324",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Mounglot",
+      "en": "Ban Mounglot",
+      "slug": "ban-mounglot-1956324"
+    },
+    "code": {
+      "id": "1956324",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-02",
+      "level": 2,
+      "name": {
+        "local": "Nalae",
+        "en": "Nalae",
+        "slug": "nalae-lm-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-02",
+        "level": 2,
+        "name": {
+          "local": "Nalae",
+          "en": "Nalae",
+          "slug": "nalae-lm-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.491",
+      "lon": "101.222"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1956351",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nalè",
+      "en": "Ban Nale",
+      "slug": "ban-nale-1956351"
+    },
+    "code": {
+      "id": "1956351",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-02",
+      "level": 2,
+      "name": {
+        "local": "Nalae",
+        "en": "Nalae",
+        "slug": "nalae-lm-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-02",
+        "level": 2,
+        "name": {
+          "local": "Nalae",
+          "en": "Nalae",
+          "slug": "nalae-lm-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.434",
+      "lon": "101.354"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1953771",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nalok",
+      "en": "Ban Nalok",
+      "slug": "ban-nalok-1953771"
+    },
+    "code": {
+      "id": "1953771",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-02",
+      "level": 2,
+      "name": {
+        "local": "Nalae",
+        "en": "Nalae",
+        "slug": "nalae-lm-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-02",
+        "level": 2,
+        "name": {
+          "local": "Nalae",
+          "en": "Nalae",
+          "slug": "nalae-lm-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.514",
+      "lon": "101.536"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1956292",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Namhèng",
+      "en": "Ban Namheng",
+      "slug": "ban-namheng-1956292"
+    },
+    "code": {
+      "id": "1956292",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-02",
+      "level": 2,
+      "name": {
+        "local": "Nalae",
+        "en": "Nalae",
+        "slug": "nalae-lm-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-02",
+        "level": 2,
+        "name": {
+          "local": "Nalae",
+          "en": "Nalae",
+          "slug": "nalae-lm-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.562",
+      "lon": "101.455"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1956289",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Namloung",
+      "en": "Ban Namloung",
+      "slug": "ban-namloung-1956289"
+    },
+    "code": {
+      "id": "1956289",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-02",
+      "level": 2,
+      "name": {
+        "local": "Nalae",
+        "en": "Nalae",
+        "slug": "nalae-lm-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-02",
+        "level": 2,
+        "name": {
+          "local": "Nalae",
+          "en": "Nalae",
+          "slug": "nalae-lm-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.574",
+      "lon": "101.29"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1956385",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Namtiang",
+      "en": "Ban Namtiang",
+      "slug": "ban-namtiang-1956385"
+    },
+    "code": {
+      "id": "1956385",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-02",
+      "level": 2,
+      "name": {
+        "local": "Nalae",
+        "en": "Nalae",
+        "slug": "nalae-lm-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-02",
+        "level": 2,
+        "name": {
+          "local": "Nalae",
+          "en": "Nalae",
+          "slug": "nalae-lm-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.359",
+      "lon": "101.079"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1660611",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Ngouan",
+      "en": "Ban Ngouan",
+      "slug": "ban-ngouan-1660611"
+    },
+    "code": {
+      "id": "1660611",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-02",
+      "level": 2,
+      "name": {
+        "local": "Nalae",
+        "en": "Nalae",
+        "slug": "nalae-lm-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-02",
+        "level": 2,
+        "name": {
+          "local": "Nalae",
+          "en": "Nalae",
+          "slug": "nalae-lm-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.377",
+      "lon": "101.237"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1660899",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Non",
+      "en": "Ban Non",
+      "slug": "ban-non-1660899"
+    },
+    "code": {
+      "id": "1660899",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-02",
+      "level": 2,
+      "name": {
+        "local": "Nalae",
+        "en": "Nalae",
+        "slug": "nalae-lm-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-02",
+        "level": 2,
+        "name": {
+          "local": "Nalae",
+          "en": "Nalae",
+          "slug": "nalae-lm-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.434",
+      "lon": "101.38"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1660613",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nou",
+      "en": "Ban Nou",
+      "slug": "ban-nou-1660613"
+    },
+    "code": {
+      "id": "1660613",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-02",
+      "level": 2,
+      "name": {
+        "local": "Nalae",
+        "en": "Nalae",
+        "slug": "nalae-lm-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-02",
+        "level": 2,
+        "name": {
+          "local": "Nalae",
+          "en": "Nalae",
+          "slug": "nalae-lm-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.417",
+      "lon": "101.283"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1956311",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Pang",
+      "en": "Ban Pang",
+      "slug": "ban-pang-1956311"
+    },
+    "code": {
+      "id": "1956311",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-02",
+      "level": 2,
+      "name": {
+        "local": "Nalae",
+        "en": "Nalae",
+        "slug": "nalae-lm-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-02",
+        "level": 2,
+        "name": {
+          "local": "Nalae",
+          "en": "Nalae",
+          "slug": "nalae-lm-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.532",
+      "lon": "101.463"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1660353",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Pavi",
+      "en": "Ban Pavi",
+      "slug": "ban-pavi-1660353"
+    },
+    "code": {
+      "id": "1660353",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-02",
+      "level": 2,
+      "name": {
+        "local": "Nalae",
+        "en": "Nalae",
+        "slug": "nalae-lm-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-02",
+        "level": 2,
+        "name": {
+          "local": "Nalae",
+          "en": "Nalae",
+          "slug": "nalae-lm-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.503",
+      "lon": "101.428"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1660351",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Pawi",
+      "en": "Ban Pawi",
+      "slug": "ban-pawi-1660351"
+    },
+    "code": {
+      "id": "1660351",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-02",
+      "level": 2,
+      "name": {
+        "local": "Nalae",
+        "en": "Nalae",
+        "slug": "nalae-lm-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-02",
+        "level": 2,
+        "name": {
+          "local": "Nalae",
+          "en": "Nalae",
+          "slug": "nalae-lm-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.6",
+      "lon": "101.467"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1953804",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Pheung",
+      "en": "Ban Pheung",
+      "slug": "ban-pheung-1953804"
+    },
+    "code": {
+      "id": "1953804",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-02",
+      "level": 2,
+      "name": {
+        "local": "Nalae",
+        "en": "Nalae",
+        "slug": "nalae-lm-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-02",
+        "level": 2,
+        "name": {
+          "local": "Nalae",
+          "en": "Nalae",
+          "slug": "nalae-lm-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.495",
+      "lon": "101.525"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1956282",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phou",
+      "en": "Ban Phou",
+      "slug": "ban-phou-1956282"
+    },
+    "code": {
+      "id": "1956282",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-02",
+      "level": 2,
+      "name": {
+        "local": "Nalae",
+        "en": "Nalae",
+        "slug": "nalae-lm-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-02",
+        "level": 2,
+        "name": {
+          "local": "Nalae",
+          "en": "Nalae",
+          "slug": "nalae-lm-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.588",
+      "lon": "101.389"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1956374",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phouheun",
+      "en": "Ban Phouheun",
+      "slug": "ban-phouheun-1956374"
+    },
+    "code": {
+      "id": "1956374",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-02",
+      "level": 2,
+      "name": {
+        "local": "Nalae",
+        "en": "Nalae",
+        "slug": "nalae-lm-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-02",
+        "level": 2,
+        "name": {
+          "local": "Nalae",
+          "en": "Nalae",
+          "slug": "nalae-lm-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.384",
+      "lon": "101.283"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1956329",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phouhôn",
+      "en": "Ban Phouhon",
+      "slug": "ban-phouhon-1956329"
+    },
+    "code": {
+      "id": "1956329",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-02",
+      "level": 2,
+      "name": {
+        "local": "Nalae",
+        "en": "Nalae",
+        "slug": "nalae-lm-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-02",
+        "level": 2,
+        "name": {
+          "local": "Nalae",
+          "en": "Nalae",
+          "slug": "nalae-lm-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.479",
+      "lon": "101.453"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1956343",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phouhong",
+      "en": "Ban Phouhong",
+      "slug": "ban-phouhong-1956343"
+    },
+    "code": {
+      "id": "1956343",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-02",
+      "level": 2,
+      "name": {
+        "local": "Nalae",
+        "en": "Nalae",
+        "slug": "nalae-lm-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-02",
+        "level": 2,
+        "name": {
+          "local": "Nalae",
+          "en": "Nalae",
+          "slug": "nalae-lm-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.457",
+      "lon": "101.318"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1956342",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phoukhang",
+      "en": "Ban Phoukhang",
+      "slug": "ban-phoukhang-1956342"
+    },
+    "code": {
+      "id": "1956342",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-02",
+      "level": 2,
+      "name": {
+        "local": "Nalae",
+        "en": "Nalae",
+        "slug": "nalae-lm-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-02",
+        "level": 2,
+        "name": {
+          "local": "Nalae",
+          "en": "Nalae",
+          "slug": "nalae-lm-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.456",
+      "lon": "101.289"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1956392",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phoukho",
+      "en": "Ban Phoukho",
+      "slug": "ban-phoukho-1956392"
+    },
+    "code": {
+      "id": "1956392",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-02",
+      "level": 2,
+      "name": {
+        "local": "Nalae",
+        "en": "Nalae",
+        "slug": "nalae-lm-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-02",
+        "level": 2,
+        "name": {
+          "local": "Nalae",
+          "en": "Nalae",
+          "slug": "nalae-lm-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.341",
+      "lon": "101.238"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1956297",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phoukuan",
+      "en": "Ban Phoukuan",
+      "slug": "ban-phoukuan-1956297"
+    },
+    "code": {
+      "id": "1956297",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-02",
+      "level": 2,
+      "name": {
+        "local": "Nalae",
+        "en": "Nalae",
+        "slug": "nalae-lm-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-02",
+        "level": 2,
+        "name": {
+          "local": "Nalae",
+          "en": "Nalae",
+          "slug": "nalae-lm-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.556",
+      "lon": "101.256"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1956312",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phoulan",
+      "en": "Ban Phoulan",
+      "slug": "ban-phoulan-1956312"
+    },
+    "code": {
+      "id": "1956312",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-02",
+      "level": 2,
+      "name": {
+        "local": "Nalae",
+        "en": "Nalae",
+        "slug": "nalae-lm-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-02",
+        "level": 2,
+        "name": {
+          "local": "Nalae",
+          "en": "Nalae",
+          "slug": "nalae-lm-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.516",
+      "lon": "101.492"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1956373",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phoulôm",
+      "en": "Ban Phoulom",
+      "slug": "ban-phoulom-1956373"
+    },
+    "code": {
+      "id": "1956373",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-02",
+      "level": 2,
+      "name": {
+        "local": "Nalae",
+        "en": "Nalae",
+        "slug": "nalae-lm-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-02",
+        "level": 2,
+        "name": {
+          "local": "Nalae",
+          "en": "Nalae",
+          "slug": "nalae-lm-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.392",
+      "lon": "101.273"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1956313",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phousoung",
+      "en": "Ban Phousoung",
+      "slug": "ban-phousoung-1956313"
+    },
+    "code": {
+      "id": "1956313",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-02",
+      "level": 2,
+      "name": {
+        "local": "Nalae",
+        "en": "Nalae",
+        "slug": "nalae-lm-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-02",
+        "level": 2,
+        "name": {
+          "local": "Nalae",
+          "en": "Nalae",
+          "slug": "nalae-lm-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.506",
+      "lon": "101.465"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1659744",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phoutang",
+      "en": "Ban Phoutang",
+      "slug": "ban-phoutang-1659744"
+    },
+    "code": {
+      "id": "1659744",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-02",
+      "level": 2,
+      "name": {
+        "local": "Nalae",
+        "en": "Nalae",
+        "slug": "nalae-lm-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-02",
+        "level": 2,
+        "name": {
+          "local": "Nalae",
+          "en": "Nalae",
+          "slug": "nalae-lm-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.645",
+      "lon": "101.543"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1956375",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phouthôn",
+      "en": "Ban Phouthon",
+      "slug": "ban-phouthon-1956375"
+    },
+    "code": {
+      "id": "1956375",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-02",
+      "level": 2,
+      "name": {
+        "local": "Nalae",
+        "en": "Nalae",
+        "slug": "nalae-lm-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-02",
+        "level": 2,
+        "name": {
+          "local": "Nalae",
+          "en": "Nalae",
+          "slug": "nalae-lm-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.385",
+      "lon": "101.319"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1956377",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phouthôn",
+      "en": "Ban Phouthon",
+      "slug": "ban-phouthon-1956377"
+    },
+    "code": {
+      "id": "1956377",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-02",
+      "level": 2,
+      "name": {
+        "local": "Nalae",
+        "en": "Nalae",
+        "slug": "nalae-lm-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-02",
+        "level": 2,
+        "name": {
+          "local": "Nalae",
+          "en": "Nalae",
+          "slug": "nalae-lm-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.383",
+      "lon": "101.436"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1957239",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phoutouang",
+      "en": "Ban Phoutouang",
+      "slug": "ban-phoutouang-1957239"
+    },
+    "code": {
+      "id": "1957239",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-02",
+      "level": 2,
+      "name": {
+        "local": "Nalae",
+        "en": "Nalae",
+        "slug": "nalae-lm-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-02",
+        "level": 2,
+        "name": {
+          "local": "Nalae",
+          "en": "Nalae",
+          "slug": "nalae-lm-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.692",
+      "lon": "101.443"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1956291",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phouviang",
+      "en": "Ban Phouviang",
+      "slug": "ban-phouviang-1956291"
+    },
+    "code": {
+      "id": "1956291",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-02",
+      "level": 2,
+      "name": {
+        "local": "Nalae",
+        "en": "Nalae",
+        "slug": "nalae-lm-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-02",
+        "level": 2,
+        "name": {
+          "local": "Nalae",
+          "en": "Nalae",
+          "slug": "nalae-lm-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.56",
+      "lon": "101.44"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1953705",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phouxè",
+      "en": "Ban Phouxe",
+      "slug": "ban-phouxe-1953705"
+    },
+    "code": {
+      "id": "1953705",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-02",
+      "level": 2,
+      "name": {
+        "local": "Nalae",
+        "en": "Nalae",
+        "slug": "nalae-lm-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-02",
+        "level": 2,
+        "name": {
+          "local": "Nalae",
+          "en": "Nalae",
+          "slug": "nalae-lm-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.575",
+      "lon": "101.526"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1957234",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Poung",
+      "en": "Ban Poung",
+      "slug": "ban-poung-1957234"
+    },
+    "code": {
+      "id": "1957234",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-02",
+      "level": 2,
+      "name": {
+        "local": "Nalae",
+        "en": "Nalae",
+        "slug": "nalae-lm-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-02",
+        "level": 2,
+        "name": {
+          "local": "Nalae",
+          "en": "Nalae",
+          "slug": "nalae-lm-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.731",
+      "lon": "101.426"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1956358",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Puan",
+      "en": "Ban Puan",
+      "slug": "ban-puan-1956358"
+    },
+    "code": {
+      "id": "1956358",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-02",
+      "level": 2,
+      "name": {
+        "local": "Nalae",
+        "en": "Nalae",
+        "slug": "nalae-lm-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-02",
+        "level": 2,
+        "name": {
+          "local": "Nalae",
+          "en": "Nalae",
+          "slug": "nalae-lm-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.432",
+      "lon": "101.337"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1659497",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Sa Luong",
+      "en": "Ban Sa Luong",
+      "slug": "ban-sa-luong-1659497"
+    },
+    "code": {
+      "id": "1659497",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-02",
+      "level": 2,
+      "name": {
+        "local": "Nalae",
+        "en": "Nalae",
+        "slug": "nalae-lm-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-02",
+        "level": 2,
+        "name": {
+          "local": "Nalae",
+          "en": "Nalae",
+          "slug": "nalae-lm-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.45",
+      "lon": "101.3"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1956357",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Sakap",
+      "en": "Ban Sakap",
+      "slug": "ban-sakap-1956357"
+    },
+    "code": {
+      "id": "1956357",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-02",
+      "level": 2,
+      "name": {
+        "local": "Nalae",
+        "en": "Nalae",
+        "slug": "nalae-lm-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-02",
+        "level": 2,
+        "name": {
+          "local": "Nalae",
+          "en": "Nalae",
+          "slug": "nalae-lm-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.418",
+      "lon": "101.244"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1956359",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Sakèn",
+      "en": "Ban Saken",
+      "slug": "ban-saken-1956359"
+    },
+    "code": {
+      "id": "1956359",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-02",
+      "level": 2,
+      "name": {
+        "local": "Nalae",
+        "en": "Nalae",
+        "slug": "nalae-lm-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-02",
+        "level": 2,
+        "name": {
+          "local": "Nalae",
+          "en": "Nalae",
+          "slug": "nalae-lm-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.423",
+      "lon": "101.466"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1956367",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Saluang",
+      "en": "Ban Saluang",
+      "slug": "ban-saluang-1956367"
+    },
+    "code": {
+      "id": "1956367",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-02",
+      "level": 2,
+      "name": {
+        "local": "Nalae",
+        "en": "Nalae",
+        "slug": "nalae-lm-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-02",
+        "level": 2,
+        "name": {
+          "local": "Nalae",
+          "en": "Nalae",
+          "slug": "nalae-lm-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.4",
+      "lon": "101.223"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1953042",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Samin",
+      "en": "Ban Samin",
+      "slug": "ban-samin-1953042"
+    },
+    "code": {
+      "id": "1953042",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-02",
+      "level": 2,
+      "name": {
+        "local": "Nalae",
+        "en": "Nalae",
+        "slug": "nalae-lm-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-02",
+        "level": 2,
+        "name": {
+          "local": "Nalae",
+          "en": "Nalae",
+          "slug": "nalae-lm-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.31",
+      "lon": "101.075"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1956340",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Sapèn",
+      "en": "Ban Sapen",
+      "slug": "ban-sapen-1956340"
+    },
+    "code": {
+      "id": "1956340",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-02",
+      "level": 2,
+      "name": {
+        "local": "Nalae",
+        "en": "Nalae",
+        "slug": "nalae-lm-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-02",
+        "level": 2,
+        "name": {
+          "local": "Nalae",
+          "en": "Nalae",
+          "slug": "nalae-lm-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.455",
+      "lon": "101.225"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1659394",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Sapout",
+      "en": "Ban Sapout",
+      "slug": "ban-sapout-1659394"
+    },
+    "code": {
+      "id": "1659394",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-02",
+      "level": 2,
+      "name": {
+        "local": "Nalae",
+        "en": "Nalae",
+        "slug": "nalae-lm-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-02",
+        "level": 2,
+        "name": {
+          "local": "Nalae",
+          "en": "Nalae",
+          "slug": "nalae-lm-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.485",
+      "lon": "101.235"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1956323",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Sènsalè",
+      "en": "Ban Sensale",
+      "slug": "ban-sensale-1956323"
+    },
+    "code": {
+      "id": "1956323",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-02",
+      "level": 2,
+      "name": {
+        "local": "Nalae",
+        "en": "Nalae",
+        "slug": "nalae-lm-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-02",
+        "level": 2,
+        "name": {
+          "local": "Nalae",
+          "en": "Nalae",
+          "slug": "nalae-lm-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.493",
+      "lon": "101.181"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1956326",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Sènsam",
+      "en": "Ban Sensam",
+      "slug": "ban-sensam-1956326"
+    },
+    "code": {
+      "id": "1956326",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-02",
+      "level": 2,
+      "name": {
+        "local": "Nalae",
+        "en": "Nalae",
+        "slug": "nalae-lm-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-02",
+        "level": 2,
+        "name": {
+          "local": "Nalae",
+          "en": "Nalae",
+          "slug": "nalae-lm-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.503",
+      "lon": "101.281"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1956341",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Sènsè",
+      "en": "Ban Sense",
+      "slug": "ban-sense-1956341"
+    },
+    "code": {
+      "id": "1956341",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-02",
+      "level": 2,
+      "name": {
+        "local": "Nalae",
+        "en": "Nalae",
+        "slug": "nalae-lm-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-02",
+        "level": 2,
+        "name": {
+          "local": "Nalae",
+          "en": "Nalae",
+          "slug": "nalae-lm-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.453",
+      "lon": "101.281"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1956386",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Tachoum",
+      "en": "Ban Tachoum",
+      "slug": "ban-tachoum-1956386"
+    },
+    "code": {
+      "id": "1956386",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-02",
+      "level": 2,
+      "name": {
+        "local": "Nalae",
+        "en": "Nalae",
+        "slug": "nalae-lm-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-02",
+        "level": 2,
+        "name": {
+          "local": "Nalae",
+          "en": "Nalae",
+          "slug": "nalae-lm-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.362",
+      "lon": "101.091"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1953043",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Takheung",
+      "en": "Ban Takheung",
+      "slug": "ban-takheung-1953043"
+    },
+    "code": {
+      "id": "1953043",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-02",
+      "level": 2,
+      "name": {
+        "local": "Nalae",
+        "en": "Nalae",
+        "slug": "nalae-lm-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-02",
+        "level": 2,
+        "name": {
+          "local": "Nalae",
+          "en": "Nalae",
+          "slug": "nalae-lm-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.314",
+      "lon": "101.137"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1956295",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Tako",
+      "en": "Ban Tako",
+      "slug": "ban-tako-1956295"
+    },
+    "code": {
+      "id": "1956295",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-02",
+      "level": 2,
+      "name": {
+        "local": "Nalae",
+        "en": "Nalae",
+        "slug": "nalae-lm-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-02",
+        "level": 2,
+        "name": {
+          "local": "Nalae",
+          "en": "Nalae",
+          "slug": "nalae-lm-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.555",
+      "lon": "101.378"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1956283",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Talong-Kang",
+      "en": "Ban Talong-Kang",
+      "slug": "ban-talong-kang-1956283"
+    },
+    "code": {
+      "id": "1956283",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-02",
+      "level": 2,
+      "name": {
+        "local": "Nalae",
+        "en": "Nalae",
+        "slug": "nalae-lm-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-02",
+        "level": 2,
+        "name": {
+          "local": "Nalae",
+          "en": "Nalae",
+          "slug": "nalae-lm-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.586",
+      "lon": "101.259"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1658931",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Talông-Nua",
+      "en": "Ban Talong-Nua",
+      "slug": "ban-talong-nua-1658931"
+    },
+    "code": {
+      "id": "1658931",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-02",
+      "level": 2,
+      "name": {
+        "local": "Nalae",
+        "en": "Nalae",
+        "slug": "nalae-lm-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-02",
+        "level": 2,
+        "name": {
+          "local": "Nalae",
+          "en": "Nalae",
+          "slug": "nalae-lm-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.599",
+      "lon": "101.249"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1956391",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Tavèn",
+      "en": "Ban Taven",
+      "slug": "ban-taven-1956391"
+    },
+    "code": {
+      "id": "1956391",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-02",
+      "level": 2,
+      "name": {
+        "local": "Nalae",
+        "en": "Nalae",
+        "slug": "nalae-lm-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-02",
+        "level": 2,
+        "name": {
+          "local": "Nalae",
+          "en": "Nalae",
+          "slug": "nalae-lm-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.341",
+      "lon": "101.263"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1956380",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Taveun",
+      "en": "Ban Taveun",
+      "slug": "ban-taveun-1956380"
+    },
+    "code": {
+      "id": "1956380",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-02",
+      "level": 2,
+      "name": {
+        "local": "Nalae",
+        "en": "Nalae",
+        "slug": "nalae-lm-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-02",
+        "level": 2,
+        "name": {
+          "local": "Nalae",
+          "en": "Nalae",
+          "slug": "nalae-lm-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.361",
+      "lon": "101.255"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1658552",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Thene",
+      "en": "Ban Thene",
+      "slug": "ban-thene-1658552"
+    },
+    "code": {
+      "id": "1658552",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-02",
+      "level": 2,
+      "name": {
+        "local": "Nalae",
+        "en": "Nalae",
+        "slug": "nalae-lm-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-02",
+        "level": 2,
+        "name": {
+          "local": "Nalae",
+          "en": "Nalae",
+          "slug": "nalae-lm-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.367",
+      "lon": "101.233"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1956279",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Thôngthon",
+      "en": "Ban Thongthon",
+      "slug": "ban-thongthon-1956279"
+    },
+    "code": {
+      "id": "1956279",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-02",
+      "level": 2,
+      "name": {
+        "local": "Nalae",
+        "en": "Nalae",
+        "slug": "nalae-lm-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-02",
+        "level": 2,
+        "name": {
+          "local": "Nalae",
+          "en": "Nalae",
+          "slug": "nalae-lm-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.594",
+      "lon": "101.454"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1956344",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Tôngkatang",
+      "en": "Ban Tongkatang",
+      "slug": "ban-tongkatang-1956344"
+    },
+    "code": {
+      "id": "1956344",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-02",
+      "level": 2,
+      "name": {
+        "local": "Nalae",
+        "en": "Nalae",
+        "slug": "nalae-lm-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-02",
+        "level": 2,
+        "name": {
+          "local": "Nalae",
+          "en": "Nalae",
+          "slug": "nalae-lm-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.453",
+      "lon": "101.349"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1956290",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Tonglahang",
+      "en": "Ban Tonglahang",
+      "slug": "ban-tonglahang-1956290"
+    },
+    "code": {
+      "id": "1956290",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-02",
+      "level": 2,
+      "name": {
+        "local": "Nalae",
+        "en": "Nalae",
+        "slug": "nalae-lm-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-02",
+        "level": 2,
+        "name": {
+          "local": "Nalae",
+          "en": "Nalae",
+          "slug": "nalae-lm-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.568",
+      "lon": "101.389"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1956347",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Tônglahang",
+      "en": "Ban Tonglahang",
+      "slug": "ban-tonglahang-1956347"
+    },
+    "code": {
+      "id": "1956347",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-02",
+      "level": 2,
+      "name": {
+        "local": "Nalae",
+        "en": "Nalae",
+        "slug": "nalae-lm-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-02",
+        "level": 2,
+        "name": {
+          "local": "Nalae",
+          "en": "Nalae",
+          "slug": "nalae-lm-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.459",
+      "lon": "101.393"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1956384",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Tôngmang",
+      "en": "Ban Tongmang",
+      "slug": "ban-tongmang-1956384"
+    },
+    "code": {
+      "id": "1956384",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-02",
+      "level": 2,
+      "name": {
+        "local": "Nalae",
+        "en": "Nalae",
+        "slug": "nalae-lm-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-02",
+        "level": 2,
+        "name": {
+          "local": "Nalae",
+          "en": "Nalae",
+          "slug": "nalae-lm-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.356",
+      "lon": "101.039"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1956345",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Tôngmôk",
+      "en": "Ban Tongmok",
+      "slug": "ban-tongmok-1956345"
+    },
+    "code": {
+      "id": "1956345",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-02",
+      "level": 2,
+      "name": {
+        "local": "Nalae",
+        "en": "Nalae",
+        "slug": "nalae-lm-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-02",
+        "level": 2,
+        "name": {
+          "local": "Nalae",
+          "en": "Nalae",
+          "slug": "nalae-lm-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.462",
+      "lon": "101.37"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1956307",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Tôngpot",
+      "en": "Ban Tongpot",
+      "slug": "ban-tongpot-1956307"
+    },
+    "code": {
+      "id": "1956307",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-02",
+      "level": 2,
+      "name": {
+        "local": "Nalae",
+        "en": "Nalae",
+        "slug": "nalae-lm-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-02",
+        "level": 2,
+        "name": {
+          "local": "Nalae",
+          "en": "Nalae",
+          "slug": "nalae-lm-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.532",
+      "lon": "101.354"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1658192",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Vat",
+      "en": "Ban Vat",
+      "slug": "ban-vat-1658192"
+    },
+    "code": {
+      "id": "1658192",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-02",
+      "level": 2,
+      "name": {
+        "local": "Nalae",
+        "en": "Nalae",
+        "slug": "nalae-lm-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-02",
+        "level": 2,
+        "name": {
+          "local": "Nalae",
+          "en": "Nalae",
+          "slug": "nalae-lm-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.457",
+      "lon": "101.41"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1956294",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Vèng",
+      "en": "Ban Veng",
+      "slug": "ban-veng-1956294"
+    },
+    "code": {
+      "id": "1956294",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-02",
+      "level": 2,
+      "name": {
+        "local": "Nalae",
+        "en": "Nalae",
+        "slug": "nalae-lm-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-02",
+        "level": 2,
+        "name": {
+          "local": "Nalae",
+          "en": "Nalae",
+          "slug": "nalae-lm-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.57",
+      "lon": "101.491"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1956327",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Vianglao",
+      "en": "Ban Vianglao",
+      "slug": "ban-vianglao-1956327"
+    },
+    "code": {
+      "id": "1956327",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-02",
+      "level": 2,
+      "name": {
+        "local": "Nalae",
+        "en": "Nalae",
+        "slug": "nalae-lm-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-02",
+        "level": 2,
+        "name": {
+          "local": "Nalae",
+          "en": "Nalae",
+          "slug": "nalae-lm-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.497",
+      "lon": "101.413"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1956309",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Muang Nalè",
+      "en": "Muang Nale",
+      "slug": "muang-nale-1956309"
+    },
+    "code": {
+      "id": "1956309",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-02",
+      "level": 2,
+      "name": {
+        "local": "Nalae",
+        "en": "Nalae",
+        "slug": "nalae-lm-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-02",
+        "level": 2,
+        "name": {
+          "local": "Nalae",
+          "en": "Nalae",
+          "slug": "nalae-lm-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.532",
+      "lon": "101.447"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1655118",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Muang Pot",
+      "en": "Muang Pot",
+      "slug": "muang-pot-1655118"
+    },
+    "code": {
+      "id": "1655118",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-02",
+      "level": 2,
+      "name": {
+        "local": "Nalae",
+        "en": "Nalae",
+        "slug": "nalae-lm-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-02",
+        "level": 2,
+        "name": {
+          "local": "Nalae",
+          "en": "Nalae",
+          "slug": "nalae-lm-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.6",
+      "lon": "101.35"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1653046",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Sop Ngin",
+      "en": "Sop Ngin",
+      "slug": "sop-ngin-1653046"
+    },
+    "code": {
+      "id": "1653046",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-02",
+      "level": 2,
+      "name": {
+        "local": "Nalae",
+        "en": "Nalae",
+        "slug": "nalae-lm-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-02",
+        "level": 2,
+        "name": {
+          "local": "Nalae",
+          "en": "Nalae",
+          "slug": "nalae-lm-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.65",
+      "lon": "101.433"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1653036",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Sop Tialeng",
+      "en": "Sop Tialeng",
+      "slug": "sop-tialeng-1653036"
+    },
+    "code": {
+      "id": "1653036",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-02",
+      "level": 2,
+      "name": {
+        "local": "Nalae",
+        "en": "Nalae",
+        "slug": "nalae-lm-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-02",
+        "level": 2,
+        "name": {
+          "local": "Nalae",
+          "en": "Nalae",
+          "slug": "nalae-lm-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.533",
+      "lon": "101.45"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

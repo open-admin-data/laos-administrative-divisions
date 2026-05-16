@@ -1,0 +1,3566 @@
+[
+  {
+    "id": "11201256",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Bak",
+      "en": "Ban Bak",
+      "slug": "ban-bak-11201256"
+    },
+    "code": {
+      "id": "11201256",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH-11",
+      "level": 2,
+      "name": {
+        "local": "Sukhuma",
+        "en": "Sukhuma",
+        "slug": "sukhuma-ch-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH",
+        "level": 1,
+        "name": {
+          "local": "Champasak",
+          "en": "Champasak",
+          "slug": "champasak-ch"
+        }
+      },
+      {
+        "id": "CH-11",
+        "level": 2,
+        "name": {
+          "local": "Sukhuma",
+          "en": "Sukhuma",
+          "slug": "sukhuma-ch-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.708",
+      "lon": "105.794"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1664905",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Bôktalou",
+      "en": "Ban Boktalou",
+      "slug": "ban-boktalou-1664905"
+    },
+    "code": {
+      "id": "1664905",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH-11",
+      "level": 2,
+      "name": {
+        "local": "Sukhuma",
+        "en": "Sukhuma",
+        "slug": "sukhuma-ch-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH",
+        "level": 1,
+        "name": {
+          "local": "Champasak",
+          "en": "Champasak",
+          "slug": "champasak-ch"
+        }
+      },
+      {
+        "id": "CH-11",
+        "level": 2,
+        "name": {
+          "local": "Sukhuma",
+          "en": "Sukhuma",
+          "slug": "sukhuma-ch-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.649",
+      "lon": "105.774"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1664829",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Boungbao",
+      "en": "Ban Boungbao",
+      "slug": "ban-boungbao-1664829"
+    },
+    "code": {
+      "id": "1664829",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH-11",
+      "level": 2,
+      "name": {
+        "local": "Sukhuma",
+        "en": "Sukhuma",
+        "slug": "sukhuma-ch-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH",
+        "level": 1,
+        "name": {
+          "local": "Champasak",
+          "en": "Champasak",
+          "slug": "champasak-ch"
+        }
+      },
+      {
+        "id": "CH-11",
+        "level": 2,
+        "name": {
+          "local": "Sukhuma",
+          "en": "Sukhuma",
+          "slug": "sukhuma-ch-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.495",
+      "lon": "105.852"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1664828",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Boungkèo",
+      "en": "Ban Boungkeo",
+      "slug": "ban-boungkeo-1664828"
+    },
+    "code": {
+      "id": "1664828",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH-11",
+      "level": 2,
+      "name": {
+        "local": "Sukhuma",
+        "en": "Sukhuma",
+        "slug": "sukhuma-ch-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH",
+        "level": 1,
+        "name": {
+          "local": "Champasak",
+          "en": "Champasak",
+          "slug": "champasak-ch"
+        }
+      },
+      {
+        "id": "CH-11",
+        "level": 2,
+        "name": {
+          "local": "Sukhuma",
+          "en": "Sukhuma",
+          "slug": "sukhuma-ch-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.629",
+      "lon": "105.852"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1664511",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Dônggnang",
+      "en": "Ban Donggnang",
+      "slug": "ban-donggnang-1664511"
+    },
+    "code": {
+      "id": "1664511",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH-11",
+      "level": 2,
+      "name": {
+        "local": "Sukhuma",
+        "en": "Sukhuma",
+        "slug": "sukhuma-ch-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH",
+        "level": 1,
+        "name": {
+          "local": "Champasak",
+          "en": "Champasak",
+          "slug": "champasak-ch"
+        }
+      },
+      {
+        "id": "CH-11",
+        "level": 2,
+        "name": {
+          "local": "Sukhuma",
+          "en": "Sukhuma",
+          "slug": "sukhuma-ch-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.61",
+      "lon": "105.828"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11202200",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Dônghouaban",
+      "en": "Ban Donghouaban",
+      "slug": "ban-donghouaban-11202200"
+    },
+    "code": {
+      "id": "11202200",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH-11",
+      "level": 2,
+      "name": {
+        "local": "Sukhuma",
+        "en": "Sukhuma",
+        "slug": "sukhuma-ch-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH",
+        "level": 1,
+        "name": {
+          "local": "Champasak",
+          "en": "Champasak",
+          "slug": "champasak-ch"
+        }
+      },
+      {
+        "id": "CH-11",
+        "level": 2,
+        "name": {
+          "local": "Sukhuma",
+          "en": "Sukhuma",
+          "slug": "sukhuma-ch-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.615",
+      "lon": "105.85"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11201247",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Donkhan-Theung",
+      "en": "Ban Donkhan-Theung",
+      "slug": "ban-donkhan-theung-11201247"
+    },
+    "code": {
+      "id": "11201247",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH-11",
+      "level": 2,
+      "name": {
+        "local": "Sukhuma",
+        "en": "Sukhuma",
+        "slug": "sukhuma-ch-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH",
+        "level": 1,
+        "name": {
+          "local": "Champasak",
+          "en": "Champasak",
+          "slug": "champasak-ch"
+        }
+      },
+      {
+        "id": "CH-11",
+        "level": 2,
+        "name": {
+          "local": "Sukhuma",
+          "en": "Sukhuma",
+          "slug": "sukhuma-ch-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.79",
+      "lon": "105.72"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11201249",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Donkhokngoua",
+      "en": "Ban Donkhokngoua",
+      "slug": "ban-donkhokngoua-11201249"
+    },
+    "code": {
+      "id": "11201249",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH-11",
+      "level": 2,
+      "name": {
+        "local": "Sukhuma",
+        "en": "Sukhuma",
+        "slug": "sukhuma-ch-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH",
+        "level": 1,
+        "name": {
+          "local": "Champasak",
+          "en": "Champasak",
+          "slug": "champasak-ch"
+        }
+      },
+      {
+        "id": "CH-11",
+        "level": 2,
+        "name": {
+          "local": "Sukhuma",
+          "en": "Sukhuma",
+          "slug": "sukhuma-ch-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.765",
+      "lon": "105.717"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1664403",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Donkong",
+      "en": "Ban Donkong",
+      "slug": "ban-donkong-1664403"
+    },
+    "code": {
+      "id": "1664403",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH-11",
+      "level": 2,
+      "name": {
+        "local": "Sukhuma",
+        "en": "Sukhuma",
+        "slug": "sukhuma-ch-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH",
+        "level": 1,
+        "name": {
+          "local": "Champasak",
+          "en": "Champasak",
+          "slug": "champasak-ch"
+        }
+      },
+      {
+        "id": "CH-11",
+        "level": 2,
+        "name": {
+          "local": "Sukhuma",
+          "en": "Sukhuma",
+          "slug": "sukhuma-ch-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.709",
+      "lon": "105.726"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11201251",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Donvay",
+      "en": "Ban Donvay",
+      "slug": "ban-donvay-11201251"
+    },
+    "code": {
+      "id": "11201251",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH-11",
+      "level": 2,
+      "name": {
+        "local": "Sukhuma",
+        "en": "Sukhuma",
+        "slug": "sukhuma-ch-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH",
+        "level": 1,
+        "name": {
+          "local": "Champasak",
+          "en": "Champasak",
+          "slug": "champasak-ch"
+        }
+      },
+      {
+        "id": "CH-11",
+        "level": 2,
+        "name": {
+          "local": "Sukhuma",
+          "en": "Sukhuma",
+          "slug": "sukhuma-ch-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.732",
+      "lon": "105.747"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1664294",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Gnangsao",
+      "en": "Ban Gnangsao",
+      "slug": "ban-gnangsao-1664294"
+    },
+    "code": {
+      "id": "1664294",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH-11",
+      "level": 2,
+      "name": {
+        "local": "Sukhuma",
+        "en": "Sukhuma",
+        "slug": "sukhuma-ch-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH",
+        "level": 1,
+        "name": {
+          "local": "Champasak",
+          "en": "Champasak",
+          "slug": "champasak-ch"
+        }
+      },
+      {
+        "id": "CH-11",
+        "level": 2,
+        "name": {
+          "local": "Sukhuma",
+          "en": "Sukhuma",
+          "slug": "sukhuma-ch-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.757",
+      "lon": "105.73"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11202197",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Hè",
+      "en": "Ban He",
+      "slug": "ban-he-11202197"
+    },
+    "code": {
+      "id": "11202197",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH-11",
+      "level": 2,
+      "name": {
+        "local": "Sukhuma",
+        "en": "Sukhuma",
+        "slug": "sukhuma-ch-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH",
+        "level": 1,
+        "name": {
+          "local": "Champasak",
+          "en": "Champasak",
+          "slug": "champasak-ch"
+        }
+      },
+      {
+        "id": "CH-11",
+        "level": 2,
+        "name": {
+          "local": "Sukhuma",
+          "en": "Sukhuma",
+          "slug": "sukhuma-ch-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.643",
+      "lon": "105.858"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1664090",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Hiang",
+      "en": "Ban Hiang",
+      "slug": "ban-hiang-1664090"
+    },
+    "code": {
+      "id": "1664090",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH-11",
+      "level": 2,
+      "name": {
+        "local": "Sukhuma",
+        "en": "Sukhuma",
+        "slug": "sukhuma-ch-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH",
+        "level": 1,
+        "name": {
+          "local": "Champasak",
+          "en": "Champasak",
+          "slug": "champasak-ch"
+        }
+      },
+      {
+        "id": "CH-11",
+        "level": 2,
+        "name": {
+          "local": "Sukhuma",
+          "en": "Sukhuma",
+          "slug": "sukhuma-ch-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.697",
+      "lon": "105.586"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1664022",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houadonxai",
+      "en": "Ban Houadonxai",
+      "slug": "ban-houadonxai-1664022"
+    },
+    "code": {
+      "id": "1664022",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH-11",
+      "level": 2,
+      "name": {
+        "local": "Sukhuma",
+        "en": "Sukhuma",
+        "slug": "sukhuma-ch-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH",
+        "level": 1,
+        "name": {
+          "local": "Champasak",
+          "en": "Champasak",
+          "slug": "champasak-ch"
+        }
+      },
+      {
+        "id": "CH-11",
+        "level": 2,
+        "name": {
+          "local": "Sukhuma",
+          "en": "Sukhuma",
+          "slug": "sukhuma-ch-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.548",
+      "lon": "105.844"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1663790",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houaylek",
+      "en": "Ban Houaylek",
+      "slug": "ban-houaylek-1663790"
+    },
+    "code": {
+      "id": "1663790",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH-11",
+      "level": 2,
+      "name": {
+        "local": "Sukhuma",
+        "en": "Sukhuma",
+        "slug": "sukhuma-ch-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH",
+        "level": 1,
+        "name": {
+          "local": "Champasak",
+          "en": "Champasak",
+          "slug": "champasak-ch"
+        }
+      },
+      {
+        "id": "CH-11",
+        "level": 2,
+        "name": {
+          "local": "Sukhuma",
+          "en": "Sukhuma",
+          "slug": "sukhuma-ch-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.65",
+      "lon": "105.861"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1663024",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Kha",
+      "en": "Ban Kha",
+      "slug": "ban-kha-1663024"
+    },
+    "code": {
+      "id": "1663024",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH-11",
+      "level": 2,
+      "name": {
+        "local": "Sukhuma",
+        "en": "Sukhuma",
+        "slug": "sukhuma-ch-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH",
+        "level": 1,
+        "name": {
+          "local": "Champasak",
+          "en": "Champasak",
+          "slug": "champasak-ch"
+        }
+      },
+      {
+        "id": "CH-11",
+        "level": 2,
+        "name": {
+          "local": "Sukhuma",
+          "en": "Sukhuma",
+          "slug": "sukhuma-ch-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.713",
+      "lon": "105.654"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1662962",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Khôkkong",
+      "en": "Ban Khokkong",
+      "slug": "ban-khokkong-1662962"
+    },
+    "code": {
+      "id": "1662962",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH-11",
+      "level": 2,
+      "name": {
+        "local": "Sukhuma",
+        "en": "Sukhuma",
+        "slug": "sukhuma-ch-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH",
+        "level": 1,
+        "name": {
+          "local": "Champasak",
+          "en": "Champasak",
+          "slug": "champasak-ch"
+        }
+      },
+      {
+        "id": "CH-11",
+        "level": 2,
+        "name": {
+          "local": "Sukhuma",
+          "en": "Sukhuma",
+          "slug": "sukhuma-ch-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.544",
+      "lon": "105.579"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1660743",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Khôknongboua",
+      "en": "Ban Khoknongboua",
+      "slug": "ban-khoknongboua-1660743"
+    },
+    "code": {
+      "id": "1660743",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH-11",
+      "level": 2,
+      "name": {
+        "local": "Sukhuma",
+        "en": "Sukhuma",
+        "slug": "sukhuma-ch-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH",
+        "level": 1,
+        "name": {
+          "local": "Champasak",
+          "en": "Champasak",
+          "slug": "champasak-ch"
+        }
+      },
+      {
+        "id": "CH-11",
+        "level": 2,
+        "name": {
+          "local": "Sukhuma",
+          "en": "Sukhuma",
+          "slug": "sukhuma-ch-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.615",
+      "lon": "105.792"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11202138",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Khôksavang",
+      "en": "Ban Khoksavang",
+      "slug": "ban-khoksavang-11202138"
+    },
+    "code": {
+      "id": "11202138",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH-11",
+      "level": 2,
+      "name": {
+        "local": "Sukhuma",
+        "en": "Sukhuma",
+        "slug": "sukhuma-ch-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH",
+        "level": 1,
+        "name": {
+          "local": "Champasak",
+          "en": "Champasak",
+          "slug": "champasak-ch"
+        }
+      },
+      {
+        "id": "CH-11",
+        "level": 2,
+        "name": {
+          "local": "Sukhuma",
+          "en": "Sukhuma",
+          "slug": "sukhuma-ch-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.648",
+      "lon": "105.73"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1662833",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Kok",
+      "en": "Ban Kok",
+      "slug": "ban-kok-1662833"
+    },
+    "code": {
+      "id": "1662833",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH-11",
+      "level": 2,
+      "name": {
+        "local": "Sukhuma",
+        "en": "Sukhuma",
+        "slug": "sukhuma-ch-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH",
+        "level": 1,
+        "name": {
+          "local": "Champasak",
+          "en": "Champasak",
+          "slug": "champasak-ch"
+        }
+      },
+      {
+        "id": "CH-11",
+        "level": 2,
+        "name": {
+          "local": "Sukhuma",
+          "en": "Sukhuma",
+          "slug": "sukhuma-ch-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.5",
+      "lon": "105.831"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1662788",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Kong",
+      "en": "Ban Kong",
+      "slug": "ban-kong-1662788"
+    },
+    "code": {
+      "id": "1662788",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH-11",
+      "level": 2,
+      "name": {
+        "local": "Sukhuma",
+        "en": "Sukhuma",
+        "slug": "sukhuma-ch-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH",
+        "level": 1,
+        "name": {
+          "local": "Champasak",
+          "en": "Champasak",
+          "slug": "champasak-ch"
+        }
+      },
+      {
+        "id": "CH-11",
+        "level": 2,
+        "name": {
+          "local": "Sukhuma",
+          "en": "Sukhuma",
+          "slug": "sukhuma-ch-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.65",
+      "lon": "105.767"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1662783",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Kôngkian",
+      "en": "Ban Kongkian",
+      "slug": "ban-kongkian-1662783"
+    },
+    "code": {
+      "id": "1662783",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH-11",
+      "level": 2,
+      "name": {
+        "local": "Sukhuma",
+        "en": "Sukhuma",
+        "slug": "sukhuma-ch-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH",
+        "level": 1,
+        "name": {
+          "local": "Champasak",
+          "en": "Champasak",
+          "slug": "champasak-ch"
+        }
+      },
+      {
+        "id": "CH-11",
+        "level": 2,
+        "name": {
+          "local": "Sukhuma",
+          "en": "Sukhuma",
+          "slug": "sukhuma-ch-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.643",
+      "lon": "105.818"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1662710",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Kouttaboun",
+      "en": "Ban Kouttaboun",
+      "slug": "ban-kouttaboun-1662710"
+    },
+    "code": {
+      "id": "1662710",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH-11",
+      "level": 2,
+      "name": {
+        "local": "Sukhuma",
+        "en": "Sukhuma",
+        "slug": "sukhuma-ch-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH",
+        "level": 1,
+        "name": {
+          "local": "Champasak",
+          "en": "Champasak",
+          "slug": "champasak-ch"
+        }
+      },
+      {
+        "id": "CH-11",
+        "level": 2,
+        "name": {
+          "local": "Sukhuma",
+          "en": "Sukhuma",
+          "slug": "sukhuma-ch-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.623",
+      "lon": "105.791"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1662536",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Lat-Gnai",
+      "en": "Ban Lat-Gnai",
+      "slug": "ban-lat-gnai-1662536"
+    },
+    "code": {
+      "id": "1662536",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH-11",
+      "level": 2,
+      "name": {
+        "local": "Sukhuma",
+        "en": "Sukhuma",
+        "slug": "sukhuma-ch-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH",
+        "level": 1,
+        "name": {
+          "local": "Champasak",
+          "en": "Champasak",
+          "slug": "champasak-ch"
+        }
+      },
+      {
+        "id": "CH-11",
+        "level": 2,
+        "name": {
+          "local": "Sukhuma",
+          "en": "Sukhuma",
+          "slug": "sukhuma-ch-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.629",
+      "lon": "105.777"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1662355",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Mai-Vangmakxèo",
+      "en": "Ban Mai-Vangmakxeo",
+      "slug": "ban-mai-vangmakxeo-1662355"
+    },
+    "code": {
+      "id": "1662355",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH-11",
+      "level": 2,
+      "name": {
+        "local": "Sukhuma",
+        "en": "Sukhuma",
+        "slug": "sukhuma-ch-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH",
+        "level": 1,
+        "name": {
+          "local": "Champasak",
+          "en": "Champasak",
+          "slug": "champasak-ch"
+        }
+      },
+      {
+        "id": "CH-11",
+        "level": 2,
+        "name": {
+          "local": "Sukhuma",
+          "en": "Sukhuma",
+          "slug": "sukhuma-ch-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.592",
+      "lon": "105.819"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1662347",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Makmi",
+      "en": "Ban Makmi",
+      "slug": "ban-makmi-1662347"
+    },
+    "code": {
+      "id": "1662347",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH-11",
+      "level": 2,
+      "name": {
+        "local": "Sukhuma",
+        "en": "Sukhuma",
+        "slug": "sukhuma-ch-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH",
+        "level": 1,
+        "name": {
+          "local": "Champasak",
+          "en": "Champasak",
+          "slug": "champasak-ch"
+        }
+      },
+      {
+        "id": "CH-11",
+        "level": 2,
+        "name": {
+          "local": "Sukhuma",
+          "en": "Sukhuma",
+          "slug": "sukhuma-ch-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.53",
+      "lon": "105.836"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1662345",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Maknao",
+      "en": "Ban Maknao",
+      "slug": "ban-maknao-1662345"
+    },
+    "code": {
+      "id": "1662345",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH-11",
+      "level": 2,
+      "name": {
+        "local": "Sukhuma",
+        "en": "Sukhuma",
+        "slug": "sukhuma-ch-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH",
+        "level": 1,
+        "name": {
+          "local": "Champasak",
+          "en": "Champasak",
+          "slug": "champasak-ch"
+        }
+      },
+      {
+        "id": "CH-11",
+        "level": 2,
+        "name": {
+          "local": "Sukhuma",
+          "en": "Sukhuma",
+          "slug": "sukhuma-ch-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.485",
+      "lon": "105.843"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1662236",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Mouang",
+      "en": "Ban Mouang",
+      "slug": "ban-mouang-1662236"
+    },
+    "code": {
+      "id": "1662236",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH-11",
+      "level": 2,
+      "name": {
+        "local": "Sukhuma",
+        "en": "Sukhuma",
+        "slug": "sukhuma-ch-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH",
+        "level": 1,
+        "name": {
+          "local": "Champasak",
+          "en": "Champasak",
+          "slug": "champasak-ch"
+        }
+      },
+      {
+        "id": "CH-11",
+        "level": 2,
+        "name": {
+          "local": "Sukhuma",
+          "en": "Sukhuma",
+          "slug": "sukhuma-ch-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.656",
+      "lon": "105.768"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1662046",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nadi",
+      "en": "Ban Nadi",
+      "slug": "ban-nadi-1662046"
+    },
+    "code": {
+      "id": "1662046",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH-11",
+      "level": 2,
+      "name": {
+        "local": "Sukhuma",
+        "en": "Sukhuma",
+        "slug": "sukhuma-ch-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH",
+        "level": 1,
+        "name": {
+          "local": "Champasak",
+          "en": "Champasak",
+          "slug": "champasak-ch"
+        }
+      },
+      {
+        "id": "CH-11",
+        "level": 2,
+        "name": {
+          "local": "Sukhuma",
+          "en": "Sukhuma",
+          "slug": "sukhuma-ch-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.545",
+      "lon": "105.706"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1662047",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nadi",
+      "en": "Ban Nadi",
+      "slug": "ban-nadi-1662047"
+    },
+    "code": {
+      "id": "1662047",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH-11",
+      "level": 2,
+      "name": {
+        "local": "Sukhuma",
+        "en": "Sukhuma",
+        "slug": "sukhuma-ch-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH",
+        "level": 1,
+        "name": {
+          "local": "Champasak",
+          "en": "Champasak",
+          "slug": "champasak-ch"
+        }
+      },
+      {
+        "id": "CH-11",
+        "level": 2,
+        "name": {
+          "local": "Sukhuma",
+          "en": "Sukhuma",
+          "slug": "sukhuma-ch-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.591",
+      "lon": "105.684"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11202137",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Namakngô",
+      "en": "Ban Namakngo",
+      "slug": "ban-namakngo-11202137"
+    },
+    "code": {
+      "id": "11202137",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH-11",
+      "level": 2,
+      "name": {
+        "local": "Sukhuma",
+        "en": "Sukhuma",
+        "slug": "sukhuma-ch-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH",
+        "level": 1,
+        "name": {
+          "local": "Champasak",
+          "en": "Champasak",
+          "slug": "champasak-ch"
+        }
+      },
+      {
+        "id": "CH-11",
+        "level": 2,
+        "name": {
+          "local": "Sukhuma",
+          "en": "Sukhuma",
+          "slug": "sukhuma-ch-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.658",
+      "lon": "105.735"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11202142",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Naphaktôp",
+      "en": "Ban Naphaktop",
+      "slug": "ban-naphaktop-11202142"
+    },
+    "code": {
+      "id": "11202142",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH-11",
+      "level": 2,
+      "name": {
+        "local": "Sukhuma",
+        "en": "Sukhuma",
+        "slug": "sukhuma-ch-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH",
+        "level": 1,
+        "name": {
+          "local": "Champasak",
+          "en": "Champasak",
+          "slug": "champasak-ch"
+        }
+      },
+      {
+        "id": "CH-11",
+        "level": 2,
+        "name": {
+          "local": "Sukhuma",
+          "en": "Sukhuma",
+          "slug": "sukhuma-ch-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.622",
+      "lon": "105.742"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11202145",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nasamliam",
+      "en": "Ban Nasamliam",
+      "slug": "ban-nasamliam-11202145"
+    },
+    "code": {
+      "id": "11202145",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH-11",
+      "level": 2,
+      "name": {
+        "local": "Sukhuma",
+        "en": "Sukhuma",
+        "slug": "sukhuma-ch-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH",
+        "level": 1,
+        "name": {
+          "local": "Champasak",
+          "en": "Champasak",
+          "slug": "champasak-ch"
+        }
+      },
+      {
+        "id": "CH-11",
+        "level": 2,
+        "name": {
+          "local": "Sukhuma",
+          "en": "Sukhuma",
+          "slug": "sukhuma-ch-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.591",
+      "lon": "105.685"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1660898",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nôn",
+      "en": "Ban Non",
+      "slug": "ban-non-1660898"
+    },
+    "code": {
+      "id": "1660898",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH-11",
+      "level": 2,
+      "name": {
+        "local": "Sukhuma",
+        "en": "Sukhuma",
+        "slug": "sukhuma-ch-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH",
+        "level": 1,
+        "name": {
+          "local": "Champasak",
+          "en": "Champasak",
+          "slug": "champasak-ch"
+        }
+      },
+      {
+        "id": "CH-11",
+        "level": 2,
+        "name": {
+          "local": "Sukhuma",
+          "en": "Sukhuma",
+          "slug": "sukhuma-ch-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.54",
+      "lon": "105.706"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1660746",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nôn-Gnang",
+      "en": "Ban Non-Gnang",
+      "slug": "ban-non-gnang-1660746"
+    },
+    "code": {
+      "id": "1660746",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH-11",
+      "level": 2,
+      "name": {
+        "local": "Sukhuma",
+        "en": "Sukhuma",
+        "slug": "sukhuma-ch-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH",
+        "level": 1,
+        "name": {
+          "local": "Champasak",
+          "en": "Champasak",
+          "slug": "champasak-ch"
+        }
+      },
+      {
+        "id": "CH-11",
+        "level": 2,
+        "name": {
+          "local": "Sukhuma",
+          "en": "Sukhuma",
+          "slug": "sukhuma-ch-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.689",
+      "lon": "105.713"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11202192",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nôn-Uang",
+      "en": "Ban Non-Uang",
+      "slug": "ban-non-uang-11202192"
+    },
+    "code": {
+      "id": "11202192",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH-11",
+      "level": 2,
+      "name": {
+        "local": "Sukhuma",
+        "en": "Sukhuma",
+        "slug": "sukhuma-ch-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH",
+        "level": 1,
+        "name": {
+          "local": "Champasak",
+          "en": "Champasak",
+          "slug": "champasak-ch"
+        }
+      },
+      {
+        "id": "CH-11",
+        "level": 2,
+        "name": {
+          "local": "Sukhuma",
+          "en": "Sukhuma",
+          "slug": "sukhuma-ch-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.53",
+      "lon": "105.725"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11202148",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nôndèng",
+      "en": "Ban Nondeng",
+      "slug": "ban-nondeng-11202148"
+    },
+    "code": {
+      "id": "11202148",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH-11",
+      "level": 2,
+      "name": {
+        "local": "Sukhuma",
+        "en": "Sukhuma",
+        "slug": "sukhuma-ch-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH",
+        "level": 1,
+        "name": {
+          "local": "Champasak",
+          "en": "Champasak",
+          "slug": "champasak-ch"
+        }
+      },
+      {
+        "id": "CH-11",
+        "level": 2,
+        "name": {
+          "local": "Sukhuma",
+          "en": "Sukhuma",
+          "slug": "sukhuma-ch-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.554",
+      "lon": "105.732"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1660909",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nôndèng-Nua",
+      "en": "Ban Nondeng-Nua",
+      "slug": "ban-nondeng-nua-1660909"
+    },
+    "code": {
+      "id": "1660909",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH-11",
+      "level": 2,
+      "name": {
+        "local": "Sukhuma",
+        "en": "Sukhuma",
+        "slug": "sukhuma-ch-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH",
+        "level": 1,
+        "name": {
+          "local": "Champasak",
+          "en": "Champasak",
+          "slug": "champasak-ch"
+        }
+      },
+      {
+        "id": "CH-11",
+        "level": 2,
+        "name": {
+          "local": "Sukhuma",
+          "en": "Sukhuma",
+          "slug": "sukhuma-ch-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.759",
+      "lon": "105.61"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11202150",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nongkhoum",
+      "en": "Ban Nongkhoum",
+      "slug": "ban-nongkhoum-11202150"
+    },
+    "code": {
+      "id": "11202150",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH-11",
+      "level": 2,
+      "name": {
+        "local": "Sukhuma",
+        "en": "Sukhuma",
+        "slug": "sukhuma-ch-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH",
+        "level": 1,
+        "name": {
+          "local": "Champasak",
+          "en": "Champasak",
+          "slug": "champasak-ch"
+        }
+      },
+      {
+        "id": "CH-11",
+        "level": 2,
+        "name": {
+          "local": "Sukhuma",
+          "en": "Sukhuma",
+          "slug": "sukhuma-ch-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.532",
+      "lon": "105.665"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11201258",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nongphanvông",
+      "en": "Ban Nongphanvong",
+      "slug": "ban-nongphanvong-11201258"
+    },
+    "code": {
+      "id": "11201258",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH-11",
+      "level": 2,
+      "name": {
+        "local": "Sukhuma",
+        "en": "Sukhuma",
+        "slug": "sukhuma-ch-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH",
+        "level": 1,
+        "name": {
+          "local": "Champasak",
+          "en": "Champasak",
+          "slug": "champasak-ch"
+        }
+      },
+      {
+        "id": "CH-11",
+        "level": 2,
+        "name": {
+          "local": "Sukhuma",
+          "en": "Sukhuma",
+          "slug": "sukhuma-ch-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.76",
+      "lon": "105.746"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1660627",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nônphachao",
+      "en": "Ban Nonphachao",
+      "slug": "ban-nonphachao-1660627"
+    },
+    "code": {
+      "id": "1660627",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH-11",
+      "level": 2,
+      "name": {
+        "local": "Sukhuma",
+        "en": "Sukhuma",
+        "slug": "sukhuma-ch-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH",
+        "level": 1,
+        "name": {
+          "local": "Champasak",
+          "en": "Champasak",
+          "slug": "champasak-ch"
+        }
+      },
+      {
+        "id": "CH-11",
+        "level": 2,
+        "name": {
+          "local": "Sukhuma",
+          "en": "Sukhuma",
+          "slug": "sukhuma-ch-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.728",
+      "lon": "105.726"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1660574",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Outhoum-Kao",
+      "en": "Ban Outhoum-Kao",
+      "slug": "ban-outhoum-kao-1660574"
+    },
+    "code": {
+      "id": "1660574",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH-11",
+      "level": 2,
+      "name": {
+        "local": "Sukhuma",
+        "en": "Sukhuma",
+        "slug": "sukhuma-ch-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH",
+        "level": 1,
+        "name": {
+          "local": "Champasak",
+          "en": "Champasak",
+          "slug": "champasak-ch"
+        }
+      },
+      {
+        "id": "CH-11",
+        "level": 2,
+        "name": {
+          "local": "Sukhuma",
+          "en": "Sukhuma",
+          "slug": "sukhuma-ch-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.517",
+      "lon": "105.822"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1660573",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Outhoum-Mai",
+      "en": "Ban Outhoum-Mai",
+      "slug": "ban-outhoum-mai-1660573"
+    },
+    "code": {
+      "id": "1660573",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH-11",
+      "level": 2,
+      "name": {
+        "local": "Sukhuma",
+        "en": "Sukhuma",
+        "slug": "sukhuma-ch-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH",
+        "level": 1,
+        "name": {
+          "local": "Champasak",
+          "en": "Champasak",
+          "slug": "champasak-ch"
+        }
+      },
+      {
+        "id": "CH-11",
+        "level": 2,
+        "name": {
+          "local": "Sukhuma",
+          "en": "Sukhuma",
+          "slug": "sukhuma-ch-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.541",
+      "lon": "105.832"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1660511",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Pak-Houayphai",
+      "en": "Ban Pak-Houayphai",
+      "slug": "ban-pak-houayphai-1660511"
+    },
+    "code": {
+      "id": "1660511",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH-11",
+      "level": 2,
+      "name": {
+        "local": "Sukhuma",
+        "en": "Sukhuma",
+        "slug": "sukhuma-ch-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH",
+        "level": 1,
+        "name": {
+          "local": "Champasak",
+          "en": "Champasak",
+          "slug": "champasak-ch"
+        }
+      },
+      {
+        "id": "CH-11",
+        "level": 2,
+        "name": {
+          "local": "Sukhuma",
+          "en": "Sukhuma",
+          "slug": "sukhuma-ch-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.601",
+      "lon": "105.787"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11201254",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Pako",
+      "en": "Ban Pako",
+      "slug": "ban-pako-11201254"
+    },
+    "code": {
+      "id": "11201254",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH-11",
+      "level": 2,
+      "name": {
+        "local": "Sukhuma",
+        "en": "Sukhuma",
+        "slug": "sukhuma-ch-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH",
+        "level": 1,
+        "name": {
+          "local": "Champasak",
+          "en": "Champasak",
+          "slug": "champasak-ch"
+        }
+      },
+      {
+        "id": "CH-11",
+        "level": 2,
+        "name": {
+          "local": "Sukhuma",
+          "en": "Sukhuma",
+          "slug": "sukhuma-ch-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.677",
+      "lon": "105.763"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1660477",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Pakouay",
+      "en": "Ban Pakouay",
+      "slug": "ban-pakouay-1660477"
+    },
+    "code": {
+      "id": "1660477",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH-11",
+      "level": 2,
+      "name": {
+        "local": "Sukhuma",
+        "en": "Sukhuma",
+        "slug": "sukhuma-ch-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH",
+        "level": 1,
+        "name": {
+          "local": "Champasak",
+          "en": "Champasak",
+          "slug": "champasak-ch"
+        }
+      },
+      {
+        "id": "CH-11",
+        "level": 2,
+        "name": {
+          "local": "Sukhuma",
+          "en": "Sukhuma",
+          "slug": "sukhuma-ch-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.562",
+      "lon": "105.84"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1660439",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Pakxangbolông",
+      "en": "Ban Pakxangbolong",
+      "slug": "ban-pakxangbolong-1660439"
+    },
+    "code": {
+      "id": "1660439",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH-11",
+      "level": 2,
+      "name": {
+        "local": "Sukhuma",
+        "en": "Sukhuma",
+        "slug": "sukhuma-ch-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH",
+        "level": 1,
+        "name": {
+          "local": "Champasak",
+          "en": "Champasak",
+          "slug": "champasak-ch"
+        }
+      },
+      {
+        "id": "CH-11",
+        "level": 2,
+        "name": {
+          "local": "Sukhuma",
+          "en": "Sukhuma",
+          "slug": "sukhuma-ch-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.705",
+      "lon": "105.691"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11202144",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phaktôp",
+      "en": "Ban Phaktop",
+      "slug": "ban-phaktop-11202144"
+    },
+    "code": {
+      "id": "11202144",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH-11",
+      "level": 2,
+      "name": {
+        "local": "Sukhuma",
+        "en": "Sukhuma",
+        "slug": "sukhuma-ch-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH",
+        "level": 1,
+        "name": {
+          "local": "Champasak",
+          "en": "Champasak",
+          "slug": "champasak-ch"
+        }
+      },
+      {
+        "id": "CH-11",
+        "level": 2,
+        "name": {
+          "local": "Sukhuma",
+          "en": "Sukhuma",
+          "slug": "sukhuma-ch-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.603",
+      "lon": "105.705"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1659991",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phôn",
+      "en": "Ban Phon",
+      "slug": "ban-phon-1659991"
+    },
+    "code": {
+      "id": "1659991",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH-11",
+      "level": 2,
+      "name": {
+        "local": "Sukhuma",
+        "en": "Sukhuma",
+        "slug": "sukhuma-ch-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH",
+        "level": 1,
+        "name": {
+          "local": "Champasak",
+          "en": "Champasak",
+          "slug": "champasak-ch"
+        }
+      },
+      {
+        "id": "CH-11",
+        "level": 2,
+        "name": {
+          "local": "Sukhuma",
+          "en": "Sukhuma",
+          "slug": "sukhuma-ch-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.622",
+      "lon": "105.78"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1660616",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phônpheung",
+      "en": "Ban Phonpheung",
+      "slug": "ban-phonpheung-1660616"
+    },
+    "code": {
+      "id": "1660616",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH-11",
+      "level": 2,
+      "name": {
+        "local": "Sukhuma",
+        "en": "Sukhuma",
+        "slug": "sukhuma-ch-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH",
+        "level": 1,
+        "name": {
+          "local": "Champasak",
+          "en": "Champasak",
+          "slug": "champasak-ch"
+        }
+      },
+      {
+        "id": "CH-11",
+        "level": 2,
+        "name": {
+          "local": "Sukhuma",
+          "en": "Sukhuma",
+          "slug": "sukhuma-ch-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.647",
+      "lon": "105.779"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1659481",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Samkhanaboua",
+      "en": "Ban Samkhanaboua",
+      "slug": "ban-samkhanaboua-1659481"
+    },
+    "code": {
+      "id": "1659481",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH-11",
+      "level": 2,
+      "name": {
+        "local": "Sukhuma",
+        "en": "Sukhuma",
+        "slug": "sukhuma-ch-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH",
+        "level": 1,
+        "name": {
+          "local": "Champasak",
+          "en": "Champasak",
+          "slug": "champasak-ch"
+        }
+      },
+      {
+        "id": "CH-11",
+        "level": 2,
+        "name": {
+          "local": "Sukhuma",
+          "en": "Sukhuma",
+          "slug": "sukhuma-ch-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.684",
+      "lon": "105.793"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1659284",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Sènmuang",
+      "en": "Ban Senmuang",
+      "slug": "ban-senmuang-1659284"
+    },
+    "code": {
+      "id": "1659284",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH-11",
+      "level": 2,
+      "name": {
+        "local": "Sukhuma",
+        "en": "Sukhuma",
+        "slug": "sukhuma-ch-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH",
+        "level": 1,
+        "name": {
+          "local": "Champasak",
+          "en": "Champasak",
+          "slug": "champasak-ch"
+        }
+      },
+      {
+        "id": "CH-11",
+        "level": 2,
+        "name": {
+          "local": "Sukhuma",
+          "en": "Sukhuma",
+          "slug": "sukhuma-ch-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.783",
+      "lon": "105.717"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1659283",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Sènmuang Mai",
+      "en": "Ban Senmuang Mai",
+      "slug": "ban-senmuang-mai-1659283"
+    },
+    "code": {
+      "id": "1659283",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH-11",
+      "level": 2,
+      "name": {
+        "local": "Sukhuma",
+        "en": "Sukhuma",
+        "slug": "sukhuma-ch-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH",
+        "level": 1,
+        "name": {
+          "local": "Champasak",
+          "en": "Champasak",
+          "slug": "champasak-ch"
+        }
+      },
+      {
+        "id": "CH-11",
+        "level": 2,
+        "name": {
+          "local": "Sukhuma",
+          "en": "Sukhuma",
+          "slug": "sukhuma-ch-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.791",
+      "lon": "105.72"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1655104",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Soukhouma",
+      "en": "Ban Soukhouma",
+      "slug": "ban-soukhouma-1655104"
+    },
+    "code": {
+      "id": "1655104",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH-11",
+      "level": 2,
+      "name": {
+        "local": "Sukhuma",
+        "en": "Sukhuma",
+        "slug": "sukhuma-ch-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH",
+        "level": 1,
+        "name": {
+          "local": "Champasak",
+          "en": "Champasak",
+          "slug": "champasak-ch"
+        }
+      },
+      {
+        "id": "CH-11",
+        "level": 2,
+        "name": {
+          "local": "Sukhuma",
+          "en": "Sukhuma",
+          "slug": "sukhuma-ch-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.638",
+      "lon": "105.789"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1658990",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Takdèt Gnai",
+      "en": "Ban Takdet Gnai",
+      "slug": "ban-takdet-gnai-1658990"
+    },
+    "code": {
+      "id": "1658990",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH-11",
+      "level": 2,
+      "name": {
+        "local": "Sukhuma",
+        "en": "Sukhuma",
+        "slug": "sukhuma-ch-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH",
+        "level": 1,
+        "name": {
+          "local": "Champasak",
+          "en": "Champasak",
+          "slug": "champasak-ch"
+        }
+      },
+      {
+        "id": "CH-11",
+        "level": 2,
+        "name": {
+          "local": "Sukhuma",
+          "en": "Sukhuma",
+          "slug": "sukhuma-ch-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.65",
+      "lon": "105.767"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1658946",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Talou",
+      "en": "Ban Talou",
+      "slug": "ban-talou-1658946"
+    },
+    "code": {
+      "id": "1658946",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH-11",
+      "level": 2,
+      "name": {
+        "local": "Sukhuma",
+        "en": "Sukhuma",
+        "slug": "sukhuma-ch-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH",
+        "level": 1,
+        "name": {
+          "local": "Champasak",
+          "en": "Champasak",
+          "slug": "champasak-ch"
+        }
+      },
+      {
+        "id": "CH-11",
+        "level": 2,
+        "name": {
+          "local": "Sukhuma",
+          "en": "Sukhuma",
+          "slug": "sukhuma-ch-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.65",
+      "lon": "105.783"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11202201",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Thadan",
+      "en": "Ban Thadan",
+      "slug": "ban-thadan-11202201"
+    },
+    "code": {
+      "id": "11202201",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH-11",
+      "level": 2,
+      "name": {
+        "local": "Sukhuma",
+        "en": "Sukhuma",
+        "slug": "sukhuma-ch-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH",
+        "level": 1,
+        "name": {
+          "local": "Champasak",
+          "en": "Champasak",
+          "slug": "champasak-ch"
+        }
+      },
+      {
+        "id": "CH-11",
+        "level": 2,
+        "name": {
+          "local": "Sukhuma",
+          "en": "Sukhuma",
+          "slug": "sukhuma-ch-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.597",
+      "lon": "105.795"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1658669",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Thamouang",
+      "en": "Ban Thamouang",
+      "slug": "ban-thamouang-1658669"
+    },
+    "code": {
+      "id": "1658669",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH-11",
+      "level": 2,
+      "name": {
+        "local": "Sukhuma",
+        "en": "Sukhuma",
+        "slug": "sukhuma-ch-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH",
+        "level": 1,
+        "name": {
+          "local": "Champasak",
+          "en": "Champasak",
+          "slug": "champasak-ch"
+        }
+      },
+      {
+        "id": "CH-11",
+        "level": 2,
+        "name": {
+          "local": "Sukhuma",
+          "en": "Sukhuma",
+          "slug": "sukhuma-ch-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.549",
+      "lon": "105.834"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1658603",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Thapcham",
+      "en": "Ban Thapcham",
+      "slug": "ban-thapcham-1658603"
+    },
+    "code": {
+      "id": "1658603",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH-11",
+      "level": 2,
+      "name": {
+        "local": "Sukhuma",
+        "en": "Sukhuma",
+        "slug": "sukhuma-ch-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH",
+        "level": 1,
+        "name": {
+          "local": "Champasak",
+          "en": "Champasak",
+          "slug": "champasak-ch"
+        }
+      },
+      {
+        "id": "CH-11",
+        "level": 2,
+        "name": {
+          "local": "Sukhuma",
+          "en": "Sukhuma",
+          "slug": "sukhuma-ch-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.628",
+      "lon": "105.802"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11202202",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Thaphôsi",
+      "en": "Ban Thaphosi",
+      "slug": "ban-thaphosi-11202202"
+    },
+    "code": {
+      "id": "11202202",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH-11",
+      "level": 2,
+      "name": {
+        "local": "Sukhuma",
+        "en": "Sukhuma",
+        "slug": "sukhuma-ch-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH",
+        "level": 1,
+        "name": {
+          "local": "Champasak",
+          "en": "Champasak",
+          "slug": "champasak-ch"
+        }
+      },
+      {
+        "id": "CH-11",
+        "level": 2,
+        "name": {
+          "local": "Sukhuma",
+          "en": "Sukhuma",
+          "slug": "sukhuma-ch-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.58",
+      "lon": "105.84"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1658808",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Thasèng",
+      "en": "Ban Thaseng",
+      "slug": "ban-thaseng-1658808"
+    },
+    "code": {
+      "id": "1658808",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH-11",
+      "level": 2,
+      "name": {
+        "local": "Sukhuma",
+        "en": "Sukhuma",
+        "slug": "sukhuma-ch-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH",
+        "level": 1,
+        "name": {
+          "local": "Champasak",
+          "en": "Champasak",
+          "slug": "champasak-ch"
+        }
+      },
+      {
+        "id": "CH-11",
+        "level": 2,
+        "name": {
+          "local": "Sukhuma",
+          "en": "Sukhuma",
+          "slug": "sukhuma-ch-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.592",
+      "lon": "105.843"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1658580",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban That",
+      "en": "Ban That",
+      "slug": "ban-that-1658580"
+    },
+    "code": {
+      "id": "1658580",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH-11",
+      "level": 2,
+      "name": {
+        "local": "Sukhuma",
+        "en": "Sukhuma",
+        "slug": "sukhuma-ch-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH",
+        "level": 1,
+        "name": {
+          "local": "Champasak",
+          "en": "Champasak",
+          "slug": "champasak-ch"
+        }
+      },
+      {
+        "id": "CH-11",
+        "level": 2,
+        "name": {
+          "local": "Sukhuma",
+          "en": "Sukhuma",
+          "slug": "sukhuma-ch-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.708",
+      "lon": "105.744"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1658581",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban That",
+      "en": "Ban That",
+      "slug": "ban-that-1658581"
+    },
+    "code": {
+      "id": "1658581",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH-11",
+      "level": 2,
+      "name": {
+        "local": "Sukhuma",
+        "en": "Sukhuma",
+        "slug": "sukhuma-ch-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH",
+        "level": 1,
+        "name": {
+          "local": "Champasak",
+          "en": "Champasak",
+          "slug": "champasak-ch"
+        }
+      },
+      {
+        "id": "CH-11",
+        "level": 2,
+        "name": {
+          "local": "Sukhuma",
+          "en": "Sukhuma",
+          "slug": "sukhuma-ch-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.508",
+      "lon": "105.829"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1658345",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Toum-Gnai",
+      "en": "Ban Toum-Gnai",
+      "slug": "ban-toum-gnai-1658345"
+    },
+    "code": {
+      "id": "1658345",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH-11",
+      "level": 2,
+      "name": {
+        "local": "Sukhuma",
+        "en": "Sukhuma",
+        "slug": "sukhuma-ch-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH",
+        "level": 1,
+        "name": {
+          "local": "Champasak",
+          "en": "Champasak",
+          "slug": "champasak-ch"
+        }
+      },
+      {
+        "id": "CH-11",
+        "level": 2,
+        "name": {
+          "local": "Sukhuma",
+          "en": "Sukhuma",
+          "slug": "sukhuma-ch-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.508",
+      "lon": "105.857"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1658348",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Toum-Noy",
+      "en": "Ban Toum-Noy",
+      "slug": "ban-toum-noy-1658348"
+    },
+    "code": {
+      "id": "1658348",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH-11",
+      "level": 2,
+      "name": {
+        "local": "Sukhuma",
+        "en": "Sukhuma",
+        "slug": "sukhuma-ch-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH",
+        "level": 1,
+        "name": {
+          "local": "Champasak",
+          "en": "Champasak",
+          "slug": "champasak-ch"
+        }
+      },
+      {
+        "id": "CH-11",
+        "level": 2,
+        "name": {
+          "local": "Sukhuma",
+          "en": "Sukhuma",
+          "slug": "sukhuma-ch-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.502",
+      "lon": "105.853"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1658081",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Xè",
+      "en": "Ban Xe",
+      "slug": "ban-xe-1658081"
+    },
+    "code": {
+      "id": "1658081",
+      "iso": null
+    },
+    "parent": {
+      "id": "CH-11",
+      "level": 2,
+      "name": {
+        "local": "Sukhuma",
+        "en": "Sukhuma",
+        "slug": "sukhuma-ch-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CH",
+        "level": 1,
+        "name": {
+          "local": "Champasak",
+          "en": "Champasak",
+          "slug": "champasak-ch"
+        }
+      },
+      {
+        "id": "CH-11",
+        "level": 2,
+        "name": {
+          "local": "Sukhuma",
+          "en": "Sukhuma",
+          "slug": "sukhuma-ch-11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.615",
+      "lon": "105.652"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,30 @@
+{
+  "id": "VT",
+  "level": 1,
+  "level_name": {
+    "local": "ແຂວງ",
+    "en": "Province"
+  },
+  "name": {
+    "local": "Vientiane Capital",
+    "en": "Vientiane Capital",
+    "slug": "vientiane-capital-vt"
+  },
+  "code": {
+    "id": "VT",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 9,
+    "village": 334
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "18.178",
+    "lon": "102.539"
+  },
+  "metadata": {},
+  "source": {}
+}

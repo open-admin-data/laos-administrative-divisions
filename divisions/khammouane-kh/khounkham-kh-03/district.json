@@ -1,0 +1,47 @@
+{
+  "id": "KH-03",
+  "level": 2,
+  "level_name": {
+    "local": "ເມືອງ",
+    "en": "District"
+  },
+  "name": {
+    "local": "Khounkham",
+    "en": "Khounkham",
+    "slug": "khounkham-kh-03"
+  },
+  "code": {
+    "id": "KH-03",
+    "iso": null
+  },
+  "parent": {
+    "id": "KH",
+    "level": 1,
+    "name": {
+      "local": "Khammouane",
+      "en": "Khammouane",
+      "slug": "khammouane-kh"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KH",
+      "level": 1,
+      "name": {
+        "local": "Khammouane",
+        "en": "Khammouane",
+        "slug": "khammouane-kh"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 47
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "18.108",
+    "lon": "104.542"
+  },
+  "metadata": {},
+  "source": {}
+}

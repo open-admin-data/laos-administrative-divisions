@@ -1,0 +1,2648 @@
+[
+  {
+    "id": "1957250",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Eng",
+      "en": "Ban Eng",
+      "slug": "ban-eng-1957250"
+    },
+    "code": {
+      "id": "1957250",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-05",
+      "level": 2,
+      "name": {
+        "local": "Viengphoukha",
+        "en": "Viengphoukha",
+        "slug": "viengphoukha-lm-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-05",
+        "level": 2,
+        "name": {
+          "local": "Viengphoukha",
+          "en": "Viengphoukha",
+          "slug": "viengphoukha-lm-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.722",
+      "lon": "101.136"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1956270",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houaydam",
+      "en": "Ban Houaydam",
+      "slug": "ban-houaydam-1956270"
+    },
+    "code": {
+      "id": "1956270",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-05",
+      "level": 2,
+      "name": {
+        "local": "Viengphoukha",
+        "en": "Viengphoukha",
+        "slug": "viengphoukha-lm-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-05",
+        "level": 2,
+        "name": {
+          "local": "Viengphoukha",
+          "en": "Viengphoukha",
+          "slug": "viengphoukha-lm-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.616",
+      "lon": "101.058"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1907046",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houaynamnga",
+      "en": "Ban Houaynamnga",
+      "slug": "ban-houaynamnga-1907046"
+    },
+    "code": {
+      "id": "1907046",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-05",
+      "level": 2,
+      "name": {
+        "local": "Viengphoukha",
+        "en": "Viengphoukha",
+        "slug": "viengphoukha-lm-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-05",
+        "level": 2,
+        "name": {
+          "local": "Viengphoukha",
+          "en": "Viengphoukha",
+          "slug": "viengphoukha-lm-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.606",
+      "lon": "100.89"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1956267",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Kampon",
+      "en": "Ban Kampon",
+      "slug": "ban-kampon-1956267"
+    },
+    "code": {
+      "id": "1956267",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-05",
+      "level": 2,
+      "name": {
+        "local": "Viengphoukha",
+        "en": "Viengphoukha",
+        "slug": "viengphoukha-lm-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-05",
+        "level": 2,
+        "name": {
+          "local": "Viengphoukha",
+          "en": "Viengphoukha",
+          "slug": "viengphoukha-lm-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.616",
+      "lon": "101.209"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1663358",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Kapou",
+      "en": "Ban Kapou",
+      "slug": "ban-kapou-1663358"
+    },
+    "code": {
+      "id": "1663358",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-05",
+      "level": 2,
+      "name": {
+        "local": "Viengphoukha",
+        "en": "Viengphoukha",
+        "slug": "viengphoukha-lm-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-05",
+        "level": 2,
+        "name": {
+          "local": "Viengphoukha",
+          "en": "Viengphoukha",
+          "slug": "viengphoukha-lm-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.62",
+      "lon": "101.213"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1956319",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Khanungphèt",
+      "en": "Ban Khanungphet",
+      "slug": "ban-khanungphet-1956319"
+    },
+    "code": {
+      "id": "1956319",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-05",
+      "level": 2,
+      "name": {
+        "local": "Viengphoukha",
+        "en": "Viengphoukha",
+        "slug": "viengphoukha-lm-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-05",
+        "level": 2,
+        "name": {
+          "local": "Viengphoukha",
+          "en": "Viengphoukha",
+          "slug": "viengphoukha-lm-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.51",
+      "lon": "101.15"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1956318",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Khonthou",
+      "en": "Ban Khonthou",
+      "slug": "ban-khonthou-1956318"
+    },
+    "code": {
+      "id": "1956318",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-05",
+      "level": 2,
+      "name": {
+        "local": "Viengphoukha",
+        "en": "Viengphoukha",
+        "slug": "viengphoukha-lm-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-05",
+        "level": 2,
+        "name": {
+          "local": "Viengphoukha",
+          "en": "Viengphoukha",
+          "slug": "viengphoukha-lm-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.518",
+      "lon": "101.185"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1907050",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Kouy",
+      "en": "Ban Kouy",
+      "slug": "ban-kouy-1907050"
+    },
+    "code": {
+      "id": "1907050",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-05",
+      "level": 2,
+      "name": {
+        "local": "Viengphoukha",
+        "en": "Viengphoukha",
+        "slug": "viengphoukha-lm-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-05",
+        "level": 2,
+        "name": {
+          "local": "Viengphoukha",
+          "en": "Viengphoukha",
+          "slug": "viengphoukha-lm-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.688",
+      "lon": "100.984"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1907045",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Kouychakhu",
+      "en": "Ban Kouychakhu",
+      "slug": "ban-kouychakhu-1907045"
+    },
+    "code": {
+      "id": "1907045",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-05",
+      "level": 2,
+      "name": {
+        "local": "Viengphoukha",
+        "en": "Viengphoukha",
+        "slug": "viengphoukha-lm-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-05",
+        "level": 2,
+        "name": {
+          "local": "Viengphoukha",
+          "en": "Viengphoukha",
+          "slug": "viengphoukha-lm-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.636",
+      "lon": "100.845"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1956286",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Lailot",
+      "en": "Ban Lailot",
+      "slug": "ban-lailot-1956286"
+    },
+    "code": {
+      "id": "1956286",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-05",
+      "level": 2,
+      "name": {
+        "local": "Viengphoukha",
+        "en": "Viengphoukha",
+        "slug": "viengphoukha-lm-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-05",
+        "level": 2,
+        "name": {
+          "local": "Viengphoukha",
+          "en": "Viengphoukha",
+          "slug": "viengphoukha-lm-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.581",
+      "lon": "101.059"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1662651",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Lamon",
+      "en": "Ban Lamon",
+      "slug": "ban-lamon-1662651"
+    },
+    "code": {
+      "id": "1662651",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-05",
+      "level": 2,
+      "name": {
+        "local": "Viengphoukha",
+        "en": "Viengphoukha",
+        "slug": "viengphoukha-lm-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-05",
+        "level": 2,
+        "name": {
+          "local": "Viengphoukha",
+          "en": "Viengphoukha",
+          "slug": "viengphoukha-lm-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.534",
+      "lon": "101.19"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1956263",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Lavè",
+      "en": "Ban Lave",
+      "slug": "ban-lave-1956263"
+    },
+    "code": {
+      "id": "1956263",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-05",
+      "level": 2,
+      "name": {
+        "local": "Viengphoukha",
+        "en": "Viengphoukha",
+        "slug": "viengphoukha-lm-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-05",
+        "level": 2,
+        "name": {
+          "local": "Viengphoukha",
+          "en": "Viengphoukha",
+          "slug": "viengphoukha-lm-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.647",
+      "lon": "101.035"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1662297",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Méo Noua Nam Lavé",
+      "en": "Ban Meo Noua Nam Lave",
+      "slug": "ban-meo-noua-nam-lave-1662297"
+    },
+    "code": {
+      "id": "1662297",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-05",
+      "level": 2,
+      "name": {
+        "local": "Viengphoukha",
+        "en": "Viengphoukha",
+        "slug": "viengphoukha-lm-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-05",
+        "level": 2,
+        "name": {
+          "local": "Viengphoukha",
+          "en": "Viengphoukha",
+          "slug": "viengphoukha-lm-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.6",
+      "lon": "100.9"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1662303",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Mèohounamngao",
+      "en": "Ban Meohounamngao",
+      "slug": "ban-meohounamngao-1662303"
+    },
+    "code": {
+      "id": "1662303",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-05",
+      "level": 2,
+      "name": {
+        "local": "Viengphoukha",
+        "en": "Viengphoukha",
+        "slug": "viengphoukha-lm-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-05",
+        "level": 2,
+        "name": {
+          "local": "Viengphoukha",
+          "en": "Viengphoukha",
+          "slug": "viengphoukha-lm-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.404",
+      "lon": "101.023"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1956322",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Mouaksamo",
+      "en": "Ban Mouaksamo",
+      "slug": "ban-mouaksamo-1956322"
+    },
+    "code": {
+      "id": "1956322",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-05",
+      "level": 2,
+      "name": {
+        "local": "Viengphoukha",
+        "en": "Viengphoukha",
+        "slug": "viengphoukha-lm-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-05",
+        "level": 2,
+        "name": {
+          "local": "Viengphoukha",
+          "en": "Viengphoukha",
+          "slug": "viengphoukha-lm-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.522",
+      "lon": "101.034"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1957249",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nam-Ô",
+      "en": "Ban Nam-O",
+      "slug": "ban-nam-o-1957249"
+    },
+    "code": {
+      "id": "1957249",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-05",
+      "level": 2,
+      "name": {
+        "local": "Viengphoukha",
+        "en": "Viengphoukha",
+        "slug": "viengphoukha-lm-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-05",
+        "level": 2,
+        "name": {
+          "local": "Viengphoukha",
+          "en": "Viengphoukha",
+          "slug": "viengphoukha-lm-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.713",
+      "lon": "101.115"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1956269",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Namkiang",
+      "en": "Ban Namkiang",
+      "slug": "ban-namkiang-1956269"
+    },
+    "code": {
+      "id": "1956269",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-05",
+      "level": 2,
+      "name": {
+        "local": "Viengphoukha",
+        "en": "Viengphoukha",
+        "slug": "viengphoukha-lm-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-05",
+        "level": 2,
+        "name": {
+          "local": "Viengphoukha",
+          "en": "Viengphoukha",
+          "slug": "viengphoukha-lm-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.618",
+      "lon": "101.099"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1907051",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Namkouylavè",
+      "en": "Ban Namkouylave",
+      "slug": "ban-namkouylave-1907051"
+    },
+    "code": {
+      "id": "1907051",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-05",
+      "level": 2,
+      "name": {
+        "local": "Viengphoukha",
+        "en": "Viengphoukha",
+        "slug": "viengphoukha-lm-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-05",
+        "level": 2,
+        "name": {
+          "local": "Viengphoukha",
+          "en": "Viengphoukha",
+          "slug": "viengphoukha-lm-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.699",
+      "lon": "100.954"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1655157",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Namngeun",
+      "en": "Ban Namngeun",
+      "slug": "ban-namngeun-1655157"
+    },
+    "code": {
+      "id": "1655157",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-05",
+      "level": 2,
+      "name": {
+        "local": "Viengphoukha",
+        "en": "Viengphoukha",
+        "slug": "viengphoukha-lm-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-05",
+        "level": 2,
+        "name": {
+          "local": "Viengphoukha",
+          "en": "Viengphoukha",
+          "slug": "viengphoukha-lm-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.593",
+      "lon": "101.059"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1956268",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Namsaton",
+      "en": "Ban Namsaton",
+      "slug": "ban-namsaton-1956268"
+    },
+    "code": {
+      "id": "1956268",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-05",
+      "level": 2,
+      "name": {
+        "local": "Viengphoukha",
+        "en": "Viengphoukha",
+        "slug": "viengphoukha-lm-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-05",
+        "level": 2,
+        "name": {
+          "local": "Viengphoukha",
+          "en": "Viengphoukha",
+          "slug": "viengphoukha-lm-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.624",
+      "lon": "101.123"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1957252",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Namsing",
+      "en": "Ban Namsing",
+      "slug": "ban-namsing-1957252"
+    },
+    "code": {
+      "id": "1957252",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-05",
+      "level": 2,
+      "name": {
+        "local": "Viengphoukha",
+        "en": "Viengphoukha",
+        "slug": "viengphoukha-lm-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-05",
+        "level": 2,
+        "name": {
+          "local": "Viengphoukha",
+          "en": "Viengphoukha",
+          "slug": "viengphoukha-lm-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.753",
+      "lon": "101.188"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1654846",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Namtiang",
+      "en": "Ban Namtiang",
+      "slug": "ban-namtiang-1654846"
+    },
+    "code": {
+      "id": "1654846",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-05",
+      "level": 2,
+      "name": {
+        "local": "Viengphoukha",
+        "en": "Viengphoukha",
+        "slug": "viengphoukha-lm-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-05",
+        "level": 2,
+        "name": {
+          "local": "Viengphoukha",
+          "en": "Viengphoukha",
+          "slug": "viengphoukha-lm-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.476",
+      "lon": "101.091"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1956337",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Namtiang",
+      "en": "Ban Namtiang",
+      "slug": "ban-namtiang-1956337"
+    },
+    "code": {
+      "id": "1956337",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-05",
+      "level": 2,
+      "name": {
+        "local": "Viengphoukha",
+        "en": "Viengphoukha",
+        "slug": "viengphoukha-lm-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-05",
+        "level": 2,
+        "name": {
+          "local": "Viengphoukha",
+          "en": "Viengphoukha",
+          "slug": "viengphoukha-lm-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.475",
+      "lon": "101.091"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1957253",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Namvang",
+      "en": "Ban Namvang",
+      "slug": "ban-namvang-1957253"
+    },
+    "code": {
+      "id": "1957253",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-05",
+      "level": 2,
+      "name": {
+        "local": "Viengphoukha",
+        "en": "Viengphoukha",
+        "slug": "viengphoukha-lm-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-05",
+        "level": 2,
+        "name": {
+          "local": "Viengphoukha",
+          "en": "Viengphoukha",
+          "slug": "viengphoukha-lm-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.726",
+      "lon": "101.21"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1956272",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Namxua",
+      "en": "Ban Namxua",
+      "slug": "ban-namxua-1956272"
+    },
+    "code": {
+      "id": "1956272",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-05",
+      "level": 2,
+      "name": {
+        "local": "Viengphoukha",
+        "en": "Viengphoukha",
+        "slug": "viengphoukha-lm-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-05",
+        "level": 2,
+        "name": {
+          "local": "Viengphoukha",
+          "en": "Viengphoukha",
+          "slug": "viengphoukha-lm-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.606",
+      "lon": "101.104"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1957248",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nongkham",
+      "en": "Ban Nongkham",
+      "slug": "ban-nongkham-1957248"
+    },
+    "code": {
+      "id": "1957248",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-05",
+      "level": 2,
+      "name": {
+        "local": "Viengphoukha",
+        "en": "Viengphoukha",
+        "slug": "viengphoukha-lm-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-05",
+        "level": 2,
+        "name": {
+          "local": "Viengphoukha",
+          "en": "Viengphoukha",
+          "slug": "viengphoukha-lm-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.693",
+      "lon": "101.084"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1957244",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Pang",
+      "en": "Ban Pang",
+      "slug": "ban-pang-1957244"
+    },
+    "code": {
+      "id": "1957244",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-05",
+      "level": 2,
+      "name": {
+        "local": "Viengphoukha",
+        "en": "Viengphoukha",
+        "slug": "viengphoukha-lm-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-05",
+        "level": 2,
+        "name": {
+          "local": "Viengphoukha",
+          "en": "Viengphoukha",
+          "slug": "viengphoukha-lm-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.782",
+      "lon": "101.235"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1907048",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phè",
+      "en": "Ban Phe",
+      "slug": "ban-phe-1907048"
+    },
+    "code": {
+      "id": "1907048",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-05",
+      "level": 2,
+      "name": {
+        "local": "Viengphoukha",
+        "en": "Viengphoukha",
+        "slug": "viengphoukha-lm-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-05",
+        "level": 2,
+        "name": {
+          "local": "Viengphoukha",
+          "en": "Viengphoukha",
+          "slug": "viengphoukha-lm-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.566",
+      "lon": "100.939"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1956300",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phoubèk",
+      "en": "Ban Phoubek",
+      "slug": "ban-phoubek-1956300"
+    },
+    "code": {
+      "id": "1956300",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-05",
+      "level": 2,
+      "name": {
+        "local": "Viengphoukha",
+        "en": "Viengphoukha",
+        "slug": "viengphoukha-lm-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-05",
+        "level": 2,
+        "name": {
+          "local": "Viengphoukha",
+          "en": "Viengphoukha",
+          "slug": "viengphoukha-lm-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.545",
+      "lon": "101.155"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1653708",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phoulan",
+      "en": "Ban Phoulan",
+      "slug": "ban-phoulan-1653708"
+    },
+    "code": {
+      "id": "1653708",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-05",
+      "level": 2,
+      "name": {
+        "local": "Viengphoukha",
+        "en": "Viengphoukha",
+        "slug": "viengphoukha-lm-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-05",
+        "level": 2,
+        "name": {
+          "local": "Viengphoukha",
+          "en": "Viengphoukha",
+          "slug": "viengphoukha-lm-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.574",
+      "lon": "100.968"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1957251",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phoulan",
+      "en": "Ban Phoulan",
+      "slug": "ban-phoulan-1957251"
+    },
+    "code": {
+      "id": "1957251",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-05",
+      "level": 2,
+      "name": {
+        "local": "Viengphoukha",
+        "en": "Viengphoukha",
+        "slug": "viengphoukha-lm-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-05",
+        "level": 2,
+        "name": {
+          "local": "Viengphoukha",
+          "en": "Viengphoukha",
+          "slug": "viengphoukha-lm-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.735",
+      "lon": "101.167"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1956273",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phoulèk",
+      "en": "Ban Phoulek",
+      "slug": "ban-phoulek-1956273"
+    },
+    "code": {
+      "id": "1956273",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-05",
+      "level": 2,
+      "name": {
+        "local": "Viengphoukha",
+        "en": "Viengphoukha",
+        "slug": "viengphoukha-lm-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-05",
+        "level": 2,
+        "name": {
+          "local": "Viengphoukha",
+          "en": "Viengphoukha",
+          "slug": "viengphoukha-lm-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.605",
+      "lon": "101.119"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1956288",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phouthan",
+      "en": "Ban Phouthan",
+      "slug": "ban-phouthan-1956288"
+    },
+    "code": {
+      "id": "1956288",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-05",
+      "level": 2,
+      "name": {
+        "local": "Viengphoukha",
+        "en": "Viengphoukha",
+        "slug": "viengphoukha-lm-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-05",
+        "level": 2,
+        "name": {
+          "local": "Viengphoukha",
+          "en": "Viengphoukha",
+          "slug": "viengphoukha-lm-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.567",
+      "lon": "101.201"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1957245",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Ponping",
+      "en": "Ban Ponping",
+      "slug": "ban-ponping-1957245"
+    },
+    "code": {
+      "id": "1957245",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-05",
+      "level": 2,
+      "name": {
+        "local": "Viengphoukha",
+        "en": "Viengphoukha",
+        "slug": "viengphoukha-lm-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-05",
+        "level": 2,
+        "name": {
+          "local": "Viengphoukha",
+          "en": "Viengphoukha",
+          "slug": "viengphoukha-lm-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.801",
+      "lon": "101.082"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1956285",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Sakon",
+      "en": "Ban Sakon",
+      "slug": "ban-sakon-1956285"
+    },
+    "code": {
+      "id": "1956285",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-05",
+      "level": 2,
+      "name": {
+        "local": "Viengphoukha",
+        "en": "Viengphoukha",
+        "slug": "viengphoukha-lm-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-05",
+        "level": 2,
+        "name": {
+          "local": "Viengphoukha",
+          "en": "Viengphoukha",
+          "slug": "viengphoukha-lm-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.588",
+      "lon": "101.063"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1957247",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Samnakmuang",
+      "en": "Ban Samnakmuang",
+      "slug": "ban-samnakmuang-1957247"
+    },
+    "code": {
+      "id": "1957247",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-05",
+      "level": 2,
+      "name": {
+        "local": "Viengphoukha",
+        "en": "Viengphoukha",
+        "slug": "viengphoukha-lm-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-05",
+        "level": 2,
+        "name": {
+          "local": "Viengphoukha",
+          "en": "Viengphoukha",
+          "slug": "viengphoukha-lm-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.678",
+      "lon": "101.061"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1658988",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Takèo",
+      "en": "Ban Takeo",
+      "slug": "ban-takeo-1658988"
+    },
+    "code": {
+      "id": "1658988",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-05",
+      "level": 2,
+      "name": {
+        "local": "Viengphoukha",
+        "en": "Viengphoukha",
+        "slug": "viengphoukha-lm-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-05",
+        "level": 2,
+        "name": {
+          "local": "Viengphoukha",
+          "en": "Viengphoukha",
+          "slug": "viengphoukha-lm-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.623",
+      "lon": "101.078"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11244897",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Talo",
+      "en": "Ban Talo",
+      "slug": "ban-talo-11244897"
+    },
+    "code": {
+      "id": "11244897",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-05",
+      "level": 2,
+      "name": {
+        "local": "Viengphoukha",
+        "en": "Viengphoukha",
+        "slug": "viengphoukha-lm-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-05",
+        "level": 2,
+        "name": {
+          "local": "Viengphoukha",
+          "en": "Viengphoukha",
+          "slug": "viengphoukha-lm-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.593",
+      "lon": "101.207"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1907049",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Talup",
+      "en": "Ban Talup",
+      "slug": "ban-talup-1907049"
+    },
+    "code": {
+      "id": "1907049",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-05",
+      "level": 2,
+      "name": {
+        "local": "Viengphoukha",
+        "en": "Viengphoukha",
+        "slug": "viengphoukha-lm-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-05",
+        "level": 2,
+        "name": {
+          "local": "Viengphoukha",
+          "en": "Viengphoukha",
+          "slug": "viengphoukha-lm-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.513",
+      "lon": "100.849"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1956274",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Tangkiou",
+      "en": "Ban Tangkiou",
+      "slug": "ban-tangkiou-1956274"
+    },
+    "code": {
+      "id": "1956274",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-05",
+      "level": 2,
+      "name": {
+        "local": "Viengphoukha",
+        "en": "Viengphoukha",
+        "slug": "viengphoukha-lm-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-05",
+        "level": 2,
+        "name": {
+          "local": "Viengphoukha",
+          "en": "Viengphoukha",
+          "slug": "viengphoukha-lm-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.611",
+      "lon": "101.149"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1956304",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Tanleu",
+      "en": "Ban Tanleu",
+      "slug": "ban-tanleu-1956304"
+    },
+    "code": {
+      "id": "1956304",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-05",
+      "level": 2,
+      "name": {
+        "local": "Viengphoukha",
+        "en": "Viengphoukha",
+        "slug": "viengphoukha-lm-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-05",
+        "level": 2,
+        "name": {
+          "local": "Viengphoukha",
+          "en": "Viengphoukha",
+          "slug": "viengphoukha-lm-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.536",
+      "lon": "101.219"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1957246",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Thiao",
+      "en": "Ban Thiao",
+      "slug": "ban-thiao-1957246"
+    },
+    "code": {
+      "id": "1957246",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-05",
+      "level": 2,
+      "name": {
+        "local": "Viengphoukha",
+        "en": "Viengphoukha",
+        "slug": "viengphoukha-lm-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-05",
+        "level": 2,
+        "name": {
+          "local": "Viengphoukha",
+          "en": "Viengphoukha",
+          "slug": "viengphoukha-lm-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.689",
+      "lon": "101.06"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1956321",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Tinton",
+      "en": "Ban Tinton",
+      "slug": "ban-tinton-1956321"
+    },
+    "code": {
+      "id": "1956321",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-05",
+      "level": 2,
+      "name": {
+        "local": "Viengphoukha",
+        "en": "Viengphoukha",
+        "slug": "viengphoukha-lm-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-05",
+        "level": 2,
+        "name": {
+          "local": "Viengphoukha",
+          "en": "Viengphoukha",
+          "slug": "viengphoukha-lm-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.511",
+      "lon": "101.054"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1956338",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Tôngmay",
+      "en": "Ban Tongmay",
+      "slug": "ban-tongmay-1956338"
+    },
+    "code": {
+      "id": "1956338",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-05",
+      "level": 2,
+      "name": {
+        "local": "Viengphoukha",
+        "en": "Viengphoukha",
+        "slug": "viengphoukha-lm-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-05",
+        "level": 2,
+        "name": {
+          "local": "Viengphoukha",
+          "en": "Viengphoukha",
+          "slug": "viengphoukha-lm-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.458",
+      "lon": "101.08"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1658154",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Vieng",
+      "en": "Ban Vieng",
+      "slug": "ban-vieng-1658154"
+    },
+    "code": {
+      "id": "1658154",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-05",
+      "level": 2,
+      "name": {
+        "local": "Viengphoukha",
+        "en": "Viengphoukha",
+        "slug": "viengphoukha-lm-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-05",
+        "level": 2,
+        "name": {
+          "local": "Viengphoukha",
+          "en": "Viengphoukha",
+          "slug": "viengphoukha-lm-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.683",
+      "lon": "101.083"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1657660",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Con Tagne",
+      "en": "Con Tagne",
+      "slug": "con-tagne-1657660"
+    },
+    "code": {
+      "id": "1657660",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-05",
+      "level": 2,
+      "name": {
+        "local": "Viengphoukha",
+        "en": "Viengphoukha",
+        "slug": "viengphoukha-lm-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-05",
+        "level": 2,
+        "name": {
+          "local": "Viengphoukha",
+          "en": "Viengphoukha",
+          "slug": "viengphoukha-lm-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.75",
+      "lon": "101.217"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1655322",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Moc Tione",
+      "en": "Moc Tione",
+      "slug": "moc-tione-1655322"
+    },
+    "code": {
+      "id": "1655322",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-05",
+      "level": 2,
+      "name": {
+        "local": "Viengphoukha",
+        "en": "Viengphoukha",
+        "slug": "viengphoukha-lm-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-05",
+        "level": 2,
+        "name": {
+          "local": "Viengphoukha",
+          "en": "Viengphoukha",
+          "slug": "viengphoukha-lm-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.633",
+      "lon": "101.267"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1956253",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Pako",
+      "en": "Pako",
+      "slug": "pako-1956253"
+    },
+    "code": {
+      "id": "1956253",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-05",
+      "level": 2,
+      "name": {
+        "local": "Viengphoukha",
+        "en": "Viengphoukha",
+        "slug": "viengphoukha-lm-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-05",
+        "level": 2,
+        "name": {
+          "local": "Viengphoukha",
+          "en": "Viengphoukha",
+          "slug": "viengphoukha-lm-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.654",
+      "lon": "101.096"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1652243",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Viangphoukha",
+      "en": "Viangphoukha",
+      "slug": "viangphoukha-1652243"
+    },
+    "code": {
+      "id": "1652243",
+      "iso": null
+    },
+    "parent": {
+      "id": "LM-05",
+      "level": 2,
+      "name": {
+        "local": "Viengphoukha",
+        "en": "Viengphoukha",
+        "slug": "viengphoukha-lm-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LM",
+        "level": 1,
+        "name": {
+          "local": "Luang Namtha",
+          "en": "Luang Namtha",
+          "slug": "luang-namtha-lm"
+        }
+      },
+      {
+        "id": "LM-05",
+        "level": 2,
+        "name": {
+          "local": "Viengphoukha",
+          "en": "Viengphoukha",
+          "slug": "viengphoukha-lm-05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.683",
+      "lon": "101.067"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

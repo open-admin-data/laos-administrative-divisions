@@ -1,0 +1,3188 @@
+[
+  {
+    "id": "1664733",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Chathao",
+      "en": "Ban Chathao",
+      "slug": "ban-chathao-1664733"
+    },
+    "code": {
+      "id": "1664733",
+      "iso": null
+    },
+    "parent": {
+      "id": "XN-03",
+      "level": 2,
+      "name": {
+        "local": "Longcheng",
+        "en": "Longcheng",
+        "slug": "longcheng-xn-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XN",
+        "level": 1,
+        "name": {
+          "local": "Xaisomboun",
+          "en": "Xaisomboun",
+          "slug": "xaisomboun-xn"
+        }
+      },
+      {
+        "id": "XN-03",
+        "level": 2,
+        "name": {
+          "local": "Longcheng",
+          "en": "Longcheng",
+          "slug": "longcheng-xn-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.15",
+      "lon": "102.717"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1664261",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Gnotxong",
+      "en": "Ban Gnotxong",
+      "slug": "ban-gnotxong-1664261"
+    },
+    "code": {
+      "id": "1664261",
+      "iso": null
+    },
+    "parent": {
+      "id": "XN-03",
+      "level": 2,
+      "name": {
+        "local": "Longcheng",
+        "en": "Longcheng",
+        "slug": "longcheng-xn-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XN",
+        "level": 1,
+        "name": {
+          "local": "Xaisomboun",
+          "en": "Xaisomboun",
+          "slug": "xaisomboun-xn"
+        }
+      },
+      {
+        "id": "XN-03",
+        "level": 2,
+        "name": {
+          "local": "Longcheng",
+          "en": "Longcheng",
+          "slug": "longcheng-xn-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.1",
+      "lon": "102.583"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1664062",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Hintang",
+      "en": "Ban Hintang",
+      "slug": "ban-hintang-1664062"
+    },
+    "code": {
+      "id": "1664062",
+      "iso": null
+    },
+    "parent": {
+      "id": "XN-03",
+      "level": 2,
+      "name": {
+        "local": "Longcheng",
+        "en": "Longcheng",
+        "slug": "longcheng-xn-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XN",
+        "level": 1,
+        "name": {
+          "local": "Xaisomboun",
+          "en": "Xaisomboun",
+          "slug": "xaisomboun-xn"
+        }
+      },
+      {
+        "id": "XN-03",
+        "level": 2,
+        "name": {
+          "local": "Longcheng",
+          "en": "Longcheng",
+          "slug": "longcheng-xn-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.2",
+      "lon": "103"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1664009",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houakhang",
+      "en": "Ban Houakhang",
+      "slug": "ban-houakhang-1664009"
+    },
+    "code": {
+      "id": "1664009",
+      "iso": null
+    },
+    "parent": {
+      "id": "XN-03",
+      "level": 2,
+      "name": {
+        "local": "Longcheng",
+        "en": "Longcheng",
+        "slug": "longcheng-xn-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XN",
+        "level": 1,
+        "name": {
+          "local": "Xaisomboun",
+          "en": "Xaisomboun",
+          "slug": "xaisomboun-xn"
+        }
+      },
+      {
+        "id": "XN-03",
+        "level": 2,
+        "name": {
+          "local": "Longcheng",
+          "en": "Longcheng",
+          "slug": "longcheng-xn-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.2",
+      "lon": "102.95"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1663821",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houaykhoang",
+      "en": "Ban Houaykhoang",
+      "slug": "ban-houaykhoang-1663821"
+    },
+    "code": {
+      "id": "1663821",
+      "iso": null
+    },
+    "parent": {
+      "id": "XN-03",
+      "level": 2,
+      "name": {
+        "local": "Longcheng",
+        "en": "Longcheng",
+        "slug": "longcheng-xn-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XN",
+        "level": 1,
+        "name": {
+          "local": "Xaisomboun",
+          "en": "Xaisomboun",
+          "slug": "xaisomboun-xn"
+        }
+      },
+      {
+        "id": "XN-03",
+        "level": 2,
+        "name": {
+          "local": "Longcheng",
+          "en": "Longcheng",
+          "slug": "longcheng-xn-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.95",
+      "lon": "102.658"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11401236",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houaypachat",
+      "en": "Ban Houaypachat",
+      "slug": "ban-houaypachat-11401236"
+    },
+    "code": {
+      "id": "11401236",
+      "iso": null
+    },
+    "parent": {
+      "id": "XN-03",
+      "level": 2,
+      "name": {
+        "local": "Longcheng",
+        "en": "Longcheng",
+        "slug": "longcheng-xn-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XN",
+        "level": 1,
+        "name": {
+          "local": "Xaisomboun",
+          "en": "Xaisomboun",
+          "slug": "xaisomboun-xn"
+        }
+      },
+      {
+        "id": "XN-03",
+        "level": 2,
+        "name": {
+          "local": "Longcheng",
+          "en": "Longcheng",
+          "slug": "longcheng-xn-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.936",
+      "lon": "102.752"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1663534",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houayxai",
+      "en": "Ban Houayxai",
+      "slug": "ban-houayxai-1663534"
+    },
+    "code": {
+      "id": "1663534",
+      "iso": null
+    },
+    "parent": {
+      "id": "XN-03",
+      "level": 2,
+      "name": {
+        "local": "Longcheng",
+        "en": "Longcheng",
+        "slug": "longcheng-xn-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XN",
+        "level": 1,
+        "name": {
+          "local": "Xaisomboun",
+          "en": "Xaisomboun",
+          "slug": "xaisomboun-xn"
+        }
+      },
+      {
+        "id": "XN-03",
+        "level": 2,
+        "name": {
+          "local": "Longcheng",
+          "en": "Longcheng",
+          "slug": "longcheng-xn-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.933",
+      "lon": "102.67"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1663381",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Kang Noy",
+      "en": "Ban Kang Noy",
+      "slug": "ban-kang-noy-1663381"
+    },
+    "code": {
+      "id": "1663381",
+      "iso": null
+    },
+    "parent": {
+      "id": "XN-03",
+      "level": 2,
+      "name": {
+        "local": "Longcheng",
+        "en": "Longcheng",
+        "slug": "longcheng-xn-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XN",
+        "level": 1,
+        "name": {
+          "local": "Xaisomboun",
+          "en": "Xaisomboun",
+          "slug": "xaisomboun-xn"
+        }
+      },
+      {
+        "id": "XN-03",
+        "level": 2,
+        "name": {
+          "local": "Longcheng",
+          "en": "Longcheng",
+          "slug": "longcheng-xn-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.05",
+      "lon": "102.683"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1663169",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Kèosamsoum",
+      "en": "Ban Keosamsoum",
+      "slug": "ban-keosamsoum-1663169"
+    },
+    "code": {
+      "id": "1663169",
+      "iso": null
+    },
+    "parent": {
+      "id": "XN-03",
+      "level": 2,
+      "name": {
+        "local": "Longcheng",
+        "en": "Longcheng",
+        "slug": "longcheng-xn-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XN",
+        "level": 1,
+        "name": {
+          "local": "Xaisomboun",
+          "en": "Xaisomboun",
+          "slug": "xaisomboun-xn"
+        }
+      },
+      {
+        "id": "XN-03",
+        "level": 2,
+        "name": {
+          "local": "Longcheng",
+          "en": "Longcheng",
+          "slug": "longcheng-xn-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.233",
+      "lon": "102.683"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11401181",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Kèovi",
+      "en": "Ban Keovi",
+      "slug": "ban-keovi-11401181"
+    },
+    "code": {
+      "id": "11401181",
+      "iso": null
+    },
+    "parent": {
+      "id": "XN-03",
+      "level": 2,
+      "name": {
+        "local": "Longcheng",
+        "en": "Longcheng",
+        "slug": "longcheng-xn-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XN",
+        "level": 1,
+        "name": {
+          "local": "Xaisomboun",
+          "en": "Xaisomboun",
+          "slug": "xaisomboun-xn"
+        }
+      },
+      {
+        "id": "XN-03",
+        "level": 2,
+        "name": {
+          "local": "Longcheng",
+          "en": "Longcheng",
+          "slug": "longcheng-xn-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.133",
+      "lon": "102.858"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1662453",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Lomboua",
+      "en": "Ban Lomboua",
+      "slug": "ban-lomboua-1662453"
+    },
+    "code": {
+      "id": "1662453",
+      "iso": null
+    },
+    "parent": {
+      "id": "XN-03",
+      "level": 2,
+      "name": {
+        "local": "Longcheng",
+        "en": "Longcheng",
+        "slug": "longcheng-xn-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XN",
+        "level": 1,
+        "name": {
+          "local": "Xaisomboun",
+          "en": "Xaisomboun",
+          "slug": "xaisomboun-xn"
+        }
+      },
+      {
+        "id": "XN-03",
+        "level": 2,
+        "name": {
+          "local": "Longcheng",
+          "en": "Longcheng",
+          "slug": "longcheng-xn-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.1",
+      "lon": "102.617"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1662414",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Longchèng",
+      "en": "Ban Longcheng",
+      "slug": "ban-longcheng-1662414"
+    },
+    "code": {
+      "id": "1662414",
+      "iso": null
+    },
+    "parent": {
+      "id": "XN-03",
+      "level": 2,
+      "name": {
+        "local": "Longcheng",
+        "en": "Longcheng",
+        "slug": "longcheng-xn-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XN",
+        "level": 1,
+        "name": {
+          "local": "Xaisomboun",
+          "en": "Xaisomboun",
+          "slug": "xaisomboun-xn"
+        }
+      },
+      {
+        "id": "XN-03",
+        "level": 2,
+        "name": {
+          "local": "Longcheng",
+          "en": "Longcheng",
+          "slug": "longcheng-xn-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.109",
+      "lon": "102.922"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11401144",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Longsouay",
+      "en": "Ban Longsouay",
+      "slug": "ban-longsouay-11401144"
+    },
+    "code": {
+      "id": "11401144",
+      "iso": null
+    },
+    "parent": {
+      "id": "XN-03",
+      "level": 2,
+      "name": {
+        "local": "Longcheng",
+        "en": "Longcheng",
+        "slug": "longcheng-xn-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XN",
+        "level": 1,
+        "name": {
+          "local": "Xaisomboun",
+          "en": "Xaisomboun",
+          "slug": "xaisomboun-xn"
+        }
+      },
+      {
+        "id": "XN-03",
+        "level": 2,
+        "name": {
+          "local": "Longcheng",
+          "en": "Longcheng",
+          "slug": "longcheng-xn-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.147",
+      "lon": "102.864"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1655121",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Muangphoun",
+      "en": "Ban Muangphoun",
+      "slug": "ban-muangphoun-1655121"
+    },
+    "code": {
+      "id": "1655121",
+      "iso": null
+    },
+    "parent": {
+      "id": "XN-03",
+      "level": 2,
+      "name": {
+        "local": "Longcheng",
+        "en": "Longcheng",
+        "slug": "longcheng-xn-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XN",
+        "level": 1,
+        "name": {
+          "local": "Xaisomboun",
+          "en": "Xaisomboun",
+          "slug": "xaisomboun-xn"
+        }
+      },
+      {
+        "id": "XN-03",
+        "level": 2,
+        "name": {
+          "local": "Longcheng",
+          "en": "Longcheng",
+          "slug": "longcheng-xn-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.098",
+      "lon": "102.714"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1661992",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nagnoung",
+      "en": "Ban Nagnoung",
+      "slug": "ban-nagnoung-1661992"
+    },
+    "code": {
+      "id": "1661992",
+      "iso": null
+    },
+    "parent": {
+      "id": "XN-03",
+      "level": 2,
+      "name": {
+        "local": "Longcheng",
+        "en": "Longcheng",
+        "slug": "longcheng-xn-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XN",
+        "level": 1,
+        "name": {
+          "local": "Xaisomboun",
+          "en": "Xaisomboun",
+          "slug": "xaisomboun-xn"
+        }
+      },
+      {
+        "id": "XN-03",
+        "level": 2,
+        "name": {
+          "local": "Longcheng",
+          "en": "Longcheng",
+          "slug": "longcheng-xn-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.183",
+      "lon": "102.917"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1661733",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nakoang",
+      "en": "Ban Nakoang",
+      "slug": "ban-nakoang-1661733"
+    },
+    "code": {
+      "id": "1661733",
+      "iso": null
+    },
+    "parent": {
+      "id": "XN-03",
+      "level": 2,
+      "name": {
+        "local": "Longcheng",
+        "en": "Longcheng",
+        "slug": "longcheng-xn-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XN",
+        "level": 1,
+        "name": {
+          "local": "Xaisomboun",
+          "en": "Xaisomboun",
+          "slug": "xaisomboun-xn"
+        }
+      },
+      {
+        "id": "XN-03",
+        "level": 2,
+        "name": {
+          "local": "Longcheng",
+          "en": "Longcheng",
+          "slug": "longcheng-xn-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.987",
+      "lon": "102.616"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1661504",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nam Mo",
+      "en": "Ban Nam Mo",
+      "slug": "ban-nam-mo-1661504"
+    },
+    "code": {
+      "id": "1661504",
+      "iso": null
+    },
+    "parent": {
+      "id": "XN-03",
+      "level": 2,
+      "name": {
+        "local": "Longcheng",
+        "en": "Longcheng",
+        "slug": "longcheng-xn-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XN",
+        "level": 1,
+        "name": {
+          "local": "Xaisomboun",
+          "en": "Xaisomboun",
+          "slug": "xaisomboun-xn"
+        }
+      },
+      {
+        "id": "XN-03",
+        "level": 2,
+        "name": {
+          "local": "Longcheng",
+          "en": "Longcheng",
+          "slug": "longcheng-xn-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19",
+      "lon": "103.033"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1661479",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nam-On",
+      "en": "Ban Nam-On",
+      "slug": "ban-nam-on-1661479"
+    },
+    "code": {
+      "id": "1661479",
+      "iso": null
+    },
+    "parent": {
+      "id": "XN-03",
+      "level": 2,
+      "name": {
+        "local": "Longcheng",
+        "en": "Longcheng",
+        "slug": "longcheng-xn-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XN",
+        "level": 1,
+        "name": {
+          "local": "Xaisomboun",
+          "en": "Xaisomboun",
+          "slug": "xaisomboun-xn"
+        }
+      },
+      {
+        "id": "XN-03",
+        "level": 2,
+        "name": {
+          "local": "Longcheng",
+          "en": "Longcheng",
+          "slug": "longcheng-xn-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.1",
+      "lon": "102.567"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11401184",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nam-Yén",
+      "en": "Ban Nam-Yen",
+      "slug": "ban-nam-yen-11401184"
+    },
+    "code": {
+      "id": "11401184",
+      "iso": null
+    },
+    "parent": {
+      "id": "XN-03",
+      "level": 2,
+      "name": {
+        "local": "Longcheng",
+        "en": "Longcheng",
+        "slug": "longcheng-xn-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XN",
+        "level": 1,
+        "name": {
+          "local": "Xaisomboun",
+          "en": "Xaisomboun",
+          "slug": "xaisomboun-xn"
+        }
+      },
+      {
+        "id": "XN-03",
+        "level": 2,
+        "name": {
+          "local": "Longcheng",
+          "en": "Longcheng",
+          "slug": "longcheng-xn-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.016",
+      "lon": "102.956"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1661600",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Namcha",
+      "en": "Ban Namcha",
+      "slug": "ban-namcha-1661600"
+    },
+    "code": {
+      "id": "1661600",
+      "iso": null
+    },
+    "parent": {
+      "id": "XN-03",
+      "level": 2,
+      "name": {
+        "local": "Longcheng",
+        "en": "Longcheng",
+        "slug": "longcheng-xn-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XN",
+        "level": 1,
+        "name": {
+          "local": "Xaisomboun",
+          "en": "Xaisomboun",
+          "slug": "xaisomboun-xn"
+        }
+      },
+      {
+        "id": "XN-03",
+        "level": 2,
+        "name": {
+          "local": "Longcheng",
+          "en": "Longcheng",
+          "slug": "longcheng-xn-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.133",
+      "lon": "102.917"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1661565",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Namkama",
+      "en": "Ban Namkama",
+      "slug": "ban-namkama-1661565"
+    },
+    "code": {
+      "id": "1661565",
+      "iso": null
+    },
+    "parent": {
+      "id": "XN-03",
+      "level": 2,
+      "name": {
+        "local": "Longcheng",
+        "en": "Longcheng",
+        "slug": "longcheng-xn-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XN",
+        "level": 1,
+        "name": {
+          "local": "Xaisomboun",
+          "en": "Xaisomboun",
+          "slug": "xaisomboun-xn"
+        }
+      },
+      {
+        "id": "XN-03",
+        "level": 2,
+        "name": {
+          "local": "Longcheng",
+          "en": "Longcheng",
+          "slug": "longcheng-xn-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.167",
+      "lon": "102.767"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1661552",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Namkhang",
+      "en": "Ban Namkhang",
+      "slug": "ban-namkhang-1661552"
+    },
+    "code": {
+      "id": "1661552",
+      "iso": null
+    },
+    "parent": {
+      "id": "XN-03",
+      "level": 2,
+      "name": {
+        "local": "Longcheng",
+        "en": "Longcheng",
+        "slug": "longcheng-xn-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XN",
+        "level": 1,
+        "name": {
+          "local": "Xaisomboun",
+          "en": "Xaisomboun",
+          "slug": "xaisomboun-xn"
+        }
+      },
+      {
+        "id": "XN-03",
+        "level": 2,
+        "name": {
+          "local": "Longcheng",
+          "en": "Longcheng",
+          "slug": "longcheng-xn-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.117",
+      "lon": "103.167"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11401185",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Namkhè",
+      "en": "Ban Namkhe",
+      "slug": "ban-namkhe-11401185"
+    },
+    "code": {
+      "id": "11401185",
+      "iso": null
+    },
+    "parent": {
+      "id": "XN-03",
+      "level": 2,
+      "name": {
+        "local": "Longcheng",
+        "en": "Longcheng",
+        "slug": "longcheng-xn-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XN",
+        "level": 1,
+        "name": {
+          "local": "Xaisomboun",
+          "en": "Xaisomboun",
+          "slug": "xaisomboun-xn"
+        }
+      },
+      {
+        "id": "XN-03",
+        "level": 2,
+        "name": {
+          "local": "Longcheng",
+          "en": "Longcheng",
+          "slug": "longcheng-xn-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.205",
+      "lon": "102.865"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1661508",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nammeui",
+      "en": "Ban Nammeui",
+      "slug": "ban-nammeui-1661508"
+    },
+    "code": {
+      "id": "1661508",
+      "iso": null
+    },
+    "parent": {
+      "id": "XN-03",
+      "level": 2,
+      "name": {
+        "local": "Longcheng",
+        "en": "Longcheng",
+        "slug": "longcheng-xn-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XN",
+        "level": 1,
+        "name": {
+          "local": "Xaisomboun",
+          "en": "Xaisomboun",
+          "slug": "xaisomboun-xn"
+        }
+      },
+      {
+        "id": "XN-03",
+        "level": 2,
+        "name": {
+          "local": "Longcheng",
+          "en": "Longcheng",
+          "slug": "longcheng-xn-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.05",
+      "lon": "102.65"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1661495",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Namngoua",
+      "en": "Ban Namngoua",
+      "slug": "ban-namngoua-1661495"
+    },
+    "code": {
+      "id": "1661495",
+      "iso": null
+    },
+    "parent": {
+      "id": "XN-03",
+      "level": 2,
+      "name": {
+        "local": "Longcheng",
+        "en": "Longcheng",
+        "slug": "longcheng-xn-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XN",
+        "level": 1,
+        "name": {
+          "local": "Xaisomboun",
+          "en": "Xaisomboun",
+          "slug": "xaisomboun-xn"
+        }
+      },
+      {
+        "id": "XN-03",
+        "level": 2,
+        "name": {
+          "local": "Longcheng",
+          "en": "Longcheng",
+          "slug": "longcheng-xn-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.117",
+      "lon": "102.933"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1661445",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nampha",
+      "en": "Ban Nampha",
+      "slug": "ban-nampha-1661445"
+    },
+    "code": {
+      "id": "1661445",
+      "iso": null
+    },
+    "parent": {
+      "id": "XN-03",
+      "level": 2,
+      "name": {
+        "local": "Longcheng",
+        "en": "Longcheng",
+        "slug": "longcheng-xn-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XN",
+        "level": 1,
+        "name": {
+          "local": "Xaisomboun",
+          "en": "Xaisomboun",
+          "slug": "xaisomboun-xn"
+        }
+      },
+      {
+        "id": "XN-03",
+        "level": 2,
+        "name": {
+          "local": "Longcheng",
+          "en": "Longcheng",
+          "slug": "longcheng-xn-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.078",
+      "lon": "102.97"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1661438",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Namphay",
+      "en": "Ban Namphay",
+      "slug": "ban-namphay-1661438"
+    },
+    "code": {
+      "id": "1661438",
+      "iso": null
+    },
+    "parent": {
+      "id": "XN-03",
+      "level": 2,
+      "name": {
+        "local": "Longcheng",
+        "en": "Longcheng",
+        "slug": "longcheng-xn-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XN",
+        "level": 1,
+        "name": {
+          "local": "Xaisomboun",
+          "en": "Xaisomboun",
+          "slug": "xaisomboun-xn"
+        }
+      },
+      {
+        "id": "XN-03",
+        "level": 2,
+        "name": {
+          "local": "Longcheng",
+          "en": "Longcheng",
+          "slug": "longcheng-xn-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.1",
+      "lon": "102.65"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1661430",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nampi",
+      "en": "Ban Nampi",
+      "slug": "ban-nampi-1661430"
+    },
+    "code": {
+      "id": "1661430",
+      "iso": null
+    },
+    "parent": {
+      "id": "XN-03",
+      "level": 2,
+      "name": {
+        "local": "Longcheng",
+        "en": "Longcheng",
+        "slug": "longcheng-xn-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XN",
+        "level": 1,
+        "name": {
+          "local": "Xaisomboun",
+          "en": "Xaisomboun",
+          "slug": "xaisomboun-xn"
+        }
+      },
+      {
+        "id": "XN-03",
+        "level": 2,
+        "name": {
+          "local": "Longcheng",
+          "en": "Longcheng",
+          "slug": "longcheng-xn-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.15",
+      "lon": "102.7"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1661368",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Namxo",
+      "en": "Ban Namxo",
+      "slug": "ban-namxo-1661368"
+    },
+    "code": {
+      "id": "1661368",
+      "iso": null
+    },
+    "parent": {
+      "id": "XN-03",
+      "level": 2,
+      "name": {
+        "local": "Longcheng",
+        "en": "Longcheng",
+        "slug": "longcheng-xn-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XN",
+        "level": 1,
+        "name": {
+          "local": "Xaisomboun",
+          "en": "Xaisomboun",
+          "slug": "xaisomboun-xn"
+        }
+      },
+      {
+        "id": "XN-03",
+        "level": 2,
+        "name": {
+          "local": "Longcheng",
+          "en": "Longcheng",
+          "slug": "longcheng-xn-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.233",
+      "lon": "102.75"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1661020",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Navang",
+      "en": "Ban Navang",
+      "slug": "ban-navang-1661020"
+    },
+    "code": {
+      "id": "1661020",
+      "iso": null
+    },
+    "parent": {
+      "id": "XN-03",
+      "level": 2,
+      "name": {
+        "local": "Longcheng",
+        "en": "Longcheng",
+        "slug": "longcheng-xn-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XN",
+        "level": 1,
+        "name": {
+          "local": "Xaisomboun",
+          "en": "Xaisomboun",
+          "slug": "xaisomboun-xn"
+        }
+      },
+      {
+        "id": "XN-03",
+        "level": 2,
+        "name": {
+          "local": "Longcheng",
+          "en": "Longcheng",
+          "slug": "longcheng-xn-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.183",
+      "lon": "102.917"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1660979",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Naxèng",
+      "en": "Ban Naxeng",
+      "slug": "ban-naxeng-1660979"
+    },
+    "code": {
+      "id": "1660979",
+      "iso": null
+    },
+    "parent": {
+      "id": "XN-03",
+      "level": 2,
+      "name": {
+        "local": "Longcheng",
+        "en": "Longcheng",
+        "slug": "longcheng-xn-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XN",
+        "level": 1,
+        "name": {
+          "local": "Xaisomboun",
+          "en": "Xaisomboun",
+          "slug": "xaisomboun-xn"
+        }
+      },
+      {
+        "id": "XN-03",
+        "level": 2,
+        "name": {
+          "local": "Longcheng",
+          "en": "Longcheng",
+          "slug": "longcheng-xn-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.217",
+      "lon": "102.733"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1660307",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Pha En",
+      "en": "Ban Pha En",
+      "slug": "ban-pha-en-1660307"
+    },
+    "code": {
+      "id": "1660307",
+      "iso": null
+    },
+    "parent": {
+      "id": "XN-03",
+      "level": 2,
+      "name": {
+        "local": "Longcheng",
+        "en": "Longcheng",
+        "slug": "longcheng-xn-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XN",
+        "level": 1,
+        "name": {
+          "local": "Xaisomboun",
+          "en": "Xaisomboun",
+          "slug": "xaisomboun-xn"
+        }
+      },
+      {
+        "id": "XN-03",
+        "level": 2,
+        "name": {
+          "local": "Longcheng",
+          "en": "Longcheng",
+          "slug": "longcheng-xn-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.15",
+      "lon": "102.683"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1660271",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Pha Khao",
+      "en": "Ban Pha Khao",
+      "slug": "ban-pha-khao-1660271"
+    },
+    "code": {
+      "id": "1660271",
+      "iso": null
+    },
+    "parent": {
+      "id": "XN-03",
+      "level": 2,
+      "name": {
+        "local": "Longcheng",
+        "en": "Longcheng",
+        "slug": "longcheng-xn-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XN",
+        "level": 1,
+        "name": {
+          "local": "Xaisomboun",
+          "en": "Xaisomboun",
+          "slug": "xaisomboun-xn"
+        }
+      },
+      {
+        "id": "XN-03",
+        "level": 2,
+        "name": {
+          "local": "Longcheng",
+          "en": "Longcheng",
+          "slug": "longcheng-xn-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.05",
+      "lon": "103"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1660294",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phahom",
+      "en": "Ban Phahom",
+      "slug": "ban-phahom-1660294"
+    },
+    "code": {
+      "id": "1660294",
+      "iso": null
+    },
+    "parent": {
+      "id": "XN-03",
+      "level": 2,
+      "name": {
+        "local": "Longcheng",
+        "en": "Longcheng",
+        "slug": "longcheng-xn-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XN",
+        "level": 1,
+        "name": {
+          "local": "Xaisomboun",
+          "en": "Xaisomboun",
+          "slug": "xaisomboun-xn"
+        }
+      },
+      {
+        "id": "XN-03",
+        "level": 2,
+        "name": {
+          "local": "Longcheng",
+          "en": "Longcheng",
+          "slug": "longcheng-xn-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.1",
+      "lon": "102.683"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1660189",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phanôkkôk",
+      "en": "Ban Phanokkok",
+      "slug": "ban-phanokkok-1660189"
+    },
+    "code": {
+      "id": "1660189",
+      "iso": null
+    },
+    "parent": {
+      "id": "XN-03",
+      "level": 2,
+      "name": {
+        "local": "Longcheng",
+        "en": "Longcheng",
+        "slug": "longcheng-xn-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XN",
+        "level": 1,
+        "name": {
+          "local": "Xaisomboun",
+          "en": "Xaisomboun",
+          "slug": "xaisomboun-xn"
+        }
+      },
+      {
+        "id": "XN-03",
+        "level": 2,
+        "name": {
+          "local": "Longcheng",
+          "en": "Longcheng",
+          "slug": "longcheng-xn-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.971",
+      "lon": "102.958"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11401227",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phapouk",
+      "en": "Ban Phapouk",
+      "slug": "ban-phapouk-11401227"
+    },
+    "code": {
+      "id": "11401227",
+      "iso": null
+    },
+    "parent": {
+      "id": "XN-03",
+      "level": 2,
+      "name": {
+        "local": "Longcheng",
+        "en": "Longcheng",
+        "slug": "longcheng-xn-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XN",
+        "level": 1,
+        "name": {
+          "local": "Xaisomboun",
+          "en": "Xaisomboun",
+          "slug": "xaisomboun-xn"
+        }
+      },
+      {
+        "id": "XN-03",
+        "level": 2,
+        "name": {
+          "local": "Longcheng",
+          "en": "Longcheng",
+          "slug": "longcheng-xn-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.963",
+      "lon": "102.74"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1660158",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phasouanya",
+      "en": "Ban Phasouanya",
+      "slug": "ban-phasouanya-1660158"
+    },
+    "code": {
+      "id": "1660158",
+      "iso": null
+    },
+    "parent": {
+      "id": "XN-03",
+      "level": 2,
+      "name": {
+        "local": "Longcheng",
+        "en": "Longcheng",
+        "slug": "longcheng-xn-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XN",
+        "level": 1,
+        "name": {
+          "local": "Xaisomboun",
+          "en": "Xaisomboun",
+          "slug": "xaisomboun-xn"
+        }
+      },
+      {
+        "id": "XN-03",
+        "level": 2,
+        "name": {
+          "local": "Longcheng",
+          "en": "Longcheng",
+          "slug": "longcheng-xn-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.133",
+      "lon": "102.617"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1660138",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phatoum",
+      "en": "Ban Phatoum",
+      "slug": "ban-phatoum-1660138"
+    },
+    "code": {
+      "id": "1660138",
+      "iso": null
+    },
+    "parent": {
+      "id": "XN-03",
+      "level": 2,
+      "name": {
+        "local": "Longcheng",
+        "en": "Longcheng",
+        "slug": "longcheng-xn-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XN",
+        "level": 1,
+        "name": {
+          "local": "Xaisomboun",
+          "en": "Xaisomboun",
+          "slug": "xaisomboun-xn"
+        }
+      },
+      {
+        "id": "XN-03",
+        "level": 2,
+        "name": {
+          "local": "Longcheng",
+          "en": "Longcheng",
+          "slug": "longcheng-xn-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.234",
+      "lon": "102.506"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1660099",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phialouang",
+      "en": "Ban Phialouang",
+      "slug": "ban-phialouang-1660099"
+    },
+    "code": {
+      "id": "1660099",
+      "iso": null
+    },
+    "parent": {
+      "id": "XN-03",
+      "level": 2,
+      "name": {
+        "local": "Longcheng",
+        "en": "Longcheng",
+        "slug": "longcheng-xn-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XN",
+        "level": 1,
+        "name": {
+          "local": "Xaisomboun",
+          "en": "Xaisomboun",
+          "slug": "xaisomboun-xn"
+        }
+      },
+      {
+        "id": "XN-03",
+        "level": 2,
+        "name": {
+          "local": "Longcheng",
+          "en": "Longcheng",
+          "slug": "longcheng-xn-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.267",
+      "lon": "102.583"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1660077",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phiathèp",
+      "en": "Ban Phiathep",
+      "slug": "ban-phiathep-1660077"
+    },
+    "code": {
+      "id": "1660077",
+      "iso": null
+    },
+    "parent": {
+      "id": "XN-03",
+      "level": 2,
+      "name": {
+        "local": "Longcheng",
+        "en": "Longcheng",
+        "slug": "longcheng-xn-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XN",
+        "level": 1,
+        "name": {
+          "local": "Xaisomboun",
+          "en": "Xaisomboun",
+          "slug": "xaisomboun-xn"
+        }
+      },
+      {
+        "id": "XN-03",
+        "level": 2,
+        "name": {
+          "local": "Longcheng",
+          "en": "Longcheng",
+          "slug": "longcheng-xn-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.117",
+      "lon": "102.667"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11401226",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phônxai",
+      "en": "Ban Phonxai",
+      "slug": "ban-phonxai-11401226"
+    },
+    "code": {
+      "id": "11401226",
+      "iso": null
+    },
+    "parent": {
+      "id": "XN-03",
+      "level": 2,
+      "name": {
+        "local": "Longcheng",
+        "en": "Longcheng",
+        "slug": "longcheng-xn-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XN",
+        "level": 1,
+        "name": {
+          "local": "Xaisomboun",
+          "en": "Xaisomboun",
+          "slug": "xaisomboun-xn"
+        }
+      },
+      {
+        "id": "XN-03",
+        "level": 2,
+        "name": {
+          "local": "Longcheng",
+          "en": "Longcheng",
+          "slug": "longcheng-xn-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.967",
+      "lon": "102.738"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1659776",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phounamhouat",
+      "en": "Ban Phounamhouat",
+      "slug": "ban-phounamhouat-1659776"
+    },
+    "code": {
+      "id": "1659776",
+      "iso": null
+    },
+    "parent": {
+      "id": "XN-03",
+      "level": 2,
+      "name": {
+        "local": "Longcheng",
+        "en": "Longcheng",
+        "slug": "longcheng-xn-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XN",
+        "level": 1,
+        "name": {
+          "local": "Xaisomboun",
+          "en": "Xaisomboun",
+          "slug": "xaisomboun-xn"
+        }
+      },
+      {
+        "id": "XN-03",
+        "level": 2,
+        "name": {
+          "local": "Longcheng",
+          "en": "Longcheng",
+          "slug": "longcheng-xn-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.25",
+      "lon": "102.55"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11401180",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Piang",
+      "en": "Ban Piang",
+      "slug": "ban-piang-11401180"
+    },
+    "code": {
+      "id": "11401180",
+      "iso": null
+    },
+    "parent": {
+      "id": "XN-03",
+      "level": 2,
+      "name": {
+        "local": "Longcheng",
+        "en": "Longcheng",
+        "slug": "longcheng-xn-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XN",
+        "level": 1,
+        "name": {
+          "local": "Xaisomboun",
+          "en": "Xaisomboun",
+          "slug": "xaisomboun-xn"
+        }
+      },
+      {
+        "id": "XN-03",
+        "level": 2,
+        "name": {
+          "local": "Longcheng",
+          "en": "Longcheng",
+          "slug": "longcheng-xn-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.005",
+      "lon": "102.751"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1659692",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Poa Hai",
+      "en": "Ban Poa Hai",
+      "slug": "ban-poa-hai-1659692"
+    },
+    "code": {
+      "id": "1659692",
+      "iso": null
+    },
+    "parent": {
+      "id": "XN-03",
+      "level": 2,
+      "name": {
+        "local": "Longcheng",
+        "en": "Longcheng",
+        "slug": "longcheng-xn-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XN",
+        "level": 1,
+        "name": {
+          "local": "Xaisomboun",
+          "en": "Xaisomboun",
+          "slug": "xaisomboun-xn"
+        }
+      },
+      {
+        "id": "XN-03",
+        "level": 2,
+        "name": {
+          "local": "Longcheng",
+          "en": "Longcheng",
+          "slug": "longcheng-xn-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.2",
+      "lon": "102.917"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1659628",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Pounghinlat",
+      "en": "Ban Pounghinlat",
+      "slug": "ban-pounghinlat-1659628"
+    },
+    "code": {
+      "id": "1659628",
+      "iso": null
+    },
+    "parent": {
+      "id": "XN-03",
+      "level": 2,
+      "name": {
+        "local": "Longcheng",
+        "en": "Longcheng",
+        "slug": "longcheng-xn-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XN",
+        "level": 1,
+        "name": {
+          "local": "Xaisomboun",
+          "en": "Xaisomboun",
+          "slug": "xaisomboun-xn"
+        }
+      },
+      {
+        "id": "XN-03",
+        "level": 2,
+        "name": {
+          "local": "Longcheng",
+          "en": "Longcheng",
+          "slug": "longcheng-xn-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.2",
+      "lon": "102.7"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1659419",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Sa Noc",
+      "en": "Ban Sa Noc",
+      "slug": "ban-sa-noc-1659419"
+    },
+    "code": {
+      "id": "1659419",
+      "iso": null
+    },
+    "parent": {
+      "id": "XN-03",
+      "level": 2,
+      "name": {
+        "local": "Longcheng",
+        "en": "Longcheng",
+        "slug": "longcheng-xn-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XN",
+        "level": 1,
+        "name": {
+          "local": "Xaisomboun",
+          "en": "Xaisomboun",
+          "slug": "xaisomboun-xn"
+        }
+      },
+      {
+        "id": "XN-03",
+        "level": 2,
+        "name": {
+          "local": "Longcheng",
+          "en": "Longcheng",
+          "slug": "longcheng-xn-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.2",
+      "lon": "102.95"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1659408",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban San Tong",
+      "en": "Ban San Tong",
+      "slug": "ban-san-tong-1659408"
+    },
+    "code": {
+      "id": "1659408",
+      "iso": null
+    },
+    "parent": {
+      "id": "XN-03",
+      "level": 2,
+      "name": {
+        "local": "Longcheng",
+        "en": "Longcheng",
+        "slug": "longcheng-xn-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XN",
+        "level": 1,
+        "name": {
+          "local": "Xaisomboun",
+          "en": "Xaisomboun",
+          "slug": "xaisomboun-xn"
+        }
+      },
+      {
+        "id": "XN-03",
+        "level": 2,
+        "name": {
+          "local": "Longcheng",
+          "en": "Longcheng",
+          "slug": "longcheng-xn-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.2",
+      "lon": "102.883"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1659402",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Sao Phan",
+      "en": "Ban Sao Phan",
+      "slug": "ban-sao-phan-1659402"
+    },
+    "code": {
+      "id": "1659402",
+      "iso": null
+    },
+    "parent": {
+      "id": "XN-03",
+      "level": 2,
+      "name": {
+        "local": "Longcheng",
+        "en": "Longcheng",
+        "slug": "longcheng-xn-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XN",
+        "level": 1,
+        "name": {
+          "local": "Xaisomboun",
+          "en": "Xaisomboun",
+          "slug": "xaisomboun-xn"
+        }
+      },
+      {
+        "id": "XN-03",
+        "level": 2,
+        "name": {
+          "local": "Longcheng",
+          "en": "Longcheng",
+          "slug": "longcheng-xn-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.2",
+      "lon": "102.967"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1658609",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Thaovông",
+      "en": "Ban Thaovong",
+      "slug": "ban-thaovong-1658609"
+    },
+    "code": {
+      "id": "1658609",
+      "iso": null
+    },
+    "parent": {
+      "id": "XN-03",
+      "level": 2,
+      "name": {
+        "local": "Longcheng",
+        "en": "Longcheng",
+        "slug": "longcheng-xn-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XN",
+        "level": 1,
+        "name": {
+          "local": "Xaisomboun",
+          "en": "Xaisomboun",
+          "slug": "xaisomboun-xn"
+        }
+      },
+      {
+        "id": "XN-03",
+        "level": 2,
+        "name": {
+          "local": "Longcheng",
+          "en": "Longcheng",
+          "slug": "longcheng-xn-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.2",
+      "lon": "102.783"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1658504",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Thônggna",
+      "en": "Ban Thonggna",
+      "slug": "ban-thonggna-1658504"
+    },
+    "code": {
+      "id": "1658504",
+      "iso": null
+    },
+    "parent": {
+      "id": "XN-03",
+      "level": 2,
+      "name": {
+        "local": "Longcheng",
+        "en": "Longcheng",
+        "slug": "longcheng-xn-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XN",
+        "level": 1,
+        "name": {
+          "local": "Xaisomboun",
+          "en": "Xaisomboun",
+          "slug": "xaisomboun-xn"
+        }
+      },
+      {
+        "id": "XN-03",
+        "level": 2,
+        "name": {
+          "local": "Longcheng",
+          "en": "Longcheng",
+          "slug": "longcheng-xn-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.183",
+      "lon": "102.6"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1658389",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Tongchiang",
+      "en": "Ban Tongchiang",
+      "slug": "ban-tongchiang-1658389"
+    },
+    "code": {
+      "id": "1658389",
+      "iso": null
+    },
+    "parent": {
+      "id": "XN-03",
+      "level": 2,
+      "name": {
+        "local": "Longcheng",
+        "en": "Longcheng",
+        "slug": "longcheng-xn-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XN",
+        "level": 1,
+        "name": {
+          "local": "Xaisomboun",
+          "en": "Xaisomboun",
+          "slug": "xaisomboun-xn"
+        }
+      },
+      {
+        "id": "XN-03",
+        "level": 2,
+        "name": {
+          "local": "Longcheng",
+          "en": "Longcheng",
+          "slug": "longcheng-xn-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.133",
+      "lon": "103.117"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1657997",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Xon",
+      "en": "Ban Xon",
+      "slug": "ban-xon-1657997"
+    },
+    "code": {
+      "id": "1657997",
+      "iso": null
+    },
+    "parent": {
+      "id": "XN-03",
+      "level": 2,
+      "name": {
+        "local": "Longcheng",
+        "en": "Longcheng",
+        "slug": "longcheng-xn-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XN",
+        "level": 1,
+        "name": {
+          "local": "Xaisomboun",
+          "en": "Xaisomboun",
+          "slug": "xaisomboun-xn"
+        }
+      },
+      {
+        "id": "XN-03",
+        "level": 2,
+        "name": {
+          "local": "Longcheng",
+          "en": "Longcheng",
+          "slug": "longcheng-xn-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.923",
+      "lon": "102.711"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1655849",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Lao Nia",
+      "en": "Lao Nia",
+      "slug": "lao-nia-1655849"
+    },
+    "code": {
+      "id": "1655849",
+      "iso": null
+    },
+    "parent": {
+      "id": "XN-03",
+      "level": 2,
+      "name": {
+        "local": "Longcheng",
+        "en": "Longcheng",
+        "slug": "longcheng-xn-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XN",
+        "level": 1,
+        "name": {
+          "local": "Xaisomboun",
+          "en": "Xaisomboun",
+          "slug": "xaisomboun-xn"
+        }
+      },
+      {
+        "id": "XN-03",
+        "level": 2,
+        "name": {
+          "local": "Longcheng",
+          "en": "Longcheng",
+          "slug": "longcheng-xn-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.217",
+      "lon": "102.733"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1655181",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Muang Leuk",
+      "en": "Muang Leuk",
+      "slug": "muang-leuk-1655181"
+    },
+    "code": {
+      "id": "1655181",
+      "iso": null
+    },
+    "parent": {
+      "id": "XN-03",
+      "level": 2,
+      "name": {
+        "local": "Longcheng",
+        "en": "Longcheng",
+        "slug": "longcheng-xn-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XN",
+        "level": 1,
+        "name": {
+          "local": "Xaisomboun",
+          "en": "Xaisomboun",
+          "slug": "xaisomboun-xn"
+        }
+      },
+      {
+        "id": "XN-03",
+        "level": 2,
+        "name": {
+          "local": "Longcheng",
+          "en": "Longcheng",
+          "slug": "longcheng-xn-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.933",
+      "lon": "102.717"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1655079",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Muang Xao",
+      "en": "Muang Xao",
+      "slug": "muang-xao-1655079"
+    },
+    "code": {
+      "id": "1655079",
+      "iso": null
+    },
+    "parent": {
+      "id": "XN-03",
+      "level": 2,
+      "name": {
+        "local": "Longcheng",
+        "en": "Longcheng",
+        "slug": "longcheng-xn-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XN",
+        "level": 1,
+        "name": {
+          "local": "Xaisomboun",
+          "en": "Xaisomboun",
+          "slug": "xaisomboun-xn"
+        }
+      },
+      {
+        "id": "XN-03",
+        "level": 2,
+        "name": {
+          "local": "Longcheng",
+          "en": "Longcheng",
+          "slug": "longcheng-xn-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.033",
+      "lon": "102.6"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1653936",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Phiali",
+      "en": "Phiali",
+      "slug": "phiali-1653936"
+    },
+    "code": {
+      "id": "1653936",
+      "iso": null
+    },
+    "parent": {
+      "id": "XN-03",
+      "level": 2,
+      "name": {
+        "local": "Longcheng",
+        "en": "Longcheng",
+        "slug": "longcheng-xn-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XN",
+        "level": 1,
+        "name": {
+          "local": "Xaisomboun",
+          "en": "Xaisomboun",
+          "slug": "xaisomboun-xn"
+        }
+      },
+      {
+        "id": "XN-03",
+        "level": 2,
+        "name": {
+          "local": "Longcheng",
+          "en": "Longcheng",
+          "slug": "longcheng-xn-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.267",
+      "lon": "102.75"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1652881",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ta Meut",
+      "en": "Ta Meut",
+      "slug": "ta-meut-1652881"
+    },
+    "code": {
+      "id": "1652881",
+      "iso": null
+    },
+    "parent": {
+      "id": "XN-03",
+      "level": 2,
+      "name": {
+        "local": "Longcheng",
+        "en": "Longcheng",
+        "slug": "longcheng-xn-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XN",
+        "level": 1,
+        "name": {
+          "local": "Xaisomboun",
+          "en": "Xaisomboun",
+          "slug": "xaisomboun-xn"
+        }
+      },
+      {
+        "id": "XN-03",
+        "level": 2,
+        "name": {
+          "local": "Longcheng",
+          "en": "Longcheng",
+          "slug": "longcheng-xn-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.217",
+      "lon": "102.917"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1652079",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Xiangkhoang",
+      "en": "Xiangkhoang",
+      "slug": "xiangkhoang-1652079"
+    },
+    "code": {
+      "id": "1652079",
+      "iso": null
+    },
+    "parent": {
+      "id": "XN-03",
+      "level": 2,
+      "name": {
+        "local": "Longcheng",
+        "en": "Longcheng",
+        "slug": "longcheng-xn-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XN",
+        "level": 1,
+        "name": {
+          "local": "Xaisomboun",
+          "en": "Xaisomboun",
+          "slug": "xaisomboun-xn"
+        }
+      },
+      {
+        "id": "XN-03",
+        "level": 2,
+        "name": {
+          "local": "Longcheng",
+          "en": "Longcheng",
+          "slug": "longcheng-xn-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.2",
+      "lon": "102.717"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1652067",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Xiangsay",
+      "en": "Xiangsay",
+      "slug": "xiangsay-1652067"
+    },
+    "code": {
+      "id": "1652067",
+      "iso": null
+    },
+    "parent": {
+      "id": "XN-03",
+      "level": 2,
+      "name": {
+        "local": "Longcheng",
+        "en": "Longcheng",
+        "slug": "longcheng-xn-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XN",
+        "level": 1,
+        "name": {
+          "local": "Xaisomboun",
+          "en": "Xaisomboun",
+          "slug": "xaisomboun-xn"
+        }
+      },
+      {
+        "id": "XN-03",
+        "level": 2,
+        "name": {
+          "local": "Longcheng",
+          "en": "Longcheng",
+          "slug": "longcheng-xn-03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.2",
+      "lon": "102.717"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

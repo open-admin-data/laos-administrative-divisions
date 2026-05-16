@@ -1,0 +1,47 @@
+{
+  "id": "SV-04",
+  "level": 2,
+  "level_name": {
+    "local": "ເມືອງ",
+    "en": "District"
+  },
+  "name": {
+    "local": "Kaysone Phomvihane",
+    "en": "Kaysone Phomvihane",
+    "slug": "kaysone-phomvihane-sv-04"
+  },
+  "code": {
+    "id": "SV-04",
+    "iso": null
+  },
+  "parent": {
+    "id": "SV",
+    "level": 1,
+    "name": {
+      "local": "Savannakhet",
+      "en": "Savannakhet",
+      "slug": "savannakhet-sv"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "SV",
+      "level": 1,
+      "name": {
+        "local": "Savannakhet",
+        "en": "Savannakhet",
+        "slug": "savannakhet-sv"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 62
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.609",
+    "lon": "104.87"
+  },
+  "metadata": {},
+  "source": {}
+}

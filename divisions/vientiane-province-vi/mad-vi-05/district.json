@@ -1,0 +1,47 @@
+{
+  "id": "VI-05",
+  "level": 2,
+  "level_name": {
+    "local": "ເມືອງ",
+    "en": "District"
+  },
+  "name": {
+    "local": "Mad",
+    "en": "Mad",
+    "slug": "mad-vi-05"
+  },
+  "code": {
+    "id": "VI-05",
+    "iso": null
+  },
+  "parent": {
+    "id": "VI",
+    "level": 1,
+    "name": {
+      "local": "Vientiane",
+      "en": "Vientiane Province",
+      "slug": "vientiane-province-vi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "VI",
+      "level": 1,
+      "name": {
+        "local": "Vientiane",
+        "en": "Vientiane Province",
+        "slug": "vientiane-province-vi"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 55
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "18.698",
+    "lon": "101.829"
+  },
+  "metadata": {},
+  "source": {}
+}

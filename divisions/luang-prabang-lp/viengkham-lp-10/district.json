@@ -1,0 +1,47 @@
+{
+  "id": "LP-10",
+  "level": 2,
+  "level_name": {
+    "local": "ເມືອງ",
+    "en": "District"
+  },
+  "name": {
+    "local": "Viengkham",
+    "en": "Viengkham",
+    "slug": "viengkham-lp-10"
+  },
+  "code": {
+    "id": "LP-10",
+    "iso": null
+  },
+  "parent": {
+    "id": "LP",
+    "level": 1,
+    "name": {
+      "local": "Luang Prabang",
+      "en": "Luang Prabang",
+      "slug": "luang-prabang-lp"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "LP",
+      "level": 1,
+      "name": {
+        "local": "Luang Prabang",
+        "en": "Luang Prabang",
+        "slug": "luang-prabang-lp"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 148
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "20.347",
+    "lon": "103.07"
+  },
+  "metadata": {},
+  "source": {}
+}

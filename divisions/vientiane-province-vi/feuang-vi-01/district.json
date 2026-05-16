@@ -1,0 +1,47 @@
+{
+  "id": "VI-01",
+  "level": 2,
+  "level_name": {
+    "local": "ເມືອງ",
+    "en": "District"
+  },
+  "name": {
+    "local": "Feuang",
+    "en": "Feuang",
+    "slug": "feuang-vi-01"
+  },
+  "code": {
+    "id": "VI-01",
+    "iso": null
+  },
+  "parent": {
+    "id": "VI",
+    "level": 1,
+    "name": {
+      "local": "Vientiane",
+      "en": "Vientiane Province",
+      "slug": "vientiane-province-vi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "VI",
+      "level": 1,
+      "name": {
+        "local": "Vientiane",
+        "en": "Vientiane Province",
+        "slug": "vientiane-province-vi"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 46
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "18.589",
+    "lon": "102.059"
+  },
+  "metadata": {},
+  "source": {}
+}

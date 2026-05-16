@@ -1,0 +1,47 @@
+{
+  "id": "VI-02",
+  "level": 2,
+  "level_name": {
+    "local": "ເມືອງ",
+    "en": "District"
+  },
+  "name": {
+    "local": "Hinherb",
+    "en": "Hinherb",
+    "slug": "hinherb-vi-02"
+  },
+  "code": {
+    "id": "VI-02",
+    "iso": null
+  },
+  "parent": {
+    "id": "VI",
+    "level": 1,
+    "name": {
+      "local": "Vientiane",
+      "en": "Vientiane Province",
+      "slug": "vientiane-province-vi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "VI",
+      "level": 1,
+      "name": {
+        "local": "Vientiane",
+        "en": "Vientiane Province",
+        "slug": "vientiane-province-vi"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 52
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "18.61",
+    "lon": "102.194"
+  },
+  "metadata": {},
+  "source": {}
+}

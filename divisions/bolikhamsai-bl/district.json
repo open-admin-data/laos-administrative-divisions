@@ -1,0 +1,331 @@
+[
+  {
+    "id": "BL-01",
+    "level": 2,
+    "level_name": {
+      "local": "ເມືອງ",
+      "en": "District"
+    },
+    "name": {
+      "local": "Bolikhanh",
+      "en": "Bolikhanh",
+      "slug": "bolikhanh-bl-01"
+    },
+    "code": {
+      "id": "BL-01",
+      "iso": null
+    },
+    "parent": {
+      "id": "BL",
+      "level": 1,
+      "name": {
+        "local": "Bolikhamsai",
+        "en": "Bolikhamsai",
+        "slug": "bolikhamsai-bl"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BL",
+        "level": 1,
+        "name": {
+          "local": "Bolikhamsai",
+          "en": "Bolikhamsai",
+          "slug": "bolikhamsai-bl"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 41
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.656",
+      "lon": "103.824"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BL-02",
+    "level": 2,
+    "level_name": {
+      "local": "ເມືອງ",
+      "en": "District"
+    },
+    "name": {
+      "local": "Khamkeuth",
+      "en": "Khamkeuth",
+      "slug": "khamkeuth-bl-02"
+    },
+    "code": {
+      "id": "BL-02",
+      "iso": null
+    },
+    "parent": {
+      "id": "BL",
+      "level": 1,
+      "name": {
+        "local": "Bolikhamsai",
+        "en": "Bolikhamsai",
+        "slug": "bolikhamsai-bl"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BL",
+        "level": 1,
+        "name": {
+          "local": "Bolikhamsai",
+          "en": "Bolikhamsai",
+          "slug": "bolikhamsai-bl"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 138
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.188",
+      "lon": "104.952"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BL-03",
+    "level": 2,
+    "level_name": {
+      "local": "ເມືອງ",
+      "en": "District"
+    },
+    "name": {
+      "local": "Pakkading",
+      "en": "Pakkading",
+      "slug": "pakkading-bl-03"
+    },
+    "code": {
+      "id": "BL-03",
+      "iso": null
+    },
+    "parent": {
+      "id": "BL",
+      "level": 1,
+      "name": {
+        "local": "Bolikhamsai",
+        "en": "Bolikhamsai",
+        "slug": "bolikhamsai-bl"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BL",
+        "level": 1,
+        "name": {
+          "local": "Bolikhamsai",
+          "en": "Bolikhamsai",
+          "slug": "bolikhamsai-bl"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 55
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.398",
+      "lon": "104.112"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BL-04",
+    "level": 2,
+    "level_name": {
+      "local": "ເມືອງ",
+      "en": "District"
+    },
+    "name": {
+      "local": "Pakxane",
+      "en": "Pakxane",
+      "slug": "pakxane-bl-04"
+    },
+    "code": {
+      "id": "BL-04",
+      "iso": null
+    },
+    "parent": {
+      "id": "BL",
+      "level": 1,
+      "name": {
+        "local": "Bolikhamsai",
+        "en": "Bolikhamsai",
+        "slug": "bolikhamsai-bl"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BL",
+        "level": 1,
+        "name": {
+          "local": "Bolikhamsai",
+          "en": "Bolikhamsai",
+          "slug": "bolikhamsai-bl"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 73
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.451",
+      "lon": "103.742"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BL-05",
+    "level": 2,
+    "level_name": {
+      "local": "ເມືອງ",
+      "en": "District"
+    },
+    "name": {
+      "local": "Thaphabath",
+      "en": "Thaphabath",
+      "slug": "thaphabath-bl-05"
+    },
+    "code": {
+      "id": "BL-05",
+      "iso": null
+    },
+    "parent": {
+      "id": "BL",
+      "level": 1,
+      "name": {
+        "local": "Bolikhamsai",
+        "en": "Bolikhamsai",
+        "slug": "bolikhamsai-bl"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BL",
+        "level": 1,
+        "name": {
+          "local": "Bolikhamsai",
+          "en": "Bolikhamsai",
+          "slug": "bolikhamsai-bl"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 35
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.38",
+      "lon": "103.109"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BL-06",
+    "level": 2,
+    "level_name": {
+      "local": "ເມືອງ",
+      "en": "District"
+    },
+    "name": {
+      "local": "Viengthong",
+      "en": "Viengthong",
+      "slug": "viengthong-bl-06"
+    },
+    "code": {
+      "id": "BL-06",
+      "iso": null
+    },
+    "parent": {
+      "id": "BL",
+      "level": 1,
+      "name": {
+        "local": "Bolikhamsai",
+        "en": "Bolikhamsai",
+        "slug": "bolikhamsai-bl"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BL",
+        "level": 1,
+        "name": {
+          "local": "Bolikhamsai",
+          "en": "Bolikhamsai",
+          "slug": "bolikhamsai-bl"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 94
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.817",
+      "lon": "104.389"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BL-07",
+    "level": 2,
+    "level_name": {
+      "local": "ເມືອງ",
+      "en": "District"
+    },
+    "name": {
+      "local": "Xaychamphone",
+      "en": "Xaychamphone",
+      "slug": "xaychamphone-bl-07"
+    },
+    "code": {
+      "id": "BL-07",
+      "iso": null
+    },
+    "parent": {
+      "id": "BL",
+      "level": 1,
+      "name": {
+        "local": "Bolikhamsai",
+        "en": "Bolikhamsai",
+        "slug": "bolikhamsai-bl"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BL",
+        "level": 1,
+        "name": {
+          "local": "Bolikhamsai",
+          "en": "Bolikhamsai",
+          "slug": "bolikhamsai-bl"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 51
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.583",
+      "lon": "104.92"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

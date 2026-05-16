@@ -1,0 +1,378 @@
+[
+  {
+    "id": "SL-01",
+    "level": 2,
+    "level_name": {
+      "local": "ເມືອງ",
+      "en": "District"
+    },
+    "name": {
+      "local": "Khongxedone",
+      "en": "Khongxedone",
+      "slug": "khongxedone-sl-01"
+    },
+    "code": {
+      "id": "SL-01",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL",
+      "level": 1,
+      "name": {
+        "local": "Salavan",
+        "en": "Salavan",
+        "slug": "salavan-sl"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL",
+        "level": 1,
+        "name": {
+          "local": "Salavan",
+          "en": "Salavan",
+          "slug": "salavan-sl"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 95
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.557",
+      "lon": "105.743"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL-02",
+    "level": 2,
+    "level_name": {
+      "local": "ເມືອງ",
+      "en": "District"
+    },
+    "name": {
+      "local": "Lakhonepheng",
+      "en": "Lakhonepheng",
+      "slug": "lakhonepheng-sl-02"
+    },
+    "code": {
+      "id": "SL-02",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL",
+      "level": 1,
+      "name": {
+        "local": "Salavan",
+        "en": "Salavan",
+        "slug": "salavan-sl"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL",
+        "level": 1,
+        "name": {
+          "local": "Salavan",
+          "en": "Salavan",
+          "slug": "salavan-sl"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 73
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.853",
+      "lon": "105.622"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL-03",
+    "level": 2,
+    "level_name": {
+      "local": "ເມືອງ",
+      "en": "District"
+    },
+    "name": {
+      "local": "Lao Ngarm",
+      "en": "Lao Ngarm",
+      "slug": "lao-ngarm-sl-03"
+    },
+    "code": {
+      "id": "SL-03",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL",
+      "level": 1,
+      "name": {
+        "local": "Salavan",
+        "en": "Salavan",
+        "slug": "salavan-sl"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL",
+        "level": 1,
+        "name": {
+          "local": "Salavan",
+          "en": "Salavan",
+          "slug": "salavan-sl"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 111
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.496",
+      "lon": "106.182"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL-04",
+    "level": 2,
+    "level_name": {
+      "local": "ເມືອງ",
+      "en": "District"
+    },
+    "name": {
+      "local": "Samuoi",
+      "en": "Samuoi",
+      "slug": "samuoi-sl-04"
+    },
+    "code": {
+      "id": "SL-04",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL",
+      "level": 1,
+      "name": {
+        "local": "Salavan",
+        "en": "Salavan",
+        "slug": "salavan-sl"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL",
+        "level": 1,
+        "name": {
+          "local": "Salavan",
+          "en": "Salavan",
+          "slug": "salavan-sl"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 80
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.395",
+      "lon": "106.894"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL-05",
+    "level": 2,
+    "level_name": {
+      "local": "ເມືອງ",
+      "en": "District"
+    },
+    "name": {
+      "local": "Saravane",
+      "en": "Saravane",
+      "slug": "saravane-sl-05"
+    },
+    "code": {
+      "id": "SL-05",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL",
+      "level": 1,
+      "name": {
+        "local": "Salavan",
+        "en": "Salavan",
+        "slug": "salavan-sl"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL",
+        "level": 1,
+        "name": {
+          "local": "Salavan",
+          "en": "Salavan",
+          "slug": "salavan-sl"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 154
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.621",
+      "lon": "106.381"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL-06",
+    "level": 2,
+    "level_name": {
+      "local": "ເມືອງ",
+      "en": "District"
+    },
+    "name": {
+      "local": "Ta Oi",
+      "en": "Ta Oi",
+      "slug": "ta-oi-sl-06"
+    },
+    "code": {
+      "id": "SL-06",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL",
+      "level": 1,
+      "name": {
+        "local": "Salavan",
+        "en": "Salavan",
+        "slug": "salavan-sl"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL",
+        "level": 1,
+        "name": {
+          "local": "Salavan",
+          "en": "Salavan",
+          "slug": "salavan-sl"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 137
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.149",
+      "lon": "106.796"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL-07",
+    "level": 2,
+    "level_name": {
+      "local": "ເມືອງ",
+      "en": "District"
+    },
+    "name": {
+      "local": "Toomlarn",
+      "en": "Toomlarn",
+      "slug": "toomlarn-sl-07"
+    },
+    "code": {
+      "id": "SL-07",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL",
+      "level": 1,
+      "name": {
+        "local": "Salavan",
+        "en": "Salavan",
+        "slug": "salavan-sl"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL",
+        "level": 1,
+        "name": {
+          "local": "Salavan",
+          "en": "Salavan",
+          "slug": "salavan-sl"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 69
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.047",
+      "lon": "106.21"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL-08",
+    "level": 2,
+    "level_name": {
+      "local": "ເມືອງ",
+      "en": "District"
+    },
+    "name": {
+      "local": "Vapy",
+      "en": "Vapy",
+      "slug": "vapy-sl-08"
+    },
+    "code": {
+      "id": "SL-08",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL",
+      "level": 1,
+      "name": {
+        "local": "Salavan",
+        "en": "Salavan",
+        "slug": "salavan-sl"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL",
+        "level": 1,
+        "name": {
+          "local": "Salavan",
+          "en": "Salavan",
+          "slug": "salavan-sl"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 57
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.773",
+      "lon": "105.952"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

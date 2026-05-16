@@ -1,0 +1,47 @@
+{
+  "id": "SL-02",
+  "level": 2,
+  "level_name": {
+    "local": "ເມືອງ",
+    "en": "District"
+  },
+  "name": {
+    "local": "Lakhonepheng",
+    "en": "Lakhonepheng",
+    "slug": "lakhonepheng-sl-02"
+  },
+  "code": {
+    "id": "SL-02",
+    "iso": null
+  },
+  "parent": {
+    "id": "SL",
+    "level": 1,
+    "name": {
+      "local": "Salavan",
+      "en": "Salavan",
+      "slug": "salavan-sl"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "SL",
+      "level": 1,
+      "name": {
+        "local": "Salavan",
+        "en": "Salavan",
+        "slug": "salavan-sl"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 73
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.853",
+    "lon": "105.622"
+  },
+  "metadata": {},
+  "source": {}
+}

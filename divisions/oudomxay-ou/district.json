@@ -1,0 +1,331 @@
+[
+  {
+    "id": "OU-01",
+    "level": 2,
+    "level_name": {
+      "local": "ເມືອງ",
+      "en": "District"
+    },
+    "name": {
+      "local": "Beng",
+      "en": "Beng",
+      "slug": "beng-ou-01"
+    },
+    "code": {
+      "id": "OU-01",
+      "iso": null
+    },
+    "parent": {
+      "id": "OU",
+      "level": 1,
+      "name": {
+        "local": "Oudomxay",
+        "en": "Oudomxay",
+        "slug": "oudomxay-ou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "OU",
+        "level": 1,
+        "name": {
+          "local": "Oudomxay",
+          "en": "Oudomxay",
+          "slug": "oudomxay-ou"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 114
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.339",
+      "lon": "101.752"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "OU-02",
+    "level": 2,
+    "level_name": {
+      "local": "ເມືອງ",
+      "en": "District"
+    },
+    "name": {
+      "local": "Hoon",
+      "en": "Hoon",
+      "slug": "hoon-ou-02"
+    },
+    "code": {
+      "id": "OU-02",
+      "iso": null
+    },
+    "parent": {
+      "id": "OU",
+      "level": 1,
+      "name": {
+        "local": "Oudomxay",
+        "en": "Oudomxay",
+        "slug": "oudomxay-ou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "OU",
+        "level": 1,
+        "name": {
+          "local": "Oudomxay",
+          "en": "Oudomxay",
+          "slug": "oudomxay-ou"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 144
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.062",
+      "lon": "101.419"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "OU-03",
+    "level": 2,
+    "level_name": {
+      "local": "ເມືອງ",
+      "en": "District"
+    },
+    "name": {
+      "local": "La",
+      "en": "La",
+      "slug": "la-ou-03"
+    },
+    "code": {
+      "id": "OU-03",
+      "iso": null
+    },
+    "parent": {
+      "id": "OU",
+      "level": 1,
+      "name": {
+        "local": "Oudomxay",
+        "en": "Oudomxay",
+        "slug": "oudomxay-ou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "OU",
+        "level": 1,
+        "name": {
+          "local": "Oudomxay",
+          "en": "Oudomxay",
+          "slug": "oudomxay-ou"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 102
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.931",
+      "lon": "102.094"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "OU-04",
+    "level": 2,
+    "level_name": {
+      "local": "ເມືອງ",
+      "en": "District"
+    },
+    "name": {
+      "local": "Namor",
+      "en": "Namor",
+      "slug": "namor-ou-04"
+    },
+    "code": {
+      "id": "OU-04",
+      "iso": null
+    },
+    "parent": {
+      "id": "OU",
+      "level": 1,
+      "name": {
+        "local": "Oudomxay",
+        "en": "Oudomxay",
+        "slug": "oudomxay-ou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "OU",
+        "level": 1,
+        "name": {
+          "local": "Oudomxay",
+          "en": "Oudomxay",
+          "slug": "oudomxay-ou"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 120
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.939",
+      "lon": "101.708"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "OU-05",
+    "level": 2,
+    "level_name": {
+      "local": "ເມືອງ",
+      "en": "District"
+    },
+    "name": {
+      "local": "Nga",
+      "en": "Nga",
+      "slug": "nga-ou-05"
+    },
+    "code": {
+      "id": "OU-05",
+      "iso": null
+    },
+    "parent": {
+      "id": "OU",
+      "level": 1,
+      "name": {
+        "local": "Oudomxay",
+        "en": "Oudomxay",
+        "slug": "oudomxay-ou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "OU",
+        "level": 1,
+        "name": {
+          "local": "Oudomxay",
+          "en": "Oudomxay",
+          "slug": "oudomxay-ou"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 132
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.106",
+      "lon": "101.853"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "OU-06",
+    "level": 2,
+    "level_name": {
+      "local": "ເມືອງ",
+      "en": "District"
+    },
+    "name": {
+      "local": "Pakbeng",
+      "en": "Pakbeng",
+      "slug": "pakbeng-ou-06"
+    },
+    "code": {
+      "id": "OU-06",
+      "iso": null
+    },
+    "parent": {
+      "id": "OU",
+      "level": 1,
+      "name": {
+        "local": "Oudomxay",
+        "en": "Oudomxay",
+        "slug": "oudomxay-ou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "OU",
+        "level": 1,
+        "name": {
+          "local": "Oudomxay",
+          "en": "Oudomxay",
+          "slug": "oudomxay-ou"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 108
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.906",
+      "lon": "101.13"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "OU-07",
+    "level": 2,
+    "level_name": {
+      "local": "ເມືອງ",
+      "en": "District"
+    },
+    "name": {
+      "local": "Xay",
+      "en": "Xay",
+      "slug": "xay-ou-07"
+    },
+    "code": {
+      "id": "OU-07",
+      "iso": null
+    },
+    "parent": {
+      "id": "OU",
+      "level": 1,
+      "name": {
+        "local": "Oudomxay",
+        "en": "Oudomxay",
+        "slug": "oudomxay-ou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "OU",
+        "level": 1,
+        "name": {
+          "local": "Oudomxay",
+          "en": "Oudomxay",
+          "slug": "oudomxay-ou"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 169
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.678",
+      "lon": "101.969"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

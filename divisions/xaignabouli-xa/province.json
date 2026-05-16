@@ -1,0 +1,30 @@
+{
+  "id": "XA",
+  "level": 1,
+  "level_name": {
+    "local": "ແຂວງ",
+    "en": "Province"
+  },
+  "name": {
+    "local": "Xaignabouli",
+    "en": "Xaignabouli",
+    "slug": "xaignabouli-xa"
+  },
+  "code": {
+    "id": "XA",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 11,
+    "village": 610
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "18.794",
+    "lon": "101.181"
+  },
+  "metadata": {},
+  "source": {}
+}

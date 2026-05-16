@@ -1,0 +1,47 @@
+{
+  "id": "XI-09",
+  "level": 2,
+  "level_name": {
+    "local": "ເມືອງ",
+    "en": "District"
+  },
+  "name": {
+    "local": "Phoukhoune",
+    "en": "Phoukhoune",
+    "slug": "phoukhoune-xi-09"
+  },
+  "code": {
+    "id": "XI-09",
+    "iso": null
+  },
+  "parent": {
+    "id": "XI",
+    "level": 1,
+    "name": {
+      "local": "Xiangkhouang",
+      "en": "Xiangkhouang",
+      "slug": "xiangkhouang-xi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "XI",
+      "level": 1,
+      "name": {
+        "local": "Xiangkhouang",
+        "en": "Xiangkhouang",
+        "slug": "xiangkhouang-xi"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 121
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "19.525",
+    "lon": "102.694"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,47 @@
+{
+  "id": "VI-10",
+  "level": 2,
+  "level_name": {
+    "local": "ເມືອງ",
+    "en": "District"
+  },
+  "name": {
+    "local": "Viengkham",
+    "en": "Viengkham",
+    "slug": "viengkham-vi-10"
+  },
+  "code": {
+    "id": "VI-10",
+    "iso": null
+  },
+  "parent": {
+    "id": "VI",
+    "level": 1,
+    "name": {
+      "local": "Vientiane",
+      "en": "Vientiane Province",
+      "slug": "vientiane-province-vi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "VI",
+      "level": 1,
+      "name": {
+        "local": "Vientiane",
+        "en": "Vientiane Province",
+        "slug": "vientiane-province-vi"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 0
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "18.371",
+    "lon": "102.518"
+  },
+  "metadata": {},
+  "source": {}
+}

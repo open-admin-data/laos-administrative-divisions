@@ -1,0 +1,47 @@
+{
+  "id": "XA-11",
+  "level": 2,
+  "level_name": {
+    "local": "ເມືອງ",
+    "en": "District"
+  },
+  "name": {
+    "local": "Xienghone",
+    "en": "Xienghone",
+    "slug": "xienghone-xa-11"
+  },
+  "code": {
+    "id": "XA-11",
+    "iso": null
+  },
+  "parent": {
+    "id": "XA",
+    "level": 1,
+    "name": {
+      "local": "Xaignabouli",
+      "en": "Xaignabouli",
+      "slug": "xaignabouli-xa"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "XA",
+      "level": 1,
+      "name": {
+        "local": "Xaignabouli",
+        "en": "Xaignabouli",
+        "slug": "xaignabouli-xa"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 97
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "19.73",
+    "lon": "100.862"
+  },
+  "metadata": {},
+  "source": {}
+}

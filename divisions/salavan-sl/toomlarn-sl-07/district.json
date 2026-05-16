@@ -1,0 +1,47 @@
+{
+  "id": "SL-07",
+  "level": 2,
+  "level_name": {
+    "local": "ເມືອງ",
+    "en": "District"
+  },
+  "name": {
+    "local": "Toomlarn",
+    "en": "Toomlarn",
+    "slug": "toomlarn-sl-07"
+  },
+  "code": {
+    "id": "SL-07",
+    "iso": null
+  },
+  "parent": {
+    "id": "SL",
+    "level": 1,
+    "name": {
+      "local": "Salavan",
+      "en": "Salavan",
+      "slug": "salavan-sl"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "SL",
+      "level": 1,
+      "name": {
+        "local": "Salavan",
+        "en": "Salavan",
+        "slug": "salavan-sl"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 69
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.047",
+    "lon": "106.21"
+  },
+  "metadata": {},
+  "source": {}
+}

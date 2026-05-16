@@ -1,0 +1,47 @@
+{
+  "id": "BL-02",
+  "level": 2,
+  "level_name": {
+    "local": "ເມືອງ",
+    "en": "District"
+  },
+  "name": {
+    "local": "Khamkeuth",
+    "en": "Khamkeuth",
+    "slug": "khamkeuth-bl-02"
+  },
+  "code": {
+    "id": "BL-02",
+    "iso": null
+  },
+  "parent": {
+    "id": "BL",
+    "level": 1,
+    "name": {
+      "local": "Bolikhamsai",
+      "en": "Bolikhamsai",
+      "slug": "bolikhamsai-bl"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BL",
+      "level": 1,
+      "name": {
+        "local": "Bolikhamsai",
+        "en": "Bolikhamsai",
+        "slug": "bolikhamsai-bl"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 138
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "18.188",
+    "lon": "104.952"
+  },
+  "metadata": {},
+  "source": {}
+}

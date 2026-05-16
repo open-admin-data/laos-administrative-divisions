@@ -1,0 +1,3296 @@
+[
+  {
+    "id": "1941791",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Champa",
+      "en": "Ban Champa",
+      "slug": "ban-champa-1941791"
+    },
+    "code": {
+      "id": "1941791",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA-02",
+      "level": 2,
+      "name": {
+        "local": "Hongsa",
+        "en": "Hongsa",
+        "slug": "hongsa-xa-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      },
+      {
+        "id": "XA-02",
+        "level": 2,
+        "name": {
+          "local": "Hongsa",
+          "en": "Hongsa",
+          "slug": "hongsa-xa-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.705",
+      "lon": "101.294"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1941776",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Gnai",
+      "en": "Ban Gnai",
+      "slug": "ban-gnai-1941776"
+    },
+    "code": {
+      "id": "1941776",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA-02",
+      "level": 2,
+      "name": {
+        "local": "Hongsa",
+        "en": "Hongsa",
+        "slug": "hongsa-xa-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      },
+      {
+        "id": "XA-02",
+        "level": 2,
+        "name": {
+          "local": "Hongsa",
+          "en": "Hongsa",
+          "slug": "hongsa-xa-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.708",
+      "lon": "101.331"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1655221",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Han",
+      "en": "Ban Han",
+      "slug": "ban-han-1655221"
+    },
+    "code": {
+      "id": "1655221",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA-02",
+      "level": 2,
+      "name": {
+        "local": "Hongsa",
+        "en": "Hongsa",
+        "slug": "hongsa-xa-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      },
+      {
+        "id": "XA-02",
+        "level": 2,
+        "name": {
+          "local": "Hongsa",
+          "en": "Hongsa",
+          "slug": "hongsa-xa-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.68",
+      "lon": "101.29"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1953898",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houay-Ang",
+      "en": "Ban Houay-Ang",
+      "slug": "ban-houay-ang-1953898"
+    },
+    "code": {
+      "id": "1953898",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA-02",
+      "level": 2,
+      "name": {
+        "local": "Hongsa",
+        "en": "Hongsa",
+        "slug": "hongsa-xa-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      },
+      {
+        "id": "XA-02",
+        "level": 2,
+        "name": {
+          "local": "Hongsa",
+          "en": "Hongsa",
+          "slug": "hongsa-xa-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.815",
+      "lon": "101.591"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1953797",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houaydou",
+      "en": "Ban Houaydou",
+      "slug": "ban-houaydou-1953797"
+    },
+    "code": {
+      "id": "1953797",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA-02",
+      "level": 2,
+      "name": {
+        "local": "Hongsa",
+        "en": "Hongsa",
+        "slug": "hongsa-xa-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      },
+      {
+        "id": "XA-02",
+        "level": 2,
+        "name": {
+          "local": "Hongsa",
+          "en": "Hongsa",
+          "slug": "hongsa-xa-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.797",
+      "lon": "101.505"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1941761",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houayhok",
+      "en": "Ban Houayhok",
+      "slug": "ban-houayhok-1941761"
+    },
+    "code": {
+      "id": "1941761",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA-02",
+      "level": 2,
+      "name": {
+        "local": "Hongsa",
+        "en": "Hongsa",
+        "slug": "hongsa-xa-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      },
+      {
+        "id": "XA-02",
+        "level": 2,
+        "name": {
+          "local": "Hongsa",
+          "en": "Hongsa",
+          "slug": "hongsa-xa-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.73",
+      "lon": "101.452"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1941796",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houaykhai",
+      "en": "Ban Houaykhai",
+      "slug": "ban-houaykhai-1941796"
+    },
+    "code": {
+      "id": "1941796",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA-02",
+      "level": 2,
+      "name": {
+        "local": "Hongsa",
+        "en": "Hongsa",
+        "slug": "hongsa-xa-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      },
+      {
+        "id": "XA-02",
+        "level": 2,
+        "name": {
+          "local": "Hongsa",
+          "en": "Hongsa",
+          "slug": "hongsa-xa-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.686",
+      "lon": "101.262"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1953294",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houaykhai-Nua",
+      "en": "Ban Houaykhai-Nua",
+      "slug": "ban-houaykhai-nua-1953294"
+    },
+    "code": {
+      "id": "1953294",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA-02",
+      "level": 2,
+      "name": {
+        "local": "Hongsa",
+        "en": "Hongsa",
+        "slug": "hongsa-xa-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      },
+      {
+        "id": "XA-02",
+        "level": 2,
+        "name": {
+          "local": "Hongsa",
+          "en": "Hongsa",
+          "slug": "hongsa-xa-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.752",
+      "lon": "101.26"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1953295",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houaykhai-Tai",
+      "en": "Ban Houaykhai-Tai",
+      "slug": "ban-houaykhai-tai-1953295"
+    },
+    "code": {
+      "id": "1953295",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA-02",
+      "level": 2,
+      "name": {
+        "local": "Hongsa",
+        "en": "Hongsa",
+        "slug": "hongsa-xa-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      },
+      {
+        "id": "XA-02",
+        "level": 2,
+        "name": {
+          "local": "Hongsa",
+          "en": "Hongsa",
+          "slug": "hongsa-xa-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.749",
+      "lon": "101.272"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1663819",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houaykhông",
+      "en": "Ban Houaykhong",
+      "slug": "ban-houaykhong-1663819"
+    },
+    "code": {
+      "id": "1663819",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA-02",
+      "level": 2,
+      "name": {
+        "local": "Hongsa",
+        "en": "Hongsa",
+        "slug": "hongsa-xa-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      },
+      {
+        "id": "XA-02",
+        "level": 2,
+        "name": {
+          "local": "Hongsa",
+          "en": "Hongsa",
+          "slug": "hongsa-xa-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.814",
+      "lon": "101.325"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1953800",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houaylai-Gnai",
+      "en": "Ban Houaylai-Gnai",
+      "slug": "ban-houaylai-gnai-1953800"
+    },
+    "code": {
+      "id": "1953800",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA-02",
+      "level": 2,
+      "name": {
+        "local": "Hongsa",
+        "en": "Hongsa",
+        "slug": "hongsa-xa-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      },
+      {
+        "id": "XA-02",
+        "level": 2,
+        "name": {
+          "local": "Hongsa",
+          "en": "Hongsa",
+          "slug": "hongsa-xa-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.808",
+      "lon": "101.501"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1953271",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houaylai-Noy",
+      "en": "Ban Houaylai-Noy",
+      "slug": "ban-houaylai-noy-1953271"
+    },
+    "code": {
+      "id": "1953271",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA-02",
+      "level": 2,
+      "name": {
+        "local": "Hongsa",
+        "en": "Hongsa",
+        "slug": "hongsa-xa-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      },
+      {
+        "id": "XA-02",
+        "level": 2,
+        "name": {
+          "local": "Hongsa",
+          "en": "Hongsa",
+          "slug": "hongsa-xa-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.798",
+      "lon": "101.463"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1953774",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houaylap",
+      "en": "Ban Houaylap",
+      "slug": "ban-houaylap-1953774"
+    },
+    "code": {
+      "id": "1953774",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA-02",
+      "level": 2,
+      "name": {
+        "local": "Hongsa",
+        "en": "Hongsa",
+        "slug": "hongsa-xa-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      },
+      {
+        "id": "XA-02",
+        "level": 2,
+        "name": {
+          "local": "Hongsa",
+          "en": "Hongsa",
+          "slug": "hongsa-xa-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.688",
+      "lon": "101.653"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1953767",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houaylông",
+      "en": "Ban Houaylong",
+      "slug": "ban-houaylong-1953767"
+    },
+    "code": {
+      "id": "1953767",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA-02",
+      "level": 2,
+      "name": {
+        "local": "Hongsa",
+        "en": "Hongsa",
+        "slug": "hongsa-xa-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      },
+      {
+        "id": "XA-02",
+        "level": 2,
+        "name": {
+          "local": "Hongsa",
+          "en": "Hongsa",
+          "slug": "hongsa-xa-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.674",
+      "lon": "101.682"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1953795",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houayngang",
+      "en": "Ban Houayngang",
+      "slug": "ban-houayngang-1953795"
+    },
+    "code": {
+      "id": "1953795",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA-02",
+      "level": 2,
+      "name": {
+        "local": "Hongsa",
+        "en": "Hongsa",
+        "slug": "hongsa-xa-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      },
+      {
+        "id": "XA-02",
+        "level": 2,
+        "name": {
+          "local": "Hongsa",
+          "en": "Hongsa",
+          "slug": "hongsa-xa-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.687",
+      "lon": "101.569"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1953269",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houaytap",
+      "en": "Ban Houaytap",
+      "slug": "ban-houaytap-1953269"
+    },
+    "code": {
+      "id": "1953269",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA-02",
+      "level": 2,
+      "name": {
+        "local": "Hongsa",
+        "en": "Hongsa",
+        "slug": "hongsa-xa-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      },
+      {
+        "id": "XA-02",
+        "level": 2,
+        "name": {
+          "local": "Hongsa",
+          "en": "Hongsa",
+          "slug": "hongsa-xa-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.784",
+      "lon": "101.431"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1953894",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houayxing",
+      "en": "Ban Houayxing",
+      "slug": "ban-houayxing-1953894"
+    },
+    "code": {
+      "id": "1953894",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA-02",
+      "level": 2,
+      "name": {
+        "local": "Hongsa",
+        "en": "Hongsa",
+        "slug": "hongsa-xa-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      },
+      {
+        "id": "XA-02",
+        "level": 2,
+        "name": {
+          "local": "Hongsa",
+          "en": "Hongsa",
+          "slug": "hongsa-xa-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.744",
+      "lon": "101.617"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1953285",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houayxong",
+      "en": "Ban Houayxong",
+      "slug": "ban-houayxong-1953285"
+    },
+    "code": {
+      "id": "1953285",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA-02",
+      "level": 2,
+      "name": {
+        "local": "Hongsa",
+        "en": "Hongsa",
+        "slug": "hongsa-xa-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      },
+      {
+        "id": "XA-02",
+        "level": 2,
+        "name": {
+          "local": "Hongsa",
+          "en": "Hongsa",
+          "slug": "hongsa-xa-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.83",
+      "lon": "101.295"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1953899",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houayxun",
+      "en": "Ban Houayxun",
+      "slug": "ban-houayxun-1953899"
+    },
+    "code": {
+      "id": "1953899",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA-02",
+      "level": 2,
+      "name": {
+        "local": "Hongsa",
+        "en": "Hongsa",
+        "slug": "hongsa-xa-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      },
+      {
+        "id": "XA-02",
+        "level": 2,
+        "name": {
+          "local": "Hongsa",
+          "en": "Hongsa",
+          "slug": "hongsa-xa-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.798",
+      "lon": "101.556"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1953900",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houayyén",
+      "en": "Ban Houayyen",
+      "slug": "ban-houayyen-1953900"
+    },
+    "code": {
+      "id": "1953900",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA-02",
+      "level": 2,
+      "name": {
+        "local": "Hongsa",
+        "en": "Hongsa",
+        "slug": "hongsa-xa-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      },
+      {
+        "id": "XA-02",
+        "level": 2,
+        "name": {
+          "local": "Hongsa",
+          "en": "Hongsa",
+          "slug": "hongsa-xa-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.794",
+      "lon": "101.576"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1953845",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Kènghang-Noy",
+      "en": "Ban Kenghang-Noy",
+      "slug": "ban-kenghang-noy-1953845"
+    },
+    "code": {
+      "id": "1953845",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA-02",
+      "level": 2,
+      "name": {
+        "local": "Hongsa",
+        "en": "Hongsa",
+        "slug": "hongsa-xa-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      },
+      {
+        "id": "XA-02",
+        "level": 2,
+        "name": {
+          "local": "Hongsa",
+          "en": "Hongsa",
+          "slug": "hongsa-xa-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.893",
+      "lon": "101.669"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1662972",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Khôk-Ek",
+      "en": "Ban Khok-Ek",
+      "slug": "ban-khok-ek-1662972"
+    },
+    "code": {
+      "id": "1662972",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA-02",
+      "level": 2,
+      "name": {
+        "local": "Hongsa",
+        "en": "Hongsa",
+        "slug": "hongsa-xa-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      },
+      {
+        "id": "XA-02",
+        "level": 2,
+        "name": {
+          "local": "Hongsa",
+          "en": "Hongsa",
+          "slug": "hongsa-xa-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.836",
+      "lon": "101.619"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1941765",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Kiougniou",
+      "en": "Ban Kiougniou",
+      "slug": "ban-kiougniou-1941765"
+    },
+    "code": {
+      "id": "1941765",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA-02",
+      "level": 2,
+      "name": {
+        "local": "Hongsa",
+        "en": "Hongsa",
+        "slug": "hongsa-xa-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      },
+      {
+        "id": "XA-02",
+        "level": 2,
+        "name": {
+          "local": "Hongsa",
+          "en": "Hongsa",
+          "slug": "hongsa-xa-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.682",
+      "lon": "101.422"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1941787",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Kioumaktèk",
+      "en": "Ban Kioumaktek",
+      "slug": "ban-kioumaktek-1941787"
+    },
+    "code": {
+      "id": "1941787",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA-02",
+      "level": 2,
+      "name": {
+        "local": "Hongsa",
+        "en": "Hongsa",
+        "slug": "hongsa-xa-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      },
+      {
+        "id": "XA-02",
+        "level": 2,
+        "name": {
+          "local": "Hongsa",
+          "en": "Hongsa",
+          "slug": "hongsa-xa-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.728",
+      "lon": "101.282"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1941775",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Kohôk",
+      "en": "Ban Kohok",
+      "slug": "ban-kohok-1941775"
+    },
+    "code": {
+      "id": "1941775",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA-02",
+      "level": 2,
+      "name": {
+        "local": "Hongsa",
+        "en": "Hongsa",
+        "slug": "hongsa-xa-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      },
+      {
+        "id": "XA-02",
+        "level": 2,
+        "name": {
+          "local": "Hongsa",
+          "en": "Hongsa",
+          "slug": "hongsa-xa-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.712",
+      "lon": "101.32"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1941773",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Kôkko",
+      "en": "Ban Kokko",
+      "slug": "ban-kokko-1941773"
+    },
+    "code": {
+      "id": "1941773",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA-02",
+      "level": 2,
+      "name": {
+        "local": "Hongsa",
+        "en": "Hongsa",
+        "slug": "hongsa-xa-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      },
+      {
+        "id": "XA-02",
+        "level": 2,
+        "name": {
+          "local": "Hongsa",
+          "en": "Hongsa",
+          "slug": "hongsa-xa-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.708",
+      "lon": "101.353"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1941771",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nachan",
+      "en": "Ban Nachan",
+      "slug": "ban-nachan-1941771"
+    },
+    "code": {
+      "id": "1941771",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA-02",
+      "level": 2,
+      "name": {
+        "local": "Hongsa",
+        "en": "Hongsa",
+        "slug": "hongsa-xa-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      },
+      {
+        "id": "XA-02",
+        "level": 2,
+        "name": {
+          "local": "Hongsa",
+          "en": "Hongsa",
+          "slug": "hongsa-xa-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.711",
+      "lon": "101.379"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1941794",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nalam",
+      "en": "Ban Nalam",
+      "slug": "ban-nalam-1941794"
+    },
+    "code": {
+      "id": "1941794",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA-02",
+      "level": 2,
+      "name": {
+        "local": "Hongsa",
+        "en": "Hongsa",
+        "slug": "hongsa-xa-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      },
+      {
+        "id": "XA-02",
+        "level": 2,
+        "name": {
+          "local": "Hongsa",
+          "en": "Hongsa",
+          "slug": "hongsa-xa-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.669",
+      "lon": "101.278"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1941785",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Namaignôm",
+      "en": "Ban Namaignom",
+      "slug": "ban-namaignom-1941785"
+    },
+    "code": {
+      "id": "1941785",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA-02",
+      "level": 2,
+      "name": {
+        "local": "Hongsa",
+        "en": "Hongsa",
+        "slug": "hongsa-xa-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      },
+      {
+        "id": "XA-02",
+        "level": 2,
+        "name": {
+          "local": "Hongsa",
+          "en": "Hongsa",
+          "slug": "hongsa-xa-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.741",
+      "lon": "101.319"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1661493",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Namgnang",
+      "en": "Ban Namgnang",
+      "slug": "ban-namgnang-1661493"
+    },
+    "code": {
+      "id": "1661493",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA-02",
+      "level": 2,
+      "name": {
+        "local": "Hongsa",
+        "en": "Hongsa",
+        "slug": "hongsa-xa-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      },
+      {
+        "id": "XA-02",
+        "level": 2,
+        "name": {
+          "local": "Hongsa",
+          "en": "Hongsa",
+          "slug": "hongsa-xa-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.631",
+      "lon": "101.284"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1661406",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Namsip",
+      "en": "Ban Namsip",
+      "slug": "ban-namsip-1661406"
+    },
+    "code": {
+      "id": "1661406",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA-02",
+      "level": 2,
+      "name": {
+        "local": "Hongsa",
+        "en": "Hongsa",
+        "slug": "hongsa-xa-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      },
+      {
+        "id": "XA-02",
+        "level": 2,
+        "name": {
+          "local": "Hongsa",
+          "en": "Hongsa",
+          "slug": "hongsa-xa-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.557",
+      "lon": "101.299"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1941763",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nanakèn",
+      "en": "Ban Nanaken",
+      "slug": "ban-nanaken-1941763"
+    },
+    "code": {
+      "id": "1941763",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA-02",
+      "level": 2,
+      "name": {
+        "local": "Hongsa",
+        "en": "Hongsa",
+        "slug": "hongsa-xa-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      },
+      {
+        "id": "XA-02",
+        "level": 2,
+        "name": {
+          "local": "Hongsa",
+          "en": "Hongsa",
+          "slug": "hongsa-xa-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.69",
+      "lon": "101.406"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1660923",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Napong",
+      "en": "Ban Napong",
+      "slug": "ban-napong-1660923"
+    },
+    "code": {
+      "id": "1660923",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA-02",
+      "level": 2,
+      "name": {
+        "local": "Hongsa",
+        "en": "Hongsa",
+        "slug": "hongsa-xa-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      },
+      {
+        "id": "XA-02",
+        "level": 2,
+        "name": {
+          "local": "Hongsa",
+          "en": "Hongsa",
+          "slug": "hongsa-xa-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.693",
+      "lon": "101.402"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1941781",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nasan",
+      "en": "Ban Nasan",
+      "slug": "ban-nasan-1941781"
+    },
+    "code": {
+      "id": "1941781",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA-02",
+      "level": 2,
+      "name": {
+        "local": "Hongsa",
+        "en": "Hongsa",
+        "slug": "hongsa-xa-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      },
+      {
+        "id": "XA-02",
+        "level": 2,
+        "name": {
+          "local": "Hongsa",
+          "en": "Hongsa",
+          "slug": "hongsa-xa-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.688",
+      "lon": "101.321"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1661056",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Natyang",
+      "en": "Ban Natyang",
+      "slug": "ban-natyang-1661056"
+    },
+    "code": {
+      "id": "1661056",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA-02",
+      "level": 2,
+      "name": {
+        "local": "Hongsa",
+        "en": "Hongsa",
+        "slug": "hongsa-xa-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      },
+      {
+        "id": "XA-02",
+        "level": 2,
+        "name": {
+          "local": "Hongsa",
+          "en": "Hongsa",
+          "slug": "hongsa-xa-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.662",
+      "lon": "101.285"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1941789",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Naxaikham",
+      "en": "Ban Naxaikham",
+      "slug": "ban-naxaikham-1941789"
+    },
+    "code": {
+      "id": "1941789",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA-02",
+      "level": 2,
+      "name": {
+        "local": "Hongsa",
+        "en": "Hongsa",
+        "slug": "hongsa-xa-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      },
+      {
+        "id": "XA-02",
+        "level": 2,
+        "name": {
+          "local": "Hongsa",
+          "en": "Hongsa",
+          "slug": "hongsa-xa-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.694",
+      "lon": "101.257"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1660534",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Pak-En",
+      "en": "Ban Pak-En",
+      "slug": "ban-pak-en-1660534"
+    },
+    "code": {
+      "id": "1660534",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA-02",
+      "level": 2,
+      "name": {
+        "local": "Hongsa",
+        "en": "Hongsa",
+        "slug": "hongsa-xa-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      },
+      {
+        "id": "XA-02",
+        "level": 2,
+        "name": {
+          "local": "Hongsa",
+          "en": "Hongsa",
+          "slug": "hongsa-xa-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.824",
+      "lon": "101.394"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1660484",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Pakngou",
+      "en": "Ban Pakngou",
+      "slug": "ban-pakngou-1660484"
+    },
+    "code": {
+      "id": "1660484",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA-02",
+      "level": 2,
+      "name": {
+        "local": "Hongsa",
+        "en": "Hongsa",
+        "slug": "hongsa-xa-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      },
+      {
+        "id": "XA-02",
+        "level": 2,
+        "name": {
+          "local": "Hongsa",
+          "en": "Hongsa",
+          "slug": "hongsa-xa-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.621",
+      "lon": "101.283"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1660482",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Pakngum",
+      "en": "Ban Pakngum",
+      "slug": "ban-pakngum-1660482"
+    },
+    "code": {
+      "id": "1660482",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA-02",
+      "level": 2,
+      "name": {
+        "local": "Hongsa",
+        "en": "Hongsa",
+        "slug": "hongsa-xa-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      },
+      {
+        "id": "XA-02",
+        "level": 2,
+        "name": {
+          "local": "Hongsa",
+          "en": "Hongsa",
+          "slug": "hongsa-xa-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.815",
+      "lon": "101.255"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1941764",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phadai",
+      "en": "Ban Phadai",
+      "slug": "ban-phadai-1941764"
+    },
+    "code": {
+      "id": "1941764",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA-02",
+      "level": 2,
+      "name": {
+        "local": "Hongsa",
+        "en": "Hongsa",
+        "slug": "hongsa-xa-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      },
+      {
+        "id": "XA-02",
+        "level": 2,
+        "name": {
+          "local": "Hongsa",
+          "en": "Hongsa",
+          "slug": "hongsa-xa-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.682",
+      "lon": "101.416"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1660231",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phalan",
+      "en": "Ban Phalan",
+      "slug": "ban-phalan-1660231"
+    },
+    "code": {
+      "id": "1660231",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA-02",
+      "level": 2,
+      "name": {
+        "local": "Hongsa",
+        "en": "Hongsa",
+        "slug": "hongsa-xa-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      },
+      {
+        "id": "XA-02",
+        "level": 2,
+        "name": {
+          "local": "Hongsa",
+          "en": "Hongsa",
+          "slug": "hongsa-xa-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.651",
+      "lon": "101.437"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1941759",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phalan",
+      "en": "Ban Phalan",
+      "slug": "ban-phalan-1941759"
+    },
+    "code": {
+      "id": "1941759",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA-02",
+      "level": 2,
+      "name": {
+        "local": "Hongsa",
+        "en": "Hongsa",
+        "slug": "hongsa-xa-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      },
+      {
+        "id": "XA-02",
+        "level": 2,
+        "name": {
+          "local": "Hongsa",
+          "en": "Hongsa",
+          "slug": "hongsa-xa-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.652",
+      "lon": "101.437"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1953906",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phia-Gnai",
+      "en": "Ban Phia-Gnai",
+      "slug": "ban-phia-gnai-1953906"
+    },
+    "code": {
+      "id": "1953906",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA-02",
+      "level": 2,
+      "name": {
+        "local": "Hongsa",
+        "en": "Hongsa",
+        "slug": "hongsa-xa-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      },
+      {
+        "id": "XA-02",
+        "level": 2,
+        "name": {
+          "local": "Hongsa",
+          "en": "Hongsa",
+          "slug": "hongsa-xa-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.844",
+      "lon": "101.686"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1953905",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phianou",
+      "en": "Ban Phianou",
+      "slug": "ban-phianou-1953905"
+    },
+    "code": {
+      "id": "1953905",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA-02",
+      "level": 2,
+      "name": {
+        "local": "Hongsa",
+        "en": "Hongsa",
+        "slug": "hongsa-xa-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      },
+      {
+        "id": "XA-02",
+        "level": 2,
+        "name": {
+          "local": "Hongsa",
+          "en": "Hongsa",
+          "slug": "hongsa-xa-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.837",
+      "lon": "101.69"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1941777",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phonxai",
+      "en": "Ban Phonxai",
+      "slug": "ban-phonxai-1941777"
+    },
+    "code": {
+      "id": "1941777",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA-02",
+      "level": 2,
+      "name": {
+        "local": "Hongsa",
+        "en": "Hongsa",
+        "slug": "hongsa-xa-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      },
+      {
+        "id": "XA-02",
+        "level": 2,
+        "name": {
+          "local": "Hongsa",
+          "en": "Hongsa",
+          "slug": "hongsa-xa-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.706",
+      "lon": "101.34"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1953892",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phoudokmai-Kang",
+      "en": "Ban Phoudokmai-Kang",
+      "slug": "ban-phoudokmai-kang-1953892"
+    },
+    "code": {
+      "id": "1953892",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA-02",
+      "level": 2,
+      "name": {
+        "local": "Hongsa",
+        "en": "Hongsa",
+        "slug": "hongsa-xa-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      },
+      {
+        "id": "XA-02",
+        "level": 2,
+        "name": {
+          "local": "Hongsa",
+          "en": "Hongsa",
+          "slug": "hongsa-xa-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.762",
+      "lon": "101.617"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1953891",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phoudokmai-Nua",
+      "en": "Ban Phoudokmai-Nua",
+      "slug": "ban-phoudokmai-nua-1953891"
+    },
+    "code": {
+      "id": "1953891",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA-02",
+      "level": 2,
+      "name": {
+        "local": "Hongsa",
+        "en": "Hongsa",
+        "slug": "hongsa-xa-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      },
+      {
+        "id": "XA-02",
+        "level": 2,
+        "name": {
+          "local": "Hongsa",
+          "en": "Hongsa",
+          "slug": "hongsa-xa-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.758",
+      "lon": "101.588"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1953893",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phoudokmai-Tai",
+      "en": "Ban Phoudokmai-Tai",
+      "slug": "ban-phoudokmai-tai-1953893"
+    },
+    "code": {
+      "id": "1953893",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA-02",
+      "level": 2,
+      "name": {
+        "local": "Hongsa",
+        "en": "Hongsa",
+        "slug": "hongsa-xa-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      },
+      {
+        "id": "XA-02",
+        "level": 2,
+        "name": {
+          "local": "Hongsa",
+          "en": "Hongsa",
+          "slug": "hongsa-xa-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.771",
+      "lon": "101.638"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1953902",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phougnakha",
+      "en": "Ban Phougnakha",
+      "slug": "ban-phougnakha-1953902"
+    },
+    "code": {
+      "id": "1953902",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA-02",
+      "level": 2,
+      "name": {
+        "local": "Hongsa",
+        "en": "Hongsa",
+        "slug": "hongsa-xa-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      },
+      {
+        "id": "XA-02",
+        "level": 2,
+        "name": {
+          "local": "Hongsa",
+          "en": "Hongsa",
+          "slug": "hongsa-xa-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.818",
+      "lon": "101.687"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1953903",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phougnakha-Kang",
+      "en": "Ban Phougnakha-Kang",
+      "slug": "ban-phougnakha-kang-1953903"
+    },
+    "code": {
+      "id": "1953903",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA-02",
+      "level": 2,
+      "name": {
+        "local": "Hongsa",
+        "en": "Hongsa",
+        "slug": "hongsa-xa-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      },
+      {
+        "id": "XA-02",
+        "level": 2,
+        "name": {
+          "local": "Hongsa",
+          "en": "Hongsa",
+          "slug": "hongsa-xa-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.827",
+      "lon": "101.698"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1953904",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phougnakha-Theung",
+      "en": "Ban Phougnakha-Theung",
+      "slug": "ban-phougnakha-theung-1953904"
+    },
+    "code": {
+      "id": "1953904",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA-02",
+      "level": 2,
+      "name": {
+        "local": "Hongsa",
+        "en": "Hongsa",
+        "slug": "hongsa-xa-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      },
+      {
+        "id": "XA-02",
+        "level": 2,
+        "name": {
+          "local": "Hongsa",
+          "en": "Hongsa",
+          "slug": "hongsa-xa-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.842",
+      "lon": "101.721"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1953907",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phoupék",
+      "en": "Ban Phoupek",
+      "slug": "ban-phoupek-1953907"
+    },
+    "code": {
+      "id": "1953907",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA-02",
+      "level": 2,
+      "name": {
+        "local": "Hongsa",
+        "en": "Hongsa",
+        "slug": "hongsa-xa-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      },
+      {
+        "id": "XA-02",
+        "level": 2,
+        "name": {
+          "local": "Hongsa",
+          "en": "Hongsa",
+          "slug": "hongsa-xa-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.857",
+      "lon": "101.673"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1953281",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Poungkhan",
+      "en": "Ban Poungkhan",
+      "slug": "ban-poungkhan-1953281"
+    },
+    "code": {
+      "id": "1953281",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA-02",
+      "level": 2,
+      "name": {
+        "local": "Hongsa",
+        "en": "Hongsa",
+        "slug": "hongsa-xa-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      },
+      {
+        "id": "XA-02",
+        "level": 2,
+        "name": {
+          "local": "Hongsa",
+          "en": "Hongsa",
+          "slug": "hongsa-xa-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.775",
+      "lon": "101.346"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1941774",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Sibounhuang",
+      "en": "Ban Sibounhuang",
+      "slug": "ban-sibounhuang-1941774"
+    },
+    "code": {
+      "id": "1941774",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA-02",
+      "level": 2,
+      "name": {
+        "local": "Hongsa",
+        "en": "Hongsa",
+        "slug": "hongsa-xa-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      },
+      {
+        "id": "XA-02",
+        "level": 2,
+        "name": {
+          "local": "Hongsa",
+          "en": "Hongsa",
+          "slug": "hongsa-xa-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.711",
+      "lon": "101.341"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1658636",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Thanoun",
+      "en": "Ban Thanoun",
+      "slug": "ban-thanoun-1658636"
+    },
+    "code": {
+      "id": "1658636",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA-02",
+      "level": 2,
+      "name": {
+        "local": "Hongsa",
+        "en": "Hongsa",
+        "slug": "hongsa-xa-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      },
+      {
+        "id": "XA-02",
+        "level": 2,
+        "name": {
+          "local": "Hongsa",
+          "en": "Hongsa",
+          "slug": "hongsa-xa-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.825",
+      "lon": "101.483"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1658557",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Thaxoang",
+      "en": "Ban Thaxoang",
+      "slug": "ban-thaxoang-1658557"
+    },
+    "code": {
+      "id": "1658557",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA-02",
+      "level": 2,
+      "name": {
+        "local": "Hongsa",
+        "en": "Hongsa",
+        "slug": "hongsa-xa-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      },
+      {
+        "id": "XA-02",
+        "level": 2,
+        "name": {
+          "local": "Hongsa",
+          "en": "Hongsa",
+          "slug": "hongsa-xa-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.819",
+      "lon": "101.357"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1658555",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Thèn",
+      "en": "Ban Then",
+      "slug": "ban-then-1658555"
+    },
+    "code": {
+      "id": "1658555",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA-02",
+      "level": 2,
+      "name": {
+        "local": "Hongsa",
+        "en": "Hongsa",
+        "slug": "hongsa-xa-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      },
+      {
+        "id": "XA-02",
+        "level": 2,
+        "name": {
+          "local": "Hongsa",
+          "en": "Hongsa",
+          "slug": "hongsa-xa-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.718",
+      "lon": "101.371"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1941790",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Toolèk",
+      "en": "Ban Toolek",
+      "slug": "ban-toolek-1941790"
+    },
+    "code": {
+      "id": "1941790",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA-02",
+      "level": 2,
+      "name": {
+        "local": "Hongsa",
+        "en": "Hongsa",
+        "slug": "hongsa-xa-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      },
+      {
+        "id": "XA-02",
+        "level": 2,
+        "name": {
+          "local": "Hongsa",
+          "en": "Hongsa",
+          "slug": "hongsa-xa-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.694",
+      "lon": "101.266"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1941782",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Viangkèo",
+      "en": "Ban Viangkeo",
+      "slug": "ban-viangkeo-1941782"
+    },
+    "code": {
+      "id": "1941782",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA-02",
+      "level": 2,
+      "name": {
+        "local": "Hongsa",
+        "en": "Hongsa",
+        "slug": "hongsa-xa-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      },
+      {
+        "id": "XA-02",
+        "level": 2,
+        "name": {
+          "local": "Hongsa",
+          "en": "Hongsa",
+          "slug": "hongsa-xa-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.689",
+      "lon": "101.313"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1953819",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Xing",
+      "en": "Ban Xing",
+      "slug": "ban-xing-1953819"
+    },
+    "code": {
+      "id": "1953819",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA-02",
+      "level": 2,
+      "name": {
+        "local": "Hongsa",
+        "en": "Hongsa",
+        "slug": "hongsa-xa-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      },
+      {
+        "id": "XA-02",
+        "level": 2,
+        "name": {
+          "local": "Hongsa",
+          "en": "Hongsa",
+          "slug": "hongsa-xa-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.855",
+      "lon": "101.626"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1655210",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Muang Hôngsa",
+      "en": "Muang Hongsa",
+      "slug": "muang-hongsa-1655210"
+    },
+    "code": {
+      "id": "1655210",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA-02",
+      "level": 2,
+      "name": {
+        "local": "Hongsa",
+        "en": "Hongsa",
+        "slug": "hongsa-xa-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      },
+      {
+        "id": "XA-02",
+        "level": 2,
+        "name": {
+          "local": "Hongsa",
+          "en": "Hongsa",
+          "slug": "hongsa-xa-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.703",
+      "lon": "101.34"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

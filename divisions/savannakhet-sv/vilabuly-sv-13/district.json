@@ -1,0 +1,47 @@
+{
+  "id": "SV-13",
+  "level": 2,
+  "level_name": {
+    "local": "ເມືອງ",
+    "en": "District"
+  },
+  "name": {
+    "local": "Vilabuly",
+    "en": "Vilabuly",
+    "slug": "vilabuly-sv-13"
+  },
+  "code": {
+    "id": "SV-13",
+    "iso": null
+  },
+  "parent": {
+    "id": "SV",
+    "level": 1,
+    "name": {
+      "local": "Savannakhet",
+      "en": "Savannakhet",
+      "slug": "savannakhet-sv"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "SV",
+      "level": 1,
+      "name": {
+        "local": "Savannakhet",
+        "en": "Savannakhet",
+        "slug": "savannakhet-sv"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 128
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.992",
+    "lon": "105.936"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,30 @@
+{
+  "id": "XI",
+  "level": 1,
+  "level_name": {
+    "local": "ແຂວງ",
+    "en": "Province"
+  },
+  "name": {
+    "local": "Xiangkhouang",
+    "en": "Xiangkhouang",
+    "slug": "xiangkhouang-xi"
+  },
+  "code": {
+    "id": "XI",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 9,
+    "village": 1384
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "19.464",
+    "lon": "103.723"
+  },
+  "metadata": {},
+  "source": {}
+}

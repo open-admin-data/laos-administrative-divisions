@@ -1,0 +1,47 @@
+{
+  "id": "XI-01",
+  "level": 2,
+  "level_name": {
+    "local": "ເມືອງ",
+    "en": "District"
+  },
+  "name": {
+    "local": "Huameuang",
+    "en": "Huameuang",
+    "slug": "huameuang-xi-01"
+  },
+  "code": {
+    "id": "XI-01",
+    "iso": null
+  },
+  "parent": {
+    "id": "XI",
+    "level": 1,
+    "name": {
+      "local": "Xiangkhouang",
+      "en": "Xiangkhouang",
+      "slug": "xiangkhouang-xi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "XI",
+      "level": 1,
+      "name": {
+        "local": "Xiangkhouang",
+        "en": "Xiangkhouang",
+        "slug": "xiangkhouang-xi"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 137
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "19.935",
+    "lon": "103.862"
+  },
+  "metadata": {},
+  "source": {}
+}

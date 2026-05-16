@@ -1,0 +1,331 @@
+[
+  {
+    "id": "PH-01",
+    "level": 2,
+    "level_name": {
+      "local": "ເມືອງ",
+      "en": "District"
+    },
+    "name": {
+      "local": "Boon Neua",
+      "en": "Boon Neua",
+      "slug": "boon-neua-ph-01"
+    },
+    "code": {
+      "id": "PH-01",
+      "iso": null
+    },
+    "parent": {
+      "id": "PH",
+      "level": 1,
+      "name": {
+        "local": "Phongsaly",
+        "en": "Phongsaly",
+        "slug": "phongsaly-ph"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PH",
+        "level": 1,
+        "name": {
+          "local": "Phongsaly",
+          "en": "Phongsaly",
+          "slug": "phongsaly-ph"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 60
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.657",
+      "lon": "101.793"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PH-02",
+    "level": 2,
+    "level_name": {
+      "local": "ເມືອງ",
+      "en": "District"
+    },
+    "name": {
+      "local": "Boontay",
+      "en": "Boontay",
+      "slug": "boontay-ph-02"
+    },
+    "code": {
+      "id": "PH-02",
+      "iso": null
+    },
+    "parent": {
+      "id": "PH",
+      "level": 1,
+      "name": {
+        "local": "Phongsaly",
+        "en": "Phongsaly",
+        "slug": "phongsaly-ph"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PH",
+        "level": 1,
+        "name": {
+          "local": "Phongsaly",
+          "en": "Phongsaly",
+          "slug": "phongsaly-ph"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 85
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.376",
+      "lon": "101.907"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PH-03",
+    "level": 2,
+    "level_name": {
+      "local": "ເມືອງ",
+      "en": "District"
+    },
+    "name": {
+      "local": "Khua",
+      "en": "Khua",
+      "slug": "khua-ph-03"
+    },
+    "code": {
+      "id": "PH-03",
+      "iso": null
+    },
+    "parent": {
+      "id": "PH",
+      "level": 1,
+      "name": {
+        "local": "Phongsaly",
+        "en": "Phongsaly",
+        "slug": "phongsaly-ph"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PH",
+        "level": 1,
+        "name": {
+          "local": "Phongsaly",
+          "en": "Phongsaly",
+          "slug": "phongsaly-ph"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 178
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.048",
+      "lon": "102.473"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PH-04",
+    "level": 2,
+    "level_name": {
+      "local": "ເມືອງ",
+      "en": "District"
+    },
+    "name": {
+      "local": "May",
+      "en": "May",
+      "slug": "may-ph-04"
+    },
+    "code": {
+      "id": "PH-04",
+      "iso": null
+    },
+    "parent": {
+      "id": "PH",
+      "level": 1,
+      "name": {
+        "local": "Phongsaly",
+        "en": "Phongsaly",
+        "slug": "phongsaly-ph"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PH",
+        "level": 1,
+        "name": {
+          "local": "Phongsaly",
+          "en": "Phongsaly",
+          "slug": "phongsaly-ph"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 149
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.48",
+      "lon": "102.865"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PH-05",
+    "level": 2,
+    "level_name": {
+      "local": "ເມືອງ",
+      "en": "District"
+    },
+    "name": {
+      "local": "Nhot Ou",
+      "en": "Nhot Ou",
+      "slug": "nhot-ou-ph-05"
+    },
+    "code": {
+      "id": "PH-05",
+      "iso": null
+    },
+    "parent": {
+      "id": "PH",
+      "level": 1,
+      "name": {
+        "local": "Phongsaly",
+        "en": "Phongsaly",
+        "slug": "phongsaly-ph"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PH",
+        "level": 1,
+        "name": {
+          "local": "Phongsaly",
+          "en": "Phongsaly",
+          "slug": "phongsaly-ph"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 122
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.235",
+      "lon": "101.816"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PH-06",
+    "level": 2,
+    "level_name": {
+      "local": "ເມືອງ",
+      "en": "District"
+    },
+    "name": {
+      "local": "Phongsaly",
+      "en": "Phongsaly",
+      "slug": "phongsaly-ph-06"
+    },
+    "code": {
+      "id": "PH-06",
+      "iso": null
+    },
+    "parent": {
+      "id": "PH",
+      "level": 1,
+      "name": {
+        "local": "Phongsaly",
+        "en": "Phongsaly",
+        "slug": "phongsaly-ph"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PH",
+        "level": 1,
+        "name": {
+          "local": "Phongsaly",
+          "en": "Phongsaly",
+          "slug": "phongsaly-ph"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 112
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.866",
+      "lon": "102.201"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PH-07",
+    "level": 2,
+    "level_name": {
+      "local": "ເມືອງ",
+      "en": "District"
+    },
+    "name": {
+      "local": "Samphanh",
+      "en": "Samphanh",
+      "slug": "samphanh-ph-07"
+    },
+    "code": {
+      "id": "PH-07",
+      "iso": null
+    },
+    "parent": {
+      "id": "PH",
+      "level": 1,
+      "name": {
+        "local": "Phongsaly",
+        "en": "Phongsaly",
+        "slug": "phongsaly-ph"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PH",
+        "level": 1,
+        "name": {
+          "local": "Phongsaly",
+          "en": "Phongsaly",
+          "slug": "phongsaly-ph"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 88
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.79",
+      "lon": "102.522"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,47 @@
+{
+  "id": "LP-08",
+  "level": 2,
+  "level_name": {
+    "local": "ເມືອງ",
+    "en": "District"
+  },
+  "name": {
+    "local": "Phonthong",
+    "en": "Phonthong",
+    "slug": "phonthong-lp-08"
+  },
+  "code": {
+    "id": "LP-08",
+    "iso": null
+  },
+  "parent": {
+    "id": "LP",
+    "level": 1,
+    "name": {
+      "local": "Luang Prabang",
+      "en": "Luang Prabang",
+      "slug": "luang-prabang-lp"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "LP",
+      "level": 1,
+      "name": {
+        "local": "Luang Prabang",
+        "en": "Luang Prabang",
+        "slug": "luang-prabang-lp"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 0
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "20.915",
+    "lon": "103.126"
+  },
+  "metadata": {},
+  "source": {}
+}

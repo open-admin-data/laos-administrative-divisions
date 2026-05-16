@@ -1,0 +1,47 @@
+{
+  "id": "VT-04",
+  "level": 2,
+  "level_name": {
+    "local": "ເມືອງ",
+    "en": "District"
+  },
+  "name": {
+    "local": "Naxaithong",
+    "en": "Naxaithong",
+    "slug": "naxaithong-vt-04"
+  },
+  "code": {
+    "id": "VT-04",
+    "iso": null
+  },
+  "parent": {
+    "id": "VT",
+    "level": 1,
+    "name": {
+      "local": "Vientiane Capital",
+      "en": "Vientiane Capital",
+      "slug": "vientiane-capital-vt"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "VT",
+      "level": 1,
+      "name": {
+        "local": "Vientiane Capital",
+        "en": "Vientiane Capital",
+        "slug": "vientiane-capital-vt"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 64
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "18.23",
+    "lon": "102.482"
+  },
+  "metadata": {},
+  "source": {}
+}

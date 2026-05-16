@@ -1,0 +1,47 @@
+{
+  "id": "VI-07",
+  "level": 2,
+  "level_name": {
+    "local": "ເມືອງ",
+    "en": "District"
+  },
+  "name": {
+    "local": "Phonhong",
+    "en": "Phonhong",
+    "slug": "phonhong-vi-07"
+  },
+  "code": {
+    "id": "VI-07",
+    "iso": null
+  },
+  "parent": {
+    "id": "VI",
+    "level": 1,
+    "name": {
+      "local": "Vientiane",
+      "en": "Vientiane Province",
+      "slug": "vientiane-province-vi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "VI",
+      "level": 1,
+      "name": {
+        "local": "Vientiane",
+        "en": "Vientiane Province",
+        "slug": "vientiane-province-vi"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 100
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "18.42",
+    "lon": "102.429"
+  },
+  "metadata": {},
+  "source": {}
+}

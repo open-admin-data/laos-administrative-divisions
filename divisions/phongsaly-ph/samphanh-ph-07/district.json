@@ -1,0 +1,47 @@
+{
+  "id": "PH-07",
+  "level": 2,
+  "level_name": {
+    "local": "ເມືອງ",
+    "en": "District"
+  },
+  "name": {
+    "local": "Samphanh",
+    "en": "Samphanh",
+    "slug": "samphanh-ph-07"
+  },
+  "code": {
+    "id": "PH-07",
+    "iso": null
+  },
+  "parent": {
+    "id": "PH",
+    "level": 1,
+    "name": {
+      "local": "Phongsaly",
+      "en": "Phongsaly",
+      "slug": "phongsaly-ph"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PH",
+      "level": 1,
+      "name": {
+        "local": "Phongsaly",
+        "en": "Phongsaly",
+        "slug": "phongsaly-ph"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 88
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "21.79",
+    "lon": "102.522"
+  },
+  "metadata": {},
+  "source": {}
+}

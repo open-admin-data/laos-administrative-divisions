@@ -1,0 +1,3080 @@
+[
+  {
+    "id": "1941681",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houana",
+      "en": "Ban Houana",
+      "slug": "ban-houana-1941681"
+    },
+    "code": {
+      "id": "1941681",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA-07",
+      "level": 2,
+      "name": {
+        "local": "Phiang",
+        "en": "Phiang",
+        "slug": "phiang-xa-07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      },
+      {
+        "id": "XA-07",
+        "level": 2,
+        "name": {
+          "local": "Phiang",
+          "en": "Phiang",
+          "slug": "phiang-xa-07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.981",
+      "lon": "101.485"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11222377",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houay-Eum",
+      "en": "Ban Houay-Eum",
+      "slug": "ban-houay-eum-11222377"
+    },
+    "code": {
+      "id": "11222377",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA-07",
+      "level": 2,
+      "name": {
+        "local": "Phiang",
+        "en": "Phiang",
+        "slug": "phiang-xa-07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      },
+      {
+        "id": "XA-07",
+        "level": 2,
+        "name": {
+          "local": "Phiang",
+          "en": "Phiang",
+          "slug": "phiang-xa-07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.615",
+      "lon": "101.557"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11221410",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houay-Oum",
+      "en": "Ban Houay-Oum",
+      "slug": "ban-houay-oum-11221410"
+    },
+    "code": {
+      "id": "11221410",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA-07",
+      "level": 2,
+      "name": {
+        "local": "Phiang",
+        "en": "Phiang",
+        "slug": "phiang-xa-07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      },
+      {
+        "id": "XA-07",
+        "level": 2,
+        "name": {
+          "local": "Phiang",
+          "en": "Phiang",
+          "slug": "phiang-xa-07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.943",
+      "lon": "101.511"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11221419",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houayhan",
+      "en": "Ban Houayhan",
+      "slug": "ban-houayhan-11221419"
+    },
+    "code": {
+      "id": "11221419",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA-07",
+      "level": 2,
+      "name": {
+        "local": "Phiang",
+        "en": "Phiang",
+        "slug": "phiang-xa-07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      },
+      {
+        "id": "XA-07",
+        "level": 2,
+        "name": {
+          "local": "Phiang",
+          "en": "Phiang",
+          "slug": "phiang-xa-07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.754",
+      "lon": "101.58"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11221304",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houayphouan",
+      "en": "Ban Houayphouan",
+      "slug": "ban-houayphouan-11221304"
+    },
+    "code": {
+      "id": "11221304",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA-07",
+      "level": 2,
+      "name": {
+        "local": "Phiang",
+        "en": "Phiang",
+        "slug": "phiang-xa-07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      },
+      {
+        "id": "XA-07",
+        "level": 2,
+        "name": {
+          "local": "Phiang",
+          "en": "Phiang",
+          "slug": "phiang-xa-07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.193",
+      "lon": "101.55"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1941687",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houaysin",
+      "en": "Ban Houaysin",
+      "slug": "ban-houaysin-1941687"
+    },
+    "code": {
+      "id": "1941687",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA-07",
+      "level": 2,
+      "name": {
+        "local": "Phiang",
+        "en": "Phiang",
+        "slug": "phiang-xa-07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      },
+      {
+        "id": "XA-07",
+        "level": 2,
+        "name": {
+          "local": "Phiang",
+          "en": "Phiang",
+          "slug": "phiang-xa-07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.965",
+      "lon": "101.441"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1661782",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Khèm",
+      "en": "Ban Khem",
+      "slug": "ban-khem-1661782"
+    },
+    "code": {
+      "id": "1661782",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA-07",
+      "level": 2,
+      "name": {
+        "local": "Phiang",
+        "en": "Phiang",
+        "slug": "phiang-xa-07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      },
+      {
+        "id": "XA-07",
+        "level": 2,
+        "name": {
+          "local": "Phiang",
+          "en": "Phiang",
+          "slug": "phiang-xa-07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.967",
+      "lon": "101.51"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11221307",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Kioukhen",
+      "en": "Ban Kioukhen",
+      "slug": "ban-kioukhen-11221307"
+    },
+    "code": {
+      "id": "11221307",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA-07",
+      "level": 2,
+      "name": {
+        "local": "Phiang",
+        "en": "Phiang",
+        "slug": "phiang-xa-07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      },
+      {
+        "id": "XA-07",
+        "level": 2,
+        "name": {
+          "local": "Phiang",
+          "en": "Phiang",
+          "slug": "phiang-xa-07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.151",
+      "lon": "101.567"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11221415",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Kiounam",
+      "en": "Ban Kiounam",
+      "slug": "ban-kiounam-11221415"
+    },
+    "code": {
+      "id": "11221415",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA-07",
+      "level": 2,
+      "name": {
+        "local": "Phiang",
+        "en": "Phiang",
+        "slug": "phiang-xa-07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      },
+      {
+        "id": "XA-07",
+        "level": 2,
+        "name": {
+          "local": "Phiang",
+          "en": "Phiang",
+          "slug": "phiang-xa-07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.804",
+      "lon": "101.583"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11221306",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Laksippét",
+      "en": "Ban Laksippet",
+      "slug": "ban-laksippet-11221306"
+    },
+    "code": {
+      "id": "11221306",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA-07",
+      "level": 2,
+      "name": {
+        "local": "Phiang",
+        "en": "Phiang",
+        "slug": "phiang-xa-07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      },
+      {
+        "id": "XA-07",
+        "level": 2,
+        "name": {
+          "local": "Phiang",
+          "en": "Phiang",
+          "slug": "phiang-xa-07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.183",
+      "lon": "101.571"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1661714",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Na Koua",
+      "en": "Ban Na Koua",
+      "slug": "ban-na-koua-1661714"
+    },
+    "code": {
+      "id": "1661714",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA-07",
+      "level": 2,
+      "name": {
+        "local": "Phiang",
+        "en": "Phiang",
+        "slug": "phiang-xa-07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      },
+      {
+        "id": "XA-07",
+        "level": 2,
+        "name": {
+          "local": "Phiang",
+          "en": "Phiang",
+          "slug": "phiang-xa-07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.667",
+      "lon": "101.567"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1661702",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Na Kun",
+      "en": "Ban Na Kun",
+      "slug": "ban-na-kun-1661702"
+    },
+    "code": {
+      "id": "1661702",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA-07",
+      "level": 2,
+      "name": {
+        "local": "Phiang",
+        "en": "Phiang",
+        "slug": "phiang-xa-07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      },
+      {
+        "id": "XA-07",
+        "level": 2,
+        "name": {
+          "local": "Phiang",
+          "en": "Phiang",
+          "slug": "phiang-xa-07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.017",
+      "lon": "101.533"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1661456",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Na-Oum",
+      "en": "Ban Na-Oum",
+      "slug": "ban-na-oum-1661456"
+    },
+    "code": {
+      "id": "1661456",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA-07",
+      "level": 2,
+      "name": {
+        "local": "Phiang",
+        "en": "Phiang",
+        "slug": "phiang-xa-07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      },
+      {
+        "id": "XA-07",
+        "level": 2,
+        "name": {
+          "local": "Phiang",
+          "en": "Phiang",
+          "slug": "phiang-xa-07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.65",
+      "lon": "101.511"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1660971",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nabouam",
+      "en": "Ban Nabouam",
+      "slug": "ban-nabouam-1660971"
+    },
+    "code": {
+      "id": "1660971",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA-07",
+      "level": 2,
+      "name": {
+        "local": "Phiang",
+        "en": "Phiang",
+        "slug": "phiang-xa-07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      },
+      {
+        "id": "XA-07",
+        "level": 2,
+        "name": {
+          "local": "Phiang",
+          "en": "Phiang",
+          "slug": "phiang-xa-07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.015",
+      "lon": "101.494"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1662028",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nadua",
+      "en": "Ban Nadua",
+      "slug": "ban-nadua-1662028"
+    },
+    "code": {
+      "id": "1662028",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA-07",
+      "level": 2,
+      "name": {
+        "local": "Phiang",
+        "en": "Phiang",
+        "slug": "phiang-xa-07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      },
+      {
+        "id": "XA-07",
+        "level": 2,
+        "name": {
+          "local": "Phiang",
+          "en": "Phiang",
+          "slug": "phiang-xa-07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.696",
+      "lon": "101.57"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1661799",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nakhang",
+      "en": "Ban Nakhang",
+      "slug": "ban-nakhang-1661799"
+    },
+    "code": {
+      "id": "1661799",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA-07",
+      "level": 2,
+      "name": {
+        "local": "Phiang",
+        "en": "Phiang",
+        "slug": "phiang-xa-07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      },
+      {
+        "id": "XA-07",
+        "level": 2,
+        "name": {
+          "local": "Phiang",
+          "en": "Phiang",
+          "slug": "phiang-xa-07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.086",
+      "lon": "101.533"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11221712",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nakhôk",
+      "en": "Ban Nakhok",
+      "slug": "ban-nakhok-11221712"
+    },
+    "code": {
+      "id": "11221712",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA-07",
+      "level": 2,
+      "name": {
+        "local": "Phiang",
+        "en": "Phiang",
+        "slug": "phiang-xa-07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      },
+      {
+        "id": "XA-07",
+        "level": 2,
+        "name": {
+          "local": "Phiang",
+          "en": "Phiang",
+          "slug": "phiang-xa-07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.703",
+      "lon": "101.566"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1661724",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nakok",
+      "en": "Ban Nakok",
+      "slug": "ban-nakok-1661724"
+    },
+    "code": {
+      "id": "1661724",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA-07",
+      "level": 2,
+      "name": {
+        "local": "Phiang",
+        "en": "Phiang",
+        "slug": "phiang-xa-07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      },
+      {
+        "id": "XA-07",
+        "level": 2,
+        "name": {
+          "local": "Phiang",
+          "en": "Phiang",
+          "slug": "phiang-xa-07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.071",
+      "lon": "101.53"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1941675",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nakong",
+      "en": "Ban Nakong",
+      "slug": "ban-nakong-1941675"
+    },
+    "code": {
+      "id": "1941675",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA-07",
+      "level": 2,
+      "name": {
+        "local": "Phiang",
+        "en": "Phiang",
+        "slug": "phiang-xa-07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      },
+      {
+        "id": "XA-07",
+        "level": 2,
+        "name": {
+          "local": "Phiang",
+          "en": "Phiang",
+          "slug": "phiang-xa-07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.617",
+      "lon": "101.476"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1661666",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nalè",
+      "en": "Ban Nale",
+      "slug": "ban-nale-1661666"
+    },
+    "code": {
+      "id": "1661666",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA-07",
+      "level": 2,
+      "name": {
+        "local": "Phiang",
+        "en": "Phiang",
+        "slug": "phiang-xa-07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      },
+      {
+        "id": "XA-07",
+        "level": 2,
+        "name": {
+          "local": "Phiang",
+          "en": "Phiang",
+          "slug": "phiang-xa-07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.707",
+      "lon": "101.563"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11221725",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Namliau",
+      "en": "Ban Namliau",
+      "slug": "ban-namliau-11221725"
+    },
+    "code": {
+      "id": "11221725",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA-07",
+      "level": 2,
+      "name": {
+        "local": "Phiang",
+        "en": "Phiang",
+        "slug": "phiang-xa-07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      },
+      {
+        "id": "XA-07",
+        "level": 2,
+        "name": {
+          "local": "Phiang",
+          "en": "Phiang",
+          "slug": "phiang-xa-07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.836",
+      "lon": "101.618"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1941682",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Namlouak",
+      "en": "Ban Namlouak",
+      "slug": "ban-namlouak-1941682"
+    },
+    "code": {
+      "id": "1941682",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA-07",
+      "level": 2,
+      "name": {
+        "local": "Phiang",
+        "en": "Phiang",
+        "slug": "phiang-xa-07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      },
+      {
+        "id": "XA-07",
+        "level": 2,
+        "name": {
+          "local": "Phiang",
+          "en": "Phiang",
+          "slug": "phiang-xa-07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.964",
+      "lon": "101.492"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11221766",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Namngiao",
+      "en": "Ban Namngiao",
+      "slug": "ban-namngiao-11221766"
+    },
+    "code": {
+      "id": "11221766",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA-07",
+      "level": 2,
+      "name": {
+        "local": "Phiang",
+        "en": "Phiang",
+        "slug": "phiang-xa-07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      },
+      {
+        "id": "XA-07",
+        "level": 2,
+        "name": {
+          "local": "Phiang",
+          "en": "Phiang",
+          "slug": "phiang-xa-07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.935",
+      "lon": "101.591"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1661486",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Namo",
+      "en": "Ban Namo",
+      "slug": "ban-namo-1661486"
+    },
+    "code": {
+      "id": "1661486",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA-07",
+      "level": 2,
+      "name": {
+        "local": "Phiang",
+        "en": "Phiang",
+        "slug": "phiang-xa-07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      },
+      {
+        "id": "XA-07",
+        "level": 2,
+        "name": {
+          "local": "Phiang",
+          "en": "Phiang",
+          "slug": "phiang-xa-07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.767",
+      "lon": "101.535"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11221420",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Namôn",
+      "en": "Ban Namon",
+      "slug": "ban-namon-11221420"
+    },
+    "code": {
+      "id": "11221420",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA-07",
+      "level": 2,
+      "name": {
+        "local": "Phiang",
+        "en": "Phiang",
+        "slug": "phiang-xa-07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      },
+      {
+        "id": "XA-07",
+        "level": 2,
+        "name": {
+          "local": "Phiang",
+          "en": "Phiang",
+          "slug": "phiang-xa-07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.739",
+      "lon": "101.556"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11222097",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nampoun",
+      "en": "Ban Nampoun",
+      "slug": "ban-nampoun-11222097"
+    },
+    "code": {
+      "id": "11222097",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA-07",
+      "level": 2,
+      "name": {
+        "local": "Phiang",
+        "en": "Phiang",
+        "slug": "phiang-xa-07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      },
+      {
+        "id": "XA-07",
+        "level": 2,
+        "name": {
+          "local": "Phiang",
+          "en": "Phiang",
+          "slug": "phiang-xa-07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.659",
+      "lon": "101.52"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11221411",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nampouy",
+      "en": "Ban Nampouy",
+      "slug": "ban-nampouy-11221411"
+    },
+    "code": {
+      "id": "11221411",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA-07",
+      "level": 2,
+      "name": {
+        "local": "Phiang",
+        "en": "Phiang",
+        "slug": "phiang-xa-07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      },
+      {
+        "id": "XA-07",
+        "level": 2,
+        "name": {
+          "local": "Phiang",
+          "en": "Phiang",
+          "slug": "phiang-xa-07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.923",
+      "lon": "101.515"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1941686",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Namxong",
+      "en": "Ban Namxong",
+      "slug": "ban-namxong-1941686"
+    },
+    "code": {
+      "id": "1941686",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA-07",
+      "level": 2,
+      "name": {
+        "local": "Phiang",
+        "en": "Phiang",
+        "slug": "phiang-xa-07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      },
+      {
+        "id": "XA-07",
+        "level": 2,
+        "name": {
+          "local": "Phiang",
+          "en": "Phiang",
+          "slug": "phiang-xa-07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.897",
+      "lon": "101.427"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11221723",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Namxông",
+      "en": "Ban Namxong",
+      "slug": "ban-namxong-11221723"
+    },
+    "code": {
+      "id": "11221723",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA-07",
+      "level": 2,
+      "name": {
+        "local": "Phiang",
+        "en": "Phiang",
+        "slug": "phiang-xa-07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      },
+      {
+        "id": "XA-07",
+        "level": 2,
+        "name": {
+          "local": "Phiang",
+          "en": "Phiang",
+          "slug": "phiang-xa-07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.8",
+      "lon": "101.633"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1661330",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Naniou",
+      "en": "Ban Naniou",
+      "slug": "ban-naniou-1661330"
+    },
+    "code": {
+      "id": "1661330",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA-07",
+      "level": 2,
+      "name": {
+        "local": "Phiang",
+        "en": "Phiang",
+        "slug": "phiang-xa-07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      },
+      {
+        "id": "XA-07",
+        "level": 2,
+        "name": {
+          "local": "Phiang",
+          "en": "Phiang",
+          "slug": "phiang-xa-07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.051",
+      "lon": "101.457"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11221715",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Naphoun",
+      "en": "Ban Naphoun",
+      "slug": "ban-naphoun-11221715"
+    },
+    "code": {
+      "id": "11221715",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA-07",
+      "level": 2,
+      "name": {
+        "local": "Phiang",
+        "en": "Phiang",
+        "slug": "phiang-xa-07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      },
+      {
+        "id": "XA-07",
+        "level": 2,
+        "name": {
+          "local": "Phiang",
+          "en": "Phiang",
+          "slug": "phiang-xa-07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.667",
+      "lon": "101.56"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11221321",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nasôm-Gnai",
+      "en": "Ban Nasom-Gnai",
+      "slug": "ban-nasom-gnai-11221321"
+    },
+    "code": {
+      "id": "11221321",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA-07",
+      "level": 2,
+      "name": {
+        "local": "Phiang",
+        "en": "Phiang",
+        "slug": "phiang-xa-07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      },
+      {
+        "id": "XA-07",
+        "level": 2,
+        "name": {
+          "local": "Phiang",
+          "en": "Phiang",
+          "slug": "phiang-xa-07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.018",
+      "lon": "101.519"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11221406",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Natan",
+      "en": "Ban Natan",
+      "slug": "ban-natan-11221406"
+    },
+    "code": {
+      "id": "11221406",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA-07",
+      "level": 2,
+      "name": {
+        "local": "Phiang",
+        "en": "Phiang",
+        "slug": "phiang-xa-07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      },
+      {
+        "id": "XA-07",
+        "level": 2,
+        "name": {
+          "local": "Phiang",
+          "en": "Phiang",
+          "slug": "phiang-xa-07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.998",
+      "lon": "101.512"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1941684",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Navèn",
+      "en": "Ban Naven",
+      "slug": "ban-naven-1941684"
+    },
+    "code": {
+      "id": "1941684",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA-07",
+      "level": 2,
+      "name": {
+        "local": "Phiang",
+        "en": "Phiang",
+        "slug": "phiang-xa-07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      },
+      {
+        "id": "XA-07",
+        "level": 2,
+        "name": {
+          "local": "Phiang",
+          "en": "Phiang",
+          "slug": "phiang-xa-07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.813",
+      "lon": "101.39"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11221314",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nongboua",
+      "en": "Ban Nongboua",
+      "slug": "ban-nongboua-11221314"
+    },
+    "code": {
+      "id": "11221314",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA-07",
+      "level": 2,
+      "name": {
+        "local": "Phiang",
+        "en": "Phiang",
+        "slug": "phiang-xa-07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      },
+      {
+        "id": "XA-07",
+        "level": 2,
+        "name": {
+          "local": "Phiang",
+          "en": "Phiang",
+          "slug": "phiang-xa-07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.104",
+      "lon": "101.537"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11221318",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nongboua",
+      "en": "Ban Nongboua",
+      "slug": "ban-nongboua-11221318"
+    },
+    "code": {
+      "id": "11221318",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA-07",
+      "level": 2,
+      "name": {
+        "local": "Phiang",
+        "en": "Phiang",
+        "slug": "phiang-xa-07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      },
+      {
+        "id": "XA-07",
+        "level": 2,
+        "name": {
+          "local": "Phiang",
+          "en": "Phiang",
+          "slug": "phiang-xa-07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.048",
+      "lon": "101.525"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11221407",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nongboua",
+      "en": "Ban Nongboua",
+      "slug": "ban-nongboua-11221407"
+    },
+    "code": {
+      "id": "11221407",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA-07",
+      "level": 2,
+      "name": {
+        "local": "Phiang",
+        "en": "Phiang",
+        "slug": "phiang-xa-07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      },
+      {
+        "id": "XA-07",
+        "level": 2,
+        "name": {
+          "local": "Phiang",
+          "en": "Phiang",
+          "slug": "phiang-xa-07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.983",
+      "lon": "101.501"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1941698",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nongbouaxay",
+      "en": "Ban Nongbouaxay",
+      "slug": "ban-nongbouaxay-1941698"
+    },
+    "code": {
+      "id": "1941698",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA-07",
+      "level": 2,
+      "name": {
+        "local": "Phiang",
+        "en": "Phiang",
+        "slug": "phiang-xa-07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      },
+      {
+        "id": "XA-07",
+        "level": 2,
+        "name": {
+          "local": "Phiang",
+          "en": "Phiang",
+          "slug": "phiang-xa-07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.023",
+      "lon": "101.487"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11221409",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nonghou",
+      "en": "Ban Nonghou",
+      "slug": "ban-nonghou-11221409"
+    },
+    "code": {
+      "id": "11221409",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA-07",
+      "level": 2,
+      "name": {
+        "local": "Phiang",
+        "en": "Phiang",
+        "slug": "phiang-xa-07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      },
+      {
+        "id": "XA-07",
+        "level": 2,
+        "name": {
+          "local": "Phiang",
+          "en": "Phiang",
+          "slug": "phiang-xa-07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.966",
+      "lon": "101.503"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11221416",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Pangko",
+      "en": "Ban Pangko",
+      "slug": "ban-pangko-11221416"
+    },
+    "code": {
+      "id": "11221416",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA-07",
+      "level": 2,
+      "name": {
+        "local": "Phiang",
+        "en": "Phiang",
+        "slug": "phiang-xa-07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      },
+      {
+        "id": "XA-07",
+        "level": 2,
+        "name": {
+          "local": "Phiang",
+          "en": "Phiang",
+          "slug": "phiang-xa-07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.801",
+      "lon": "101.574"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11221413",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phadam",
+      "en": "Ban Phadam",
+      "slug": "ban-phadam-11221413"
+    },
+    "code": {
+      "id": "11221413",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA-07",
+      "level": 2,
+      "name": {
+        "local": "Phiang",
+        "en": "Phiang",
+        "slug": "phiang-xa-07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      },
+      {
+        "id": "XA-07",
+        "level": 2,
+        "name": {
+          "local": "Phiang",
+          "en": "Phiang",
+          "slug": "phiang-xa-07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.881",
+      "lon": "101.568"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11221724",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phadam",
+      "en": "Ban Phadam",
+      "slug": "ban-phadam-11221724"
+    },
+    "code": {
+      "id": "11221724",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA-07",
+      "level": 2,
+      "name": {
+        "local": "Phiang",
+        "en": "Phiang",
+        "slug": "phiang-xa-07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      },
+      {
+        "id": "XA-07",
+        "level": 2,
+        "name": {
+          "local": "Phiang",
+          "en": "Phiang",
+          "slug": "phiang-xa-07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.803",
+      "lon": "101.604"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11221713",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phôn",
+      "en": "Ban Phon",
+      "slug": "ban-phon-11221713"
+    },
+    "code": {
+      "id": "11221713",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA-07",
+      "level": 2,
+      "name": {
+        "local": "Phiang",
+        "en": "Phiang",
+        "slug": "phiang-xa-07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      },
+      {
+        "id": "XA-07",
+        "level": 2,
+        "name": {
+          "local": "Phiang",
+          "en": "Phiang",
+          "slug": "phiang-xa-07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.693",
+      "lon": "101.564"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11221319",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phônkham",
+      "en": "Ban Phonkham",
+      "slug": "ban-phonkham-11221319"
+    },
+    "code": {
+      "id": "11221319",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA-07",
+      "level": 2,
+      "name": {
+        "local": "Phiang",
+        "en": "Phiang",
+        "slug": "phiang-xa-07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      },
+      {
+        "id": "XA-07",
+        "level": 2,
+        "name": {
+          "local": "Phiang",
+          "en": "Phiang",
+          "slug": "phiang-xa-07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.054",
+      "lon": "101.513"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1653544",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phônsak",
+      "en": "Ban Phonsak",
+      "slug": "ban-phonsak-1653544"
+    },
+    "code": {
+      "id": "1653544",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA-07",
+      "level": 2,
+      "name": {
+        "local": "Phiang",
+        "en": "Phiang",
+        "slug": "phiang-xa-07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      },
+      {
+        "id": "XA-07",
+        "level": 2,
+        "name": {
+          "local": "Phiang",
+          "en": "Phiang",
+          "slug": "phiang-xa-07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.579",
+      "lon": "101.471"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1941676",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phônxai",
+      "en": "Ban Phonxai",
+      "slug": "ban-phonxai-1941676"
+    },
+    "code": {
+      "id": "1941676",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA-07",
+      "level": 2,
+      "name": {
+        "local": "Phiang",
+        "en": "Phiang",
+        "slug": "phiang-xa-07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      },
+      {
+        "id": "XA-07",
+        "level": 2,
+        "name": {
+          "local": "Phiang",
+          "en": "Phiang",
+          "slug": "phiang-xa-07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.622",
+      "lon": "101.486"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11221313",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phonxai",
+      "en": "Ban Phonxai",
+      "slug": "ban-phonxai-11221313"
+    },
+    "code": {
+      "id": "11221313",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA-07",
+      "level": 2,
+      "name": {
+        "local": "Phiang",
+        "en": "Phiang",
+        "slug": "phiang-xa-07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      },
+      {
+        "id": "XA-07",
+        "level": 2,
+        "name": {
+          "local": "Phiang",
+          "en": "Phiang",
+          "slug": "phiang-xa-07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.107",
+      "lon": "101.527"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11221720",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phouhôk-Gnai",
+      "en": "Ban Phouhok-Gnai",
+      "slug": "ban-phouhok-gnai-11221720"
+    },
+    "code": {
+      "id": "11221720",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA-07",
+      "level": 2,
+      "name": {
+        "local": "Phiang",
+        "en": "Phiang",
+        "slug": "phiang-xa-07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      },
+      {
+        "id": "XA-07",
+        "level": 2,
+        "name": {
+          "local": "Phiang",
+          "en": "Phiang",
+          "slug": "phiang-xa-07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.772",
+      "lon": "101.635"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11221721",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phoukhôk-Nôy",
+      "en": "Ban Phoukhok-Noy",
+      "slug": "ban-phoukhok-noy-11221721"
+    },
+    "code": {
+      "id": "11221721",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA-07",
+      "level": 2,
+      "name": {
+        "local": "Phiang",
+        "en": "Phiang",
+        "slug": "phiang-xa-07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      },
+      {
+        "id": "XA-07",
+        "level": 2,
+        "name": {
+          "local": "Phiang",
+          "en": "Phiang",
+          "slug": "phiang-xa-07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.781",
+      "lon": "101.637"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11221412",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Sanam",
+      "en": "Ban Sanam",
+      "slug": "ban-sanam-11221412"
+    },
+    "code": {
+      "id": "11221412",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA-07",
+      "level": 2,
+      "name": {
+        "local": "Phiang",
+        "en": "Phiang",
+        "slug": "phiang-xa-07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      },
+      {
+        "id": "XA-07",
+        "level": 2,
+        "name": {
+          "local": "Phiang",
+          "en": "Phiang",
+          "slug": "phiang-xa-07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.91",
+      "lon": "101.539"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1663890",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Sibounhuang",
+      "en": "Ban Sibounhuang",
+      "slug": "ban-sibounhuang-1663890"
+    },
+    "code": {
+      "id": "1663890",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA-07",
+      "level": 2,
+      "name": {
+        "local": "Phiang",
+        "en": "Phiang",
+        "slug": "phiang-xa-07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      },
+      {
+        "id": "XA-07",
+        "level": 2,
+        "name": {
+          "local": "Phiang",
+          "en": "Phiang",
+          "slug": "phiang-xa-07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.035",
+      "lon": "101.524"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11221320",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Sômsavan",
+      "en": "Ban Somsavan",
+      "slug": "ban-somsavan-11221320"
+    },
+    "code": {
+      "id": "11221320",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA-07",
+      "level": 2,
+      "name": {
+        "local": "Phiang",
+        "en": "Phiang",
+        "slug": "phiang-xa-07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      },
+      {
+        "id": "XA-07",
+        "level": 2,
+        "name": {
+          "local": "Phiang",
+          "en": "Phiang",
+          "slug": "phiang-xa-07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.04",
+      "lon": "101.508"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11221714",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Vangkham",
+      "en": "Ban Vangkham",
+      "slug": "ban-vangkham-11221714"
+    },
+    "code": {
+      "id": "11221714",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA-07",
+      "level": 2,
+      "name": {
+        "local": "Phiang",
+        "en": "Phiang",
+        "slug": "phiang-xa-07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      },
+      {
+        "id": "XA-07",
+        "level": 2,
+        "name": {
+          "local": "Phiang",
+          "en": "Phiang",
+          "slug": "phiang-xa-07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.701",
+      "lon": "101.541"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1941683",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Viangxai",
+      "en": "Ban Viangxai",
+      "slug": "ban-viangxai-1941683"
+    },
+    "code": {
+      "id": "1941683",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA-07",
+      "level": 2,
+      "name": {
+        "local": "Phiang",
+        "en": "Phiang",
+        "slug": "phiang-xa-07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      },
+      {
+        "id": "XA-07",
+        "level": 2,
+        "name": {
+          "local": "Phiang",
+          "en": "Phiang",
+          "slug": "phiang-xa-07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.899",
+      "lon": "101.492"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13433466",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Viangxai",
+      "en": "Ban Viangxai",
+      "slug": "ban-viangxai-13433466"
+    },
+    "code": {
+      "id": "13433466",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA-07",
+      "level": 2,
+      "name": {
+        "local": "Phiang",
+        "en": "Phiang",
+        "slug": "phiang-xa-07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      },
+      {
+        "id": "XA-07",
+        "level": 2,
+        "name": {
+          "local": "Phiang",
+          "en": "Phiang",
+          "slug": "phiang-xa-07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.945",
+      "lon": "101.549"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1655127",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Muang Phiang",
+      "en": "Muang Phiang",
+      "slug": "muang-phiang-1655127"
+    },
+    "code": {
+      "id": "1655127",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA-07",
+      "level": 2,
+      "name": {
+        "local": "Phiang",
+        "en": "Phiang",
+        "slug": "phiang-xa-07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      },
+      {
+        "id": "XA-07",
+        "level": 2,
+        "name": {
+          "local": "Phiang",
+          "en": "Phiang",
+          "slug": "phiang-xa-07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.099",
+      "lon": "101.525"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11524698",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Nam Pouy",
+      "en": "Nam Pouy",
+      "slug": "nam-pouy-11524698"
+    },
+    "code": {
+      "id": "11524698",
+      "iso": null
+    },
+    "parent": {
+      "id": "XA-07",
+      "level": 2,
+      "name": {
+        "local": "Phiang",
+        "en": "Phiang",
+        "slug": "phiang-xa-07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "XA",
+        "level": 1,
+        "name": {
+          "local": "Xaignabouli",
+          "en": "Xaignabouli",
+          "slug": "xaignabouli-xa"
+        }
+      },
+      {
+        "id": "XA-07",
+        "level": 2,
+        "name": {
+          "local": "Phiang",
+          "en": "Phiang",
+          "slug": "phiang-xa-07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.92",
+      "lon": "101.516"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

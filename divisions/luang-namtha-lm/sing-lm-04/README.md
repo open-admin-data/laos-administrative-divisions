@@ -1,0 +1,135 @@
+# Sing
+
+[Home](../../../) &gt; [Luang Namtha](../) > **Sing**
+
+Sing is a district in Laos, under Luang Namtha.
+
+## Overview
+
+| Item | Details |
+|------|---------|
+| Villages | 106 |
+| Code | LM-04 |
+| Coordinates | 21.363, 101.175 |
+| Parent | Luang Namtha |
+
+## Villages
+
+| # | Name | Coordinates | Code |
+|---|------|-------------|------|
+| 1 | Ban Bo | 21.379, 101.037 | 11237369 |
+| 2 | Ban Bouak-Hèt (Ban Bouak-Het) | 21.418, 101.085 | 1664880 |
+| 3 | Ban Bouakgnaxai | 21.391, 101.155 | 11237376 |
+| 4 | Ban Bouakkhou | 21.474, 101.13 | 11237393 |
+| 5 | Ban Cha Kanta | 21.367, 101.05 | 1664773 |
+| 6 | Ban Cha-Inta | 21.324, 100.93 | 11237439 |
+| 7 | Ban Cha-Oup | 21.41, 101.036 | 11237366 |
+| 8 | Ban Cha-Oup | 21.296, 100.9 | 11237438 |
+| 9 | Ban Chakheum | 21.286, 100.93 | 11237440 |
+| 10 | Ban Chaphoulin | 21.43, 101.067 | 11237390 |
+| 11 | Ban Chaphouma | 21.212, 100.974 | 1664735 |
+| 12 | Ban Chaphouma-Mai | 21.211, 100.952 | 11237398 |
+| 13 | Ban Chaphouthon | 21.312, 100.877 | 11237436 |
+| 14 | Ban Chata | 21.283, 100.879 | 11237434 |
+| 15 | Ban Chavang-Kao | 21.398, 101.074 | 11237367 |
+| 16 | Ban Chiangmoun | 21.202, 101.152 | 1955653 |
+| 17 | Ban Chom | 21.237, 101.153 | 1955640 |
+| 18 | Ban Douthan | 21.176, 101.251 | 1955665 |
+| 19 | Ban Eula | 21.365, 100.967 | 11237386 |
+| 20 | Ban Houana-Nua | 21.107, 101.122 | 1955723 |
+| 21 | Ban Houana-Tai | 21.092, 101.103 | 1955730 |
+| 22 | Ban Houanamkèo (Ban Houanamkeo) | 21.116, 101.165 | 1955722 |
+| 23 | Ban Houay-Ung | 21.373, 101.063 | 11237368 |
+| 24 | Ban Houayhuang | 21.379, 101.127 | 11237374 |
+| 25 | Ban Houaykaèm (Ban Houaykaem) | 21.199, 101.065 | 1955648 |
+| 26 | Ban Houaykôt (Ban Houaykot) | 21.157, 101.098 | 1955680 |
+| 27 | Ban Houayla-Kao | 21.228, 101.106 | 1955646 |
+| 28 | Ban Houayla-Mai | 21.211, 101.072 | 1955647 |
+| 29 | Ban Houaylong | 21.244, 101.182 | 1663769 |
+| 30 | Ban Houaylong | 21.244, 101.182 | 1955641 |
+| 31 | Ban Houaylong-Kao | 21.274, 101.172 | 1955637 |
+| 32 | Ban Houaylong-Mai | 21.26, 101.225 | 1955638 |
+| 33 | Ban Houaytat | 21.431, 101.147 | 11237392 |
+| 34 | Ban Imlakhili | 21.301, 101.098 | 1955630 |
+| 35 | Ban Kèo-Noy (Ban Keo-Noy) | 21.162, 101.162 | 1955685 |
+| 36 | Ban Kèolouang (Ban Keolouang) | 21.183, 101.148 | 1955671 |
+| 37 | Ban Khankham | 21.445, 101.118 | 11237391 |
+| 38 | Ban Khouang | 21.152, 101.112 | 1955705 |
+| 39 | Ban Koloung | 21.222, 101.147 | 1955645 |
+| 40 | Ban Kophé (Ban Kophe) | 21.297, 100.884 | 11237435 |
+| 41 | Ban Koum | 21.146, 101.173 | 1955703 |
+| 42 | Ban Lacha | 21.167, 101.267 | 1662688 |
+| 43 | Ban Lacha | 21.117, 101.167 | 1662689 |
+| 44 | Ban Lan Tene | 21.15, 101.117 | 1662621 |
+| 45 | Ban Laomeuy | 21.376, 101.087 | 11237375 |
+| 46 | Ban Lèngfa (Ban Lengfa) | 21.352, 101.019 | 11237371 |
+| 47 | Ban Lôkà (Ban Loka) | 21.318, 100.992 | 11237450 |
+| 48 | Ban Lonthèn (Ban Lonthen) | 21.19, 101.211 | 1955666 |
+| 49 | Ban Makkouay | 21.336, 100.951 | 11237384 |
+| 50 | Ban Mèo (Ban Meo) | 21.229, 100.914 | 1662300 |
+| 51 | Ban Mouanghoun | 21.184, 101.203 | 1955667 |
+| 52 | Ban Na | 21.2, 101.133 | 1662129 |
+| 53 | Ban Nakbon | 21.184, 101.18 | 1955668 |
+| 54 | Ban Namday | 21.159, 101.112 | 1955682 |
+| 55 | Ban Namdékloung (Ban Namdekloung) | 21.164, 101.254 | 1955689 |
+| 56 | Ban Namhou | 21.133, 101.039 | 1955706 |
+| 57 | Ban Nongkham | 21.197, 101.161 | 1955654 |
+| 58 | Ban Nongngeun | 21.126, 101.096 | 1955708 |
+| 59 | Ban Nongngeun-Noy | 21.12, 101.083 | 1955724 |
+| 60 | Ban Oua | 21.317, 101.133 | 1660585 |
+| 61 | Ban Ouan | 21.15, 101.167 | 1660583 |
+| 62 | Ban Paphouk-Kao | 21.407, 101.141 | 11237377 |
+| 63 | Ban Paphouk-Mai | 21.416, 101.136 | 11237378 |
+| 64 | Ban Patouay | 21.161, 101.177 | 1955687 |
+| 65 | Ban Pavay-Kao | 21.185, 101.027 | 1955677 |
+| 66 | Ban Pavay-Mai | 21.164, 101.013 | 1955678 |
+| 67 | Ban Phalat | 21.241, 101.21 | 1955642 |
+| 68 | Ban Phalat | 21.344, 101.128 | 11237372 |
+| 69 | Ban Phalat-Noy | 21.222, 101.206 | 1955644 |
+| 70 | Ban Phalat-Noy | 21.368, 101.125 | 11237373 |
+| 71 | Ban Phaxang | 21.266, 100.913 | 11237441 |
+| 72 | Ban Pia Nam Khine | 21.333, 100.95 | 1659710 |
+| 73 | Ban San | 21.433, 101.067 | 1659457 |
+| 74 | Ban Sang Mie | 21.133, 101.05 | 1659428 |
+| 75 | Ban Say | 21.387, 101.005 | 1658091 |
+| 76 | Ban Sèn-Èn (Ban Sen-En) | 21.319, 101.124 | 1955628 |
+| 77 | Ban Sene Kanta | 21.283, 100.883 | 1659357 |
+| 78 | Ban Sene Phan Muong | 21.317, 101 | 1659353 |
+| 79 | Ban Silihuang | 21.178, 101.131 | 1955675 |
+| 80 | Ban Silimoun | 21.176, 101.18 | 1955669 |
+| 81 | Ban Sing | 21.11, 101.224 | 1955720 |
+| 82 | Ban Sôp-I (Ban Sop-I) | 21.268, 101.108 | 1955636 |
+| 83 | Ban Sôp-I (Ban Sop-I) | 21.154, 101.199 | 1955701 |
+| 84 | Ban Sôp-I-Kao (Ban Sop-I-Kao) | 21.245, 101.105 | 1955639 |
+| 85 | Ban Suadèng (Ban Suadeng) | 21.299, 101.026 | 1955631 |
+| 86 | Ban Suakhao-Nua | 21.303, 101.188 | 1955627 |
+| 87 | Ban Suakhao-Tai | 21.293, 101.21 | 1955634 |
+| 88 | Ban Ta | 21.455, 101.156 | 1659012 |
+| 89 | Ban Tami-Kao | 21.101, 101.053 | 1955728 |
+| 90 | Ban Tapao | 21.204, 101.133 | 1955649 |
+| 91 | Ban Thông-Mai (Ban Thong-Mai) | 21.166, 101.116 | 1658341 |
+| 92 | Ban Tia Kamla | 21.283, 100.933 | 1658441 |
+| 93 | Ban Tinthat | 21.157, 101.167 | 1955702 |
+| 94 | Ban Tinthat-Noy | 21.147, 101.143 | 1955704 |
+| 95 | Ban Tonpouay | 21.201, 101.143 | 1955651 |
+| 96 | Ban Vansakankiao | 21.368, 100.976 | 11237385 |
+| 97 | Ban Vansenankiao | 21.344, 100.926 | 11237383 |
+| 98 | Ban Xam | 21.19, 101.16 | 1955670 |
+| 99 | Ban Xiangkhèng (Ban Xiangkheng) | 21.329, 100.878 | 1658047 |
+| 100 | Ban Yangpèng (Ban Yangpeng) | 21.168, 101.132 | 1955684 |
+| 101 | Ban Youan | 21.368, 101.212 | 11237395 |
+| 102 | Ban Youan-Nua | 21.387, 101.219 | 11237396 |
+| 103 | Ban Youan-Tai | 21.363, 101.194 | 11237394 |
+| 104 | Mom | 21.326, 101.167 | 1955626 |
+| 105 | Muang Sing | 21.192, 101.148 | 1655107 |
+| 106 | Muong Moune | 21.3, 101.1 | 1655051 |
+
+## Data Files
+
+- [district.json](district.json) — District metadata
+- [village.json](village.json) — All villages (JSON)
+- [village.csv](village.csv) — CSV format
+
+---
+
+<- Back to [Luang Namtha](../)

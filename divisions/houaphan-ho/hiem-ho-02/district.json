@@ -1,0 +1,47 @@
+{
+  "id": "HO-02",
+  "level": 2,
+  "level_name": {
+    "local": "ເມືອງ",
+    "en": "District"
+  },
+  "name": {
+    "local": "Hiem",
+    "en": "Hiem",
+    "slug": "hiem-ho-02"
+  },
+  "code": {
+    "id": "HO-02",
+    "iso": null
+  },
+  "parent": {
+    "id": "HO",
+    "level": 1,
+    "name": {
+      "local": "Houaphan",
+      "en": "Houaphan",
+      "slug": "houaphan-ho"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "HO",
+      "level": 1,
+      "name": {
+        "local": "Houaphan",
+        "en": "Houaphan",
+        "slug": "houaphan-ho"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 33
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "19.994",
+    "lon": "103.244"
+  },
+  "metadata": {},
+  "source": {}
+}

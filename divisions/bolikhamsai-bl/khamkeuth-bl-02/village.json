@@ -1,0 +1,7454 @@
+[
+  {
+    "id": "1664918",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Bô",
+      "en": "Ban Bo",
+      "slug": "ban-bo-1664918"
+    },
+    "code": {
+      "id": "1664918",
+      "iso": null
+    },
+    "parent": {
+      "id": "BL-02",
+      "level": 2,
+      "name": {
+        "local": "Khamkeuth",
+        "en": "Khamkeuth",
+        "slug": "khamkeuth-bl-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BL",
+        "level": 1,
+        "name": {
+          "local": "Bolikhamsai",
+          "en": "Bolikhamsai",
+          "slug": "bolikhamsai-bl"
+        }
+      },
+      {
+        "id": "BL-02",
+        "level": 2,
+        "name": {
+          "local": "Khamkeuth",
+          "en": "Khamkeuth",
+          "slug": "khamkeuth-bl-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.212",
+      "lon": "104.833"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1955753",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Boung",
+      "en": "Ban Boung",
+      "slug": "ban-boung-1955753"
+    },
+    "code": {
+      "id": "1955753",
+      "iso": null
+    },
+    "parent": {
+      "id": "BL-02",
+      "level": 2,
+      "name": {
+        "local": "Khamkeuth",
+        "en": "Khamkeuth",
+        "slug": "khamkeuth-bl-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BL",
+        "level": 1,
+        "name": {
+          "local": "Bolikhamsai",
+          "en": "Bolikhamsai",
+          "slug": "bolikhamsai-bl"
+        }
+      },
+      {
+        "id": "BL-02",
+        "level": 2,
+        "name": {
+          "local": "Khamkeuth",
+          "en": "Khamkeuth",
+          "slug": "khamkeuth-bl-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.318",
+      "lon": "104.758"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1664756",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Chalèt",
+      "en": "Ban Chalet",
+      "slug": "ban-chalet-1664756"
+    },
+    "code": {
+      "id": "1664756",
+      "iso": null
+    },
+    "parent": {
+      "id": "BL-02",
+      "level": 2,
+      "name": {
+        "local": "Khamkeuth",
+        "en": "Khamkeuth",
+        "slug": "khamkeuth-bl-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BL",
+        "level": 1,
+        "name": {
+          "local": "Bolikhamsai",
+          "en": "Bolikhamsai",
+          "slug": "bolikhamsai-bl"
+        }
+      },
+      {
+        "id": "BL-02",
+        "level": 2,
+        "name": {
+          "local": "Khamkeuth",
+          "en": "Khamkeuth",
+          "slug": "khamkeuth-bl-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.313",
+      "lon": "104.789"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1664517",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Dôngbang",
+      "en": "Ban Dongbang",
+      "slug": "ban-dongbang-1664517"
+    },
+    "code": {
+      "id": "1664517",
+      "iso": null
+    },
+    "parent": {
+      "id": "BL-02",
+      "level": 2,
+      "name": {
+        "local": "Khamkeuth",
+        "en": "Khamkeuth",
+        "slug": "khamkeuth-bl-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BL",
+        "level": 1,
+        "name": {
+          "local": "Bolikhamsai",
+          "en": "Bolikhamsai",
+          "slug": "bolikhamsai-bl"
+        }
+      },
+      {
+        "id": "BL-02",
+        "level": 2,
+        "name": {
+          "local": "Khamkeuth",
+          "en": "Khamkeuth",
+          "slug": "khamkeuth-bl-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.171",
+      "lon": "104.888"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1664364",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Donxat",
+      "en": "Ban Donxat",
+      "slug": "ban-donxat-1664364"
+    },
+    "code": {
+      "id": "1664364",
+      "iso": null
+    },
+    "parent": {
+      "id": "BL-02",
+      "level": 2,
+      "name": {
+        "local": "Khamkeuth",
+        "en": "Khamkeuth",
+        "slug": "khamkeuth-bl-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BL",
+        "level": 1,
+        "name": {
+          "local": "Bolikhamsai",
+          "en": "Bolikhamsai",
+          "slug": "bolikhamsai-bl"
+        }
+      },
+      {
+        "id": "BL-02",
+        "level": 2,
+        "name": {
+          "local": "Khamkeuth",
+          "en": "Khamkeuth",
+          "slug": "khamkeuth-bl-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.152",
+      "lon": "104.907"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11232514",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Gnotnamhuang",
+      "en": "Ban Gnotnamhuang",
+      "slug": "ban-gnotnamhuang-11232514"
+    },
+    "code": {
+      "id": "11232514",
+      "iso": null
+    },
+    "parent": {
+      "id": "BL-02",
+      "level": 2,
+      "name": {
+        "local": "Khamkeuth",
+        "en": "Khamkeuth",
+        "slug": "khamkeuth-bl-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BL",
+        "level": 1,
+        "name": {
+          "local": "Bolikhamsai",
+          "en": "Bolikhamsai",
+          "slug": "bolikhamsai-bl"
+        }
+      },
+      {
+        "id": "BL-02",
+        "level": 2,
+        "name": {
+          "local": "Khamkeuth",
+          "en": "Khamkeuth",
+          "slug": "khamkeuth-bl-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.388",
+      "lon": "105.035"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11233047",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Gnoyhai",
+      "en": "Ban Gnoyhai",
+      "slug": "ban-gnoyhai-11233047"
+    },
+    "code": {
+      "id": "11233047",
+      "iso": null
+    },
+    "parent": {
+      "id": "BL-02",
+      "level": 2,
+      "name": {
+        "local": "Khamkeuth",
+        "en": "Khamkeuth",
+        "slug": "khamkeuth-bl-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BL",
+        "level": 1,
+        "name": {
+          "local": "Bolikhamsai",
+          "en": "Bolikhamsai",
+          "slug": "bolikhamsai-bl"
+        }
+      },
+      {
+        "id": "BL-02",
+        "level": 2,
+        "name": {
+          "local": "Khamkeuth",
+          "en": "Khamkeuth",
+          "slug": "khamkeuth-bl-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.144",
+      "lon": "105.12"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11233016",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Hang-Na",
+      "en": "Ban Hang-Na",
+      "slug": "ban-hang-na-11233016"
+    },
+    "code": {
+      "id": "11233016",
+      "iso": null
+    },
+    "parent": {
+      "id": "BL-02",
+      "level": 2,
+      "name": {
+        "local": "Khamkeuth",
+        "en": "Khamkeuth",
+        "slug": "khamkeuth-bl-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BL",
+        "level": 1,
+        "name": {
+          "local": "Bolikhamsai",
+          "en": "Bolikhamsai",
+          "slug": "bolikhamsai-bl"
+        }
+      },
+      {
+        "id": "BL-02",
+        "level": 2,
+        "name": {
+          "local": "Khamkeuth",
+          "en": "Khamkeuth",
+          "slug": "khamkeuth-bl-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.321",
+      "lon": "105.045"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1663991",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Heuana",
+      "en": "Ban Heuana",
+      "slug": "ban-heuana-1663991"
+    },
+    "code": {
+      "id": "1663991",
+      "iso": null
+    },
+    "parent": {
+      "id": "BL-02",
+      "level": 2,
+      "name": {
+        "local": "Khamkeuth",
+        "en": "Khamkeuth",
+        "slug": "khamkeuth-bl-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BL",
+        "level": 1,
+        "name": {
+          "local": "Bolikhamsai",
+          "en": "Bolikhamsai",
+          "slug": "bolikhamsai-bl"
+        }
+      },
+      {
+        "id": "BL-02",
+        "level": 2,
+        "name": {
+          "local": "Khamkeuth",
+          "en": "Khamkeuth",
+          "slug": "khamkeuth-bl-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.169",
+      "lon": "104.881"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1955801",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Hinlôn",
+      "en": "Ban Hinlon",
+      "slug": "ban-hinlon-1955801"
+    },
+    "code": {
+      "id": "1955801",
+      "iso": null
+    },
+    "parent": {
+      "id": "BL-02",
+      "level": 2,
+      "name": {
+        "local": "Khamkeuth",
+        "en": "Khamkeuth",
+        "slug": "khamkeuth-bl-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BL",
+        "level": 1,
+        "name": {
+          "local": "Bolikhamsai",
+          "en": "Bolikhamsai",
+          "slug": "bolikhamsai-bl"
+        }
+      },
+      {
+        "id": "BL-02",
+        "level": 2,
+        "name": {
+          "local": "Khamkeuth",
+          "en": "Khamkeuth",
+          "slug": "khamkeuth-bl-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.136",
+      "lon": "104.921"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1663989",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houana",
+      "en": "Ban Houana",
+      "slug": "ban-houana-1663989"
+    },
+    "code": {
+      "id": "1663989",
+      "iso": null
+    },
+    "parent": {
+      "id": "BL-02",
+      "level": 2,
+      "name": {
+        "local": "Khamkeuth",
+        "en": "Khamkeuth",
+        "slug": "khamkeuth-bl-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BL",
+        "level": 1,
+        "name": {
+          "local": "Bolikhamsai",
+          "en": "Bolikhamsai",
+          "slug": "bolikhamsai-bl"
+        }
+      },
+      {
+        "id": "BL-02",
+        "level": 2,
+        "name": {
+          "local": "Khamkeuth",
+          "en": "Khamkeuth",
+          "slug": "khamkeuth-bl-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.337",
+      "lon": "105.042"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1955796",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houay-O",
+      "en": "Ban Houay-O",
+      "slug": "ban-houay-o-1955796"
+    },
+    "code": {
+      "id": "1955796",
+      "iso": null
+    },
+    "parent": {
+      "id": "BL-02",
+      "level": 2,
+      "name": {
+        "local": "Khamkeuth",
+        "en": "Khamkeuth",
+        "slug": "khamkeuth-bl-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BL",
+        "level": 1,
+        "name": {
+          "local": "Bolikhamsai",
+          "en": "Bolikhamsai",
+          "slug": "bolikhamsai-bl"
+        }
+      },
+      {
+        "id": "BL-02",
+        "level": 2,
+        "name": {
+          "local": "Khamkeuth",
+          "en": "Khamkeuth",
+          "slug": "khamkeuth-bl-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.183",
+      "lon": "104.939"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1955783",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houaykèo",
+      "en": "Ban Houaykeo",
+      "slug": "ban-houaykeo-1955783"
+    },
+    "code": {
+      "id": "1955783",
+      "iso": null
+    },
+    "parent": {
+      "id": "BL-02",
+      "level": 2,
+      "name": {
+        "local": "Khamkeuth",
+        "en": "Khamkeuth",
+        "slug": "khamkeuth-bl-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BL",
+        "level": 1,
+        "name": {
+          "local": "Bolikhamsai",
+          "en": "Bolikhamsai",
+          "slug": "bolikhamsai-bl"
+        }
+      },
+      {
+        "id": "BL-02",
+        "level": 2,
+        "name": {
+          "local": "Khamkeuth",
+          "en": "Khamkeuth",
+          "slug": "khamkeuth-bl-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.202",
+      "lon": "104.868"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1663461",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Kaan",
+      "en": "Ban Kaan",
+      "slug": "ban-kaan-1663461"
+    },
+    "code": {
+      "id": "1663461",
+      "iso": null
+    },
+    "parent": {
+      "id": "BL-02",
+      "level": 2,
+      "name": {
+        "local": "Khamkeuth",
+        "en": "Khamkeuth",
+        "slug": "khamkeuth-bl-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BL",
+        "level": 1,
+        "name": {
+          "local": "Bolikhamsai",
+          "en": "Bolikhamsai",
+          "slug": "bolikhamsai-bl"
+        }
+      },
+      {
+        "id": "BL-02",
+        "level": 2,
+        "name": {
+          "local": "Khamkeuth",
+          "en": "Khamkeuth",
+          "slug": "khamkeuth-bl-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.291",
+      "lon": "104.835"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1955787",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Kagna",
+      "en": "Ban Kagna",
+      "slug": "ban-kagna-1955787"
+    },
+    "code": {
+      "id": "1955787",
+      "iso": null
+    },
+    "parent": {
+      "id": "BL-02",
+      "level": 2,
+      "name": {
+        "local": "Khamkeuth",
+        "en": "Khamkeuth",
+        "slug": "khamkeuth-bl-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BL",
+        "level": 1,
+        "name": {
+          "local": "Bolikhamsai",
+          "en": "Bolikhamsai",
+          "slug": "bolikhamsai-bl"
+        }
+      },
+      {
+        "id": "BL-02",
+        "level": 2,
+        "name": {
+          "local": "Khamkeuth",
+          "en": "Khamkeuth",
+          "slug": "khamkeuth-bl-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.205",
+      "lon": "104.643"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1663373",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Kang",
+      "en": "Ban Kang",
+      "slug": "ban-kang-1663373"
+    },
+    "code": {
+      "id": "1663373",
+      "iso": null
+    },
+    "parent": {
+      "id": "BL-02",
+      "level": 2,
+      "name": {
+        "local": "Khamkeuth",
+        "en": "Khamkeuth",
+        "slug": "khamkeuth-bl-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BL",
+        "level": 1,
+        "name": {
+          "local": "Bolikhamsai",
+          "en": "Bolikhamsai",
+          "slug": "bolikhamsai-bl"
+        }
+      },
+      {
+        "id": "BL-02",
+        "level": 2,
+        "name": {
+          "local": "Khamkeuth",
+          "en": "Khamkeuth",
+          "slug": "khamkeuth-bl-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.15",
+      "lon": "104.904"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1663383",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Kang-Na",
+      "en": "Ban Kang-Na",
+      "slug": "ban-kang-na-1663383"
+    },
+    "code": {
+      "id": "1663383",
+      "iso": null
+    },
+    "parent": {
+      "id": "BL-02",
+      "level": 2,
+      "name": {
+        "local": "Khamkeuth",
+        "en": "Khamkeuth",
+        "slug": "khamkeuth-bl-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BL",
+        "level": 1,
+        "name": {
+          "local": "Bolikhamsai",
+          "en": "Bolikhamsai",
+          "slug": "bolikhamsai-bl"
+        }
+      },
+      {
+        "id": "BL-02",
+        "level": 2,
+        "name": {
+          "local": "Khamkeuth",
+          "en": "Khamkeuth",
+          "slug": "khamkeuth-bl-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.237",
+      "lon": "104.716"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1663363",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Kapap",
+      "en": "Ban Kapap",
+      "slug": "ban-kapap-1663363"
+    },
+    "code": {
+      "id": "1663363",
+      "iso": null
+    },
+    "parent": {
+      "id": "BL-02",
+      "level": 2,
+      "name": {
+        "local": "Khamkeuth",
+        "en": "Khamkeuth",
+        "slug": "khamkeuth-bl-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BL",
+        "level": 1,
+        "name": {
+          "local": "Bolikhamsai",
+          "en": "Bolikhamsai",
+          "slug": "bolikhamsai-bl"
+        }
+      },
+      {
+        "id": "BL-02",
+        "level": 2,
+        "name": {
+          "local": "Khamkeuth",
+          "en": "Khamkeuth",
+          "slug": "khamkeuth-bl-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.238",
+      "lon": "104.628"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1660544",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Katan",
+      "en": "Ban Katan",
+      "slug": "ban-katan-1660544"
+    },
+    "code": {
+      "id": "1660544",
+      "iso": null
+    },
+    "parent": {
+      "id": "BL-02",
+      "level": 2,
+      "name": {
+        "local": "Khamkeuth",
+        "en": "Khamkeuth",
+        "slug": "khamkeuth-bl-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BL",
+        "level": 1,
+        "name": {
+          "local": "Bolikhamsai",
+          "en": "Bolikhamsai",
+          "slug": "bolikhamsai-bl"
+        }
+      },
+      {
+        "id": "BL-02",
+        "level": 2,
+        "name": {
+          "local": "Khamkeuth",
+          "en": "Khamkeuth",
+          "slug": "khamkeuth-bl-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.021",
+      "lon": "105.053"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1955786",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Katôk",
+      "en": "Ban Katok",
+      "slug": "ban-katok-1955786"
+    },
+    "code": {
+      "id": "1955786",
+      "iso": null
+    },
+    "parent": {
+      "id": "BL-02",
+      "level": 2,
+      "name": {
+        "local": "Khamkeuth",
+        "en": "Khamkeuth",
+        "slug": "khamkeuth-bl-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BL",
+        "level": 1,
+        "name": {
+          "local": "Bolikhamsai",
+          "en": "Bolikhamsai",
+          "slug": "bolikhamsai-bl"
+        }
+      },
+      {
+        "id": "BL-02",
+        "level": 2,
+        "name": {
+          "local": "Khamkeuth",
+          "en": "Khamkeuth",
+          "slug": "khamkeuth-bl-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.198",
+      "lon": "104.661"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1663291",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Kèngbay",
+      "en": "Ban Kengbay",
+      "slug": "ban-kengbay-1663291"
+    },
+    "code": {
+      "id": "1663291",
+      "iso": null
+    },
+    "parent": {
+      "id": "BL-02",
+      "level": 2,
+      "name": {
+        "local": "Khamkeuth",
+        "en": "Khamkeuth",
+        "slug": "khamkeuth-bl-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BL",
+        "level": 1,
+        "name": {
+          "local": "Bolikhamsai",
+          "en": "Bolikhamsai",
+          "slug": "bolikhamsai-bl"
+        }
+      },
+      {
+        "id": "BL-02",
+        "level": 2,
+        "name": {
+          "local": "Khamkeuth",
+          "en": "Khamkeuth",
+          "slug": "khamkeuth-bl-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.246",
+      "lon": "104.623"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1663289",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Kèngbit",
+      "en": "Ban Kengbit",
+      "slug": "ban-kengbit-1663289"
+    },
+    "code": {
+      "id": "1663289",
+      "iso": null
+    },
+    "parent": {
+      "id": "BL-02",
+      "level": 2,
+      "name": {
+        "local": "Khamkeuth",
+        "en": "Khamkeuth",
+        "slug": "khamkeuth-bl-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BL",
+        "level": 1,
+        "name": {
+          "local": "Bolikhamsai",
+          "en": "Bolikhamsai",
+          "slug": "bolikhamsai-bl"
+        }
+      },
+      {
+        "id": "BL-02",
+        "level": 2,
+        "name": {
+          "local": "Khamkeuth",
+          "en": "Khamkeuth",
+          "slug": "khamkeuth-bl-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.255",
+      "lon": "104.566"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1656646",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Kèngdèng",
+      "en": "Ban Kengdeng",
+      "slug": "ban-kengdeng-1656646"
+    },
+    "code": {
+      "id": "1656646",
+      "iso": null
+    },
+    "parent": {
+      "id": "BL-02",
+      "level": 2,
+      "name": {
+        "local": "Khamkeuth",
+        "en": "Khamkeuth",
+        "slug": "khamkeuth-bl-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BL",
+        "level": 1,
+        "name": {
+          "local": "Bolikhamsai",
+          "en": "Bolikhamsai",
+          "slug": "bolikhamsai-bl"
+        }
+      },
+      {
+        "id": "BL-02",
+        "level": 2,
+        "name": {
+          "local": "Khamkeuth",
+          "en": "Khamkeuth",
+          "slug": "khamkeuth-bl-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.078",
+      "lon": "105.049"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1663269",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Kènghua",
+      "en": "Ban Kenghua",
+      "slug": "ban-kenghua-1663269"
+    },
+    "code": {
+      "id": "1663269",
+      "iso": null
+    },
+    "parent": {
+      "id": "BL-02",
+      "level": 2,
+      "name": {
+        "local": "Khamkeuth",
+        "en": "Khamkeuth",
+        "slug": "khamkeuth-bl-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BL",
+        "level": 1,
+        "name": {
+          "local": "Bolikhamsai",
+          "en": "Bolikhamsai",
+          "slug": "bolikhamsai-bl"
+        }
+      },
+      {
+        "id": "BL-02",
+        "level": 2,
+        "name": {
+          "local": "Khamkeuth",
+          "en": "Khamkeuth",
+          "slug": "khamkeuth-bl-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.25",
+      "lon": "104.6"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1663266",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Kengkang",
+      "en": "Ban Kengkang",
+      "slug": "ban-kengkang-1663266"
+    },
+    "code": {
+      "id": "1663266",
+      "iso": null
+    },
+    "parent": {
+      "id": "BL-02",
+      "level": 2,
+      "name": {
+        "local": "Khamkeuth",
+        "en": "Khamkeuth",
+        "slug": "khamkeuth-bl-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BL",
+        "level": 1,
+        "name": {
+          "local": "Bolikhamsai",
+          "en": "Bolikhamsai",
+          "slug": "bolikhamsai-bl"
+        }
+      },
+      {
+        "id": "BL-02",
+        "level": 2,
+        "name": {
+          "local": "Khamkeuth",
+          "en": "Khamkeuth",
+          "slug": "khamkeuth-bl-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.15",
+      "lon": "104.742"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1955775",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Kèngkouang",
+      "en": "Ban Kengkouang",
+      "slug": "ban-kengkouang-1955775"
+    },
+    "code": {
+      "id": "1955775",
+      "iso": null
+    },
+    "parent": {
+      "id": "BL-02",
+      "level": 2,
+      "name": {
+        "local": "Khamkeuth",
+        "en": "Khamkeuth",
+        "slug": "khamkeuth-bl-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BL",
+        "level": 1,
+        "name": {
+          "local": "Bolikhamsai",
+          "en": "Bolikhamsai",
+          "slug": "bolikhamsai-bl"
+        }
+      },
+      {
+        "id": "BL-02",
+        "level": 2,
+        "name": {
+          "local": "Khamkeuth",
+          "en": "Khamkeuth",
+          "slug": "khamkeuth-bl-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.236",
+      "lon": "104.657"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1955768",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Kènglat",
+      "en": "Ban Kenglat",
+      "slug": "ban-kenglat-1955768"
+    },
+    "code": {
+      "id": "1955768",
+      "iso": null
+    },
+    "parent": {
+      "id": "BL-02",
+      "level": 2,
+      "name": {
+        "local": "Khamkeuth",
+        "en": "Khamkeuth",
+        "slug": "khamkeuth-bl-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BL",
+        "level": 1,
+        "name": {
+          "local": "Bolikhamsai",
+          "en": "Bolikhamsai",
+          "slug": "bolikhamsai-bl"
+        }
+      },
+      {
+        "id": "BL-02",
+        "level": 2,
+        "name": {
+          "local": "Khamkeuth",
+          "en": "Khamkeuth",
+          "slug": "khamkeuth-bl-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.252",
+      "lon": "104.599"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11233036",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Kèngphalat",
+      "en": "Ban Kengphalat",
+      "slug": "ban-kengphalat-11233036"
+    },
+    "code": {
+      "id": "11233036",
+      "iso": null
+    },
+    "parent": {
+      "id": "BL-02",
+      "level": 2,
+      "name": {
+        "local": "Khamkeuth",
+        "en": "Khamkeuth",
+        "slug": "khamkeuth-bl-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BL",
+        "level": 1,
+        "name": {
+          "local": "Bolikhamsai",
+          "en": "Bolikhamsai",
+          "slug": "bolikhamsai-bl"
+        }
+      },
+      {
+        "id": "BL-02",
+        "level": 2,
+        "name": {
+          "local": "Khamkeuth",
+          "en": "Khamkeuth",
+          "slug": "khamkeuth-bl-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.095",
+      "lon": "105.077"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1663109",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Khammouan",
+      "en": "Ban Khammouan",
+      "slug": "ban-khammouan-1663109"
+    },
+    "code": {
+      "id": "1663109",
+      "iso": null
+    },
+    "parent": {
+      "id": "BL-02",
+      "level": 2,
+      "name": {
+        "local": "Khamkeuth",
+        "en": "Khamkeuth",
+        "slug": "khamkeuth-bl-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BL",
+        "level": 1,
+        "name": {
+          "local": "Bolikhamsai",
+          "en": "Bolikhamsai",
+          "slug": "bolikhamsai-bl"
+        }
+      },
+      {
+        "id": "BL-02",
+        "level": 2,
+        "name": {
+          "local": "Khamkeuth",
+          "en": "Khamkeuth",
+          "slug": "khamkeuth-bl-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.156",
+      "lon": "104.89"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1663060",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Khanglék",
+      "en": "Ban Khanglek",
+      "slug": "ban-khanglek-1663060"
+    },
+    "code": {
+      "id": "1663060",
+      "iso": null
+    },
+    "parent": {
+      "id": "BL-02",
+      "level": 2,
+      "name": {
+        "local": "Khamkeuth",
+        "en": "Khamkeuth",
+        "slug": "khamkeuth-bl-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BL",
+        "level": 1,
+        "name": {
+          "local": "Bolikhamsai",
+          "en": "Bolikhamsai",
+          "slug": "bolikhamsai-bl"
+        }
+      },
+      {
+        "id": "BL-02",
+        "level": 2,
+        "name": {
+          "local": "Khamkeuth",
+          "en": "Khamkeuth",
+          "slug": "khamkeuth-bl-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.231",
+      "lon": "104.97"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1955808",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Khonkèn",
+      "en": "Ban Khonken",
+      "slug": "ban-khonken-1955808"
+    },
+    "code": {
+      "id": "1955808",
+      "iso": null
+    },
+    "parent": {
+      "id": "BL-02",
+      "level": 2,
+      "name": {
+        "local": "Khamkeuth",
+        "en": "Khamkeuth",
+        "slug": "khamkeuth-bl-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BL",
+        "level": 1,
+        "name": {
+          "local": "Bolikhamsai",
+          "en": "Bolikhamsai",
+          "slug": "bolikhamsai-bl"
+        }
+      },
+      {
+        "id": "BL-02",
+        "level": 2,
+        "name": {
+          "local": "Khamkeuth",
+          "en": "Khamkeuth",
+          "slug": "khamkeuth-bl-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.09",
+      "lon": "104.844"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1662898",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Khouapèn",
+      "en": "Ban Khouapen",
+      "slug": "ban-khouapen-1662898"
+    },
+    "code": {
+      "id": "1662898",
+      "iso": null
+    },
+    "parent": {
+      "id": "BL-02",
+      "level": 2,
+      "name": {
+        "local": "Khamkeuth",
+        "en": "Khamkeuth",
+        "slug": "khamkeuth-bl-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BL",
+        "level": 1,
+        "name": {
+          "local": "Bolikhamsai",
+          "en": "Bolikhamsai",
+          "slug": "bolikhamsai-bl"
+        }
+      },
+      {
+        "id": "BL-02",
+        "level": 2,
+        "name": {
+          "local": "Khamkeuth",
+          "en": "Khamkeuth",
+          "slug": "khamkeuth-bl-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.213",
+      "lon": "105.009"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1662823",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Kôkfuang",
+      "en": "Ban Kokfuang",
+      "slug": "ban-kokfuang-1662823"
+    },
+    "code": {
+      "id": "1662823",
+      "iso": null
+    },
+    "parent": {
+      "id": "BL-02",
+      "level": 2,
+      "name": {
+        "local": "Khamkeuth",
+        "en": "Khamkeuth",
+        "slug": "khamkeuth-bl-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BL",
+        "level": 1,
+        "name": {
+          "local": "Bolikhamsai",
+          "en": "Bolikhamsai",
+          "slug": "bolikhamsai-bl"
+        }
+      },
+      {
+        "id": "BL-02",
+        "level": 2,
+        "name": {
+          "local": "Khamkeuth",
+          "en": "Khamkeuth",
+          "slug": "khamkeuth-bl-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.383",
+      "lon": "104.732"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1955762",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Kôngphat",
+      "en": "Ban Kongphat",
+      "slug": "ban-kongphat-1955762"
+    },
+    "code": {
+      "id": "1955762",
+      "iso": null
+    },
+    "parent": {
+      "id": "BL-02",
+      "level": 2,
+      "name": {
+        "local": "Khamkeuth",
+        "en": "Khamkeuth",
+        "slug": "khamkeuth-bl-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BL",
+        "level": 1,
+        "name": {
+          "local": "Bolikhamsai",
+          "en": "Bolikhamsai",
+          "slug": "bolikhamsai-bl"
+        }
+      },
+      {
+        "id": "BL-02",
+        "level": 2,
+        "name": {
+          "local": "Khamkeuth",
+          "en": "Khamkeuth",
+          "slug": "khamkeuth-bl-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.274",
+      "lon": "104.969"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1955773",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Kouanchan",
+      "en": "Ban Kouanchan",
+      "slug": "ban-kouanchan-1955773"
+    },
+    "code": {
+      "id": "1955773",
+      "iso": null
+    },
+    "parent": {
+      "id": "BL-02",
+      "level": 2,
+      "name": {
+        "local": "Khamkeuth",
+        "en": "Khamkeuth",
+        "slug": "khamkeuth-bl-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BL",
+        "level": 1,
+        "name": {
+          "local": "Bolikhamsai",
+          "en": "Bolikhamsai",
+          "slug": "bolikhamsai-bl"
+        }
+      },
+      {
+        "id": "BL-02",
+        "level": 2,
+        "name": {
+          "local": "Khamkeuth",
+          "en": "Khamkeuth",
+          "slug": "khamkeuth-bl-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.232",
+      "lon": "104.716"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11233031",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Lak Jet",
+      "en": "Ban Lak Jet",
+      "slug": "ban-lak-jet-11233031"
+    },
+    "code": {
+      "id": "11233031",
+      "iso": null
+    },
+    "parent": {
+      "id": "BL-02",
+      "level": 2,
+      "name": {
+        "local": "Khamkeuth",
+        "en": "Khamkeuth",
+        "slug": "khamkeuth-bl-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BL",
+        "level": 1,
+        "name": {
+          "local": "Bolikhamsai",
+          "en": "Bolikhamsai",
+          "slug": "bolikhamsai-bl"
+        }
+      },
+      {
+        "id": "BL-02",
+        "level": 2,
+        "name": {
+          "local": "Khamkeuth",
+          "en": "Khamkeuth",
+          "slug": "khamkeuth-bl-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.271",
+      "lon": "105.044"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11233058",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Lak Sip",
+      "en": "Ban Lak Sip",
+      "slug": "ban-lak-sip-11233058"
+    },
+    "code": {
+      "id": "11233058",
+      "iso": null
+    },
+    "parent": {
+      "id": "BL-02",
+      "level": 2,
+      "name": {
+        "local": "Khamkeuth",
+        "en": "Khamkeuth",
+        "slug": "khamkeuth-bl-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BL",
+        "level": 1,
+        "name": {
+          "local": "Bolikhamsai",
+          "en": "Bolikhamsai",
+          "slug": "bolikhamsai-bl"
+        }
+      },
+      {
+        "id": "BL-02",
+        "level": 2,
+        "name": {
+          "local": "Khamkeuth",
+          "en": "Khamkeuth",
+          "slug": "khamkeuth-bl-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.252",
+      "lon": "105.023"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1662662",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Lak Xao",
+      "en": "Ban Lak Xao",
+      "slug": "ban-lak-xao-1662662"
+    },
+    "code": {
+      "id": "1662662",
+      "iso": null
+    },
+    "parent": {
+      "id": "BL-02",
+      "level": 2,
+      "name": {
+        "local": "Khamkeuth",
+        "en": "Khamkeuth",
+        "slug": "khamkeuth-bl-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BL",
+        "level": 1,
+        "name": {
+          "local": "Bolikhamsai",
+          "en": "Bolikhamsai",
+          "slug": "bolikhamsai-bl"
+        }
+      },
+      {
+        "id": "BL-02",
+        "level": 2,
+        "name": {
+          "local": "Khamkeuth",
+          "en": "Khamkeuth",
+          "slug": "khamkeuth-bl-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.194",
+      "lon": "104.971"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1955790",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Latmouang",
+      "en": "Ban Latmouang",
+      "slug": "ban-latmouang-1955790"
+    },
+    "code": {
+      "id": "1955790",
+      "iso": null
+    },
+    "parent": {
+      "id": "BL-02",
+      "level": 2,
+      "name": {
+        "local": "Khamkeuth",
+        "en": "Khamkeuth",
+        "slug": "khamkeuth-bl-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BL",
+        "level": 1,
+        "name": {
+          "local": "Bolikhamsai",
+          "en": "Bolikhamsai",
+          "slug": "bolikhamsai-bl"
+        }
+      },
+      {
+        "id": "BL-02",
+        "level": 2,
+        "name": {
+          "local": "Khamkeuth",
+          "en": "Khamkeuth",
+          "slug": "khamkeuth-bl-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.207",
+      "lon": "104.604"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1662091",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nachalai",
+      "en": "Ban Nachalai",
+      "slug": "ban-nachalai-1662091"
+    },
+    "code": {
+      "id": "1662091",
+      "iso": null
+    },
+    "parent": {
+      "id": "BL-02",
+      "level": 2,
+      "name": {
+        "local": "Khamkeuth",
+        "en": "Khamkeuth",
+        "slug": "khamkeuth-bl-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BL",
+        "level": 1,
+        "name": {
+          "local": "Bolikhamsai",
+          "en": "Bolikhamsai",
+          "slug": "bolikhamsai-bl"
+        }
+      },
+      {
+        "id": "BL-02",
+        "level": 2,
+        "name": {
+          "local": "Khamkeuth",
+          "en": "Khamkeuth",
+          "slug": "khamkeuth-bl-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.313",
+      "lon": "104.993"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1662069",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nachia",
+      "en": "Ban Nachia",
+      "slug": "ban-nachia-1662069"
+    },
+    "code": {
+      "id": "1662069",
+      "iso": null
+    },
+    "parent": {
+      "id": "BL-02",
+      "level": 2,
+      "name": {
+        "local": "Khamkeuth",
+        "en": "Khamkeuth",
+        "slug": "khamkeuth-bl-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BL",
+        "level": 1,
+        "name": {
+          "local": "Bolikhamsai",
+          "en": "Bolikhamsai",
+          "slug": "bolikhamsai-bl"
+        }
+      },
+      {
+        "id": "BL-02",
+        "level": 2,
+        "name": {
+          "local": "Khamkeuth",
+          "en": "Khamkeuth",
+          "slug": "khamkeuth-bl-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.317",
+      "lon": "105.078"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1955782",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nadua",
+      "en": "Ban Nadua",
+      "slug": "ban-nadua-1955782"
+    },
+    "code": {
+      "id": "1955782",
+      "iso": null
+    },
+    "parent": {
+      "id": "BL-02",
+      "level": 2,
+      "name": {
+        "local": "Khamkeuth",
+        "en": "Khamkeuth",
+        "slug": "khamkeuth-bl-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BL",
+        "level": 1,
+        "name": {
+          "local": "Bolikhamsai",
+          "en": "Bolikhamsai",
+          "slug": "bolikhamsai-bl"
+        }
+      },
+      {
+        "id": "BL-02",
+        "level": 2,
+        "name": {
+          "local": "Khamkeuth",
+          "en": "Khamkeuth",
+          "slug": "khamkeuth-bl-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.195",
+      "lon": "104.887"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1662015",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nafuang",
+      "en": "Ban Nafuang",
+      "slug": "ban-nafuang-1662015"
+    },
+    "code": {
+      "id": "1662015",
+      "iso": null
+    },
+    "parent": {
+      "id": "BL-02",
+      "level": 2,
+      "name": {
+        "local": "Khamkeuth",
+        "en": "Khamkeuth",
+        "slug": "khamkeuth-bl-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BL",
+        "level": 1,
+        "name": {
+          "local": "Bolikhamsai",
+          "en": "Bolikhamsai",
+          "slug": "bolikhamsai-bl"
+        }
+      },
+      {
+        "id": "BL-02",
+        "level": 2,
+        "name": {
+          "local": "Khamkeuth",
+          "en": "Khamkeuth",
+          "slug": "khamkeuth-bl-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.149",
+      "lon": "105.124"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1661987",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nahai",
+      "en": "Ban Nahai",
+      "slug": "ban-nahai-1661987"
+    },
+    "code": {
+      "id": "1661987",
+      "iso": null
+    },
+    "parent": {
+      "id": "BL-02",
+      "level": 2,
+      "name": {
+        "local": "Khamkeuth",
+        "en": "Khamkeuth",
+        "slug": "khamkeuth-bl-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BL",
+        "level": 1,
+        "name": {
+          "local": "Bolikhamsai",
+          "en": "Bolikhamsai",
+          "slug": "bolikhamsai-bl"
+        }
+      },
+      {
+        "id": "BL-02",
+        "level": 2,
+        "name": {
+          "local": "Khamkeuth",
+          "en": "Khamkeuth",
+          "slug": "khamkeuth-bl-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.203",
+      "lon": "105.14"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11233049",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nahang",
+      "en": "Ban Nahang",
+      "slug": "ban-nahang-11233049"
+    },
+    "code": {
+      "id": "11233049",
+      "iso": null
+    },
+    "parent": {
+      "id": "BL-02",
+      "level": 2,
+      "name": {
+        "local": "Khamkeuth",
+        "en": "Khamkeuth",
+        "slug": "khamkeuth-bl-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BL",
+        "level": 1,
+        "name": {
+          "local": "Bolikhamsai",
+          "en": "Bolikhamsai",
+          "slug": "bolikhamsai-bl"
+        }
+      },
+      {
+        "id": "BL-02",
+        "level": 2,
+        "name": {
+          "local": "Khamkeuth",
+          "en": "Khamkeuth",
+          "slug": "khamkeuth-bl-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.154",
+      "lon": "105.102"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1661968",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nahat",
+      "en": "Ban Nahat",
+      "slug": "ban-nahat-1661968"
+    },
+    "code": {
+      "id": "1661968",
+      "iso": null
+    },
+    "parent": {
+      "id": "BL-02",
+      "level": 2,
+      "name": {
+        "local": "Khamkeuth",
+        "en": "Khamkeuth",
+        "slug": "khamkeuth-bl-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BL",
+        "level": 1,
+        "name": {
+          "local": "Bolikhamsai",
+          "en": "Bolikhamsai",
+          "slug": "bolikhamsai-bl"
+        }
+      },
+      {
+        "id": "BL-02",
+        "level": 2,
+        "name": {
+          "local": "Khamkeuth",
+          "en": "Khamkeuth",
+          "slug": "khamkeuth-bl-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.328",
+      "lon": "105.076"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11233051",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nahôk",
+      "en": "Ban Nahok",
+      "slug": "ban-nahok-11233051"
+    },
+    "code": {
+      "id": "11233051",
+      "iso": null
+    },
+    "parent": {
+      "id": "BL-02",
+      "level": 2,
+      "name": {
+        "local": "Khamkeuth",
+        "en": "Khamkeuth",
+        "slug": "khamkeuth-bl-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BL",
+        "level": 1,
+        "name": {
+          "local": "Bolikhamsai",
+          "en": "Bolikhamsai",
+          "slug": "bolikhamsai-bl"
+        }
+      },
+      {
+        "id": "BL-02",
+        "level": 2,
+        "name": {
+          "local": "Khamkeuth",
+          "en": "Khamkeuth",
+          "slug": "khamkeuth-bl-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.196",
+      "lon": "105.131"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1661931",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nahoua",
+      "en": "Ban Nahoua",
+      "slug": "ban-nahoua-1661931"
+    },
+    "code": {
+      "id": "1661931",
+      "iso": null
+    },
+    "parent": {
+      "id": "BL-02",
+      "level": 2,
+      "name": {
+        "local": "Khamkeuth",
+        "en": "Khamkeuth",
+        "slug": "khamkeuth-bl-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BL",
+        "level": 1,
+        "name": {
+          "local": "Bolikhamsai",
+          "en": "Bolikhamsai",
+          "slug": "bolikhamsai-bl"
+        }
+      },
+      {
+        "id": "BL-02",
+        "level": 2,
+        "name": {
+          "local": "Khamkeuth",
+          "en": "Khamkeuth",
+          "slug": "khamkeuth-bl-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.339",
+      "lon": "105.043"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1661908",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nahuang",
+      "en": "Ban Nahuang",
+      "slug": "ban-nahuang-1661908"
+    },
+    "code": {
+      "id": "1661908",
+      "iso": null
+    },
+    "parent": {
+      "id": "BL-02",
+      "level": 2,
+      "name": {
+        "local": "Khamkeuth",
+        "en": "Khamkeuth",
+        "slug": "khamkeuth-bl-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BL",
+        "level": 1,
+        "name": {
+          "local": "Bolikhamsai",
+          "en": "Bolikhamsai",
+          "slug": "bolikhamsai-bl"
+        }
+      },
+      {
+        "id": "BL-02",
+        "level": 2,
+        "name": {
+          "local": "Khamkeuth",
+          "en": "Khamkeuth",
+          "slug": "khamkeuth-bl-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.332",
+      "lon": "105.044"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1661898",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nakadôk",
+      "en": "Ban Nakadok",
+      "slug": "ban-nakadok-1661898"
+    },
+    "code": {
+      "id": "1661898",
+      "iso": null
+    },
+    "parent": {
+      "id": "BL-02",
+      "level": 2,
+      "name": {
+        "local": "Khamkeuth",
+        "en": "Khamkeuth",
+        "slug": "khamkeuth-bl-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BL",
+        "level": 1,
+        "name": {
+          "local": "Bolikhamsai",
+          "en": "Bolikhamsai",
+          "slug": "bolikhamsai-bl"
+        }
+      },
+      {
+        "id": "BL-02",
+        "level": 2,
+        "name": {
+          "local": "Khamkeuth",
+          "en": "Khamkeuth",
+          "slug": "khamkeuth-bl-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.149",
+      "lon": "105.144"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1661885",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nakang",
+      "en": "Ban Nakang",
+      "slug": "ban-nakang-1661885"
+    },
+    "code": {
+      "id": "1661885",
+      "iso": null
+    },
+    "parent": {
+      "id": "BL-02",
+      "level": 2,
+      "name": {
+        "local": "Khamkeuth",
+        "en": "Khamkeuth",
+        "slug": "khamkeuth-bl-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BL",
+        "level": 1,
+        "name": {
+          "local": "Bolikhamsai",
+          "en": "Bolikhamsai",
+          "slug": "bolikhamsai-bl"
+        }
+      },
+      {
+        "id": "BL-02",
+        "level": 2,
+        "name": {
+          "local": "Khamkeuth",
+          "en": "Khamkeuth",
+          "slug": "khamkeuth-bl-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.076",
+      "lon": "104.999"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1661804",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nakham",
+      "en": "Ban Nakham",
+      "slug": "ban-nakham-1661804"
+    },
+    "code": {
+      "id": "1661804",
+      "iso": null
+    },
+    "parent": {
+      "id": "BL-02",
+      "level": 2,
+      "name": {
+        "local": "Khamkeuth",
+        "en": "Khamkeuth",
+        "slug": "khamkeuth-bl-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BL",
+        "level": 1,
+        "name": {
+          "local": "Bolikhamsai",
+          "en": "Bolikhamsai",
+          "slug": "bolikhamsai-bl"
+        }
+      },
+      {
+        "id": "BL-02",
+        "level": 2,
+        "name": {
+          "local": "Khamkeuth",
+          "en": "Khamkeuth",
+          "slug": "khamkeuth-bl-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.154",
+      "lon": "104.722"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11233032",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nakhé",
+      "en": "Ban Nakhe",
+      "slug": "ban-nakhe-11233032"
+    },
+    "code": {
+      "id": "11233032",
+      "iso": null
+    },
+    "parent": {
+      "id": "BL-02",
+      "level": 2,
+      "name": {
+        "local": "Khamkeuth",
+        "en": "Khamkeuth",
+        "slug": "khamkeuth-bl-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BL",
+        "level": 1,
+        "name": {
+          "local": "Bolikhamsai",
+          "en": "Bolikhamsai",
+          "slug": "bolikhamsai-bl"
+        }
+      },
+      {
+        "id": "BL-02",
+        "level": 2,
+        "name": {
+          "local": "Khamkeuth",
+          "en": "Khamkeuth",
+          "slug": "khamkeuth-bl-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.235",
+      "lon": "105.018"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1661537",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nakhouan",
+      "en": "Ban Nakhouan",
+      "slug": "ban-nakhouan-1661537"
+    },
+    "code": {
+      "id": "1661537",
+      "iso": null
+    },
+    "parent": {
+      "id": "BL-02",
+      "level": 2,
+      "name": {
+        "local": "Khamkeuth",
+        "en": "Khamkeuth",
+        "slug": "khamkeuth-bl-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BL",
+        "level": 1,
+        "name": {
+          "local": "Bolikhamsai",
+          "en": "Bolikhamsai",
+          "slug": "bolikhamsai-bl"
+        }
+      },
+      {
+        "id": "BL-02",
+        "level": 2,
+        "name": {
+          "local": "Khamkeuth",
+          "en": "Khamkeuth",
+          "slug": "khamkeuth-bl-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.294",
+      "lon": "104.974"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11233039",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nakhoun",
+      "en": "Ban Nakhoun",
+      "slug": "ban-nakhoun-11233039"
+    },
+    "code": {
+      "id": "11233039",
+      "iso": null
+    },
+    "parent": {
+      "id": "BL-02",
+      "level": 2,
+      "name": {
+        "local": "Khamkeuth",
+        "en": "Khamkeuth",
+        "slug": "khamkeuth-bl-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BL",
+        "level": 1,
+        "name": {
+          "local": "Bolikhamsai",
+          "en": "Bolikhamsai",
+          "slug": "bolikhamsai-bl"
+        }
+      },
+      {
+        "id": "BL-02",
+        "level": 2,
+        "name": {
+          "local": "Khamkeuth",
+          "en": "Khamkeuth",
+          "slug": "khamkeuth-bl-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.067",
+      "lon": "105.072"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1661664",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nalia",
+      "en": "Ban Nalia",
+      "slug": "ban-nalia-1661664"
+    },
+    "code": {
+      "id": "1661664",
+      "iso": null
+    },
+    "parent": {
+      "id": "BL-02",
+      "level": 2,
+      "name": {
+        "local": "Khamkeuth",
+        "en": "Khamkeuth",
+        "slug": "khamkeuth-bl-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BL",
+        "level": 1,
+        "name": {
+          "local": "Bolikhamsai",
+          "en": "Bolikhamsai",
+          "slug": "bolikhamsai-bl"
+        }
+      },
+      {
+        "id": "BL-02",
+        "level": 2,
+        "name": {
+          "local": "Khamkeuth",
+          "en": "Khamkeuth",
+          "slug": "khamkeuth-bl-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.256",
+      "lon": "105.064"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1661663",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Naliang",
+      "en": "Ban Naliang",
+      "slug": "ban-naliang-1661663"
+    },
+    "code": {
+      "id": "1661663",
+      "iso": null
+    },
+    "parent": {
+      "id": "BL-02",
+      "level": 2,
+      "name": {
+        "local": "Khamkeuth",
+        "en": "Khamkeuth",
+        "slug": "khamkeuth-bl-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BL",
+        "level": 1,
+        "name": {
+          "local": "Bolikhamsai",
+          "en": "Bolikhamsai",
+          "slug": "bolikhamsai-bl"
+        }
+      },
+      {
+        "id": "BL-02",
+        "level": 2,
+        "name": {
+          "local": "Khamkeuth",
+          "en": "Khamkeuth",
+          "slug": "khamkeuth-bl-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.326",
+      "lon": "105.072"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11233041",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Namdoa",
+      "en": "Ban Namdoa",
+      "slug": "ban-namdoa-11233041"
+    },
+    "code": {
+      "id": "11233041",
+      "iso": null
+    },
+    "parent": {
+      "id": "BL-02",
+      "level": 2,
+      "name": {
+        "local": "Khamkeuth",
+        "en": "Khamkeuth",
+        "slug": "khamkeuth-bl-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BL",
+        "level": 1,
+        "name": {
+          "local": "Bolikhamsai",
+          "en": "Bolikhamsai",
+          "slug": "bolikhamsai-bl"
+        }
+      },
+      {
+        "id": "BL-02",
+        "level": 2,
+        "name": {
+          "local": "Khamkeuth",
+          "en": "Khamkeuth",
+          "slug": "khamkeuth-bl-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.057",
+      "lon": "105.064"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11233044",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Namhouay",
+      "en": "Ban Namhouay",
+      "slug": "ban-namhouay-11233044"
+    },
+    "code": {
+      "id": "11233044",
+      "iso": null
+    },
+    "parent": {
+      "id": "BL-02",
+      "level": 2,
+      "name": {
+        "local": "Khamkeuth",
+        "en": "Khamkeuth",
+        "slug": "khamkeuth-bl-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BL",
+        "level": 1,
+        "name": {
+          "local": "Bolikhamsai",
+          "en": "Bolikhamsai",
+          "slug": "bolikhamsai-bl"
+        }
+      },
+      {
+        "id": "BL-02",
+        "level": 2,
+        "name": {
+          "local": "Khamkeuth",
+          "en": "Khamkeuth",
+          "slug": "khamkeuth-bl-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.123",
+      "lon": "105.167"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11232515",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Namkhai",
+      "en": "Ban Namkhai",
+      "slug": "ban-namkhai-11232515"
+    },
+    "code": {
+      "id": "11232515",
+      "iso": null
+    },
+    "parent": {
+      "id": "BL-02",
+      "level": 2,
+      "name": {
+        "local": "Khamkeuth",
+        "en": "Khamkeuth",
+        "slug": "khamkeuth-bl-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BL",
+        "level": 1,
+        "name": {
+          "local": "Bolikhamsai",
+          "en": "Bolikhamsai",
+          "slug": "bolikhamsai-bl"
+        }
+      },
+      {
+        "id": "BL-02",
+        "level": 2,
+        "name": {
+          "local": "Khamkeuth",
+          "en": "Khamkeuth",
+          "slug": "khamkeuth-bl-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.382",
+      "lon": "105.03"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11233017",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Namliang",
+      "en": "Ban Namliang",
+      "slug": "ban-namliang-11233017"
+    },
+    "code": {
+      "id": "11233017",
+      "iso": null
+    },
+    "parent": {
+      "id": "BL-02",
+      "level": 2,
+      "name": {
+        "local": "Khamkeuth",
+        "en": "Khamkeuth",
+        "slug": "khamkeuth-bl-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BL",
+        "level": 1,
+        "name": {
+          "local": "Bolikhamsai",
+          "en": "Bolikhamsai",
+          "slug": "bolikhamsai-bl"
+        }
+      },
+      {
+        "id": "BL-02",
+        "level": 2,
+        "name": {
+          "local": "Khamkeuth",
+          "en": "Khamkeuth",
+          "slug": "khamkeuth-bl-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.281",
+      "lon": "105.046"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11233046",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nammang",
+      "en": "Ban Nammang",
+      "slug": "ban-nammang-11233046"
+    },
+    "code": {
+      "id": "11233046",
+      "iso": null
+    },
+    "parent": {
+      "id": "BL-02",
+      "level": 2,
+      "name": {
+        "local": "Khamkeuth",
+        "en": "Khamkeuth",
+        "slug": "khamkeuth-bl-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BL",
+        "level": 1,
+        "name": {
+          "local": "Bolikhamsai",
+          "en": "Bolikhamsai",
+          "slug": "bolikhamsai-bl"
+        }
+      },
+      {
+        "id": "BL-02",
+        "level": 2,
+        "name": {
+          "local": "Khamkeuth",
+          "en": "Khamkeuth",
+          "slug": "khamkeuth-bl-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.146",
+      "lon": "105.133"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11233033",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nampan",
+      "en": "Ban Nampan",
+      "slug": "ban-nampan-11233033"
+    },
+    "code": {
+      "id": "11233033",
+      "iso": null
+    },
+    "parent": {
+      "id": "BL-02",
+      "level": 2,
+      "name": {
+        "local": "Khamkeuth",
+        "en": "Khamkeuth",
+        "slug": "khamkeuth-bl-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BL",
+        "level": 1,
+        "name": {
+          "local": "Bolikhamsai",
+          "en": "Bolikhamsai",
+          "slug": "bolikhamsai-bl"
+        }
+      },
+      {
+        "id": "BL-02",
+        "level": 2,
+        "name": {
+          "local": "Khamkeuth",
+          "en": "Khamkeuth",
+          "slug": "khamkeuth-bl-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.196",
+      "lon": "105.018"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1955797",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Namphao",
+      "en": "Ban Namphao",
+      "slug": "ban-namphao-1955797"
+    },
+    "code": {
+      "id": "1955797",
+      "iso": null
+    },
+    "parent": {
+      "id": "BL-02",
+      "level": 2,
+      "name": {
+        "local": "Khamkeuth",
+        "en": "Khamkeuth",
+        "slug": "khamkeuth-bl-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BL",
+        "level": 1,
+        "name": {
+          "local": "Bolikhamsai",
+          "en": "Bolikhamsai",
+          "slug": "bolikhamsai-bl"
+        }
+      },
+      {
+        "id": "BL-02",
+        "level": 2,
+        "name": {
+          "local": "Khamkeuth",
+          "en": "Khamkeuth",
+          "slug": "khamkeuth-bl-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.177",
+      "lon": "104.992"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1661383",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Namuang",
+      "en": "Ban Namuang",
+      "slug": "ban-namuang-1661383"
+    },
+    "code": {
+      "id": "1661383",
+      "iso": null
+    },
+    "parent": {
+      "id": "BL-02",
+      "level": 2,
+      "name": {
+        "local": "Khamkeuth",
+        "en": "Khamkeuth",
+        "slug": "khamkeuth-bl-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BL",
+        "level": 1,
+        "name": {
+          "local": "Bolikhamsai",
+          "en": "Bolikhamsai",
+          "slug": "bolikhamsai-bl"
+        }
+      },
+      {
+        "id": "BL-02",
+        "level": 2,
+        "name": {
+          "local": "Khamkeuth",
+          "en": "Khamkeuth",
+          "slug": "khamkeuth-bl-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.233",
+      "lon": "105.171"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1661375",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Namxao",
+      "en": "Ban Namxao",
+      "slug": "ban-namxao-1661375"
+    },
+    "code": {
+      "id": "1661375",
+      "iso": null
+    },
+    "parent": {
+      "id": "BL-02",
+      "level": 2,
+      "name": {
+        "local": "Khamkeuth",
+        "en": "Khamkeuth",
+        "slug": "khamkeuth-bl-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BL",
+        "level": 1,
+        "name": {
+          "local": "Bolikhamsai",
+          "en": "Bolikhamsai",
+          "slug": "bolikhamsai-bl"
+        }
+      },
+      {
+        "id": "BL-02",
+        "level": 2,
+        "name": {
+          "local": "Khamkeuth",
+          "en": "Khamkeuth",
+          "slug": "khamkeuth-bl-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.117",
+      "lon": "105.1"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1661357",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nanang",
+      "en": "Ban Nanang",
+      "slug": "ban-nanang-1661357"
+    },
+    "code": {
+      "id": "1661357",
+      "iso": null
+    },
+    "parent": {
+      "id": "BL-02",
+      "level": 2,
+      "name": {
+        "local": "Khamkeuth",
+        "en": "Khamkeuth",
+        "slug": "khamkeuth-bl-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BL",
+        "level": 1,
+        "name": {
+          "local": "Bolikhamsai",
+          "en": "Bolikhamsai",
+          "slug": "bolikhamsai-bl"
+        }
+      },
+      {
+        "id": "BL-02",
+        "level": 2,
+        "name": {
+          "local": "Khamkeuth",
+          "en": "Khamkeuth",
+          "slug": "khamkeuth-bl-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.2",
+      "lon": "105.137"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1955766",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Napakvan",
+      "en": "Ban Napakvan",
+      "slug": "ban-napakvan-1955766"
+    },
+    "code": {
+      "id": "1955766",
+      "iso": null
+    },
+    "parent": {
+      "id": "BL-02",
+      "level": 2,
+      "name": {
+        "local": "Khamkeuth",
+        "en": "Khamkeuth",
+        "slug": "khamkeuth-bl-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BL",
+        "level": 1,
+        "name": {
+          "local": "Bolikhamsai",
+          "en": "Bolikhamsai",
+          "slug": "bolikhamsai-bl"
+        }
+      },
+      {
+        "id": "BL-02",
+        "level": 2,
+        "name": {
+          "local": "Khamkeuth",
+          "en": "Khamkeuth",
+          "slug": "khamkeuth-bl-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.26",
+      "lon": "104.69"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1661283",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Napè",
+      "en": "Ban Nape",
+      "slug": "ban-nape-1661283"
+    },
+    "code": {
+      "id": "1661283",
+      "iso": null
+    },
+    "parent": {
+      "id": "BL-02",
+      "level": 2,
+      "name": {
+        "local": "Khamkeuth",
+        "en": "Khamkeuth",
+        "slug": "khamkeuth-bl-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BL",
+        "level": 1,
+        "name": {
+          "local": "Bolikhamsai",
+          "en": "Bolikhamsai",
+          "slug": "bolikhamsai-bl"
+        }
+      },
+      {
+        "id": "BL-02",
+        "level": 2,
+        "name": {
+          "local": "Khamkeuth",
+          "en": "Khamkeuth",
+          "slug": "khamkeuth-bl-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.305",
+      "lon": "105.072"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1661228",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Naphong",
+      "en": "Ban Naphong",
+      "slug": "ban-naphong-1661228"
+    },
+    "code": {
+      "id": "1661228",
+      "iso": null
+    },
+    "parent": {
+      "id": "BL-02",
+      "level": 2,
+      "name": {
+        "local": "Khamkeuth",
+        "en": "Khamkeuth",
+        "slug": "khamkeuth-bl-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BL",
+        "level": 1,
+        "name": {
+          "local": "Bolikhamsai",
+          "en": "Bolikhamsai",
+          "slug": "bolikhamsai-bl"
+        }
+      },
+      {
+        "id": "BL-02",
+        "level": 2,
+        "name": {
+          "local": "Khamkeuth",
+          "en": "Khamkeuth",
+          "slug": "khamkeuth-bl-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.306",
+      "lon": "105.09"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1661200",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Napoung",
+      "en": "Ban Napoung",
+      "slug": "ban-napoung-1661200"
+    },
+    "code": {
+      "id": "1661200",
+      "iso": null
+    },
+    "parent": {
+      "id": "BL-02",
+      "level": 2,
+      "name": {
+        "local": "Khamkeuth",
+        "en": "Khamkeuth",
+        "slug": "khamkeuth-bl-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BL",
+        "level": 1,
+        "name": {
+          "local": "Bolikhamsai",
+          "en": "Bolikhamsai",
+          "slug": "bolikhamsai-bl"
+        }
+      },
+      {
+        "id": "BL-02",
+        "level": 2,
+        "name": {
+          "local": "Khamkeuth",
+          "en": "Khamkeuth",
+          "slug": "khamkeuth-bl-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.095",
+      "lon": "105.093"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1661186",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nasalôm",
+      "en": "Ban Nasalom",
+      "slug": "ban-nasalom-1661186"
+    },
+    "code": {
+      "id": "1661186",
+      "iso": null
+    },
+    "parent": {
+      "id": "BL-02",
+      "level": 2,
+      "name": {
+        "local": "Khamkeuth",
+        "en": "Khamkeuth",
+        "slug": "khamkeuth-bl-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BL",
+        "level": 1,
+        "name": {
+          "local": "Bolikhamsai",
+          "en": "Bolikhamsai",
+          "slug": "bolikhamsai-bl"
+        }
+      },
+      {
+        "id": "BL-02",
+        "level": 2,
+        "name": {
+          "local": "Khamkeuth",
+          "en": "Khamkeuth",
+          "slug": "khamkeuth-bl-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.298",
+      "lon": "105.05"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1661167",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nasao",
+      "en": "Ban Nasao",
+      "slug": "ban-nasao-1661167"
+    },
+    "code": {
+      "id": "1661167",
+      "iso": null
+    },
+    "parent": {
+      "id": "BL-02",
+      "level": 2,
+      "name": {
+        "local": "Khamkeuth",
+        "en": "Khamkeuth",
+        "slug": "khamkeuth-bl-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BL",
+        "level": 1,
+        "name": {
+          "local": "Bolikhamsai",
+          "en": "Bolikhamsai",
+          "slug": "bolikhamsai-bl"
+        }
+      },
+      {
+        "id": "BL-02",
+        "level": 2,
+        "name": {
+          "local": "Khamkeuth",
+          "en": "Khamkeuth",
+          "slug": "khamkeuth-bl-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.237",
+      "lon": "105.173"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1955798",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nathômkouang",
+      "en": "Ban Nathomkouang",
+      "slug": "ban-nathomkouang-1955798"
+    },
+    "code": {
+      "id": "1955798",
+      "iso": null
+    },
+    "parent": {
+      "id": "BL-02",
+      "level": 2,
+      "name": {
+        "local": "Khamkeuth",
+        "en": "Khamkeuth",
+        "slug": "khamkeuth-bl-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BL",
+        "level": 1,
+        "name": {
+          "local": "Bolikhamsai",
+          "en": "Bolikhamsai",
+          "slug": "bolikhamsai-bl"
+        }
+      },
+      {
+        "id": "BL-02",
+        "level": 2,
+        "name": {
+          "local": "Khamkeuth",
+          "en": "Khamkeuth",
+          "slug": "khamkeuth-bl-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.161",
+      "lon": "104.916"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1661069",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nathon",
+      "en": "Ban Nathon",
+      "slug": "ban-nathon-1661069"
+    },
+    "code": {
+      "id": "1661069",
+      "iso": null
+    },
+    "parent": {
+      "id": "BL-02",
+      "level": 2,
+      "name": {
+        "local": "Khamkeuth",
+        "en": "Khamkeuth",
+        "slug": "khamkeuth-bl-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BL",
+        "level": 1,
+        "name": {
+          "local": "Bolikhamsai",
+          "en": "Bolikhamsai",
+          "slug": "bolikhamsai-bl"
+        }
+      },
+      {
+        "id": "BL-02",
+        "level": 2,
+        "name": {
+          "local": "Khamkeuth",
+          "en": "Khamkeuth",
+          "slug": "khamkeuth-bl-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.155",
+      "lon": "105.156"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1661026",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nava",
+      "en": "Ban Nava",
+      "slug": "ban-nava-1661026"
+    },
+    "code": {
+      "id": "1661026",
+      "iso": null
+    },
+    "parent": {
+      "id": "BL-02",
+      "level": 2,
+      "name": {
+        "local": "Khamkeuth",
+        "en": "Khamkeuth",
+        "slug": "khamkeuth-bl-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BL",
+        "level": 1,
+        "name": {
+          "local": "Bolikhamsai",
+          "en": "Bolikhamsai",
+          "slug": "bolikhamsai-bl"
+        }
+      },
+      {
+        "id": "BL-02",
+        "level": 2,
+        "name": {
+          "local": "Khamkeuth",
+          "en": "Khamkeuth",
+          "slug": "khamkeuth-bl-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.037",
+      "lon": "104.889"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1660893",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nong",
+      "en": "Ban Nong",
+      "slug": "ban-nong-1660893"
+    },
+    "code": {
+      "id": "1660893",
+      "iso": null
+    },
+    "parent": {
+      "id": "BL-02",
+      "level": 2,
+      "name": {
+        "local": "Khamkeuth",
+        "en": "Khamkeuth",
+        "slug": "khamkeuth-bl-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BL",
+        "level": 1,
+        "name": {
+          "local": "Bolikhamsai",
+          "en": "Bolikhamsai",
+          "slug": "bolikhamsai-bl"
+        }
+      },
+      {
+        "id": "BL-02",
+        "level": 2,
+        "name": {
+          "local": "Khamkeuth",
+          "en": "Khamkeuth",
+          "slug": "khamkeuth-bl-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.283",
+      "lon": "105.117"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1660760",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nong Leung",
+      "en": "Ban Nong Leung",
+      "slug": "ban-nong-leung-1660760"
+    },
+    "code": {
+      "id": "1660760",
+      "iso": null
+    },
+    "parent": {
+      "id": "BL-02",
+      "level": 2,
+      "name": {
+        "local": "Khamkeuth",
+        "en": "Khamkeuth",
+        "slug": "khamkeuth-bl-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BL",
+        "level": 1,
+        "name": {
+          "local": "Bolikhamsai",
+          "en": "Bolikhamsai",
+          "slug": "bolikhamsai-bl"
+        }
+      },
+      {
+        "id": "BL-02",
+        "level": 2,
+        "name": {
+          "local": "Khamkeuth",
+          "en": "Khamkeuth",
+          "slug": "khamkeuth-bl-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.117",
+      "lon": "105.033"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1660735",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nong-O",
+      "en": "Ban Nong-O",
+      "slug": "ban-nong-o-1660735"
+    },
+    "code": {
+      "id": "1660735",
+      "iso": null
+    },
+    "parent": {
+      "id": "BL-02",
+      "level": 2,
+      "name": {
+        "local": "Khamkeuth",
+        "en": "Khamkeuth",
+        "slug": "khamkeuth-bl-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BL",
+        "level": 1,
+        "name": {
+          "local": "Bolikhamsai",
+          "en": "Bolikhamsai",
+          "slug": "bolikhamsai-bl"
+        }
+      },
+      {
+        "id": "BL-02",
+        "level": 2,
+        "name": {
+          "local": "Khamkeuth",
+          "en": "Khamkeuth",
+          "slug": "khamkeuth-bl-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.289",
+      "lon": "105.074"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1955781",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nonghin",
+      "en": "Ban Nonghin",
+      "slug": "ban-nonghin-1955781"
+    },
+    "code": {
+      "id": "1955781",
+      "iso": null
+    },
+    "parent": {
+      "id": "BL-02",
+      "level": 2,
+      "name": {
+        "local": "Khamkeuth",
+        "en": "Khamkeuth",
+        "slug": "khamkeuth-bl-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BL",
+        "level": 1,
+        "name": {
+          "local": "Bolikhamsai",
+          "en": "Bolikhamsai",
+          "slug": "bolikhamsai-bl"
+        }
+      },
+      {
+        "id": "BL-02",
+        "level": 2,
+        "name": {
+          "local": "Khamkeuth",
+          "en": "Khamkeuth",
+          "slug": "khamkeuth-bl-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.192",
+      "lon": "104.903"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1955789",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nongkok",
+      "en": "Ban Nongkok",
+      "slug": "ban-nongkok-1955789"
+    },
+    "code": {
+      "id": "1955789",
+      "iso": null
+    },
+    "parent": {
+      "id": "BL-02",
+      "level": 2,
+      "name": {
+        "local": "Khamkeuth",
+        "en": "Khamkeuth",
+        "slug": "khamkeuth-bl-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BL",
+        "level": 1,
+        "name": {
+          "local": "Bolikhamsai",
+          "en": "Bolikhamsai",
+          "slug": "bolikhamsai-bl"
+        }
+      },
+      {
+        "id": "BL-02",
+        "level": 2,
+        "name": {
+          "local": "Khamkeuth",
+          "en": "Khamkeuth",
+          "slug": "khamkeuth-bl-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.201",
+      "lon": "104.621"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1660754",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nonglouang",
+      "en": "Ban Nonglouang",
+      "slug": "ban-nonglouang-1660754"
+    },
+    "code": {
+      "id": "1660754",
+      "iso": null
+    },
+    "parent": {
+      "id": "BL-02",
+      "level": 2,
+      "name": {
+        "local": "Khamkeuth",
+        "en": "Khamkeuth",
+        "slug": "khamkeuth-bl-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BL",
+        "level": 1,
+        "name": {
+          "local": "Bolikhamsai",
+          "en": "Bolikhamsai",
+          "slug": "bolikhamsai-bl"
+        }
+      },
+      {
+        "id": "BL-02",
+        "level": 2,
+        "name": {
+          "local": "Khamkeuth",
+          "en": "Khamkeuth",
+          "slug": "khamkeuth-bl-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.162",
+      "lon": "105.166"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11233040",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nongmék",
+      "en": "Ban Nongmek",
+      "slug": "ban-nongmek-11233040"
+    },
+    "code": {
+      "id": "11233040",
+      "iso": null
+    },
+    "parent": {
+      "id": "BL-02",
+      "level": 2,
+      "name": {
+        "local": "Khamkeuth",
+        "en": "Khamkeuth",
+        "slug": "khamkeuth-bl-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BL",
+        "level": 1,
+        "name": {
+          "local": "Bolikhamsai",
+          "en": "Bolikhamsai",
+          "slug": "bolikhamsai-bl"
+        }
+      },
+      {
+        "id": "BL-02",
+        "level": 2,
+        "name": {
+          "local": "Khamkeuth",
+          "en": "Khamkeuth",
+          "slug": "khamkeuth-bl-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.066",
+      "lon": "105.081"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1660690",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nongsang",
+      "en": "Ban Nongsang",
+      "slug": "ban-nongsang-1660690"
+    },
+    "code": {
+      "id": "1660690",
+      "iso": null
+    },
+    "parent": {
+      "id": "BL-02",
+      "level": 2,
+      "name": {
+        "local": "Khamkeuth",
+        "en": "Khamkeuth",
+        "slug": "khamkeuth-bl-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BL",
+        "level": 1,
+        "name": {
+          "local": "Bolikhamsai",
+          "en": "Bolikhamsai",
+          "slug": "bolikhamsai-bl"
+        }
+      },
+      {
+        "id": "BL-02",
+        "level": 2,
+        "name": {
+          "local": "Khamkeuth",
+          "en": "Khamkeuth",
+          "slug": "khamkeuth-bl-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.301",
+      "lon": "105.047"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1660550",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Pahôk",
+      "en": "Ban Pahok",
+      "slug": "ban-pahok-1660550"
+    },
+    "code": {
+      "id": "1660550",
+      "iso": null
+    },
+    "parent": {
+      "id": "BL-02",
+      "level": 2,
+      "name": {
+        "local": "Khamkeuth",
+        "en": "Khamkeuth",
+        "slug": "khamkeuth-bl-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BL",
+        "level": 1,
+        "name": {
+          "local": "Bolikhamsai",
+          "en": "Bolikhamsai",
+          "slug": "bolikhamsai-bl"
+        }
+      },
+      {
+        "id": "BL-02",
+        "level": 2,
+        "name": {
+          "local": "Khamkeuth",
+          "en": "Khamkeuth",
+          "slug": "khamkeuth-bl-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.36",
+      "lon": "104.732"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1660530",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Pakha",
+      "en": "Ban Pakha",
+      "slug": "ban-pakha-1660530"
+    },
+    "code": {
+      "id": "1660530",
+      "iso": null
+    },
+    "parent": {
+      "id": "BL-02",
+      "level": 2,
+      "name": {
+        "local": "Khamkeuth",
+        "en": "Khamkeuth",
+        "slug": "khamkeuth-bl-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BL",
+        "level": 1,
+        "name": {
+          "local": "Bolikhamsai",
+          "en": "Bolikhamsai",
+          "slug": "bolikhamsai-bl"
+        }
+      },
+      {
+        "id": "BL-02",
+        "level": 2,
+        "name": {
+          "local": "Khamkeuth",
+          "en": "Khamkeuth",
+          "slug": "khamkeuth-bl-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.243",
+      "lon": "104.69"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1660318",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phabang",
+      "en": "Ban Phabang",
+      "slug": "ban-phabang-1660318"
+    },
+    "code": {
+      "id": "1660318",
+      "iso": null
+    },
+    "parent": {
+      "id": "BL-02",
+      "level": 2,
+      "name": {
+        "local": "Khamkeuth",
+        "en": "Khamkeuth",
+        "slug": "khamkeuth-bl-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BL",
+        "level": 1,
+        "name": {
+          "local": "Bolikhamsai",
+          "en": "Bolikhamsai",
+          "slug": "bolikhamsai-bl"
+        }
+      },
+      {
+        "id": "BL-02",
+        "level": 2,
+        "name": {
+          "local": "Khamkeuth",
+          "en": "Khamkeuth",
+          "slug": "khamkeuth-bl-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.304",
+      "lon": "104.673"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11233035",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phakô",
+      "en": "Ban Phako",
+      "slug": "ban-phako-11233035"
+    },
+    "code": {
+      "id": "11233035",
+      "iso": null
+    },
+    "parent": {
+      "id": "BL-02",
+      "level": 2,
+      "name": {
+        "local": "Khamkeuth",
+        "en": "Khamkeuth",
+        "slug": "khamkeuth-bl-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BL",
+        "level": 1,
+        "name": {
+          "local": "Bolikhamsai",
+          "en": "Bolikhamsai",
+          "slug": "bolikhamsai-bl"
+        }
+      },
+      {
+        "id": "BL-02",
+        "level": 2,
+        "name": {
+          "local": "Khamkeuth",
+          "en": "Khamkeuth",
+          "slug": "khamkeuth-bl-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.11",
+      "lon": "105.082"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1660208",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phamuang",
+      "en": "Ban Phamuang",
+      "slug": "ban-phamuang-1660208"
+    },
+    "code": {
+      "id": "1660208",
+      "iso": null
+    },
+    "parent": {
+      "id": "BL-02",
+      "level": 2,
+      "name": {
+        "local": "Khamkeuth",
+        "en": "Khamkeuth",
+        "slug": "khamkeuth-bl-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BL",
+        "level": 1,
+        "name": {
+          "local": "Bolikhamsai",
+          "en": "Bolikhamsai",
+          "slug": "bolikhamsai-bl"
+        }
+      },
+      {
+        "id": "BL-02",
+        "level": 2,
+        "name": {
+          "local": "Khamkeuth",
+          "en": "Khamkeuth",
+          "slug": "khamkeuth-bl-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.116",
+      "lon": "104.804"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1660126",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phayat",
+      "en": "Ban Phayat",
+      "slug": "ban-phayat-1660126"
+    },
+    "code": {
+      "id": "1660126",
+      "iso": null
+    },
+    "parent": {
+      "id": "BL-02",
+      "level": 2,
+      "name": {
+        "local": "Khamkeuth",
+        "en": "Khamkeuth",
+        "slug": "khamkeuth-bl-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BL",
+        "level": 1,
+        "name": {
+          "local": "Bolikhamsai",
+          "en": "Bolikhamsai",
+          "slug": "bolikhamsai-bl"
+        }
+      },
+      {
+        "id": "BL-02",
+        "level": 2,
+        "name": {
+          "local": "Khamkeuth",
+          "en": "Khamkeuth",
+          "slug": "khamkeuth-bl-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.184",
+      "lon": "104.913"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1955757",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phiangdôn",
+      "en": "Ban Phiangdon",
+      "slug": "ban-phiangdon-1955757"
+    },
+    "code": {
+      "id": "1955757",
+      "iso": null
+    },
+    "parent": {
+      "id": "BL-02",
+      "level": 2,
+      "name": {
+        "local": "Khamkeuth",
+        "en": "Khamkeuth",
+        "slug": "khamkeuth-bl-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BL",
+        "level": 1,
+        "name": {
+          "local": "Bolikhamsai",
+          "en": "Bolikhamsai",
+          "slug": "bolikhamsai-bl"
+        }
+      },
+      {
+        "id": "BL-02",
+        "level": 2,
+        "name": {
+          "local": "Khamkeuth",
+          "en": "Khamkeuth",
+          "slug": "khamkeuth-bl-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.305",
+      "lon": "104.647"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11233048",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phiatxai",
+      "en": "Ban Phiatxai",
+      "slug": "ban-phiatxai-11233048"
+    },
+    "code": {
+      "id": "11233048",
+      "iso": null
+    },
+    "parent": {
+      "id": "BL-02",
+      "level": 2,
+      "name": {
+        "local": "Khamkeuth",
+        "en": "Khamkeuth",
+        "slug": "khamkeuth-bl-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BL",
+        "level": 1,
+        "name": {
+          "local": "Bolikhamsai",
+          "en": "Bolikhamsai",
+          "slug": "bolikhamsai-bl"
+        }
+      },
+      {
+        "id": "BL-02",
+        "level": 2,
+        "name": {
+          "local": "Khamkeuth",
+          "en": "Khamkeuth",
+          "slug": "khamkeuth-bl-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.135",
+      "lon": "105.095"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1659987",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phôn",
+      "en": "Ban Phon",
+      "slug": "ban-phon-1659987"
+    },
+    "code": {
+      "id": "1659987",
+      "iso": null
+    },
+    "parent": {
+      "id": "BL-02",
+      "level": 2,
+      "name": {
+        "local": "Khamkeuth",
+        "en": "Khamkeuth",
+        "slug": "khamkeuth-bl-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BL",
+        "level": 1,
+        "name": {
+          "local": "Bolikhamsai",
+          "en": "Bolikhamsai",
+          "slug": "bolikhamsai-bl"
+        }
+      },
+      {
+        "id": "BL-02",
+        "level": 2,
+        "name": {
+          "local": "Khamkeuth",
+          "en": "Khamkeuth",
+          "slug": "khamkeuth-bl-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.177",
+      "lon": "104.884"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11233052",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phôngnot",
+      "en": "Ban Phongnot",
+      "slug": "ban-phongnot-11233052"
+    },
+    "code": {
+      "id": "11233052",
+      "iso": null
+    },
+    "parent": {
+      "id": "BL-02",
+      "level": 2,
+      "name": {
+        "local": "Khamkeuth",
+        "en": "Khamkeuth",
+        "slug": "khamkeuth-bl-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BL",
+        "level": 1,
+        "name": {
+          "local": "Bolikhamsai",
+          "en": "Bolikhamsai",
+          "slug": "bolikhamsai-bl"
+        }
+      },
+      {
+        "id": "BL-02",
+        "level": 2,
+        "name": {
+          "local": "Khamkeuth",
+          "en": "Khamkeuth",
+          "slug": "khamkeuth-bl-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.25",
+      "lon": "105.174"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1955774",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phônhông",
+      "en": "Ban Phonhong",
+      "slug": "ban-phonhong-1955774"
+    },
+    "code": {
+      "id": "1955774",
+      "iso": null
+    },
+    "parent": {
+      "id": "BL-02",
+      "level": 2,
+      "name": {
+        "local": "Khamkeuth",
+        "en": "Khamkeuth",
+        "slug": "khamkeuth-bl-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BL",
+        "level": 1,
+        "name": {
+          "local": "Bolikhamsai",
+          "en": "Bolikhamsai",
+          "slug": "bolikhamsai-bl"
+        }
+      },
+      {
+        "id": "BL-02",
+        "level": 2,
+        "name": {
+          "local": "Khamkeuth",
+          "en": "Khamkeuth",
+          "slug": "khamkeuth-bl-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.241",
+      "lon": "104.637"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11233037",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phônhông",
+      "en": "Ban Phonhong",
+      "slug": "ban-phonhong-11233037"
+    },
+    "code": {
+      "id": "11233037",
+      "iso": null
+    },
+    "parent": {
+      "id": "BL-02",
+      "level": 2,
+      "name": {
+        "local": "Khamkeuth",
+        "en": "Khamkeuth",
+        "slug": "khamkeuth-bl-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BL",
+        "level": 1,
+        "name": {
+          "local": "Bolikhamsai",
+          "en": "Bolikhamsai",
+          "slug": "bolikhamsai-bl"
+        }
+      },
+      {
+        "id": "BL-02",
+        "level": 2,
+        "name": {
+          "local": "Khamkeuth",
+          "en": "Khamkeuth",
+          "slug": "khamkeuth-bl-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.09",
+      "lon": "105.059"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1955765",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phônkham",
+      "en": "Ban Phonkham",
+      "slug": "ban-phonkham-1955765"
+    },
+    "code": {
+      "id": "1955765",
+      "iso": null
+    },
+    "parent": {
+      "id": "BL-02",
+      "level": 2,
+      "name": {
+        "local": "Khamkeuth",
+        "en": "Khamkeuth",
+        "slug": "khamkeuth-bl-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BL",
+        "level": 1,
+        "name": {
+          "local": "Bolikhamsai",
+          "en": "Bolikhamsai",
+          "slug": "bolikhamsai-bl"
+        }
+      },
+      {
+        "id": "BL-02",
+        "level": 2,
+        "name": {
+          "local": "Khamkeuth",
+          "en": "Khamkeuth",
+          "slug": "khamkeuth-bl-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.265",
+      "lon": "104.903"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1955788",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phônlôm",
+      "en": "Ban Phonlom",
+      "slug": "ban-phonlom-1955788"
+    },
+    "code": {
+      "id": "1955788",
+      "iso": null
+    },
+    "parent": {
+      "id": "BL-02",
+      "level": 2,
+      "name": {
+        "local": "Khamkeuth",
+        "en": "Khamkeuth",
+        "slug": "khamkeuth-bl-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BL",
+        "level": 1,
+        "name": {
+          "local": "Bolikhamsai",
+          "en": "Bolikhamsai",
+          "slug": "bolikhamsai-bl"
+        }
+      },
+      {
+        "id": "BL-02",
+        "level": 2,
+        "name": {
+          "local": "Khamkeuth",
+          "en": "Khamkeuth",
+          "slug": "khamkeuth-bl-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.193",
+      "lon": "104.662"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1659919",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phônmuang",
+      "en": "Ban Phonmuang",
+      "slug": "ban-phonmuang-1659919"
+    },
+    "code": {
+      "id": "1659919",
+      "iso": null
+    },
+    "parent": {
+      "id": "BL-02",
+      "level": 2,
+      "name": {
+        "local": "Khamkeuth",
+        "en": "Khamkeuth",
+        "slug": "khamkeuth-bl-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BL",
+        "level": 1,
+        "name": {
+          "local": "Bolikhamsai",
+          "en": "Bolikhamsai",
+          "slug": "bolikhamsai-bl"
+        }
+      },
+      {
+        "id": "BL-02",
+        "level": 2,
+        "name": {
+          "local": "Khamkeuth",
+          "en": "Khamkeuth",
+          "slug": "khamkeuth-bl-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.25",
+      "lon": "104.685"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1659913",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phônngam",
+      "en": "Ban Phonngam",
+      "slug": "ban-phonngam-1659913"
+    },
+    "code": {
+      "id": "1659913",
+      "iso": null
+    },
+    "parent": {
+      "id": "BL-02",
+      "level": 2,
+      "name": {
+        "local": "Khamkeuth",
+        "en": "Khamkeuth",
+        "slug": "khamkeuth-bl-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BL",
+        "level": 1,
+        "name": {
+          "local": "Bolikhamsai",
+          "en": "Bolikhamsai",
+          "slug": "bolikhamsai-bl"
+        }
+      },
+      {
+        "id": "BL-02",
+        "level": 2,
+        "name": {
+          "local": "Khamkeuth",
+          "en": "Khamkeuth",
+          "slug": "khamkeuth-bl-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.099",
+      "lon": "104.843"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1955780",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phônphèng",
+      "en": "Ban Phonpheng",
+      "slug": "ban-phonpheng-1955780"
+    },
+    "code": {
+      "id": "1955780",
+      "iso": null
+    },
+    "parent": {
+      "id": "BL-02",
+      "level": 2,
+      "name": {
+        "local": "Khamkeuth",
+        "en": "Khamkeuth",
+        "slug": "khamkeuth-bl-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BL",
+        "level": 1,
+        "name": {
+          "local": "Bolikhamsai",
+          "en": "Bolikhamsai",
+          "slug": "bolikhamsai-bl"
+        }
+      },
+      {
+        "id": "BL-02",
+        "level": 2,
+        "name": {
+          "local": "Khamkeuth",
+          "en": "Khamkeuth",
+          "slug": "khamkeuth-bl-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.205",
+      "lon": "104.978"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13433849",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phônphèng",
+      "en": "Ban Phonpheng",
+      "slug": "ban-phonpheng-13433849"
+    },
+    "code": {
+      "id": "13433849",
+      "iso": null
+    },
+    "parent": {
+      "id": "BL-02",
+      "level": 2,
+      "name": {
+        "local": "Khamkeuth",
+        "en": "Khamkeuth",
+        "slug": "khamkeuth-bl-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BL",
+        "level": 1,
+        "name": {
+          "local": "Bolikhamsai",
+          "en": "Bolikhamsai",
+          "slug": "bolikhamsai-bl"
+        }
+      },
+      {
+        "id": "BL-02",
+        "level": 2,
+        "name": {
+          "local": "Khamkeuth",
+          "en": "Khamkeuth",
+          "slug": "khamkeuth-bl-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.227",
+      "lon": "105.016"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1955759",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phônsa-At",
+      "en": "Ban Phonsa-At",
+      "slug": "ban-phonsa-at-1955759"
+    },
+    "code": {
+      "id": "1955759",
+      "iso": null
+    },
+    "parent": {
+      "id": "BL-02",
+      "level": 2,
+      "name": {
+        "local": "Khamkeuth",
+        "en": "Khamkeuth",
+        "slug": "khamkeuth-bl-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BL",
+        "level": 1,
+        "name": {
+          "local": "Bolikhamsai",
+          "en": "Bolikhamsai",
+          "slug": "bolikhamsai-bl"
+        }
+      },
+      {
+        "id": "BL-02",
+        "level": 2,
+        "name": {
+          "local": "Khamkeuth",
+          "en": "Khamkeuth",
+          "slug": "khamkeuth-bl-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.292",
+      "lon": "104.853"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1955772",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phônsavang",
+      "en": "Ban Phonsavang",
+      "slug": "ban-phonsavang-1955772"
+    },
+    "code": {
+      "id": "1955772",
+      "iso": null
+    },
+    "parent": {
+      "id": "BL-02",
+      "level": 2,
+      "name": {
+        "local": "Khamkeuth",
+        "en": "Khamkeuth",
+        "slug": "khamkeuth-bl-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BL",
+        "level": 1,
+        "name": {
+          "local": "Bolikhamsai",
+          "en": "Bolikhamsai",
+          "slug": "bolikhamsai-bl"
+        }
+      },
+      {
+        "id": "BL-02",
+        "level": 2,
+        "name": {
+          "local": "Khamkeuth",
+          "en": "Khamkeuth",
+          "slug": "khamkeuth-bl-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.235",
+      "lon": "104.959"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1659873",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phôntan",
+      "en": "Ban Phontan",
+      "slug": "ban-phontan-1659873"
+    },
+    "code": {
+      "id": "1659873",
+      "iso": null
+    },
+    "parent": {
+      "id": "BL-02",
+      "level": 2,
+      "name": {
+        "local": "Khamkeuth",
+        "en": "Khamkeuth",
+        "slug": "khamkeuth-bl-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BL",
+        "level": 1,
+        "name": {
+          "local": "Bolikhamsai",
+          "en": "Bolikhamsai",
+          "slug": "bolikhamsai-bl"
+        }
+      },
+      {
+        "id": "BL-02",
+        "level": 2,
+        "name": {
+          "local": "Khamkeuth",
+          "en": "Khamkeuth",
+          "slug": "khamkeuth-bl-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.233",
+      "lon": "104.704"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1659975",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phônthông",
+      "en": "Ban Phonthong",
+      "slug": "ban-phonthong-1659975"
+    },
+    "code": {
+      "id": "1659975",
+      "iso": null
+    },
+    "parent": {
+      "id": "BL-02",
+      "level": 2,
+      "name": {
+        "local": "Khamkeuth",
+        "en": "Khamkeuth",
+        "slug": "khamkeuth-bl-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BL",
+        "level": 1,
+        "name": {
+          "local": "Bolikhamsai",
+          "en": "Bolikhamsai",
+          "slug": "bolikhamsai-bl"
+        }
+      },
+      {
+        "id": "BL-02",
+        "level": 2,
+        "name": {
+          "local": "Khamkeuth",
+          "en": "Khamkeuth",
+          "slug": "khamkeuth-bl-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.084",
+      "lon": "105.004"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1955763",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phônxai",
+      "en": "Ban Phonxai",
+      "slug": "ban-phonxai-1955763"
+    },
+    "code": {
+      "id": "1955763",
+      "iso": null
+    },
+    "parent": {
+      "id": "BL-02",
+      "level": 2,
+      "name": {
+        "local": "Khamkeuth",
+        "en": "Khamkeuth",
+        "slug": "khamkeuth-bl-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BL",
+        "level": 1,
+        "name": {
+          "local": "Bolikhamsai",
+          "en": "Bolikhamsai",
+          "slug": "bolikhamsai-bl"
+        }
+      },
+      {
+        "id": "BL-02",
+        "level": 2,
+        "name": {
+          "local": "Khamkeuth",
+          "en": "Khamkeuth",
+          "slug": "khamkeuth-bl-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.254",
+      "lon": "104.967"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11233038",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phonxai",
+      "en": "Ban Phonxai",
+      "slug": "ban-phonxai-11233038"
+    },
+    "code": {
+      "id": "11233038",
+      "iso": null
+    },
+    "parent": {
+      "id": "BL-02",
+      "level": 2,
+      "name": {
+        "local": "Khamkeuth",
+        "en": "Khamkeuth",
+        "slug": "khamkeuth-bl-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BL",
+        "level": 1,
+        "name": {
+          "local": "Bolikhamsai",
+          "en": "Bolikhamsai",
+          "slug": "bolikhamsai-bl"
+        }
+      },
+      {
+        "id": "BL-02",
+        "level": 2,
+        "name": {
+          "local": "Khamkeuth",
+          "en": "Khamkeuth",
+          "slug": "khamkeuth-bl-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.107",
+      "lon": "105.03"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1955784",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Pompèk",
+      "en": "Ban Pompek",
+      "slug": "ban-pompek-1955784"
+    },
+    "code": {
+      "id": "1955784",
+      "iso": null
+    },
+    "parent": {
+      "id": "BL-02",
+      "level": 2,
+      "name": {
+        "local": "Khamkeuth",
+        "en": "Khamkeuth",
+        "slug": "khamkeuth-bl-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BL",
+        "level": 1,
+        "name": {
+          "local": "Bolikhamsai",
+          "en": "Bolikhamsai",
+          "slug": "bolikhamsai-bl"
+        }
+      },
+      {
+        "id": "BL-02",
+        "level": 2,
+        "name": {
+          "local": "Khamkeuth",
+          "en": "Khamkeuth",
+          "slug": "khamkeuth-bl-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.188",
+      "lon": "104.841"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1955779",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Poung",
+      "en": "Ban Poung",
+      "slug": "ban-poung-1955779"
+    },
+    "code": {
+      "id": "1955779",
+      "iso": null
+    },
+    "parent": {
+      "id": "BL-02",
+      "level": 2,
+      "name": {
+        "local": "Khamkeuth",
+        "en": "Khamkeuth",
+        "slug": "khamkeuth-bl-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BL",
+        "level": 1,
+        "name": {
+          "local": "Bolikhamsai",
+          "en": "Bolikhamsai",
+          "slug": "bolikhamsai-bl"
+        }
+      },
+      {
+        "id": "BL-02",
+        "level": 2,
+        "name": {
+          "local": "Khamkeuth",
+          "en": "Khamkeuth",
+          "slug": "khamkeuth-bl-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.217",
+      "lon": "104.824"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11233057",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Poungkuak",
+      "en": "Ban Poungkuak",
+      "slug": "ban-poungkuak-11233057"
+    },
+    "code": {
+      "id": "11233057",
+      "iso": null
+    },
+    "parent": {
+      "id": "BL-02",
+      "level": 2,
+      "name": {
+        "local": "Khamkeuth",
+        "en": "Khamkeuth",
+        "slug": "khamkeuth-bl-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BL",
+        "level": 1,
+        "name": {
+          "local": "Bolikhamsai",
+          "en": "Bolikhamsai",
+          "slug": "bolikhamsai-bl"
+        }
+      },
+      {
+        "id": "BL-02",
+        "level": 2,
+        "name": {
+          "local": "Khamkeuth",
+          "en": "Khamkeuth",
+          "slug": "khamkeuth-bl-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.157",
+      "lon": "105.198"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1659624",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Pounglan",
+      "en": "Ban Pounglan",
+      "slug": "ban-pounglan-1659624"
+    },
+    "code": {
+      "id": "1659624",
+      "iso": null
+    },
+    "parent": {
+      "id": "BL-02",
+      "level": 2,
+      "name": {
+        "local": "Khamkeuth",
+        "en": "Khamkeuth",
+        "slug": "khamkeuth-bl-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BL",
+        "level": 1,
+        "name": {
+          "local": "Bolikhamsai",
+          "en": "Bolikhamsai",
+          "slug": "bolikhamsai-bl"
+        }
+      },
+      {
+        "id": "BL-02",
+        "level": 2,
+        "name": {
+          "local": "Khamkeuth",
+          "en": "Khamkeuth",
+          "slug": "khamkeuth-bl-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.17",
+      "lon": "105.026"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1955809",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Sènkhoun",
+      "en": "Ban Senkhoun",
+      "slug": "ban-senkhoun-1955809"
+    },
+    "code": {
+      "id": "1955809",
+      "iso": null
+    },
+    "parent": {
+      "id": "BL-02",
+      "level": 2,
+      "name": {
+        "local": "Khamkeuth",
+        "en": "Khamkeuth",
+        "slug": "khamkeuth-bl-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BL",
+        "level": 1,
+        "name": {
+          "local": "Bolikhamsai",
+          "en": "Bolikhamsai",
+          "slug": "bolikhamsai-bl"
+        }
+      },
+      {
+        "id": "BL-02",
+        "level": 2,
+        "name": {
+          "local": "Khamkeuth",
+          "en": "Khamkeuth",
+          "slug": "khamkeuth-bl-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.088",
+      "lon": "104.97"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13433850",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Senkhoun",
+      "en": "Ban Senkhoun",
+      "slug": "ban-senkhoun-13433850"
+    },
+    "code": {
+      "id": "13433850",
+      "iso": null
+    },
+    "parent": {
+      "id": "BL-02",
+      "level": 2,
+      "name": {
+        "local": "Khamkeuth",
+        "en": "Khamkeuth",
+        "slug": "khamkeuth-bl-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BL",
+        "level": 1,
+        "name": {
+          "local": "Bolikhamsai",
+          "en": "Bolikhamsai",
+          "slug": "bolikhamsai-bl"
+        }
+      },
+      {
+        "id": "BL-02",
+        "level": 2,
+        "name": {
+          "local": "Khamkeuth",
+          "en": "Khamkeuth",
+          "slug": "khamkeuth-bl-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.096",
+      "lon": "105.01"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1661574",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Sôphoy",
+      "en": "Ban Sophoy",
+      "slug": "ban-sophoy-1661574"
+    },
+    "code": {
+      "id": "1661574",
+      "iso": null
+    },
+    "parent": {
+      "id": "BL-02",
+      "level": 2,
+      "name": {
+        "local": "Khamkeuth",
+        "en": "Khamkeuth",
+        "slug": "khamkeuth-bl-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BL",
+        "level": 1,
+        "name": {
+          "local": "Bolikhamsai",
+          "en": "Bolikhamsai",
+          "slug": "bolikhamsai-bl"
+        }
+      },
+      {
+        "id": "BL-02",
+        "level": 2,
+        "name": {
+          "local": "Khamkeuth",
+          "en": "Khamkeuth",
+          "slug": "khamkeuth-bl-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.149",
+      "lon": "104.914"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1661558",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Sôpkat",
+      "en": "Ban Sopkat",
+      "slug": "ban-sopkat-1661558"
+    },
+    "code": {
+      "id": "1661558",
+      "iso": null
+    },
+    "parent": {
+      "id": "BL-02",
+      "level": 2,
+      "name": {
+        "local": "Khamkeuth",
+        "en": "Khamkeuth",
+        "slug": "khamkeuth-bl-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BL",
+        "level": 1,
+        "name": {
+          "local": "Bolikhamsai",
+          "en": "Bolikhamsai",
+          "slug": "bolikhamsai-bl"
+        }
+      },
+      {
+        "id": "BL-02",
+        "level": 2,
+        "name": {
+          "local": "Khamkeuth",
+          "en": "Khamkeuth",
+          "slug": "khamkeuth-bl-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.222",
+      "lon": "104.66"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1659108",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Sôpkhôm",
+      "en": "Ban Sopkhom",
+      "slug": "ban-sopkhom-1659108"
+    },
+    "code": {
+      "id": "1659108",
+      "iso": null
+    },
+    "parent": {
+      "id": "BL-02",
+      "level": 2,
+      "name": {
+        "local": "Khamkeuth",
+        "en": "Khamkeuth",
+        "slug": "khamkeuth-bl-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BL",
+        "level": 1,
+        "name": {
+          "local": "Bolikhamsai",
+          "en": "Bolikhamsai",
+          "slug": "bolikhamsai-bl"
+        }
+      },
+      {
+        "id": "BL-02",
+        "level": 2,
+        "name": {
+          "local": "Khamkeuth",
+          "en": "Khamkeuth",
+          "slug": "khamkeuth-bl-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.293",
+      "lon": "104.872"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1955802",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Sôpphak",
+      "en": "Ban Sopphak",
+      "slug": "ban-sopphak-1955802"
+    },
+    "code": {
+      "id": "1955802",
+      "iso": null
+    },
+    "parent": {
+      "id": "BL-02",
+      "level": 2,
+      "name": {
+        "local": "Khamkeuth",
+        "en": "Khamkeuth",
+        "slug": "khamkeuth-bl-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BL",
+        "level": 1,
+        "name": {
+          "local": "Bolikhamsai",
+          "en": "Bolikhamsai",
+          "slug": "bolikhamsai-bl"
+        }
+      },
+      {
+        "id": "BL-02",
+        "level": 2,
+        "name": {
+          "local": "Khamkeuth",
+          "en": "Khamkeuth",
+          "slug": "khamkeuth-bl-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.128",
+      "lon": "104.933"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1659079",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Sôppon",
+      "en": "Ban Soppon",
+      "slug": "ban-soppon-1659079"
+    },
+    "code": {
+      "id": "1659079",
+      "iso": null
+    },
+    "parent": {
+      "id": "BL-02",
+      "level": 2,
+      "name": {
+        "local": "Khamkeuth",
+        "en": "Khamkeuth",
+        "slug": "khamkeuth-bl-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BL",
+        "level": 1,
+        "name": {
+          "local": "Bolikhamsai",
+          "en": "Bolikhamsai",
+          "slug": "bolikhamsai-bl"
+        }
+      },
+      {
+        "id": "BL-02",
+        "level": 2,
+        "name": {
+          "local": "Khamkeuth",
+          "en": "Khamkeuth",
+          "slug": "khamkeuth-bl-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.319",
+      "lon": "104.732"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1955776",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Thabak",
+      "en": "Ban Thabak",
+      "slug": "ban-thabak-1955776"
+    },
+    "code": {
+      "id": "1955776",
+      "iso": null
+    },
+    "parent": {
+      "id": "BL-02",
+      "level": 2,
+      "name": {
+        "local": "Khamkeuth",
+        "en": "Khamkeuth",
+        "slug": "khamkeuth-bl-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BL",
+        "level": 1,
+        "name": {
+          "local": "Bolikhamsai",
+          "en": "Bolikhamsai",
+          "slug": "bolikhamsai-bl"
+        }
+      },
+      {
+        "id": "BL-02",
+        "level": 2,
+        "name": {
+          "local": "Khamkeuth",
+          "en": "Khamkeuth",
+          "slug": "khamkeuth-bl-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.232",
+      "lon": "104.661"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1658588",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Thasala",
+      "en": "Ban Thasala",
+      "slug": "ban-thasala-1658588"
+    },
+    "code": {
+      "id": "1658588",
+      "iso": null
+    },
+    "parent": {
+      "id": "BL-02",
+      "level": 2,
+      "name": {
+        "local": "Khamkeuth",
+        "en": "Khamkeuth",
+        "slug": "khamkeuth-bl-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BL",
+        "level": 1,
+        "name": {
+          "local": "Bolikhamsai",
+          "en": "Bolikhamsai",
+          "slug": "bolikhamsai-bl"
+        }
+      },
+      {
+        "id": "BL-02",
+        "level": 2,
+        "name": {
+          "local": "Khamkeuth",
+          "en": "Khamkeuth",
+          "slug": "khamkeuth-bl-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.287",
+      "lon": "104.636"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1658582",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Thasôm",
+      "en": "Ban Thasom",
+      "slug": "ban-thasom-1658582"
+    },
+    "code": {
+      "id": "1658582",
+      "iso": null
+    },
+    "parent": {
+      "id": "BL-02",
+      "level": 2,
+      "name": {
+        "local": "Khamkeuth",
+        "en": "Khamkeuth",
+        "slug": "khamkeuth-bl-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BL",
+        "level": 1,
+        "name": {
+          "local": "Bolikhamsai",
+          "en": "Bolikhamsai",
+          "slug": "bolikhamsai-bl"
+        }
+      },
+      {
+        "id": "BL-02",
+        "level": 2,
+        "name": {
+          "local": "Khamkeuth",
+          "en": "Khamkeuth",
+          "slug": "khamkeuth-bl-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.3",
+      "lon": "104.65"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1658562",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Thavèng",
+      "en": "Ban Thaveng",
+      "slug": "ban-thaveng-1658562"
+    },
+    "code": {
+      "id": "1658562",
+      "iso": null
+    },
+    "parent": {
+      "id": "BL-02",
+      "level": 2,
+      "name": {
+        "local": "Khamkeuth",
+        "en": "Khamkeuth",
+        "slug": "khamkeuth-bl-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BL",
+        "level": 1,
+        "name": {
+          "local": "Bolikhamsai",
+          "en": "Bolikhamsai",
+          "slug": "bolikhamsai-bl"
+        }
+      },
+      {
+        "id": "BL-02",
+        "level": 2,
+        "name": {
+          "local": "Khamkeuth",
+          "en": "Khamkeuth",
+          "slug": "khamkeuth-bl-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.24",
+      "lon": "104.962"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1658508",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Thông",
+      "en": "Ban Thong",
+      "slug": "ban-thong-1658508"
+    },
+    "code": {
+      "id": "1658508",
+      "iso": null
+    },
+    "parent": {
+      "id": "BL-02",
+      "level": 2,
+      "name": {
+        "local": "Khamkeuth",
+        "en": "Khamkeuth",
+        "slug": "khamkeuth-bl-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BL",
+        "level": 1,
+        "name": {
+          "local": "Bolikhamsai",
+          "en": "Bolikhamsai",
+          "slug": "bolikhamsai-bl"
+        }
+      },
+      {
+        "id": "BL-02",
+        "level": 2,
+        "name": {
+          "local": "Khamkeuth",
+          "en": "Khamkeuth",
+          "slug": "khamkeuth-bl-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.133",
+      "lon": "104.778"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1658496",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Thôngkhè",
+      "en": "Ban Thongkhe",
+      "slug": "ban-thongkhe-1658496"
+    },
+    "code": {
+      "id": "1658496",
+      "iso": null
+    },
+    "parent": {
+      "id": "BL-02",
+      "level": 2,
+      "name": {
+        "local": "Khamkeuth",
+        "en": "Khamkeuth",
+        "slug": "khamkeuth-bl-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BL",
+        "level": 1,
+        "name": {
+          "local": "Bolikhamsai",
+          "en": "Bolikhamsai",
+          "slug": "bolikhamsai-bl"
+        }
+      },
+      {
+        "id": "BL-02",
+        "level": 2,
+        "name": {
+          "local": "Khamkeuth",
+          "en": "Khamkeuth",
+          "slug": "khamkeuth-bl-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.144",
+      "lon": "105.107"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1955795",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Tônxan",
+      "en": "Ban Tonxan",
+      "slug": "ban-tonxan-1955795"
+    },
+    "code": {
+      "id": "1955795",
+      "iso": null
+    },
+    "parent": {
+      "id": "BL-02",
+      "level": 2,
+      "name": {
+        "local": "Khamkeuth",
+        "en": "Khamkeuth",
+        "slug": "khamkeuth-bl-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BL",
+        "level": 1,
+        "name": {
+          "local": "Bolikhamsai",
+          "en": "Bolikhamsai",
+          "slug": "bolikhamsai-bl"
+        }
+      },
+      {
+        "id": "BL-02",
+        "level": 2,
+        "name": {
+          "local": "Khamkeuth",
+          "en": "Khamkeuth",
+          "slug": "khamkeuth-bl-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.173",
+      "lon": "104.88"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1658275",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Vanggnêng",
+      "en": "Ban Vanggneng",
+      "slug": "ban-vanggneng-1658275"
+    },
+    "code": {
+      "id": "1658275",
+      "iso": null
+    },
+    "parent": {
+      "id": "BL-02",
+      "level": 2,
+      "name": {
+        "local": "Khamkeuth",
+        "en": "Khamkeuth",
+        "slug": "khamkeuth-bl-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BL",
+        "level": 1,
+        "name": {
+          "local": "Bolikhamsai",
+          "en": "Bolikhamsai",
+          "slug": "bolikhamsai-bl"
+        }
+      },
+      {
+        "id": "BL-02",
+        "level": 2,
+        "name": {
+          "local": "Khamkeuth",
+          "en": "Khamkeuth",
+          "slug": "khamkeuth-bl-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.298",
+      "lon": "104.803"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11233050",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Vangko",
+      "en": "Ban Vangko",
+      "slug": "ban-vangko-11233050"
+    },
+    "code": {
+      "id": "11233050",
+      "iso": null
+    },
+    "parent": {
+      "id": "BL-02",
+      "level": 2,
+      "name": {
+        "local": "Khamkeuth",
+        "en": "Khamkeuth",
+        "slug": "khamkeuth-bl-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BL",
+        "level": 1,
+        "name": {
+          "local": "Bolikhamsai",
+          "en": "Bolikhamsai",
+          "slug": "bolikhamsai-bl"
+        }
+      },
+      {
+        "id": "BL-02",
+        "level": 2,
+        "name": {
+          "local": "Khamkeuth",
+          "en": "Khamkeuth",
+          "slug": "khamkeuth-bl-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.15",
+      "lon": "105.074"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11233043",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Vangpha",
+      "en": "Ban Vangpha",
+      "slug": "ban-vangpha-11233043"
+    },
+    "code": {
+      "id": "11233043",
+      "iso": null
+    },
+    "parent": {
+      "id": "BL-02",
+      "level": 2,
+      "name": {
+        "local": "Khamkeuth",
+        "en": "Khamkeuth",
+        "slug": "khamkeuth-bl-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BL",
+        "level": 1,
+        "name": {
+          "local": "Bolikhamsai",
+          "en": "Bolikhamsai",
+          "slug": "bolikhamsai-bl"
+        }
+      },
+      {
+        "id": "BL-02",
+        "level": 2,
+        "name": {
+          "local": "Khamkeuth",
+          "en": "Khamkeuth",
+          "slug": "khamkeuth-bl-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.12",
+      "lon": "105.09"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1658212",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Vangxao",
+      "en": "Ban Vangxao",
+      "slug": "ban-vangxao-1658212"
+    },
+    "code": {
+      "id": "1658212",
+      "iso": null
+    },
+    "parent": {
+      "id": "BL-02",
+      "level": 2,
+      "name": {
+        "local": "Khamkeuth",
+        "en": "Khamkeuth",
+        "slug": "khamkeuth-bl-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BL",
+        "level": 1,
+        "name": {
+          "local": "Bolikhamsai",
+          "en": "Bolikhamsai",
+          "slug": "bolikhamsai-bl"
+        }
+      },
+      {
+        "id": "BL-02",
+        "level": 2,
+        "name": {
+          "local": "Khamkeuth",
+          "en": "Khamkeuth",
+          "slug": "khamkeuth-bl-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.268",
+      "lon": "104.638"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1955758",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Vangxouay",
+      "en": "Ban Vangxouay",
+      "slug": "ban-vangxouay-1955758"
+    },
+    "code": {
+      "id": "1955758",
+      "iso": null
+    },
+    "parent": {
+      "id": "BL-02",
+      "level": 2,
+      "name": {
+        "local": "Khamkeuth",
+        "en": "Khamkeuth",
+        "slug": "khamkeuth-bl-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BL",
+        "level": 1,
+        "name": {
+          "local": "Bolikhamsai",
+          "en": "Bolikhamsai",
+          "slug": "bolikhamsai-bl"
+        }
+      },
+      {
+        "id": "BL-02",
+        "level": 2,
+        "name": {
+          "local": "Khamkeuth",
+          "en": "Khamkeuth",
+          "slug": "khamkeuth-bl-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.301",
+      "lon": "104.636"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1955764",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Xamhīng-Nua",
+      "en": "Ban Xamhing-Nua",
+      "slug": "ban-xamhing-nua-1955764"
+    },
+    "code": {
+      "id": "1955764",
+      "iso": null
+    },
+    "parent": {
+      "id": "BL-02",
+      "level": 2,
+      "name": {
+        "local": "Khamkeuth",
+        "en": "Khamkeuth",
+        "slug": "khamkeuth-bl-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BL",
+        "level": 1,
+        "name": {
+          "local": "Bolikhamsai",
+          "en": "Bolikhamsai",
+          "slug": "bolikhamsai-bl"
+        }
+      },
+      {
+        "id": "BL-02",
+        "level": 2,
+        "name": {
+          "local": "Khamkeuth",
+          "en": "Khamkeuth",
+          "slug": "khamkeuth-bl-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.261",
+      "lon": "104.947"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1658130",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Xamhing-Tai",
+      "en": "Ban Xamhing-Tai",
+      "slug": "ban-xamhing-tai-1658130"
+    },
+    "code": {
+      "id": "1658130",
+      "iso": null
+    },
+    "parent": {
+      "id": "BL-02",
+      "level": 2,
+      "name": {
+        "local": "Khamkeuth",
+        "en": "Khamkeuth",
+        "slug": "khamkeuth-bl-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BL",
+        "level": 1,
+        "name": {
+          "local": "Bolikhamsai",
+          "en": "Bolikhamsai",
+          "slug": "bolikhamsai-bl"
+        }
+      },
+      {
+        "id": "BL-02",
+        "level": 2,
+        "name": {
+          "local": "Khamkeuth",
+          "en": "Khamkeuth",
+          "slug": "khamkeuth-bl-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.255",
+      "lon": "104.946"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1955761",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Xamteuy-Nua",
+      "en": "Ban Xamteuy-Nua",
+      "slug": "ban-xamteuy-nua-1955761"
+    },
+    "code": {
+      "id": "1955761",
+      "iso": null
+    },
+    "parent": {
+      "id": "BL-02",
+      "level": 2,
+      "name": {
+        "local": "Khamkeuth",
+        "en": "Khamkeuth",
+        "slug": "khamkeuth-bl-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BL",
+        "level": 1,
+        "name": {
+          "local": "Bolikhamsai",
+          "en": "Bolikhamsai",
+          "slug": "bolikhamsai-bl"
+        }
+      },
+      {
+        "id": "BL-02",
+        "level": 2,
+        "name": {
+          "local": "Khamkeuth",
+          "en": "Khamkeuth",
+          "slug": "khamkeuth-bl-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.287",
+      "lon": "104.959"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1658122",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Xamteuy-Tai",
+      "en": "Ban Xamteuy-Tai",
+      "slug": "ban-xamteuy-tai-1658122"
+    },
+    "code": {
+      "id": "1658122",
+      "iso": null
+    },
+    "parent": {
+      "id": "BL-02",
+      "level": 2,
+      "name": {
+        "local": "Khamkeuth",
+        "en": "Khamkeuth",
+        "slug": "khamkeuth-bl-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BL",
+        "level": 1,
+        "name": {
+          "local": "Bolikhamsai",
+          "en": "Bolikhamsai",
+          "slug": "bolikhamsai-bl"
+        }
+      },
+      {
+        "id": "BL-02",
+        "level": 2,
+        "name": {
+          "local": "Khamkeuth",
+          "en": "Khamkeuth",
+          "slug": "khamkeuth-bl-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.282",
+      "lon": "104.967"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1955756",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Xot",
+      "en": "Ban Xot",
+      "slug": "ban-xot-1955756"
+    },
+    "code": {
+      "id": "1955756",
+      "iso": null
+    },
+    "parent": {
+      "id": "BL-02",
+      "level": 2,
+      "name": {
+        "local": "Khamkeuth",
+        "en": "Khamkeuth",
+        "slug": "khamkeuth-bl-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BL",
+        "level": 1,
+        "name": {
+          "local": "Bolikhamsai",
+          "en": "Bolikhamsai",
+          "slug": "bolikhamsai-bl"
+        }
+      },
+      {
+        "id": "BL-02",
+        "level": 2,
+        "name": {
+          "local": "Khamkeuth",
+          "en": "Khamkeuth",
+          "slug": "khamkeuth-bl-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.316",
+      "lon": "104.697"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1656547",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Muang Khamkeut",
+      "en": "Muang Khamkeut",
+      "slug": "muang-khamkeut-1656547"
+    },
+    "code": {
+      "id": "1656547",
+      "iso": null
+    },
+    "parent": {
+      "id": "BL-02",
+      "level": 2,
+      "name": {
+        "local": "Khamkeuth",
+        "en": "Khamkeuth",
+        "slug": "khamkeuth-bl-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BL",
+        "level": 1,
+        "name": {
+          "local": "Bolikhamsai",
+          "en": "Bolikhamsai",
+          "slug": "bolikhamsai-bl"
+        }
+      },
+      {
+        "id": "BL-02",
+        "level": 2,
+        "name": {
+          "local": "Khamkeuth",
+          "en": "Khamkeuth",
+          "slug": "khamkeuth-bl-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.226",
+      "lon": "104.731"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11101976",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Sop Hia village",
+      "en": "Sop Hia village",
+      "slug": "sop-hia-village-11101976"
+    },
+    "code": {
+      "id": "11101976",
+      "iso": null
+    },
+    "parent": {
+      "id": "BL-02",
+      "level": 2,
+      "name": {
+        "local": "Khamkeuth",
+        "en": "Khamkeuth",
+        "slug": "khamkeuth-bl-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BL",
+        "level": 1,
+        "name": {
+          "local": "Bolikhamsai",
+          "en": "Bolikhamsai",
+          "slug": "bolikhamsai-bl"
+        }
+      },
+      {
+        "id": "BL-02",
+        "level": 2,
+        "name": {
+          "local": "Khamkeuth",
+          "en": "Khamkeuth",
+          "slug": "khamkeuth-bl-02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.965",
+      "lon": "104.977"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

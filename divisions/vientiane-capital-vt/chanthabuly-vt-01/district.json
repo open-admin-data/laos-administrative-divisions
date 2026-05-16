@@ -1,0 +1,47 @@
+{
+  "id": "VT-01",
+  "level": 2,
+  "level_name": {
+    "local": "ເມືອງ",
+    "en": "District"
+  },
+  "name": {
+    "local": "Chanthabuly",
+    "en": "Chanthabuly",
+    "slug": "chanthabuly-vt-01"
+  },
+  "code": {
+    "id": "VT-01",
+    "iso": null
+  },
+  "parent": {
+    "id": "VT",
+    "level": 1,
+    "name": {
+      "local": "Vientiane Capital",
+      "en": "Vientiane Capital",
+      "slug": "vientiane-capital-vt"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "VT",
+      "level": 1,
+      "name": {
+        "local": "Vientiane Capital",
+        "en": "Vientiane Capital",
+        "slug": "vientiane-capital-vt"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 12
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.994",
+    "lon": "102.605"
+  },
+  "metadata": {},
+  "source": {}
+}

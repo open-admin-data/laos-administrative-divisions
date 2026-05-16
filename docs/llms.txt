@@ -1,0 +1,88 @@
+# Laos Administrative Divisions
+
+> Open dataset of Laos's administrative hierarchy:
+> 18 provinces, 148 districts, 13,330 villages.
+> CC-BY-4.0 licensed.
+
+## Quick Reference
+
+- Total provinces: 18
+- Total districts: 148
+- Total villages: 13,330
+- Coordinates: included (all levels)
+- Last updated: 2026-05-16
+- License: CC-BY-4.0
+
+## Aggregate Data Files
+
+- [All provinces (JSON)](https://raw.githubusercontent.com/open-admin-data/laos-administrative-divisions/main/data/all-province.json)
+- [All districts (JSON)](https://raw.githubusercontent.com/open-admin-data/laos-administrative-divisions/main/data/all-district.json)
+- [All villages (JSON)](https://raw.githubusercontent.com/open-admin-data/laos-administrative-divisions/main/data/all-village.json)
+- [Flat array (NDJSON)](https://raw.githubusercontent.com/open-admin-data/laos-administrative-divisions/main/data/all-flat.ndjson)
+- [Hierarchy tree (JSON)](https://raw.githubusercontent.com/open-admin-data/laos-administrative-divisions/main/data/hierarchy.json)
+- [JSON Schema](https://raw.githubusercontent.com/open-admin-data/laos-administrative-divisions/main/data/schema.json)
+
+## Browse by Province
+
+- [Attapeu](https://github.com/open-admin-data/laos-administrative-divisions/tree/main/divisions/attapeu-at/) — 4 districts, 213 villages
+- [Bokeo](https://github.com/open-admin-data/laos-administrative-divisions/tree/main/divisions/bokeo-bk/) — 5 districts, 345 villages
+- [Bolikhamsai](https://github.com/open-admin-data/laos-administrative-divisions/tree/main/divisions/bolikhamsai-bl/) — 7 districts, 487 villages
+- [Champasak](https://github.com/open-admin-data/laos-administrative-divisions/tree/main/divisions/champasak-ch/) — 11 districts, 1068 villages
+- [Houaphan](https://github.com/open-admin-data/laos-administrative-divisions/tree/main/divisions/houaphan-ho/) — 9 districts, 1003 villages
+- [Khammouane](https://github.com/open-admin-data/laos-administrative-divisions/tree/main/divisions/khammouane-kh/) — 9 districts, 778 villages
+- [Luang Namtha](https://github.com/open-admin-data/laos-administrative-divisions/tree/main/divisions/luang-namtha-lm/) — 5 districts, 465 villages
+- [Luang Prabang](https://github.com/open-admin-data/laos-administrative-divisions/tree/main/divisions/luang-prabang-lp/) — 11 districts, 1373 villages
+- [Oudomxay](https://github.com/open-admin-data/laos-administrative-divisions/tree/main/divisions/oudomxay-ou/) — 7 districts, 889 villages
+- [Phongsaly](https://github.com/open-admin-data/laos-administrative-divisions/tree/main/divisions/phongsaly-ph/) — 7 districts, 794 villages
+- [Salavan](https://github.com/open-admin-data/laos-administrative-divisions/tree/main/divisions/salavan-sl/) — 8 districts, 776 villages
+- [Savannakhet](https://github.com/open-admin-data/laos-administrative-divisions/tree/main/divisions/savannakhet-sv/) — 16 districts, 1634 villages
+- [Vientiane Province](https://github.com/open-admin-data/laos-administrative-divisions/tree/main/divisions/vientiane-province-vi/) — 11 districts, 597 villages
+- [Vientiane Capital](https://github.com/open-admin-data/laos-administrative-divisions/tree/main/divisions/vientiane-capital-vt/) — 9 districts, 334 villages
+- [Xaignabouli](https://github.com/open-admin-data/laos-administrative-divisions/tree/main/divisions/xaignabouli-xa/) — 11 districts, 610 villages
+- [Xekong](https://github.com/open-admin-data/laos-administrative-divisions/tree/main/divisions/xekong-xe/) — 4 districts, 386 villages
+- [Xiangkhouang](https://github.com/open-admin-data/laos-administrative-divisions/tree/main/divisions/xiangkhouang-xi/) — 9 districts, 1384 villages
+- [Xaisomboun](https://github.com/open-admin-data/laos-administrative-divisions/tree/main/divisions/xaisomboun-xn/) — 5 districts, 194 villages
+
+## Per-Province Full Data
+
+- [Attapeu](https://raw.githubusercontent.com/open-admin-data/laos-administrative-divisions/main/docs/llms-full/attapeu-at.txt)
+- [Bokeo](https://raw.githubusercontent.com/open-admin-data/laos-administrative-divisions/main/docs/llms-full/bokeo-bk.txt)
+- [Bolikhamsai](https://raw.githubusercontent.com/open-admin-data/laos-administrative-divisions/main/docs/llms-full/bolikhamsai-bl.txt)
+- [Champasak](https://raw.githubusercontent.com/open-admin-data/laos-administrative-divisions/main/docs/llms-full/champasak-ch.txt)
+- [Houaphan](https://raw.githubusercontent.com/open-admin-data/laos-administrative-divisions/main/docs/llms-full/houaphan-ho.txt)
+- [Khammouane](https://raw.githubusercontent.com/open-admin-data/laos-administrative-divisions/main/docs/llms-full/khammouane-kh.txt)
+- [Luang Namtha](https://raw.githubusercontent.com/open-admin-data/laos-administrative-divisions/main/docs/llms-full/luang-namtha-lm.txt)
+- [Luang Prabang](https://raw.githubusercontent.com/open-admin-data/laos-administrative-divisions/main/docs/llms-full/luang-prabang-lp.txt)
+- [Oudomxay](https://raw.githubusercontent.com/open-admin-data/laos-administrative-divisions/main/docs/llms-full/oudomxay-ou.txt)
+- [Phongsaly](https://raw.githubusercontent.com/open-admin-data/laos-administrative-divisions/main/docs/llms-full/phongsaly-ph.txt)
+- [Salavan](https://raw.githubusercontent.com/open-admin-data/laos-administrative-divisions/main/docs/llms-full/salavan-sl.txt)
+- [Savannakhet](https://raw.githubusercontent.com/open-admin-data/laos-administrative-divisions/main/docs/llms-full/savannakhet-sv.txt)
+- [Vientiane Province](https://raw.githubusercontent.com/open-admin-data/laos-administrative-divisions/main/docs/llms-full/vientiane-province-vi.txt)
+- [Vientiane Capital](https://raw.githubusercontent.com/open-admin-data/laos-administrative-divisions/main/docs/llms-full/vientiane-capital-vt.txt)
+- [Xaignabouli](https://raw.githubusercontent.com/open-admin-data/laos-administrative-divisions/main/docs/llms-full/xaignabouli-xa.txt)
+- [Xekong](https://raw.githubusercontent.com/open-admin-data/laos-administrative-divisions/main/docs/llms-full/xekong-xe.txt)
+- [Xiangkhouang](https://raw.githubusercontent.com/open-admin-data/laos-administrative-divisions/main/docs/llms-full/xiangkhouang-xi.txt)
+- [Xaisomboun](https://raw.githubusercontent.com/open-admin-data/laos-administrative-divisions/main/docs/llms-full/xaisomboun-xn.txt)
+
+## Schema Fields
+
+- id: Unique identifier
+- level: 1 (province), 2 (district), 3 (village)
+- name: Local and English names with URL slug
+- code: Government codes
+- parent: Reference to parent division
+- ancestors: Full chain to root
+- children_count: Count of children per level
+- zip_codes: Postal codes (where available)
+- geo: Geographic coordinates (lat/lon, WGS84, all levels)
+
+## Citation
+
+Laos Administrative Divisions Dataset (CC-BY-4.0)
+URL: https://github.com/open-admin-data/laos-administrative-divisions
+
+## Related
+
+- [ListBase](https://www.listbase.org) — Structured reference data for every country
+- [open-admin-data](https://github.com/open-admin-data) — Open admin data for ASEAN
+- [thailand-administrative-divisions](https://github.com/open-admin-data/thailand-administrative-divisions)

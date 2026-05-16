@@ -1,0 +1,30 @@
+{
+  "id": "SV",
+  "level": 1,
+  "level_name": {
+    "local": "ແຂວງ",
+    "en": "Province"
+  },
+  "name": {
+    "local": "Savannakhet",
+    "en": "Savannakhet",
+    "slug": "savannakhet-sv"
+  },
+  "code": {
+    "id": "SV",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 16,
+    "village": 1634
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.575",
+    "lon": "105.84"
+  },
+  "metadata": {},
+  "source": {}
+}

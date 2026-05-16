@@ -1,0 +1,6104 @@
+[
+  {
+    "id": "1904403",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Aychay",
+      "en": "Ban Aychay",
+      "slug": "ban-aychay-1904403"
+    },
+    "code": {
+      "id": "1904403",
+      "iso": null
+    },
+    "parent": {
+      "id": "BK-01",
+      "level": 2,
+      "name": {
+        "local": "Huoixai",
+        "en": "Huoixai",
+        "slug": "huoixai-bk-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BK",
+        "level": 1,
+        "name": {
+          "local": "Bokeo",
+          "en": "Bokeo",
+          "slug": "bokeo-bk"
+        }
+      },
+      {
+        "id": "BK-01",
+        "level": 2,
+        "name": {
+          "local": "Huoixai",
+          "en": "Huoixai",
+          "slug": "huoixai-bk-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.414",
+      "lon": "100.43"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1907038",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Bolék",
+      "en": "Ban Bolek",
+      "slug": "ban-bolek-1907038"
+    },
+    "code": {
+      "id": "1907038",
+      "iso": null
+    },
+    "parent": {
+      "id": "BK-01",
+      "level": 2,
+      "name": {
+        "local": "Huoixai",
+        "en": "Huoixai",
+        "slug": "huoixai-bk-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BK",
+        "level": 1,
+        "name": {
+          "local": "Bokeo",
+          "en": "Bokeo",
+          "slug": "bokeo-bk"
+        }
+      },
+      {
+        "id": "BK-01",
+        "level": 2,
+        "name": {
+          "local": "Huoixai",
+          "en": "Huoixai",
+          "slug": "huoixai-bk-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.308",
+      "lon": "100.517"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1904396",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Chaphuk",
+      "en": "Ban Chaphuk",
+      "slug": "ban-chaphuk-1904396"
+    },
+    "code": {
+      "id": "1904396",
+      "iso": null
+    },
+    "parent": {
+      "id": "BK-01",
+      "level": 2,
+      "name": {
+        "local": "Huoixai",
+        "en": "Huoixai",
+        "slug": "huoixai-bk-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BK",
+        "level": 1,
+        "name": {
+          "local": "Bokeo",
+          "en": "Bokeo",
+          "slug": "bokeo-bk"
+        }
+      },
+      {
+        "id": "BK-01",
+        "level": 2,
+        "name": {
+          "local": "Huoixai",
+          "en": "Huoixai",
+          "slug": "huoixai-bk-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.491",
+      "lon": "100.415"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1664612",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Dan",
+      "en": "Ban Dan",
+      "slug": "ban-dan-1664612"
+    },
+    "code": {
+      "id": "1664612",
+      "iso": null
+    },
+    "parent": {
+      "id": "BK-01",
+      "level": 2,
+      "name": {
+        "local": "Huoixai",
+        "en": "Huoixai",
+        "slug": "huoixai-bk-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BK",
+        "level": 1,
+        "name": {
+          "local": "Bokeo",
+          "en": "Bokeo",
+          "slug": "bokeo-bk"
+        }
+      },
+      {
+        "id": "BK-01",
+        "level": 2,
+        "name": {
+          "local": "Huoixai",
+          "en": "Huoixai",
+          "slug": "huoixai-bk-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.162",
+      "lon": "100.506"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1907042",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Don-Gnèng",
+      "en": "Ban Don-Gneng",
+      "slug": "ban-don-gneng-1907042"
+    },
+    "code": {
+      "id": "1907042",
+      "iso": null
+    },
+    "parent": {
+      "id": "BK-01",
+      "level": 2,
+      "name": {
+        "local": "Huoixai",
+        "en": "Huoixai",
+        "slug": "huoixai-bk-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BK",
+        "level": 1,
+        "name": {
+          "local": "Bokeo",
+          "en": "Bokeo",
+          "slug": "bokeo-bk"
+        }
+      },
+      {
+        "id": "BK-01",
+        "level": 2,
+        "name": {
+          "local": "Huoixai",
+          "en": "Huoixai",
+          "slug": "huoixai-bk-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.292",
+      "lon": "100.507"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1906990",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Donchai",
+      "en": "Ban Donchai",
+      "slug": "ban-donchai-1906990"
+    },
+    "code": {
+      "id": "1906990",
+      "iso": null
+    },
+    "parent": {
+      "id": "BK-01",
+      "level": 2,
+      "name": {
+        "local": "Huoixai",
+        "en": "Huoixai",
+        "slug": "huoixai-bk-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BK",
+        "level": 1,
+        "name": {
+          "local": "Bokeo",
+          "en": "Bokeo",
+          "slug": "bokeo-bk"
+        }
+      },
+      {
+        "id": "BK-01",
+        "level": 2,
+        "name": {
+          "local": "Huoixai",
+          "en": "Huoixai",
+          "slug": "huoixai-bk-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.415",
+      "lon": "100.85"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1904447",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Donkèo",
+      "en": "Ban Donkeo",
+      "slug": "ban-donkeo-1904447"
+    },
+    "code": {
+      "id": "1904447",
+      "iso": null
+    },
+    "parent": {
+      "id": "BK-01",
+      "level": 2,
+      "name": {
+        "local": "Huoixai",
+        "en": "Huoixai",
+        "slug": "huoixai-bk-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BK",
+        "level": 1,
+        "name": {
+          "local": "Bokeo",
+          "en": "Bokeo",
+          "slug": "bokeo-bk"
+        }
+      },
+      {
+        "id": "BK-01",
+        "level": 2,
+        "name": {
+          "local": "Huoixai",
+          "en": "Huoixai",
+          "slug": "huoixai-bk-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.227",
+      "lon": "100.548"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1906989",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Donkham",
+      "en": "Ban Donkham",
+      "slug": "ban-donkham-1906989"
+    },
+    "code": {
+      "id": "1906989",
+      "iso": null
+    },
+    "parent": {
+      "id": "BK-01",
+      "level": 2,
+      "name": {
+        "local": "Huoixai",
+        "en": "Huoixai",
+        "slug": "huoixai-bk-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BK",
+        "level": 1,
+        "name": {
+          "local": "Bokeo",
+          "en": "Bokeo",
+          "slug": "bokeo-bk"
+        }
+      },
+      {
+        "id": "BK-01",
+        "level": 2,
+        "name": {
+          "local": "Huoixai",
+          "en": "Huoixai",
+          "slug": "huoixai-bk-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.41",
+      "lon": "100.833"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1907014",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Donphao",
+      "en": "Ban Donphao",
+      "slug": "ban-donphao-1907014"
+    },
+    "code": {
+      "id": "1907014",
+      "iso": null
+    },
+    "parent": {
+      "id": "BK-01",
+      "level": 2,
+      "name": {
+        "local": "Huoixai",
+        "en": "Huoixai",
+        "slug": "huoixai-bk-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BK",
+        "level": 1,
+        "name": {
+          "local": "Bokeo",
+          "en": "Bokeo",
+          "slug": "bokeo-bk"
+        }
+      },
+      {
+        "id": "BK-01",
+        "level": 2,
+        "name": {
+          "local": "Huoixai",
+          "en": "Huoixai",
+          "slug": "huoixai-bk-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.362",
+      "lon": "100.558"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1904440",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Dudôm",
+      "en": "Ban Dudom",
+      "slug": "ban-dudom-1904440"
+    },
+    "code": {
+      "id": "1904440",
+      "iso": null
+    },
+    "parent": {
+      "id": "BK-01",
+      "level": 2,
+      "name": {
+        "local": "Huoixai",
+        "en": "Huoixai",
+        "slug": "huoixai-bk-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BK",
+        "level": 1,
+        "name": {
+          "local": "Bokeo",
+          "en": "Bokeo",
+          "slug": "bokeo-bk"
+        }
+      },
+      {
+        "id": "BK-01",
+        "level": 2,
+        "name": {
+          "local": "Huoixai",
+          "en": "Huoixai",
+          "slug": "huoixai-bk-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.269",
+      "lon": "100.432"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1904453",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Fay",
+      "en": "Ban Fay",
+      "slug": "ban-fay-1904453"
+    },
+    "code": {
+      "id": "1904453",
+      "iso": null
+    },
+    "parent": {
+      "id": "BK-01",
+      "level": 2,
+      "name": {
+        "local": "Huoixai",
+        "en": "Huoixai",
+        "slug": "huoixai-bk-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BK",
+        "level": 1,
+        "name": {
+          "local": "Bokeo",
+          "en": "Bokeo",
+          "slug": "bokeo-bk"
+        }
+      },
+      {
+        "id": "BK-01",
+        "level": 2,
+        "name": {
+          "local": "Huoixai",
+          "en": "Huoixai",
+          "slug": "huoixai-bk-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.222",
+      "lon": "100.538"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1904416",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houahouaytat-Nua",
+      "en": "Ban Houahouaytat-Nua",
+      "slug": "ban-houahouaytat-nua-1904416"
+    },
+    "code": {
+      "id": "1904416",
+      "iso": null
+    },
+    "parent": {
+      "id": "BK-01",
+      "level": 2,
+      "name": {
+        "local": "Huoixai",
+        "en": "Huoixai",
+        "slug": "huoixai-bk-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BK",
+        "level": 1,
+        "name": {
+          "local": "Bokeo",
+          "en": "Bokeo",
+          "slug": "bokeo-bk"
+        }
+      },
+      {
+        "id": "BK-01",
+        "level": 2,
+        "name": {
+          "local": "Huoixai",
+          "en": "Huoixai",
+          "slug": "huoixai-bk-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.344",
+      "lon": "100.43"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1904423",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houahouaytat-Tai",
+      "en": "Ban Houahouaytat-Tai",
+      "slug": "ban-houahouaytat-tai-1904423"
+    },
+    "code": {
+      "id": "1904423",
+      "iso": null
+    },
+    "parent": {
+      "id": "BK-01",
+      "level": 2,
+      "name": {
+        "local": "Huoixai",
+        "en": "Huoixai",
+        "slug": "huoixai-bk-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BK",
+        "level": 1,
+        "name": {
+          "local": "Bokeo",
+          "en": "Bokeo",
+          "slug": "bokeo-bk"
+        }
+      },
+      {
+        "id": "BK-01",
+        "level": 2,
+        "name": {
+          "local": "Huoixai",
+          "en": "Huoixai",
+          "slug": "huoixai-bk-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.33",
+      "lon": "100.436"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1904391",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houakhoua",
+      "en": "Ban Houakhoua",
+      "slug": "ban-houakhoua-1904391"
+    },
+    "code": {
+      "id": "1904391",
+      "iso": null
+    },
+    "parent": {
+      "id": "BK-01",
+      "level": 2,
+      "name": {
+        "local": "Huoixai",
+        "en": "Huoixai",
+        "slug": "huoixai-bk-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BK",
+        "level": 1,
+        "name": {
+          "local": "Bokeo",
+          "en": "Bokeo",
+          "slug": "bokeo-bk"
+        }
+      },
+      {
+        "id": "BK-01",
+        "level": 2,
+        "name": {
+          "local": "Huoixai",
+          "en": "Huoixai",
+          "slug": "huoixai-bk-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.247",
+      "lon": "100.454"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1904412",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houakhoua",
+      "en": "Ban Houakhoua",
+      "slug": "ban-houakhoua-1904412"
+    },
+    "code": {
+      "id": "1904412",
+      "iso": null
+    },
+    "parent": {
+      "id": "BK-01",
+      "level": 2,
+      "name": {
+        "local": "Huoixai",
+        "en": "Huoixai",
+        "slug": "huoixai-bk-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BK",
+        "level": 1,
+        "name": {
+          "local": "Bokeo",
+          "en": "Bokeo",
+          "slug": "bokeo-bk"
+        }
+      },
+      {
+        "id": "BK-01",
+        "level": 2,
+        "name": {
+          "local": "Huoixai",
+          "en": "Huoixai",
+          "slug": "huoixai-bk-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.367",
+      "lon": "100.371"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1904427",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houana",
+      "en": "Ban Houana",
+      "slug": "ban-houana-1904427"
+    },
+    "code": {
+      "id": "1904427",
+      "iso": null
+    },
+    "parent": {
+      "id": "BK-01",
+      "level": 2,
+      "name": {
+        "local": "Huoixai",
+        "en": "Huoixai",
+        "slug": "huoixai-bk-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BK",
+        "level": 1,
+        "name": {
+          "local": "Bokeo",
+          "en": "Bokeo",
+          "slug": "bokeo-bk"
+        }
+      },
+      {
+        "id": "BK-01",
+        "level": 2,
+        "name": {
+          "local": "Huoixai",
+          "en": "Huoixai",
+          "slug": "huoixai-bk-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.283",
+      "lon": "100.497"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1904449",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houanampuk",
+      "en": "Ban Houanampuk",
+      "slug": "ban-houanampuk-1904449"
+    },
+    "code": {
+      "id": "1904449",
+      "iso": null
+    },
+    "parent": {
+      "id": "BK-01",
+      "level": 2,
+      "name": {
+        "local": "Huoixai",
+        "en": "Huoixai",
+        "slug": "huoixai-bk-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BK",
+        "level": 1,
+        "name": {
+          "local": "Bokeo",
+          "en": "Bokeo",
+          "slug": "bokeo-bk"
+        }
+      },
+      {
+        "id": "BK-01",
+        "level": 2,
+        "name": {
+          "local": "Huoixai",
+          "en": "Huoixai",
+          "slug": "huoixai-bk-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.221",
+      "lon": "100.605"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1904444",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houaykang",
+      "en": "Ban Houaykang",
+      "slug": "ban-houaykang-1904444"
+    },
+    "code": {
+      "id": "1904444",
+      "iso": null
+    },
+    "parent": {
+      "id": "BK-01",
+      "level": 2,
+      "name": {
+        "local": "Huoixai",
+        "en": "Huoixai",
+        "slug": "huoixai-bk-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BK",
+        "level": 1,
+        "name": {
+          "local": "Bokeo",
+          "en": "Bokeo",
+          "slug": "bokeo-bk"
+        }
+      },
+      {
+        "id": "BK-01",
+        "level": 2,
+        "name": {
+          "local": "Huoixai",
+          "en": "Huoixai",
+          "slug": "huoixai-bk-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.292",
+      "lon": "100.402"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1904408",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houaylai-Kao",
+      "en": "Ban Houaylai-Kao",
+      "slug": "ban-houaylai-kao-1904408"
+    },
+    "code": {
+      "id": "1904408",
+      "iso": null
+    },
+    "parent": {
+      "id": "BK-01",
+      "level": 2,
+      "name": {
+        "local": "Huoixai",
+        "en": "Huoixai",
+        "slug": "huoixai-bk-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BK",
+        "level": 1,
+        "name": {
+          "local": "Bokeo",
+          "en": "Bokeo",
+          "slug": "bokeo-bk"
+        }
+      },
+      {
+        "id": "BK-01",
+        "level": 2,
+        "name": {
+          "local": "Huoixai",
+          "en": "Huoixai",
+          "slug": "huoixai-bk-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.403",
+      "lon": "100.421"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1904407",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houaylai-Mai",
+      "en": "Ban Houaylai-Mai",
+      "slug": "ban-houaylai-mai-1904407"
+    },
+    "code": {
+      "id": "1904407",
+      "iso": null
+    },
+    "parent": {
+      "id": "BK-01",
+      "level": 2,
+      "name": {
+        "local": "Huoixai",
+        "en": "Huoixai",
+        "slug": "huoixai-bk-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BK",
+        "level": 1,
+        "name": {
+          "local": "Bokeo",
+          "en": "Bokeo",
+          "slug": "bokeo-bk"
+        }
+      },
+      {
+        "id": "BK-01",
+        "level": 2,
+        "name": {
+          "local": "Huoixai",
+          "en": "Huoixai",
+          "slug": "huoixai-bk-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.406",
+      "lon": "100.429"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1904451",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houaymak",
+      "en": "Ban Houaymak",
+      "slug": "ban-houaymak-1904451"
+    },
+    "code": {
+      "id": "1904451",
+      "iso": null
+    },
+    "parent": {
+      "id": "BK-01",
+      "level": 2,
+      "name": {
+        "local": "Huoixai",
+        "en": "Huoixai",
+        "slug": "huoixai-bk-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BK",
+        "level": 1,
+        "name": {
+          "local": "Bokeo",
+          "en": "Bokeo",
+          "slug": "bokeo-bk"
+        }
+      },
+      {
+        "id": "BK-01",
+        "level": 2,
+        "name": {
+          "local": "Huoixai",
+          "en": "Huoixai",
+          "slug": "huoixai-bk-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.198",
+      "lon": "100.6"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1907015",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houaymak",
+      "en": "Ban Houaymak",
+      "slug": "ban-houaymak-1907015"
+    },
+    "code": {
+      "id": "1907015",
+      "iso": null
+    },
+    "parent": {
+      "id": "BK-01",
+      "level": 2,
+      "name": {
+        "local": "Huoixai",
+        "en": "Huoixai",
+        "slug": "huoixai-bk-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BK",
+        "level": 1,
+        "name": {
+          "local": "Bokeo",
+          "en": "Bokeo",
+          "slug": "bokeo-bk"
+        }
+      },
+      {
+        "id": "BK-01",
+        "level": 2,
+        "name": {
+          "local": "Huoixai",
+          "en": "Huoixai",
+          "slug": "huoixai-bk-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.369",
+      "lon": "100.563"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1904422",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houaynôkkèng",
+      "en": "Ban Houaynokkeng",
+      "slug": "ban-houaynokkeng-1904422"
+    },
+    "code": {
+      "id": "1904422",
+      "iso": null
+    },
+    "parent": {
+      "id": "BK-01",
+      "level": 2,
+      "name": {
+        "local": "Huoixai",
+        "en": "Huoixai",
+        "slug": "huoixai-bk-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BK",
+        "level": 1,
+        "name": {
+          "local": "Bokeo",
+          "en": "Bokeo",
+          "slug": "bokeo-bk"
+        }
+      },
+      {
+        "id": "BK-01",
+        "level": 2,
+        "name": {
+          "local": "Huoixai",
+          "en": "Huoixai",
+          "slug": "huoixai-bk-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.325",
+      "lon": "100.418"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1904420",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houaynon",
+      "en": "Ban Houaynon",
+      "slug": "ban-houaynon-1904420"
+    },
+    "code": {
+      "id": "1904420",
+      "iso": null
+    },
+    "parent": {
+      "id": "BK-01",
+      "level": 2,
+      "name": {
+        "local": "Huoixai",
+        "en": "Huoixai",
+        "slug": "huoixai-bk-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BK",
+        "level": 1,
+        "name": {
+          "local": "Bokeo",
+          "en": "Bokeo",
+          "slug": "bokeo-bk"
+        }
+      },
+      {
+        "id": "BK-01",
+        "level": 2,
+        "name": {
+          "local": "Huoixai",
+          "en": "Huoixai",
+          "slug": "huoixai-bk-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.311",
+      "lon": "100.388"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1904419",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houaytat",
+      "en": "Ban Houaytat",
+      "slug": "ban-houaytat-1904419"
+    },
+    "code": {
+      "id": "1904419",
+      "iso": null
+    },
+    "parent": {
+      "id": "BK-01",
+      "level": 2,
+      "name": {
+        "local": "Huoixai",
+        "en": "Huoixai",
+        "slug": "huoixai-bk-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BK",
+        "level": 1,
+        "name": {
+          "local": "Bokeo",
+          "en": "Bokeo",
+          "slug": "bokeo-bk"
+        }
+      },
+      {
+        "id": "BK-01",
+        "level": 2,
+        "name": {
+          "local": "Huoixai",
+          "en": "Huoixai",
+          "slug": "huoixai-bk-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.331",
+      "lon": "100.383"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1663526",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houayxay",
+      "en": "Ban Houayxay",
+      "slug": "ban-houayxay-1663526"
+    },
+    "code": {
+      "id": "1663526",
+      "iso": null
+    },
+    "parent": {
+      "id": "BK-01",
+      "level": 2,
+      "name": {
+        "local": "Huoixai",
+        "en": "Huoixai",
+        "slug": "huoixai-bk-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BK",
+        "level": 1,
+        "name": {
+          "local": "Bokeo",
+          "en": "Bokeo",
+          "slug": "bokeo-bk"
+        }
+      },
+      {
+        "id": "BK-01",
+        "level": 2,
+        "name": {
+          "local": "Huoixai",
+          "en": "Huoixai",
+          "slug": "huoixai-bk-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.27",
+      "lon": "100.418"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1904432",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Houayxay",
+      "en": "Ban Houayxay",
+      "slug": "ban-houayxay-1904432"
+    },
+    "code": {
+      "id": "1904432",
+      "iso": null
+    },
+    "parent": {
+      "id": "BK-01",
+      "level": 2,
+      "name": {
+        "local": "Huoixai",
+        "en": "Huoixai",
+        "slug": "huoixai-bk-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BK",
+        "level": 1,
+        "name": {
+          "local": "Bokeo",
+          "en": "Bokeo",
+          "slug": "bokeo-bk"
+        }
+      },
+      {
+        "id": "BK-01",
+        "level": 2,
+        "name": {
+          "local": "Huoixai",
+          "en": "Huoixai",
+          "slug": "huoixai-bk-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.263",
+      "lon": "100.434"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1906994",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Kao",
+      "en": "Ban Kao",
+      "slug": "ban-kao-1906994"
+    },
+    "code": {
+      "id": "1906994",
+      "iso": null
+    },
+    "parent": {
+      "id": "BK-01",
+      "level": 2,
+      "name": {
+        "local": "Huoixai",
+        "en": "Huoixai",
+        "slug": "huoixai-bk-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BK",
+        "level": 1,
+        "name": {
+          "local": "Bokeo",
+          "en": "Bokeo",
+          "slug": "bokeo-bk"
+        }
+      },
+      {
+        "id": "BK-01",
+        "level": 2,
+        "name": {
+          "local": "Huoixai",
+          "en": "Huoixai",
+          "slug": "huoixai-bk-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.479",
+      "lon": "100.936"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1662958",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Khôk-Louang",
+      "en": "Ban Khok-Louang",
+      "slug": "ban-khok-louang-1662958"
+    },
+    "code": {
+      "id": "1662958",
+      "iso": null
+    },
+    "parent": {
+      "id": "BK-01",
+      "level": 2,
+      "name": {
+        "local": "Huoixai",
+        "en": "Huoixai",
+        "slug": "huoixai-bk-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BK",
+        "level": 1,
+        "name": {
+          "local": "Bokeo",
+          "en": "Bokeo",
+          "slug": "bokeo-bk"
+        }
+      },
+      {
+        "id": "BK-01",
+        "level": 2,
+        "name": {
+          "local": "Huoixai",
+          "en": "Huoixai",
+          "slug": "huoixai-bk-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.176",
+      "lon": "100.573"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1904445",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Khonkèo",
+      "en": "Ban Khonkeo",
+      "slug": "ban-khonkeo-1904445"
+    },
+    "code": {
+      "id": "1904445",
+      "iso": null
+    },
+    "parent": {
+      "id": "BK-01",
+      "level": 2,
+      "name": {
+        "local": "Huoixai",
+        "en": "Huoixai",
+        "slug": "huoixai-bk-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BK",
+        "level": 1,
+        "name": {
+          "local": "Bokeo",
+          "en": "Bokeo",
+          "slug": "bokeo-bk"
+        }
+      },
+      {
+        "id": "BK-01",
+        "level": 2,
+        "name": {
+          "local": "Huoixai",
+          "en": "Huoixai",
+          "slug": "huoixai-bk-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.29",
+      "lon": "100.407"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1904400",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Laolouang",
+      "en": "Ban Laolouang",
+      "slug": "ban-laolouang-1904400"
+    },
+    "code": {
+      "id": "1904400",
+      "iso": null
+    },
+    "parent": {
+      "id": "BK-01",
+      "level": 2,
+      "name": {
+        "local": "Huoixai",
+        "en": "Huoixai",
+        "slug": "huoixai-bk-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BK",
+        "level": 1,
+        "name": {
+          "local": "Bokeo",
+          "en": "Bokeo",
+          "slug": "bokeo-bk"
+        }
+      },
+      {
+        "id": "BK-01",
+        "level": 2,
+        "name": {
+          "local": "Huoixai",
+          "en": "Huoixai",
+          "slug": "huoixai-bk-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.435",
+      "lon": "100.365"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1662444",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Long",
+      "en": "Ban Long",
+      "slug": "ban-long-1662444"
+    },
+    "code": {
+      "id": "1662444",
+      "iso": null
+    },
+    "parent": {
+      "id": "BK-01",
+      "level": 2,
+      "name": {
+        "local": "Huoixai",
+        "en": "Huoixai",
+        "slug": "huoixai-bk-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BK",
+        "level": 1,
+        "name": {
+          "local": "Bokeo",
+          "en": "Bokeo",
+          "slug": "bokeo-bk"
+        }
+      },
+      {
+        "id": "BK-01",
+        "level": 2,
+        "name": {
+          "local": "Huoixai",
+          "en": "Huoixai",
+          "slug": "huoixai-bk-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.275",
+      "lon": "100.576"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1904437",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Mai-Viangphoukha",
+      "en": "Ban Mai-Viangphoukha",
+      "slug": "ban-mai-viangphoukha-1904437"
+    },
+    "code": {
+      "id": "1904437",
+      "iso": null
+    },
+    "parent": {
+      "id": "BK-01",
+      "level": 2,
+      "name": {
+        "local": "Huoixai",
+        "en": "Huoixai",
+        "slug": "huoixai-bk-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BK",
+        "level": 1,
+        "name": {
+          "local": "Bokeo",
+          "en": "Bokeo",
+          "slug": "bokeo-bk"
+        }
+      },
+      {
+        "id": "BK-01",
+        "level": 2,
+        "name": {
+          "local": "Huoixai",
+          "en": "Huoixai",
+          "slug": "huoixai-bk-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.278",
+      "lon": "100.443"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1907043",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Maihiang",
+      "en": "Ban Maihiang",
+      "slug": "ban-maihiang-1907043"
+    },
+    "code": {
+      "id": "1907043",
+      "iso": null
+    },
+    "parent": {
+      "id": "BK-01",
+      "level": 2,
+      "name": {
+        "local": "Huoixai",
+        "en": "Huoixai",
+        "slug": "huoixai-bk-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BK",
+        "level": 1,
+        "name": {
+          "local": "Bokeo",
+          "en": "Bokeo",
+          "slug": "bokeo-bk"
+        }
+      },
+      {
+        "id": "BK-01",
+        "level": 2,
+        "name": {
+          "local": "Huoixai",
+          "en": "Huoixai",
+          "slug": "huoixai-bk-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.288",
+      "lon": "100.503"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1906997",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Môk-Houk",
+      "en": "Ban Mok-Houk",
+      "slug": "ban-mok-houk-1906997"
+    },
+    "code": {
+      "id": "1906997",
+      "iso": null
+    },
+    "parent": {
+      "id": "BK-01",
+      "level": 2,
+      "name": {
+        "local": "Huoixai",
+        "en": "Huoixai",
+        "slug": "huoixai-bk-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BK",
+        "level": 1,
+        "name": {
+          "local": "Bokeo",
+          "en": "Bokeo",
+          "slug": "bokeo-bk"
+        }
+      },
+      {
+        "id": "BK-01",
+        "level": 2,
+        "name": {
+          "local": "Huoixai",
+          "en": "Huoixai",
+          "slug": "huoixai-bk-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.456",
+      "lon": "100.926"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1904436",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Môkkachok",
+      "en": "Ban Mokkachok",
+      "slug": "ban-mokkachok-1904436"
+    },
+    "code": {
+      "id": "1904436",
+      "iso": null
+    },
+    "parent": {
+      "id": "BK-01",
+      "level": 2,
+      "name": {
+        "local": "Huoixai",
+        "en": "Huoixai",
+        "slug": "huoixai-bk-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BK",
+        "level": 1,
+        "name": {
+          "local": "Bokeo",
+          "en": "Bokeo",
+          "slug": "bokeo-bk"
+        }
+      },
+      {
+        "id": "BK-01",
+        "level": 2,
+        "name": {
+          "local": "Huoixai",
+          "en": "Huoixai",
+          "slug": "huoixai-bk-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.254",
+      "lon": "100.449"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1904450",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Môkpalai-Tai",
+      "en": "Ban Mokpalai-Tai",
+      "slug": "ban-mokpalai-tai-1904450"
+    },
+    "code": {
+      "id": "1904450",
+      "iso": null
+    },
+    "parent": {
+      "id": "BK-01",
+      "level": 2,
+      "name": {
+        "local": "Huoixai",
+        "en": "Huoixai",
+        "slug": "huoixai-bk-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BK",
+        "level": 1,
+        "name": {
+          "local": "Bokeo",
+          "en": "Bokeo",
+          "slug": "bokeo-bk"
+        }
+      },
+      {
+        "id": "BK-01",
+        "level": 2,
+        "name": {
+          "local": "Huoixai",
+          "en": "Huoixai",
+          "slug": "huoixai-bk-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.217",
+      "lon": "100.589"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1906998",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Môksamôk",
+      "en": "Ban Moksamok",
+      "slug": "ban-moksamok-1906998"
+    },
+    "code": {
+      "id": "1906998",
+      "iso": null
+    },
+    "parent": {
+      "id": "BK-01",
+      "level": 2,
+      "name": {
+        "local": "Huoixai",
+        "en": "Huoixai",
+        "slug": "huoixai-bk-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BK",
+        "level": 1,
+        "name": {
+          "local": "Bokeo",
+          "en": "Bokeo",
+          "slug": "bokeo-bk"
+        }
+      },
+      {
+        "id": "BK-01",
+        "level": 2,
+        "name": {
+          "local": "Huoixai",
+          "en": "Huoixai",
+          "slug": "huoixai-bk-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.425",
+      "lon": "100.947"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1662245",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Mone",
+      "en": "Ban Mone",
+      "slug": "ban-mone-1662245"
+    },
+    "code": {
+      "id": "1662245",
+      "iso": null
+    },
+    "parent": {
+      "id": "BK-01",
+      "level": 2,
+      "name": {
+        "local": "Huoixai",
+        "en": "Huoixai",
+        "slug": "huoixai-bk-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BK",
+        "level": 1,
+        "name": {
+          "local": "Bokeo",
+          "en": "Bokeo",
+          "slug": "bokeo-bk"
+        }
+      },
+      {
+        "id": "BK-01",
+        "level": 2,
+        "name": {
+          "local": "Huoixai",
+          "en": "Huoixai",
+          "slug": "huoixai-bk-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.433",
+      "lon": "100.583"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1907019",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nalouang",
+      "en": "Ban Nalouang",
+      "slug": "ban-nalouang-1907019"
+    },
+    "code": {
+      "id": "1907019",
+      "iso": null
+    },
+    "parent": {
+      "id": "BK-01",
+      "level": 2,
+      "name": {
+        "local": "Huoixai",
+        "en": "Huoixai",
+        "slug": "huoixai-bk-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BK",
+        "level": 1,
+        "name": {
+          "local": "Bokeo",
+          "en": "Bokeo",
+          "slug": "bokeo-bk"
+        }
+      },
+      {
+        "id": "BK-01",
+        "level": 2,
+        "name": {
+          "local": "Huoixai",
+          "en": "Huoixai",
+          "slug": "huoixai-bk-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.363",
+      "lon": "100.703"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1661401",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nam Ta Ngong",
+      "en": "Ban Nam Ta Ngong",
+      "slug": "ban-nam-ta-ngong-1661401"
+    },
+    "code": {
+      "id": "1661401",
+      "iso": null
+    },
+    "parent": {
+      "id": "BK-01",
+      "level": 2,
+      "name": {
+        "local": "Huoixai",
+        "en": "Huoixai",
+        "slug": "huoixai-bk-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BK",
+        "level": 1,
+        "name": {
+          "local": "Bokeo",
+          "en": "Bokeo",
+          "slug": "bokeo-bk"
+        }
+      },
+      {
+        "id": "BK-01",
+        "level": 2,
+        "name": {
+          "local": "Huoixai",
+          "en": "Huoixai",
+          "slug": "huoixai-bk-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.45",
+      "lon": "100.933"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1907024",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Namchoam",
+      "en": "Ban Namchoam",
+      "slug": "ban-namchoam-1907024"
+    },
+    "code": {
+      "id": "1907024",
+      "iso": null
+    },
+    "parent": {
+      "id": "BK-01",
+      "level": 2,
+      "name": {
+        "local": "Huoixai",
+        "en": "Huoixai",
+        "slug": "huoixai-bk-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BK",
+        "level": 1,
+        "name": {
+          "local": "Bokeo",
+          "en": "Bokeo",
+          "slug": "bokeo-bk"
+        }
+      },
+      {
+        "id": "BK-01",
+        "level": 2,
+        "name": {
+          "local": "Huoixai",
+          "en": "Huoixai",
+          "slug": "huoixai-bk-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.431",
+      "lon": "100.589"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1907013",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Namdua",
+      "en": "Ban Namdua",
+      "slug": "ban-namdua-1907013"
+    },
+    "code": {
+      "id": "1907013",
+      "iso": null
+    },
+    "parent": {
+      "id": "BK-01",
+      "level": 2,
+      "name": {
+        "local": "Huoixai",
+        "en": "Huoixai",
+        "slug": "huoixai-bk-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BK",
+        "level": 1,
+        "name": {
+          "local": "Bokeo",
+          "en": "Bokeo",
+          "slug": "bokeo-bk"
+        }
+      },
+      {
+        "id": "BK-01",
+        "level": 2,
+        "name": {
+          "local": "Huoixai",
+          "en": "Huoixai",
+          "slug": "huoixai-bk-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.359",
+      "lon": "100.551"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1661581",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Namgnon-Kao",
+      "en": "Ban Namgnon-Kao",
+      "slug": "ban-namgnon-kao-1661581"
+    },
+    "code": {
+      "id": "1661581",
+      "iso": null
+    },
+    "parent": {
+      "id": "BK-01",
+      "level": 2,
+      "name": {
+        "local": "Huoixai",
+        "en": "Huoixai",
+        "slug": "huoixai-bk-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BK",
+        "level": 1,
+        "name": {
+          "local": "Bokeo",
+          "en": "Bokeo",
+          "slug": "bokeo-bk"
+        }
+      },
+      {
+        "id": "BK-01",
+        "level": 2,
+        "name": {
+          "local": "Huoixai",
+          "en": "Huoixai",
+          "slug": "huoixai-bk-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.403",
+      "lon": "100.323"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1904397",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Namgnon-Mai",
+      "en": "Ban Namgnon-Mai",
+      "slug": "ban-namgnon-mai-1904397"
+    },
+    "code": {
+      "id": "1904397",
+      "iso": null
+    },
+    "parent": {
+      "id": "BK-01",
+      "level": 2,
+      "name": {
+        "local": "Huoixai",
+        "en": "Huoixai",
+        "slug": "huoixai-bk-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BK",
+        "level": 1,
+        "name": {
+          "local": "Bokeo",
+          "en": "Bokeo",
+          "slug": "bokeo-bk"
+        }
+      },
+      {
+        "id": "BK-01",
+        "level": 2,
+        "name": {
+          "local": "Huoixai",
+          "en": "Huoixai",
+          "slug": "huoixai-bk-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.407",
+      "lon": "100.33"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1907040",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Namgnoung",
+      "en": "Ban Namgnoung",
+      "slug": "ban-namgnoung-1907040"
+    },
+    "code": {
+      "id": "1907040",
+      "iso": null
+    },
+    "parent": {
+      "id": "BK-01",
+      "level": 2,
+      "name": {
+        "local": "Huoixai",
+        "en": "Huoixai",
+        "slug": "huoixai-bk-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BK",
+        "level": 1,
+        "name": {
+          "local": "Bokeo",
+          "en": "Bokeo",
+          "slug": "bokeo-bk"
+        }
+      },
+      {
+        "id": "BK-01",
+        "level": 2,
+        "name": {
+          "local": "Huoixai",
+          "en": "Huoixai",
+          "slug": "huoixai-bk-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.304",
+      "lon": "100.515"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1907037",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Namgnoung-Gnai",
+      "en": "Ban Namgnoung-Gnai",
+      "slug": "ban-namgnoung-gnai-1907037"
+    },
+    "code": {
+      "id": "1907037",
+      "iso": null
+    },
+    "parent": {
+      "id": "BK-01",
+      "level": 2,
+      "name": {
+        "local": "Huoixai",
+        "en": "Huoixai",
+        "slug": "huoixai-bk-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BK",
+        "level": 1,
+        "name": {
+          "local": "Bokeo",
+          "en": "Bokeo",
+          "slug": "bokeo-bk"
+        }
+      },
+      {
+        "id": "BK-01",
+        "level": 2,
+        "name": {
+          "local": "Huoixai",
+          "en": "Huoixai",
+          "slug": "huoixai-bk-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.303",
+      "lon": "100.538"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1904424",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Namgnoung-Noy",
+      "en": "Ban Namgnoung-Noy",
+      "slug": "ban-namgnoung-noy-1904424"
+    },
+    "code": {
+      "id": "1904424",
+      "iso": null
+    },
+    "parent": {
+      "id": "BK-01",
+      "level": 2,
+      "name": {
+        "local": "Huoixai",
+        "en": "Huoixai",
+        "slug": "huoixai-bk-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BK",
+        "level": 1,
+        "name": {
+          "local": "Bokeo",
+          "en": "Bokeo",
+          "slug": "bokeo-bk"
+        }
+      },
+      {
+        "id": "BK-01",
+        "level": 2,
+        "name": {
+          "local": "Huoixai",
+          "en": "Huoixai",
+          "slug": "huoixai-bk-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.326",
+      "lon": "100.484"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1904434",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Namho-Tai",
+      "en": "Ban Namho-Tai",
+      "slug": "ban-namho-tai-1904434"
+    },
+    "code": {
+      "id": "1904434",
+      "iso": null
+    },
+    "parent": {
+      "id": "BK-01",
+      "level": 2,
+      "name": {
+        "local": "Huoixai",
+        "en": "Huoixai",
+        "slug": "huoixai-bk-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BK",
+        "level": 1,
+        "name": {
+          "local": "Bokeo",
+          "en": "Bokeo",
+          "slug": "bokeo-bk"
+        }
+      },
+      {
+        "id": "BK-01",
+        "level": 2,
+        "name": {
+          "local": "Huoixai",
+          "en": "Huoixai",
+          "slug": "huoixai-bk-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.272",
+      "lon": "100.461"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1904401",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Namkat",
+      "en": "Ban Namkat",
+      "slug": "ban-namkat-1904401"
+    },
+    "code": {
+      "id": "1904401",
+      "iso": null
+    },
+    "parent": {
+      "id": "BK-01",
+      "level": 2,
+      "name": {
+        "local": "Huoixai",
+        "en": "Huoixai",
+        "slug": "huoixai-bk-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BK",
+        "level": 1,
+        "name": {
+          "local": "Bokeo",
+          "en": "Bokeo",
+          "slug": "bokeo-bk"
+        }
+      },
+      {
+        "id": "BK-01",
+        "level": 2,
+        "name": {
+          "local": "Huoixai",
+          "en": "Huoixai",
+          "slug": "huoixai-bk-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.433",
+      "lon": "100.378"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1907031",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Namko",
+      "en": "Ban Namko",
+      "slug": "ban-namko-1907031"
+    },
+    "code": {
+      "id": "1907031",
+      "iso": null
+    },
+    "parent": {
+      "id": "BK-01",
+      "level": 2,
+      "name": {
+        "local": "Huoixai",
+        "en": "Huoixai",
+        "slug": "huoixai-bk-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BK",
+        "level": 1,
+        "name": {
+          "local": "Bokeo",
+          "en": "Bokeo",
+          "slug": "bokeo-bk"
+        }
+      },
+      {
+        "id": "BK-01",
+        "level": 2,
+        "name": {
+          "local": "Huoixai",
+          "en": "Huoixai",
+          "slug": "huoixai-bk-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.479",
+      "lon": "100.662"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1904405",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Namlè-Nua",
+      "en": "Ban Namle-Nua",
+      "slug": "ban-namle-nua-1904405"
+    },
+    "code": {
+      "id": "1904405",
+      "iso": null
+    },
+    "parent": {
+      "id": "BK-01",
+      "level": 2,
+      "name": {
+        "local": "Huoixai",
+        "en": "Huoixai",
+        "slug": "huoixai-bk-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BK",
+        "level": 1,
+        "name": {
+          "local": "Bokeo",
+          "en": "Bokeo",
+          "slug": "bokeo-bk"
+        }
+      },
+      {
+        "id": "BK-01",
+        "level": 2,
+        "name": {
+          "local": "Huoixai",
+          "en": "Huoixai",
+          "slug": "huoixai-bk-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.379",
+      "lon": "100.443"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1904417",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Namlè-Tai",
+      "en": "Ban Namle-Tai",
+      "slug": "ban-namle-tai-1904417"
+    },
+    "code": {
+      "id": "1904417",
+      "iso": null
+    },
+    "parent": {
+      "id": "BK-01",
+      "level": 2,
+      "name": {
+        "local": "Huoixai",
+        "en": "Huoixai",
+        "slug": "huoixai-bk-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BK",
+        "level": 1,
+        "name": {
+          "local": "Bokeo",
+          "en": "Bokeo",
+          "slug": "bokeo-bk"
+        }
+      },
+      {
+        "id": "BK-01",
+        "level": 2,
+        "name": {
+          "local": "Huoixai",
+          "en": "Huoixai",
+          "slug": "huoixai-bk-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.34",
+      "lon": "100.463"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1907029",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Namlèm",
+      "en": "Ban Namlem",
+      "slug": "ban-namlem-1907029"
+    },
+    "code": {
+      "id": "1907029",
+      "iso": null
+    },
+    "parent": {
+      "id": "BK-01",
+      "level": 2,
+      "name": {
+        "local": "Huoixai",
+        "en": "Huoixai",
+        "slug": "huoixai-bk-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BK",
+        "level": 1,
+        "name": {
+          "local": "Bokeo",
+          "en": "Bokeo",
+          "slug": "bokeo-bk"
+        }
+      },
+      {
+        "id": "BK-01",
+        "level": 2,
+        "name": {
+          "local": "Huoixai",
+          "en": "Huoixai",
+          "slug": "huoixai-bk-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.47",
+      "lon": "100.602"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1907012",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Namma",
+      "en": "Ban Namma",
+      "slug": "ban-namma-1907012"
+    },
+    "code": {
+      "id": "1907012",
+      "iso": null
+    },
+    "parent": {
+      "id": "BK-01",
+      "level": 2,
+      "name": {
+        "local": "Huoixai",
+        "en": "Huoixai",
+        "slug": "huoixai-bk-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BK",
+        "level": 1,
+        "name": {
+          "local": "Bokeo",
+          "en": "Bokeo",
+          "slug": "bokeo-bk"
+        }
+      },
+      {
+        "id": "BK-01",
+        "level": 2,
+        "name": {
+          "local": "Huoixai",
+          "en": "Huoixai",
+          "slug": "huoixai-bk-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.339",
+      "lon": "100.53"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1907020",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Namngao",
+      "en": "Ban Namngao",
+      "slug": "ban-namngao-1907020"
+    },
+    "code": {
+      "id": "1907020",
+      "iso": null
+    },
+    "parent": {
+      "id": "BK-01",
+      "level": 2,
+      "name": {
+        "local": "Huoixai",
+        "en": "Huoixai",
+        "slug": "huoixai-bk-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BK",
+        "level": 1,
+        "name": {
+          "local": "Bokeo",
+          "en": "Bokeo",
+          "slug": "bokeo-bk"
+        }
+      },
+      {
+        "id": "BK-01",
+        "level": 2,
+        "name": {
+          "local": "Huoixai",
+          "en": "Huoixai",
+          "slug": "huoixai-bk-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.396",
+      "lon": "100.565"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1661363",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Namngè",
+      "en": "Ban Namnge",
+      "slug": "ban-namnge-1661363"
+    },
+    "code": {
+      "id": "1661363",
+      "iso": null
+    },
+    "parent": {
+      "id": "BK-01",
+      "level": 2,
+      "name": {
+        "local": "Huoixai",
+        "en": "Huoixai",
+        "slug": "huoixai-bk-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BK",
+        "level": 1,
+        "name": {
+          "local": "Bokeo",
+          "en": "Bokeo",
+          "slug": "bokeo-bk"
+        }
+      },
+      {
+        "id": "BK-01",
+        "level": 2,
+        "name": {
+          "local": "Huoixai",
+          "en": "Huoixai",
+          "slug": "huoixai-bk-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.365",
+      "lon": "100.565"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1907016",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Namnge",
+      "en": "Ban Namnge",
+      "slug": "ban-namnge-1907016"
+    },
+    "code": {
+      "id": "1907016",
+      "iso": null
+    },
+    "parent": {
+      "id": "BK-01",
+      "level": 2,
+      "name": {
+        "local": "Huoixai",
+        "en": "Huoixai",
+        "slug": "huoixai-bk-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BK",
+        "level": 1,
+        "name": {
+          "local": "Bokeo",
+          "en": "Bokeo",
+          "slug": "bokeo-bk"
+        }
+      },
+      {
+        "id": "BK-01",
+        "level": 2,
+        "name": {
+          "local": "Huoixai",
+          "en": "Huoixai",
+          "slug": "huoixai-bk-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.364",
+      "lon": "100.565"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1907021",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Namngè",
+      "en": "Ban Namnge",
+      "slug": "ban-namnge-1907021"
+    },
+    "code": {
+      "id": "1907021",
+      "iso": null
+    },
+    "parent": {
+      "id": "BK-01",
+      "level": 2,
+      "name": {
+        "local": "Huoixai",
+        "en": "Huoixai",
+        "slug": "huoixai-bk-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BK",
+        "level": 1,
+        "name": {
+          "local": "Bokeo",
+          "en": "Bokeo",
+          "slug": "bokeo-bk"
+        }
+      },
+      {
+        "id": "BK-01",
+        "level": 2,
+        "name": {
+          "local": "Huoixai",
+          "en": "Huoixai",
+          "slug": "huoixai-bk-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.412",
+      "lon": "100.56"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1661498",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Namngiou",
+      "en": "Ban Namngiou",
+      "slug": "ban-namngiou-1661498"
+    },
+    "code": {
+      "id": "1661498",
+      "iso": null
+    },
+    "parent": {
+      "id": "BK-01",
+      "level": 2,
+      "name": {
+        "local": "Huoixai",
+        "en": "Huoixai",
+        "slug": "huoixai-bk-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BK",
+        "level": 1,
+        "name": {
+          "local": "Bokeo",
+          "en": "Bokeo",
+          "slug": "bokeo-bk"
+        }
+      },
+      {
+        "id": "BK-01",
+        "level": 2,
+        "name": {
+          "local": "Huoixai",
+          "en": "Huoixai",
+          "slug": "huoixai-bk-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.368",
+      "lon": "100.365"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1907011",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Namphèt",
+      "en": "Ban Namphet",
+      "slug": "ban-namphet-1907011"
+    },
+    "code": {
+      "id": "1907011",
+      "iso": null
+    },
+    "parent": {
+      "id": "BK-01",
+      "level": 2,
+      "name": {
+        "local": "Huoixai",
+        "en": "Huoixai",
+        "slug": "huoixai-bk-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BK",
+        "level": 1,
+        "name": {
+          "local": "Bokeo",
+          "en": "Bokeo",
+          "slug": "bokeo-bk"
+        }
+      },
+      {
+        "id": "BK-01",
+        "level": 2,
+        "name": {
+          "local": "Huoixai",
+          "en": "Huoixai",
+          "slug": "huoixai-bk-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.367",
+      "lon": "100.505"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1904435",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nampik",
+      "en": "Ban Nampik",
+      "slug": "ban-nampik-1904435"
+    },
+    "code": {
+      "id": "1904435",
+      "iso": null
+    },
+    "parent": {
+      "id": "BK-01",
+      "level": 2,
+      "name": {
+        "local": "Huoixai",
+        "en": "Huoixai",
+        "slug": "huoixai-bk-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BK",
+        "level": 1,
+        "name": {
+          "local": "Bokeo",
+          "en": "Bokeo",
+          "slug": "bokeo-bk"
+        }
+      },
+      {
+        "id": "BK-01",
+        "level": 2,
+        "name": {
+          "local": "Huoixai",
+          "en": "Huoixai",
+          "slug": "huoixai-bk-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.258",
+      "lon": "100.457"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1907033",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nampou",
+      "en": "Ban Nampou",
+      "slug": "ban-nampou-1907033"
+    },
+    "code": {
+      "id": "1907033",
+      "iso": null
+    },
+    "parent": {
+      "id": "BK-01",
+      "level": 2,
+      "name": {
+        "local": "Huoixai",
+        "en": "Huoixai",
+        "slug": "huoixai-bk-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BK",
+        "level": 1,
+        "name": {
+          "local": "Bokeo",
+          "en": "Bokeo",
+          "slug": "bokeo-bk"
+        }
+      },
+      {
+        "id": "BK-01",
+        "level": 2,
+        "name": {
+          "local": "Huoixai",
+          "en": "Huoixai",
+          "slug": "huoixai-bk-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.331",
+      "lon": "100.526"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1904452",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nampuk",
+      "en": "Ban Nampuk",
+      "slug": "ban-nampuk-1904452"
+    },
+    "code": {
+      "id": "1904452",
+      "iso": null
+    },
+    "parent": {
+      "id": "BK-01",
+      "level": 2,
+      "name": {
+        "local": "Huoixai",
+        "en": "Huoixai",
+        "slug": "huoixai-bk-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BK",
+        "level": 1,
+        "name": {
+          "local": "Bokeo",
+          "en": "Bokeo",
+          "slug": "bokeo-bk"
+        }
+      },
+      {
+        "id": "BK-01",
+        "level": 2,
+        "name": {
+          "local": "Huoixai",
+          "en": "Huoixai",
+          "slug": "huoixai-bk-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.224",
+      "lon": "100.568"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1904406",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Namsèn",
+      "en": "Ban Namsen",
+      "slug": "ban-namsen-1904406"
+    },
+    "code": {
+      "id": "1904406",
+      "iso": null
+    },
+    "parent": {
+      "id": "BK-01",
+      "level": 2,
+      "name": {
+        "local": "Huoixai",
+        "en": "Huoixai",
+        "slug": "huoixai-bk-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BK",
+        "level": 1,
+        "name": {
+          "local": "Bokeo",
+          "en": "Bokeo",
+          "slug": "bokeo-bk"
+        }
+      },
+      {
+        "id": "BK-01",
+        "level": 2,
+        "name": {
+          "local": "Huoixai",
+          "en": "Huoixai",
+          "slug": "huoixai-bk-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.389",
+      "lon": "100.439"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1907002",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Namthoung",
+      "en": "Ban Namthoung",
+      "slug": "ban-namthoung-1907002"
+    },
+    "code": {
+      "id": "1907002",
+      "iso": null
+    },
+    "parent": {
+      "id": "BK-01",
+      "level": 2,
+      "name": {
+        "local": "Huoixai",
+        "en": "Huoixai",
+        "slug": "huoixai-bk-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BK",
+        "level": 1,
+        "name": {
+          "local": "Bokeo",
+          "en": "Bokeo",
+          "slug": "bokeo-bk"
+        }
+      },
+      {
+        "id": "BK-01",
+        "level": 2,
+        "name": {
+          "local": "Huoixai",
+          "en": "Huoixai",
+          "slug": "huoixai-bk-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.356",
+      "lon": "100.742"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1907023",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Namthoung",
+      "en": "Ban Namthoung",
+      "slug": "ban-namthoung-1907023"
+    },
+    "code": {
+      "id": "1907023",
+      "iso": null
+    },
+    "parent": {
+      "id": "BK-01",
+      "level": 2,
+      "name": {
+        "local": "Huoixai",
+        "en": "Huoixai",
+        "slug": "huoixai-bk-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BK",
+        "level": 1,
+        "name": {
+          "local": "Bokeo",
+          "en": "Bokeo",
+          "slug": "bokeo-bk"
+        }
+      },
+      {
+        "id": "BK-01",
+        "level": 2,
+        "name": {
+          "local": "Huoixai",
+          "en": "Huoixai",
+          "slug": "huoixai-bk-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.429",
+      "lon": "100.582"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1907035",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Namtin",
+      "en": "Ban Namtin",
+      "slug": "ban-namtin-1907035"
+    },
+    "code": {
+      "id": "1907035",
+      "iso": null
+    },
+    "parent": {
+      "id": "BK-01",
+      "level": 2,
+      "name": {
+        "local": "Huoixai",
+        "en": "Huoixai",
+        "slug": "huoixai-bk-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BK",
+        "level": 1,
+        "name": {
+          "local": "Bokeo",
+          "en": "Bokeo",
+          "slug": "bokeo-bk"
+        }
+      },
+      {
+        "id": "BK-01",
+        "level": 2,
+        "name": {
+          "local": "Huoixai",
+          "en": "Huoixai",
+          "slug": "huoixai-bk-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.318",
+      "lon": "100.571"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1907036",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Namtong",
+      "en": "Ban Namtong",
+      "slug": "ban-namtong-1907036"
+    },
+    "code": {
+      "id": "1907036",
+      "iso": null
+    },
+    "parent": {
+      "id": "BK-01",
+      "level": 2,
+      "name": {
+        "local": "Huoixai",
+        "en": "Huoixai",
+        "slug": "huoixai-bk-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BK",
+        "level": 1,
+        "name": {
+          "local": "Bokeo",
+          "en": "Bokeo",
+          "slug": "bokeo-bk"
+        }
+      },
+      {
+        "id": "BK-01",
+        "level": 2,
+        "name": {
+          "local": "Huoixai",
+          "en": "Huoixai",
+          "slug": "huoixai-bk-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.301",
+      "lon": "100.557"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1906984",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nangam",
+      "en": "Ban Nangam",
+      "slug": "ban-nangam-1906984"
+    },
+    "code": {
+      "id": "1906984",
+      "iso": null
+    },
+    "parent": {
+      "id": "BK-01",
+      "level": 2,
+      "name": {
+        "local": "Huoixai",
+        "en": "Huoixai",
+        "slug": "huoixai-bk-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BK",
+        "level": 1,
+        "name": {
+          "local": "Bokeo",
+          "en": "Bokeo",
+          "slug": "bokeo-bk"
+        }
+      },
+      {
+        "id": "BK-01",
+        "level": 2,
+        "name": {
+          "local": "Huoixai",
+          "en": "Huoixai",
+          "slug": "huoixai-bk-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.379",
+      "lon": "100.8"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1907028",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Niang",
+      "en": "Ban Niang",
+      "slug": "ban-niang-1907028"
+    },
+    "code": {
+      "id": "1907028",
+      "iso": null
+    },
+    "parent": {
+      "id": "BK-01",
+      "level": 2,
+      "name": {
+        "local": "Huoixai",
+        "en": "Huoixai",
+        "slug": "huoixai-bk-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BK",
+        "level": 1,
+        "name": {
+          "local": "Bokeo",
+          "en": "Bokeo",
+          "slug": "bokeo-bk"
+        }
+      },
+      {
+        "id": "BK-01",
+        "level": 2,
+        "name": {
+          "local": "Huoixai",
+          "en": "Huoixai",
+          "slug": "huoixai-bk-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.458",
+      "lon": "100.624"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1904429",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Nongngeun",
+      "en": "Ban Nongngeun",
+      "slug": "ban-nongngeun-1904429"
+    },
+    "code": {
+      "id": "1904429",
+      "iso": null
+    },
+    "parent": {
+      "id": "BK-01",
+      "level": 2,
+      "name": {
+        "local": "Huoixai",
+        "en": "Huoixai",
+        "slug": "huoixai-bk-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BK",
+        "level": 1,
+        "name": {
+          "local": "Bokeo",
+          "en": "Bokeo",
+          "slug": "bokeo-bk"
+        }
+      },
+      {
+        "id": "BK-01",
+        "level": 2,
+        "name": {
+          "local": "Huoixai",
+          "en": "Huoixai",
+          "slug": "huoixai-bk-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.278",
+      "lon": "100.478"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1907027",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban On",
+      "en": "Ban On",
+      "slug": "ban-on-1907027"
+    },
+    "code": {
+      "id": "1907027",
+      "iso": null
+    },
+    "parent": {
+      "id": "BK-01",
+      "level": 2,
+      "name": {
+        "local": "Huoixai",
+        "en": "Huoixai",
+        "slug": "huoixai-bk-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BK",
+        "level": 1,
+        "name": {
+          "local": "Bokeo",
+          "en": "Bokeo",
+          "slug": "bokeo-bk"
+        }
+      },
+      {
+        "id": "BK-01",
+        "level": 2,
+        "name": {
+          "local": "Huoixai",
+          "en": "Huoixai",
+          "slug": "huoixai-bk-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.448",
+      "lon": "100.611"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1904409",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Pabông",
+      "en": "Ban Pabong",
+      "slug": "ban-pabong-1904409"
+    },
+    "code": {
+      "id": "1904409",
+      "iso": null
+    },
+    "parent": {
+      "id": "BK-01",
+      "level": 2,
+      "name": {
+        "local": "Huoixai",
+        "en": "Huoixai",
+        "slug": "huoixai-bk-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BK",
+        "level": 1,
+        "name": {
+          "local": "Bokeo",
+          "en": "Bokeo",
+          "slug": "bokeo-bk"
+        }
+      },
+      {
+        "id": "BK-01",
+        "level": 2,
+        "name": {
+          "local": "Huoixai",
+          "en": "Huoixai",
+          "slug": "huoixai-bk-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.393",
+      "lon": "100.417"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1904438",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Pak-Hao-Nua",
+      "en": "Ban Pak-Hao-Nua",
+      "slug": "ban-pak-hao-nua-1904438"
+    },
+    "code": {
+      "id": "1904438",
+      "iso": null
+    },
+    "parent": {
+      "id": "BK-01",
+      "level": 2,
+      "name": {
+        "local": "Huoixai",
+        "en": "Huoixai",
+        "slug": "huoixai-bk-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BK",
+        "level": 1,
+        "name": {
+          "local": "Bokeo",
+          "en": "Bokeo",
+          "slug": "bokeo-bk"
+        }
+      },
+      {
+        "id": "BK-01",
+        "level": 2,
+        "name": {
+          "local": "Huoixai",
+          "en": "Huoixai",
+          "slug": "huoixai-bk-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.252",
+      "lon": "100.446"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1904415",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Palay",
+      "en": "Ban Palay",
+      "slug": "ban-palay-1904415"
+    },
+    "code": {
+      "id": "1904415",
+      "iso": null
+    },
+    "parent": {
+      "id": "BK-01",
+      "level": 2,
+      "name": {
+        "local": "Huoixai",
+        "en": "Huoixai",
+        "slug": "huoixai-bk-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BK",
+        "level": 1,
+        "name": {
+          "local": "Bokeo",
+          "en": "Bokeo",
+          "slug": "bokeo-bk"
+        }
+      },
+      {
+        "id": "BK-01",
+        "level": 2,
+        "name": {
+          "local": "Huoixai",
+          "en": "Huoixai",
+          "slug": "huoixai-bk-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.348",
+      "lon": "100.397"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1907041",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Pamaignang",
+      "en": "Ban Pamaignang",
+      "slug": "ban-pamaignang-1907041"
+    },
+    "code": {
+      "id": "1907041",
+      "iso": null
+    },
+    "parent": {
+      "id": "BK-01",
+      "level": 2,
+      "name": {
+        "local": "Huoixai",
+        "en": "Huoixai",
+        "slug": "huoixai-bk-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BK",
+        "level": 1,
+        "name": {
+          "local": "Bokeo",
+          "en": "Bokeo",
+          "slug": "bokeo-bk"
+        }
+      },
+      {
+        "id": "BK-01",
+        "level": 2,
+        "name": {
+          "local": "Huoixai",
+          "en": "Huoixai",
+          "slug": "huoixai-bk-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.299",
+      "lon": "100.512"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1907034",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Pangpot",
+      "en": "Ban Pangpot",
+      "slug": "ban-pangpot-1907034"
+    },
+    "code": {
+      "id": "1907034",
+      "iso": null
+    },
+    "parent": {
+      "id": "BK-01",
+      "level": 2,
+      "name": {
+        "local": "Huoixai",
+        "en": "Huoixai",
+        "slug": "huoixai-bk-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BK",
+        "level": 1,
+        "name": {
+          "local": "Bokeo",
+          "en": "Bokeo",
+          "slug": "bokeo-bk"
+        }
+      },
+      {
+        "id": "BK-01",
+        "level": 2,
+        "name": {
+          "local": "Huoixai",
+          "en": "Huoixai",
+          "slug": "huoixai-bk-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.32",
+      "lon": "100.52"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1906988",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Pangsalao",
+      "en": "Ban Pangsalao",
+      "slug": "ban-pangsalao-1906988"
+    },
+    "code": {
+      "id": "1906988",
+      "iso": null
+    },
+    "parent": {
+      "id": "BK-01",
+      "level": 2,
+      "name": {
+        "local": "Huoixai",
+        "en": "Huoixai",
+        "slug": "huoixai-bk-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BK",
+        "level": 1,
+        "name": {
+          "local": "Bokeo",
+          "en": "Bokeo",
+          "slug": "bokeo-bk"
+        }
+      },
+      {
+        "id": "BK-01",
+        "level": 2,
+        "name": {
+          "local": "Huoixai",
+          "en": "Huoixai",
+          "slug": "huoixai-bk-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.411",
+      "lon": "100.885"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1904395",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Panna",
+      "en": "Ban Panna",
+      "slug": "ban-panna-1904395"
+    },
+    "code": {
+      "id": "1904395",
+      "iso": null
+    },
+    "parent": {
+      "id": "BK-01",
+      "level": 2,
+      "name": {
+        "local": "Huoixai",
+        "en": "Huoixai",
+        "slug": "huoixai-bk-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BK",
+        "level": 1,
+        "name": {
+          "local": "Bokeo",
+          "en": "Bokeo",
+          "slug": "bokeo-bk"
+        }
+      },
+      {
+        "id": "BK-01",
+        "level": 2,
+        "name": {
+          "local": "Huoixai",
+          "en": "Huoixai",
+          "slug": "huoixai-bk-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.48",
+      "lon": "100.397"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1904442",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phakham",
+      "en": "Ban Phakham",
+      "slug": "ban-phakham-1904442"
+    },
+    "code": {
+      "id": "1904442",
+      "iso": null
+    },
+    "parent": {
+      "id": "BK-01",
+      "level": 2,
+      "name": {
+        "local": "Huoixai",
+        "en": "Huoixai",
+        "slug": "huoixai-bk-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BK",
+        "level": 1,
+        "name": {
+          "local": "Bokeo",
+          "en": "Bokeo",
+          "slug": "bokeo-bk"
+        }
+      },
+      {
+        "id": "BK-01",
+        "level": 2,
+        "name": {
+          "local": "Huoixai",
+          "en": "Huoixai",
+          "slug": "huoixai-bk-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.253",
+      "lon": "100.424"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1904404",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phaông",
+      "en": "Ban Phaong",
+      "slug": "ban-phaong-1904404"
+    },
+    "code": {
+      "id": "1904404",
+      "iso": null
+    },
+    "parent": {
+      "id": "BK-01",
+      "level": 2,
+      "name": {
+        "local": "Huoixai",
+        "en": "Huoixai",
+        "slug": "huoixai-bk-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BK",
+        "level": 1,
+        "name": {
+          "local": "Bokeo",
+          "en": "Bokeo",
+          "slug": "bokeo-bk"
+        }
+      },
+      {
+        "id": "BK-01",
+        "level": 2,
+        "name": {
+          "local": "Huoixai",
+          "en": "Huoixai",
+          "slug": "huoixai-bk-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.424",
+      "lon": "100.483"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11245138",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phaoy",
+      "en": "Ban Phaoy",
+      "slug": "ban-phaoy-11245138"
+    },
+    "code": {
+      "id": "11245138",
+      "iso": null
+    },
+    "parent": {
+      "id": "BK-01",
+      "level": 2,
+      "name": {
+        "local": "Huoixai",
+        "en": "Huoixai",
+        "slug": "huoixai-bk-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BK",
+        "level": 1,
+        "name": {
+          "local": "Bokeo",
+          "en": "Bokeo",
+          "slug": "bokeo-bk"
+        }
+      },
+      {
+        "id": "BK-01",
+        "level": 2,
+        "name": {
+          "local": "Huoixai",
+          "en": "Huoixai",
+          "slug": "huoixai-bk-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.251",
+      "lon": "100.437"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1907018",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phimônsin",
+      "en": "Ban Phimonsin",
+      "slug": "ban-phimonsin-1907018"
+    },
+    "code": {
+      "id": "1907018",
+      "iso": null
+    },
+    "parent": {
+      "id": "BK-01",
+      "level": 2,
+      "name": {
+        "local": "Huoixai",
+        "en": "Huoixai",
+        "slug": "huoixai-bk-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BK",
+        "level": 1,
+        "name": {
+          "local": "Bokeo",
+          "en": "Bokeo",
+          "slug": "bokeo-bk"
+        }
+      },
+      {
+        "id": "BK-01",
+        "level": 2,
+        "name": {
+          "local": "Huoixai",
+          "en": "Huoixai",
+          "slug": "huoixai-bk-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.382",
+      "lon": "100.577"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1904398",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phônsavai",
+      "en": "Ban Phonsavai",
+      "slug": "ban-phonsavai-1904398"
+    },
+    "code": {
+      "id": "1904398",
+      "iso": null
+    },
+    "parent": {
+      "id": "BK-01",
+      "level": 2,
+      "name": {
+        "local": "Huoixai",
+        "en": "Huoixai",
+        "slug": "huoixai-bk-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BK",
+        "level": 1,
+        "name": {
+          "local": "Bokeo",
+          "en": "Bokeo",
+          "slug": "bokeo-bk"
+        }
+      },
+      {
+        "id": "BK-01",
+        "level": 2,
+        "name": {
+          "local": "Huoixai",
+          "en": "Huoixai",
+          "slug": "huoixai-bk-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.412",
+      "lon": "100.337"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1904399",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phonxai",
+      "en": "Ban Phonxai",
+      "slug": "ban-phonxai-1904399"
+    },
+    "code": {
+      "id": "1904399",
+      "iso": null
+    },
+    "parent": {
+      "id": "BK-01",
+      "level": 2,
+      "name": {
+        "local": "Huoixai",
+        "en": "Huoixai",
+        "slug": "huoixai-bk-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BK",
+        "level": 1,
+        "name": {
+          "local": "Bokeo",
+          "en": "Bokeo",
+          "slug": "bokeo-bk"
+        }
+      },
+      {
+        "id": "BK-01",
+        "level": 2,
+        "name": {
+          "local": "Huoixai",
+          "en": "Huoixai",
+          "slug": "huoixai-bk-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.427",
+      "lon": "100.356"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1907001",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phoulai",
+      "en": "Ban Phoulai",
+      "slug": "ban-phoulai-1907001"
+    },
+    "code": {
+      "id": "1907001",
+      "iso": null
+    },
+    "parent": {
+      "id": "BK-01",
+      "level": 2,
+      "name": {
+        "local": "Huoixai",
+        "en": "Huoixai",
+        "slug": "huoixai-bk-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BK",
+        "level": 1,
+        "name": {
+          "local": "Bokeo",
+          "en": "Bokeo",
+          "slug": "bokeo-bk"
+        }
+      },
+      {
+        "id": "BK-01",
+        "level": 2,
+        "name": {
+          "local": "Huoixai",
+          "en": "Huoixai",
+          "slug": "huoixai-bk-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.36",
+      "lon": "100.751"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1904414",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phoulouang",
+      "en": "Ban Phoulouang",
+      "slug": "ban-phoulouang-1904414"
+    },
+    "code": {
+      "id": "1904414",
+      "iso": null
+    },
+    "parent": {
+      "id": "BK-01",
+      "level": 2,
+      "name": {
+        "local": "Huoixai",
+        "en": "Huoixai",
+        "slug": "huoixai-bk-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BK",
+        "level": 1,
+        "name": {
+          "local": "Bokeo",
+          "en": "Bokeo",
+          "slug": "bokeo-bk"
+        }
+      },
+      {
+        "id": "BK-01",
+        "level": 2,
+        "name": {
+          "local": "Huoixai",
+          "en": "Huoixai",
+          "slug": "huoixai-bk-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.357",
+      "lon": "100.393"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1907039",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phousèn",
+      "en": "Ban Phousen",
+      "slug": "ban-phousen-1907039"
+    },
+    "code": {
+      "id": "1907039",
+      "iso": null
+    },
+    "parent": {
+      "id": "BK-01",
+      "level": 2,
+      "name": {
+        "local": "Huoixai",
+        "en": "Huoixai",
+        "slug": "huoixai-bk-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BK",
+        "level": 1,
+        "name": {
+          "local": "Bokeo",
+          "en": "Bokeo",
+          "slug": "bokeo-bk"
+        }
+      },
+      {
+        "id": "BK-01",
+        "level": 2,
+        "name": {
+          "local": "Huoixai",
+          "en": "Huoixai",
+          "slug": "huoixai-bk-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.308",
+      "lon": "100.513"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1904410",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phouti",
+      "en": "Ban Phouti",
+      "slug": "ban-phouti-1904410"
+    },
+    "code": {
+      "id": "1904410",
+      "iso": null
+    },
+    "parent": {
+      "id": "BK-01",
+      "level": 2,
+      "name": {
+        "local": "Huoixai",
+        "en": "Huoixai",
+        "slug": "huoixai-bk-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BK",
+        "level": 1,
+        "name": {
+          "local": "Bokeo",
+          "en": "Bokeo",
+          "slug": "bokeo-bk"
+        }
+      },
+      {
+        "id": "BK-01",
+        "level": 2,
+        "name": {
+          "local": "Huoixai",
+          "en": "Huoixai",
+          "slug": "huoixai-bk-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.388",
+      "lon": "100.392"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1907025",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phouti",
+      "en": "Ban Phouti",
+      "slug": "ban-phouti-1907025"
+    },
+    "code": {
+      "id": "1907025",
+      "iso": null
+    },
+    "parent": {
+      "id": "BK-01",
+      "level": 2,
+      "name": {
+        "local": "Huoixai",
+        "en": "Huoixai",
+        "slug": "huoixai-bk-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BK",
+        "level": 1,
+        "name": {
+          "local": "Bokeo",
+          "en": "Bokeo",
+          "slug": "bokeo-bk"
+        }
+      },
+      {
+        "id": "BK-01",
+        "level": 2,
+        "name": {
+          "local": "Huoixai",
+          "en": "Huoixai",
+          "slug": "huoixai-bk-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.438",
+      "lon": "100.596"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1907022",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Phouvan",
+      "en": "Ban Phouvan",
+      "slug": "ban-phouvan-1907022"
+    },
+    "code": {
+      "id": "1907022",
+      "iso": null
+    },
+    "parent": {
+      "id": "BK-01",
+      "level": 2,
+      "name": {
+        "local": "Huoixai",
+        "en": "Huoixai",
+        "slug": "huoixai-bk-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BK",
+        "level": 1,
+        "name": {
+          "local": "Bokeo",
+          "en": "Bokeo",
+          "slug": "bokeo-bk"
+        }
+      },
+      {
+        "id": "BK-01",
+        "level": 2,
+        "name": {
+          "local": "Huoixai",
+          "en": "Huoixai",
+          "slug": "huoixai-bk-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.417",
+      "lon": "100.565"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1907010",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Pong",
+      "en": "Ban Pong",
+      "slug": "ban-pong-1907010"
+    },
+    "code": {
+      "id": "1907010",
+      "iso": null
+    },
+    "parent": {
+      "id": "BK-01",
+      "level": 2,
+      "name": {
+        "local": "Huoixai",
+        "en": "Huoixai",
+        "slug": "huoixai-bk-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BK",
+        "level": 1,
+        "name": {
+          "local": "Bokeo",
+          "en": "Bokeo",
+          "slug": "bokeo-bk"
+        }
+      },
+      {
+        "id": "BK-01",
+        "level": 2,
+        "name": {
+          "local": "Huoixai",
+          "en": "Huoixai",
+          "slug": "huoixai-bk-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.424",
+      "lon": "100.532"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1659775",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Poung",
+      "en": "Ban Poung",
+      "slug": "ban-poung-1659775"
+    },
+    "code": {
+      "id": "1659775",
+      "iso": null
+    },
+    "parent": {
+      "id": "BK-01",
+      "level": 2,
+      "name": {
+        "local": "Huoixai",
+        "en": "Huoixai",
+        "slug": "huoixai-bk-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BK",
+        "level": 1,
+        "name": {
+          "local": "Bokeo",
+          "en": "Bokeo",
+          "slug": "bokeo-bk"
+        }
+      },
+      {
+        "id": "BK-01",
+        "level": 2,
+        "name": {
+          "local": "Huoixai",
+          "en": "Huoixai",
+          "slug": "huoixai-bk-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.398",
+      "lon": "100.591"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1907017",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Poung-Noy",
+      "en": "Ban Poung-Noy",
+      "slug": "ban-poung-noy-1907017"
+    },
+    "code": {
+      "id": "1907017",
+      "iso": null
+    },
+    "parent": {
+      "id": "BK-01",
+      "level": 2,
+      "name": {
+        "local": "Huoixai",
+        "en": "Huoixai",
+        "slug": "huoixai-bk-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BK",
+        "level": 1,
+        "name": {
+          "local": "Bokeo",
+          "en": "Bokeo",
+          "slug": "bokeo-bk"
+        }
+      },
+      {
+        "id": "BK-01",
+        "level": 2,
+        "name": {
+          "local": "Huoixai",
+          "en": "Huoixai",
+          "slug": "huoixai-bk-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.372",
+      "lon": "100.567"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1906995",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Sibounhuang",
+      "en": "Ban Sibounhuang",
+      "slug": "ban-sibounhuang-1906995"
+    },
+    "code": {
+      "id": "1906995",
+      "iso": null
+    },
+    "parent": {
+      "id": "BK-01",
+      "level": 2,
+      "name": {
+        "local": "Huoixai",
+        "en": "Huoixai",
+        "slug": "huoixai-bk-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BK",
+        "level": 1,
+        "name": {
+          "local": "Bokeo",
+          "en": "Bokeo",
+          "slug": "bokeo-bk"
+        }
+      },
+      {
+        "id": "BK-01",
+        "level": 2,
+        "name": {
+          "local": "Huoixai",
+          "en": "Huoixai",
+          "slug": "huoixai-bk-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.471",
+      "lon": "100.963"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1659001",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Tafa",
+      "en": "Ban Tafa",
+      "slug": "ban-tafa-1659001"
+    },
+    "code": {
+      "id": "1659001",
+      "iso": null
+    },
+    "parent": {
+      "id": "BK-01",
+      "level": 2,
+      "name": {
+        "local": "Huoixai",
+        "en": "Huoixai",
+        "slug": "huoixai-bk-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BK",
+        "level": 1,
+        "name": {
+          "local": "Bokeo",
+          "en": "Bokeo",
+          "slug": "bokeo-bk"
+        }
+      },
+      {
+        "id": "BK-01",
+        "level": 2,
+        "name": {
+          "local": "Huoixai",
+          "en": "Huoixai",
+          "slug": "huoixai-bk-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.432",
+      "lon": "100.884"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1907026",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Thakhaipét",
+      "en": "Ban Thakhaipet",
+      "slug": "ban-thakhaipet-1907026"
+    },
+    "code": {
+      "id": "1907026",
+      "iso": null
+    },
+    "parent": {
+      "id": "BK-01",
+      "level": 2,
+      "name": {
+        "local": "Huoixai",
+        "en": "Huoixai",
+        "slug": "huoixai-bk-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BK",
+        "level": 1,
+        "name": {
+          "local": "Bokeo",
+          "en": "Bokeo",
+          "slug": "bokeo-bk"
+        }
+      },
+      {
+        "id": "BK-01",
+        "level": 2,
+        "name": {
+          "local": "Huoixai",
+          "en": "Huoixai",
+          "slug": "huoixai-bk-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.42",
+      "lon": "100.638"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1906991",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Thakhamsong",
+      "en": "Ban Thakhamsong",
+      "slug": "ban-thakhamsong-1906991"
+    },
+    "code": {
+      "id": "1906991",
+      "iso": null
+    },
+    "parent": {
+      "id": "BK-01",
+      "level": 2,
+      "name": {
+        "local": "Huoixai",
+        "en": "Huoixai",
+        "slug": "huoixai-bk-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BK",
+        "level": 1,
+        "name": {
+          "local": "Bokeo",
+          "en": "Bokeo",
+          "slug": "bokeo-bk"
+        }
+      },
+      {
+        "id": "BK-01",
+        "level": 2,
+        "name": {
+          "local": "Huoixai",
+          "en": "Huoixai",
+          "slug": "huoixai-bk-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.421",
+      "lon": "100.859"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1904430",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Thong-Na-Mai",
+      "en": "Ban Thong-Na-Mai",
+      "slug": "ban-thong-na-mai-1904430"
+    },
+    "code": {
+      "id": "1904430",
+      "iso": null
+    },
+    "parent": {
+      "id": "BK-01",
+      "level": 2,
+      "name": {
+        "local": "Huoixai",
+        "en": "Huoixai",
+        "slug": "huoixai-bk-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BK",
+        "level": 1,
+        "name": {
+          "local": "Bokeo",
+          "en": "Bokeo",
+          "slug": "bokeo-bk"
+        }
+      },
+      {
+        "id": "BK-01",
+        "level": 2,
+        "name": {
+          "local": "Huoixai",
+          "en": "Huoixai",
+          "slug": "huoixai-bk-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.276",
+      "lon": "100.481"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1904443",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Tinpha",
+      "en": "Ban Tinpha",
+      "slug": "ban-tinpha-1904443"
+    },
+    "code": {
+      "id": "1904443",
+      "iso": null
+    },
+    "parent": {
+      "id": "BK-01",
+      "level": 2,
+      "name": {
+        "local": "Huoixai",
+        "en": "Huoixai",
+        "slug": "huoixai-bk-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BK",
+        "level": 1,
+        "name": {
+          "local": "Bokeo",
+          "en": "Bokeo",
+          "slug": "bokeo-bk"
+        }
+      },
+      {
+        "id": "BK-01",
+        "level": 2,
+        "name": {
+          "local": "Huoixai",
+          "en": "Huoixai",
+          "slug": "huoixai-bk-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.252",
+      "lon": "100.433"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1904431",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Tinthat",
+      "en": "Ban Tinthat",
+      "slug": "ban-tinthat-1904431"
+    },
+    "code": {
+      "id": "1904431",
+      "iso": null
+    },
+    "parent": {
+      "id": "BK-01",
+      "level": 2,
+      "name": {
+        "local": "Huoixai",
+        "en": "Huoixai",
+        "slug": "huoixai-bk-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BK",
+        "level": 1,
+        "name": {
+          "local": "Bokeo",
+          "en": "Bokeo",
+          "slug": "bokeo-bk"
+        }
+      },
+      {
+        "id": "BK-01",
+        "level": 2,
+        "name": {
+          "local": "Huoixai",
+          "en": "Huoixai",
+          "slug": "huoixai-bk-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.252",
+      "lon": "100.486"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1906999",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Tôkou",
+      "en": "Ban Tokou",
+      "slug": "ban-tokou-1906999"
+    },
+    "code": {
+      "id": "1906999",
+      "iso": null
+    },
+    "parent": {
+      "id": "BK-01",
+      "level": 2,
+      "name": {
+        "local": "Huoixai",
+        "en": "Huoixai",
+        "slug": "huoixai-bk-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BK",
+        "level": 1,
+        "name": {
+          "local": "Bokeo",
+          "en": "Bokeo",
+          "slug": "bokeo-bk"
+        }
+      },
+      {
+        "id": "BK-01",
+        "level": 2,
+        "name": {
+          "local": "Huoixai",
+          "en": "Huoixai",
+          "slug": "huoixai-bk-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.438",
+      "lon": "100.883"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1906986",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Tôngmang",
+      "en": "Ban Tongmang",
+      "slug": "ban-tongmang-1906986"
+    },
+    "code": {
+      "id": "1906986",
+      "iso": null
+    },
+    "parent": {
+      "id": "BK-01",
+      "level": 2,
+      "name": {
+        "local": "Huoixai",
+        "en": "Huoixai",
+        "slug": "huoixai-bk-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BK",
+        "level": 1,
+        "name": {
+          "local": "Bokeo",
+          "en": "Bokeo",
+          "slug": "bokeo-bk"
+        }
+      },
+      {
+        "id": "BK-01",
+        "level": 2,
+        "name": {
+          "local": "Huoixai",
+          "en": "Huoixai",
+          "slug": "huoixai-bk-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.397",
+      "lon": "100.987"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1907032",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Tôngpalang",
+      "en": "Ban Tongpalang",
+      "slug": "ban-tongpalang-1907032"
+    },
+    "code": {
+      "id": "1907032",
+      "iso": null
+    },
+    "parent": {
+      "id": "BK-01",
+      "level": 2,
+      "name": {
+        "local": "Huoixai",
+        "en": "Huoixai",
+        "slug": "huoixai-bk-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BK",
+        "level": 1,
+        "name": {
+          "local": "Bokeo",
+          "en": "Bokeo",
+          "slug": "bokeo-bk"
+        }
+      },
+      {
+        "id": "BK-01",
+        "level": 2,
+        "name": {
+          "local": "Huoixai",
+          "en": "Huoixai",
+          "slug": "huoixai-bk-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.456",
+      "lon": "100.561"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1907000",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Toup-Nua",
+      "en": "Ban Toup-Nua",
+      "slug": "ban-toup-nua-1907000"
+    },
+    "code": {
+      "id": "1907000",
+      "iso": null
+    },
+    "parent": {
+      "id": "BK-01",
+      "level": 2,
+      "name": {
+        "local": "Huoixai",
+        "en": "Huoixai",
+        "slug": "huoixai-bk-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BK",
+        "level": 1,
+        "name": {
+          "local": "Bokeo",
+          "en": "Bokeo",
+          "slug": "bokeo-bk"
+        }
+      },
+      {
+        "id": "BK-01",
+        "level": 2,
+        "name": {
+          "local": "Huoixai",
+          "en": "Huoixai",
+          "slug": "huoixai-bk-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.453",
+      "lon": "100.831"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1906992",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Toup-Tai",
+      "en": "Ban Toup-Tai",
+      "slug": "ban-toup-tai-1906992"
+    },
+    "code": {
+      "id": "1906992",
+      "iso": null
+    },
+    "parent": {
+      "id": "BK-01",
+      "level": 2,
+      "name": {
+        "local": "Huoixai",
+        "en": "Huoixai",
+        "slug": "huoixai-bk-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BK",
+        "level": 1,
+        "name": {
+          "local": "Bokeo",
+          "en": "Bokeo",
+          "slug": "bokeo-bk"
+        }
+      },
+      {
+        "id": "BK-01",
+        "level": 2,
+        "name": {
+          "local": "Huoixai",
+          "en": "Huoixai",
+          "slug": "huoixai-bk-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.435",
+      "lon": "100.846"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1904393",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Viangkham",
+      "en": "Ban Viangkham",
+      "slug": "ban-viangkham-1904393"
+    },
+    "code": {
+      "id": "1904393",
+      "iso": null
+    },
+    "parent": {
+      "id": "BK-01",
+      "level": 2,
+      "name": {
+        "local": "Huoixai",
+        "en": "Huoixai",
+        "slug": "huoixai-bk-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BK",
+        "level": 1,
+        "name": {
+          "local": "Bokeo",
+          "en": "Bokeo",
+          "slug": "bokeo-bk"
+        }
+      },
+      {
+        "id": "BK-01",
+        "level": 2,
+        "name": {
+          "local": "Huoixai",
+          "en": "Huoixai",
+          "slug": "huoixai-bk-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.239",
+      "lon": "100.46"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1658153",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Viangmai",
+      "en": "Ban Viangmai",
+      "slug": "ban-viangmai-1658153"
+    },
+    "code": {
+      "id": "1658153",
+      "iso": null
+    },
+    "parent": {
+      "id": "BK-01",
+      "level": 2,
+      "name": {
+        "local": "Huoixai",
+        "en": "Huoixai",
+        "slug": "huoixai-bk-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BK",
+        "level": 1,
+        "name": {
+          "local": "Bokeo",
+          "en": "Bokeo",
+          "slug": "bokeo-bk"
+        }
+      },
+      {
+        "id": "BK-01",
+        "level": 2,
+        "name": {
+          "local": "Huoixai",
+          "en": "Huoixai",
+          "slug": "huoixai-bk-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.248",
+      "lon": "100.455"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1904426",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Xaichaleun",
+      "en": "Ban Xaichaleun",
+      "slug": "ban-xaichaleun-1904426"
+    },
+    "code": {
+      "id": "1904426",
+      "iso": null
+    },
+    "parent": {
+      "id": "BK-01",
+      "level": 2,
+      "name": {
+        "local": "Huoixai",
+        "en": "Huoixai",
+        "slug": "huoixai-bk-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BK",
+        "level": 1,
+        "name": {
+          "local": "Bokeo",
+          "en": "Bokeo",
+          "slug": "bokeo-bk"
+        }
+      },
+      {
+        "id": "BK-01",
+        "level": 2,
+        "name": {
+          "local": "Huoixai",
+          "en": "Huoixai",
+          "slug": "huoixai-bk-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.284",
+      "lon": "100.496"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1904428",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Xiangngam",
+      "en": "Ban Xiangngam",
+      "slug": "ban-xiangngam-1904428"
+    },
+    "code": {
+      "id": "1904428",
+      "iso": null
+    },
+    "parent": {
+      "id": "BK-01",
+      "level": 2,
+      "name": {
+        "local": "Huoixai",
+        "en": "Huoixai",
+        "slug": "huoixai-bk-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BK",
+        "level": 1,
+        "name": {
+          "local": "Bokeo",
+          "en": "Bokeo",
+          "slug": "bokeo-bk"
+        }
+      },
+      {
+        "id": "BK-01",
+        "level": 2,
+        "name": {
+          "local": "Huoixai",
+          "en": "Huoixai",
+          "slug": "huoixai-bk-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.279",
+      "lon": "100.482"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1906996",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ban Xot",
+      "en": "Ban Xot",
+      "slug": "ban-xot-1906996"
+    },
+    "code": {
+      "id": "1906996",
+      "iso": null
+    },
+    "parent": {
+      "id": "BK-01",
+      "level": 2,
+      "name": {
+        "local": "Huoixai",
+        "en": "Huoixai",
+        "slug": "huoixai-bk-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BK",
+        "level": 1,
+        "name": {
+          "local": "Bokeo",
+          "en": "Bokeo",
+          "slug": "bokeo-bk"
+        }
+      },
+      {
+        "id": "BK-01",
+        "level": 2,
+        "name": {
+          "local": "Huoixai",
+          "en": "Huoixai",
+          "slug": "huoixai-bk-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.489",
+      "lon": "100.929"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1904433",
+    "level": 3,
+    "level_name": {
+      "local": "ບ້ານ",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Paxang",
+      "en": "Paxang",
+      "slug": "paxang-1904433"
+    },
+    "code": {
+      "id": "1904433",
+      "iso": null
+    },
+    "parent": {
+      "id": "BK-01",
+      "level": 2,
+      "name": {
+        "local": "Huoixai",
+        "en": "Huoixai",
+        "slug": "huoixai-bk-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BK",
+        "level": 1,
+        "name": {
+          "local": "Bokeo",
+          "en": "Bokeo",
+          "slug": "bokeo-bk"
+        }
+      },
+      {
+        "id": "BK-01",
+        "level": 2,
+        "name": {
+          "local": "Huoixai",
+          "en": "Huoixai",
+          "slug": "huoixai-bk-01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.276",
+      "lon": "100.467"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]
