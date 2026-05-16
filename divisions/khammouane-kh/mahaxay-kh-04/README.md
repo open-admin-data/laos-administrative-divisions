@@ -1,8 +1,8 @@
-# Mahaxay
+# ມ. ມະຫາໄຊ (Mahaxay)
 
 [Home](../../../) &gt; [Khammouane](../) > **Mahaxay**
 
-Mahaxay is a district in Laos, under Khammouane.
+ມ. ມະຫາໄຊ (Mahaxay) is a district in Laos, under Khammouane.
 
 ## Overview
 

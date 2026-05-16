@@ -1,8 +1,8 @@
-# Sukhuma
+# ມ. ສຸຂຸມາ (Sukhuma)
 
 [Home](../../../) &gt; [Champasak](../) > **Sukhuma**
 
-Sukhuma is a district in Laos, under Champasak.
+ມ. ສຸຂຸມາ (Sukhuma) is a district in Laos, under Champasak.
 
 ## Overview
 

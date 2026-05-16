@@ -1,8 +1,8 @@
-# Sing
+# ມ. ສິງ (Sing)
 
 [Home](../../../) &gt; [Luang Namtha](../) > **Sing**
 
-Sing is a district in Laos, under Luang Namtha.
+ມ. ສິງ (Sing) is a district in Laos, under Luang Namtha.
 
 ## Overview
 

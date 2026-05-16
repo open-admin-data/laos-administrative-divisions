@@ -1,8 +1,8 @@
-# Phookood
+# ມ. ພູກູດ (Phookood)
 
 [Home](../../../) &gt; [Xiangkhouang](../) > **Phookood**
 
-Phookood is a district in Laos, under Xiangkhouang.
+ມ. ພູກູດ (Phookood) is a district in Laos, under Xiangkhouang.
 
 ## Overview
 

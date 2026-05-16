@@ -1,8 +1,8 @@
-# Sisattanak
+# ມ. ສີສັດຕະນາກ (Sisattanak)
 
 [Home](../../../) &gt; [Vientiane Capital](../) > **Sisattanak**
 
-Sisattanak is a district in Laos, under Vientiane Capital.
+ມ. ສີສັດຕະນາກ (Sisattanak) is a district in Laos, under Vientiane Capital.
 
 ## Overview
 

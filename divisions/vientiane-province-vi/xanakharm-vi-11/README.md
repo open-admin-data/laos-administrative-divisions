@@ -1,8 +1,8 @@
-# Xanakharm
+# ມ. ຊະນະຄາມ (Xanakharm)
 
 [Home](../../../) &gt; [Vientiane Province](../) > **Xanakharm**
 
-Xanakharm is a district in Laos, under Vientiane Province.
+ມ. ຊະນະຄາມ (Xanakharm) is a district in Laos, under Vientiane Province.
 
 ## Overview
 

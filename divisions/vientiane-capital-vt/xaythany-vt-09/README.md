@@ -1,8 +1,8 @@
-# Xaythany
+# ມ. ໄຊທະນີ (Xaythany)
 
 [Home](../../../) &gt; [Vientiane Capital](../) > **Xaythany**
 
-Xaythany is a district in Laos, under Vientiane Capital.
+ມ. ໄຊທະນີ (Xaythany) is a district in Laos, under Vientiane Capital.
 
 ## Overview
 

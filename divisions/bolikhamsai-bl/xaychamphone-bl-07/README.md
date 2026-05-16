@@ -1,8 +1,8 @@
-# Xaychamphone
+# ມ. ໄຊຈຳພອນ (Xaychamphone)
 
 [Home](../../../) &gt; [Bolikhamsai](../) > **Xaychamphone**
 
-Xaychamphone is a district in Laos, under Bolikhamsai.
+ມ. ໄຊຈຳພອນ (Xaychamphone) is a district in Laos, under Bolikhamsai.
 
 ## Overview
 

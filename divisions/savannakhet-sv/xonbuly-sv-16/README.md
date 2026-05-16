@@ -1,8 +1,8 @@
-# Xonbuly
+# ມ. ຊົນບູລີ (Xonbuly)
 
 [Home](../../../) &gt; [Savannakhet](../) > **Xonbuly**
 
-Xonbuly is a district in Laos, under Savannakhet.
+ມ. ຊົນບູລີ (Xonbuly) is a district in Laos, under Savannakhet.
 
 ## Overview
 

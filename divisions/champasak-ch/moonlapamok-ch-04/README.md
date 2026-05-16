@@ -1,8 +1,8 @@
-# Moonlapamok
+# ມ. ມູນລະປະໂມກ (Moonlapamok)
 
 [Home](../../../) &gt; [Champasak](../) > **Moonlapamok**
 
-Moonlapamok is a district in Laos, under Champasak.
+ມ. ມູນລະປະໂມກ (Moonlapamok) is a district in Laos, under Champasak.
 
 ## Overview
 

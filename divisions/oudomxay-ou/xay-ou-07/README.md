@@ -1,8 +1,8 @@
-# Xay
+# ມ. ໄຊ (Xay)
 
 [Home](../../../) &gt; [Oudomxay](../) > **Xay**
 
-Xay is a district in Laos, under Oudomxay.
+ມ. ໄຊ (Xay) is a district in Laos, under Oudomxay.
 
 ## Overview
 

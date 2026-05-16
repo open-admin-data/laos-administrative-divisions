@@ -1,8 +1,8 @@
-# Phine
+# ມ. ພິນ (Phine)
 
 [Home](../../../) &gt; [Savannakhet](../) > **Phine**
 
-Phine is a district in Laos, under Savannakhet.
+ມ. ພິນ (Phine) is a district in Laos, under Savannakhet.
 
 ## Overview
 

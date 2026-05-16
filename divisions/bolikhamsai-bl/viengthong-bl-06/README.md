@@ -1,8 +1,8 @@
-# Viengthong
+# ມ. ວຽງທອງ (Viengthong)
 
 [Home](../../../) &gt; [Bolikhamsai](../) > **Viengthong**
 
-Viengthong is a district in Laos, under Bolikhamsai.
+ມ. ວຽງທອງ (Viengthong) is a district in Laos, under Bolikhamsai.
 
 ## Overview
 

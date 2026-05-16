@@ -1,8 +1,8 @@
-# Naxaithong
+# ມ. ນາຊາຍທອງ (Naxaithong)
 
 [Home](../../../) &gt; [Vientiane Capital](../) > **Naxaithong**
 
-Naxaithong is a district in Laos, under Vientiane Capital.
+ມ. ນາຊາຍທອງ (Naxaithong) is a district in Laos, under Vientiane Capital.
 
 ## Overview
 

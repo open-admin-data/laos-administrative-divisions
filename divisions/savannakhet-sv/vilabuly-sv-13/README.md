@@ -1,8 +1,8 @@
-# Vilabuly
+# ມ. ວິລະບູລີ (Vilabuly)
 
 [Home](../../../) &gt; [Savannakhet](../) > **Vilabuly**
 
-Vilabuly is a district in Laos, under Savannakhet.
+ມ. ວິລະບູລີ (Vilabuly) is a district in Laos, under Savannakhet.
 
 ## Overview
 

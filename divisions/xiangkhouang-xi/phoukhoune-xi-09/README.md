@@ -1,8 +1,8 @@
-# Phoukhoune
+# ມ. ພູຄູນ (Phoukhoune)
 
 [Home](../../../) &gt; [Xiangkhouang](../) > **Phoukhoune**
 
-Phoukhoune is a district in Laos, under Xiangkhouang.
+ມ. ພູຄູນ (Phoukhoune) is a district in Laos, under Xiangkhouang.
 
 ## Overview
 

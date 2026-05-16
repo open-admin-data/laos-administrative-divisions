@@ -1,8 +1,8 @@
-# Meun
+# ມ. ໜື່ນ (Meun)
 
 [Home](../../../) &gt; [Vientiane Province](../) > **Meun**
 
-Meun is a district in Laos, under Vientiane Province.
+ມ. ໜື່ນ (Meun) is a district in Laos, under Vientiane Province.
 
 ## Overview
 

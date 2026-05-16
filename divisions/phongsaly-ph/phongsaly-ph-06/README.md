@@ -1,8 +1,8 @@
-# Phongsaly
+# ມ. ຜົ້ງສາລີ (Phongsaly)
 
 [Home](../../../) &gt; [Phongsaly](../) > **Phongsaly**
 
-Phongsaly is a district in Laos, under Phongsaly.
+ມ. ຜົ້ງສາລີ (Phongsaly) is a district in Laos, under Phongsaly.
 
 ## Overview
 

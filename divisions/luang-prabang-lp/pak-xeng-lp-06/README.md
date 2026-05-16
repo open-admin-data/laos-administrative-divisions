@@ -1,8 +1,8 @@
-# Pak Xeng
+# ມ. ປາກແຊງ (Pak Xeng)
 
 [Home](../../../) &gt; [Luang Prabang](../) > **Pak Xeng**
 
-Pak Xeng is a district in Laos, under Luang Prabang.
+ມ. ປາກແຊງ (Pak Xeng) is a district in Laos, under Luang Prabang.
 
 ## Overview
 

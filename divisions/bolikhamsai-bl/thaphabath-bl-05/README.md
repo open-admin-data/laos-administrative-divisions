@@ -1,8 +1,8 @@
-# Thaphabath
+# ມ. ທ່າພະບາດ (Thaphabath)
 
 [Home](../../../) &gt; [Bolikhamsai](../) > **Thaphabath**
 
-Thaphabath is a district in Laos, under Bolikhamsai.
+ມ. ທ່າພະບາດ (Thaphabath) is a district in Laos, under Bolikhamsai.
 
 ## Overview
 

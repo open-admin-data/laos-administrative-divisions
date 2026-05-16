@@ -1,8 +1,8 @@
-# Paksxong
+# ມ. ປາກຊ່ອງ (Paksxong)
 
 [Home](../../../) &gt; [Champasak](../) > **Paksxong**
 
-Paksxong is a district in Laos, under Champasak.
+ມ. ປາກຊ່ອງ (Paksxong) is a district in Laos, under Champasak.
 
 ## Overview
 

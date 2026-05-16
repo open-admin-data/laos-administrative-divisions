@@ -1,8 +1,8 @@
-# Nga
+# ມ. ງາ (Nga)
 
 [Home](../../../) &gt; [Oudomxay](../) > **Nga**
 
-Nga is a district in Laos, under Oudomxay.
+ມ. ງາ (Nga) is a district in Laos, under Oudomxay.
 
 ## Overview
 

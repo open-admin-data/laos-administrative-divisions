@@ -1,8 +1,8 @@
-# Nalae
+# ມ. ນາແລ (Nalae)
 
 [Home](../../../) &gt; [Luang Namtha](../) > **Nalae**
 
-Nalae is a district in Laos, under Luang Namtha.
+ມ. ນາແລ (Nalae) is a district in Laos, under Luang Namtha.
 
 ## Overview
 

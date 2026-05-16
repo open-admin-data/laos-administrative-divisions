@@ -1,8 +1,8 @@
-# Sikhottabong
+# ມ. ສີໂຄດຕະບອງ (Sikhottabong)
 
 [Home](../../../) &gt; [Vientiane Capital](../) > **Sikhottabong**
 
-Sikhottabong is a district in Laos, under Vientiane Capital.
+ມ. ສີໂຄດຕະບອງ (Sikhottabong) is a district in Laos, under Vientiane Capital.
 
 ## Overview
 

@@ -1,8 +1,8 @@
-# Mayparkngum
+# ມ. ປາກງື່ມ (Mayparkngum)
 
 [Home](../../../) &gt; [Vientiane Capital](../) > **Mayparkngum**
 
-Mayparkngum is a district in Laos, under Vientiane Capital.
+ມ. ປາກງື່ມ (Mayparkngum) is a district in Laos, under Vientiane Capital.
 
 ## Overview
 

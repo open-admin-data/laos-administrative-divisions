@@ -1,8 +1,8 @@
-# Phouvong
+# ມ. ພູວົງ (Phouvong)
 
 [Home](../../../) &gt; [Attapeu](../) > **Phouvong**
 
-Phouvong is a district in Laos, under Attapeu.
+ມ. ພູວົງ (Phouvong) is a district in Laos, under Attapeu.
 
 ## Overview
 

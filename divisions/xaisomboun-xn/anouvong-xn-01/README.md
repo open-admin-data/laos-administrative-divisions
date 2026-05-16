@@ -1,8 +1,8 @@
-# Anouvong
+# ມ. ອະນຸວົງ (Anouvong)
 
 [Home](../../../) &gt; [Xaisomboun](../) > **Anouvong**
 
-Anouvong is a district in Laos, under Xaisomboun.
+ມ. ອະນຸວົງ (Anouvong) is a district in Laos, under Xaisomboun.
 
 ## Overview
 

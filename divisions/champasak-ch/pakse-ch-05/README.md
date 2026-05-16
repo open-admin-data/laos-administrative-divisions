@@ -1,8 +1,8 @@
-# Pakse
+# ມ. ປາກເຊ (Pakse)
 
 [Home](../../../) &gt; [Champasak](../) > **Pakse**
 
-Pakse is a district in Laos, under Champasak.
+ມ. ປາກເຊ (Pakse) is a district in Laos, under Champasak.
 
 ## Overview
 

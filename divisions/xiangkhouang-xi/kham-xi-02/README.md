@@ -1,8 +1,8 @@
-# Kham
+# ມ. ຄຳ (Kham)
 
 [Home](../../../) &gt; [Xiangkhouang](../) > **Kham**
 
-Kham is a district in Laos, under Xiangkhouang.
+ມ. ຄຳ (Kham) is a district in Laos, under Xiangkhouang.
 
 ## Overview
 

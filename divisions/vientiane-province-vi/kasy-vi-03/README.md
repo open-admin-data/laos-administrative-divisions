@@ -1,8 +1,8 @@
-# Kasy
+# ມ. ກາສີ (Kasy)
 
 [Home](../../../) &gt; [Vientiane Province](../) > **Kasy**
 
-Kasy is a district in Laos, under Vientiane Province.
+ມ. ກາສີ (Kasy) is a district in Laos, under Vientiane Province.
 
 ## Overview
 

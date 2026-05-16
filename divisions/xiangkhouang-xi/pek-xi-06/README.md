@@ -1,8 +1,8 @@
-# Pek
+# ມ. ແປກ (Pek)
 
 [Home](../../../) &gt; [Xiangkhouang](../) > **Pek**
 
-Pek is a district in Laos, under Xiangkhouang.
+ມ. ແປກ (Pek) is a district in Laos, under Xiangkhouang.
 
 ## Overview
 

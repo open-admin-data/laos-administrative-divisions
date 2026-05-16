@@ -1,8 +1,8 @@
-# Parklai
+# ມ. ປາກລາຍ (Parklai)
 
 [Home](../../../) &gt; [Xaignabouli](../) > **Parklai**
 
-Parklai is a district in Laos, under Xaignabouli.
+ມ. ປາກລາຍ (Parklai) is a district in Laos, under Xaignabouli.
 
 ## Overview
 

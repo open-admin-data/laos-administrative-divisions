@@ -1,8 +1,8 @@
-# Samphanh
+# ມ. ສຳພັນ (Samphanh)
 
 [Home](../../../) &gt; [Phongsaly](../) > **Samphanh**
 
-Samphanh is a district in Laos, under Phongsaly.
+ມ. ສຳພັນ (Samphanh) is a district in Laos, under Phongsaly.
 
 ## Overview
 

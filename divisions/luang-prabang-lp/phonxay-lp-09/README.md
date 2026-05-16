@@ -1,8 +1,8 @@
-# Phonxay
+# ມ. ໂພນໄຊ (Phonxay)
 
 [Home](../../../) &gt; [Luang Prabang](../) > **Phonxay**
 
-Phonxay is a district in Laos, under Luang Prabang.
+ມ. ໂພນໄຊ (Phonxay) is a district in Laos, under Luang Prabang.
 
 ## Overview
 

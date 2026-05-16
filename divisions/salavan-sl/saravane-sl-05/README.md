@@ -1,8 +1,8 @@
-# Saravane
+# ມ. ສາລະວັນ (Saravane)
 
 [Home](../../../) &gt; [Salavan](../) > **Saravane**
 
-Saravane is a district in Laos, under Salavan.
+ມ. ສາລະວັນ (Saravane) is a district in Laos, under Salavan.
 
 ## Overview
 

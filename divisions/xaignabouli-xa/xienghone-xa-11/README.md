@@ -1,8 +1,8 @@
-# Xienghone
+# ມ. ຊຽງຮ່ອນ (Xienghone)
 
 [Home](../../../) &gt; [Xaignabouli](../) > **Xienghone**
 
-Xienghone is a district in Laos, under Xaignabouli.
+ມ. ຊຽງຮ່ອນ (Xienghone) is a district in Laos, under Xaignabouli.
 
 ## Overview
 

@@ -1,8 +1,8 @@
-# Bualapha
+# ມ. ບົວລະພາ (Bualapha)
 
 [Home](../../../) &gt; [Khammouane](../) > **Bualapha**
 
-Bualapha is a district in Laos, under Khammouane.
+ມ. ບົວລະພາ (Bualapha) is a district in Laos, under Khammouane.
 
 ## Overview
 

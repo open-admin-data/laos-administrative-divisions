@@ -1,8 +1,8 @@
-# Hiem
+# ມ. ຮ້ຽມ (Hiem)
 
 [Home](../../../) &gt; [Houaphan](../) > **Hiem**
 
-Hiem is a district in Laos, under Houaphan.
+ມ. ຮ້ຽມ (Hiem) is a district in Laos, under Houaphan.
 
 ## Overview
 

@@ -1,8 +1,8 @@
-# Home
+# ມ. ຮົ່ມ (Home)
 
 [Home](../../../) &gt; [Xaisomboun](../) > **Home**
 
-Home is a district in Laos, under Xaisomboun.
+ມ. ຮົ່ມ (Home) is a district in Laos, under Xaisomboun.
 
 ## Overview
 

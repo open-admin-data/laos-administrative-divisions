@@ -1,8 +1,8 @@
-# Kaysone Phomvihane
+# ມ. ໄກສອນພົມວິຫານ (Kaysone Phomvihane)
 
 [Home](../../../) &gt; [Savannakhet](../) > **Kaysone Phomvihane**
 
-Kaysone Phomvihane is a district in Laos, under Savannakhet.
+ມ. ໄກສອນພົມວິຫານ (Kaysone Phomvihane) is a district in Laos, under Savannakhet.
 
 ## Overview
 

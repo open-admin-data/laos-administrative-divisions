@@ -1,8 +1,8 @@
-# Toomlarn
+# ມ. ຕຸ້ມລານ (Toomlarn)
 
 [Home](../../../) &gt; [Salavan](../) > **Toomlarn**
 
-Toomlarn is a district in Laos, under Salavan.
+ມ. ຕຸ້ມລານ (Toomlarn) is a district in Laos, under Salavan.
 
 ## Overview
 

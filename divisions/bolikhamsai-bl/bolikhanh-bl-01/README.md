@@ -1,8 +1,8 @@
-# Bolikhanh
+# ມ. ບໍລິຄັນ (Bolikhanh)
 
 [Home](../../../) &gt; [Bolikhamsai](../) > **Bolikhanh**
 
-Bolikhanh is a district in Laos, under Bolikhamsai.
+ມ. ບໍລິຄັນ (Bolikhanh) is a district in Laos, under Bolikhamsai.
 
 ## Overview
 

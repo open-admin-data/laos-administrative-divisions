@@ -1,8 +1,8 @@
-# Meung
+# ມ. ເມິງ (Meung)
 
 [Home](../../../) &gt; [Bokeo](../) > **Meung**
 
-Meung is a district in Laos, under Bokeo.
+ມ. ເມິງ (Meung) is a district in Laos, under Bokeo.
 
 ## Overview
 

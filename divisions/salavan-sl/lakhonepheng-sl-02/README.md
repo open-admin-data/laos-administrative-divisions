@@ -1,8 +1,8 @@
-# Lakhonepheng
+# ມ. ລະຄອນເພງ (Lakhonepheng)
 
 [Home](../../../) &gt; [Salavan](../) > **Lakhonepheng**
 
-Lakhonepheng is a district in Laos, under Salavan.
+ມ. ລະຄອນເພງ (Lakhonepheng) is a district in Laos, under Salavan.
 
 ## Overview
 

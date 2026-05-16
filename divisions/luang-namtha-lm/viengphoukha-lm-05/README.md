@@ -1,8 +1,8 @@
-# Viengphoukha
+# ມ. ວຽງພູຄາ (Viengphoukha)
 
 [Home](../../../) &gt; [Luang Namtha](../) > **Viengphoukha**
 
-Viengphoukha is a district in Laos, under Luang Namtha.
+ມ. ວຽງພູຄາ (Viengphoukha) is a district in Laos, under Luang Namtha.
 
 ## Overview
 

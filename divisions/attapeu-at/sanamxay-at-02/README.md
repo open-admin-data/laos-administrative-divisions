@@ -1,8 +1,8 @@
-# Sanamxay
+# ມ. ສະໜາມໄຊ (Sanamxay)
 
 [Home](../../../) &gt; [Attapeu](../) > **Sanamxay**
 
-Sanamxay is a district in Laos, under Attapeu.
+ມ. ສະໜາມໄຊ (Sanamxay) is a district in Laos, under Attapeu.
 
 ## Overview
 

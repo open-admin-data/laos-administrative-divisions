@@ -1,8 +1,8 @@
-# Sanxay
+# ມ. ຊານໄຊ (Sanxay)
 
 [Home](../../../) &gt; [Attapeu](../) > **Sanxay**
 
-Sanxay is a district in Laos, under Attapeu.
+ມ. ຊານໄຊ (Sanxay) is a district in Laos, under Attapeu.
 
 ## Overview
 

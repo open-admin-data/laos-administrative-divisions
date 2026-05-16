@@ -1,8 +1,8 @@
-# Samakkhixay
+# ມ. ສາມັກຄີໄຊ (Samakkhixay)
 
 [Home](../../../) &gt; [Champasak](../) > **Samakkhixay**
 
-Samakkhixay is a district in Laos, under Champasak.
+ມ. ສາມັກຄີໄຊ (Samakkhixay) is a district in Laos, under Champasak.
 
 ## Overview
 

@@ -1,8 +1,8 @@
-# Luangprabang
+# ມ. ຫຼວງພະບາງ (Luangprabang)
 
 [Home](../../../) &gt; [Luang Prabang](../) > **Luangprabang**
 
-Luangprabang is a district in Laos, under Luang Prabang.
+ມ. ຫຼວງພະບາງ (Luangprabang) is a district in Laos, under Luang Prabang.
 
 ## Overview
 

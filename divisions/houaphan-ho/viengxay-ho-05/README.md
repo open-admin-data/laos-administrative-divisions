@@ -1,8 +1,8 @@
-# Viengxay
+# ມ. ວຽງໄຊ (Viengxay)
 
 [Home](../../../) &gt; [Houaphan](../) > **Viengxay**
 
-Viengxay is a district in Laos, under Houaphan.
+ມ. ວຽງໄຊ (Viengxay) is a district in Laos, under Houaphan.
 
 ## Overview
 

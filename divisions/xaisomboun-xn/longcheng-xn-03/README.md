@@ -1,8 +1,8 @@
-# Longcheng
+# ມ. ລ້ອງແຈ້ງ (Longcheng)
 
 [Home](../../../) &gt; [Xaisomboun](../) > **Longcheng**
 
-Longcheng is a district in Laos, under Xaisomboun.
+ມ. ລ້ອງແຈ້ງ (Longcheng) is a district in Laos, under Xaisomboun.
 
 ## Overview
 

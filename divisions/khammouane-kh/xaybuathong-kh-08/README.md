@@ -1,8 +1,8 @@
-# Xaybuathong
+# ມ. ໄຊບົວທອງ (Xaybuathong)
 
 [Home](../../../) &gt; [Khammouane](../) > **Xaybuathong**
 
-Xaybuathong is a district in Laos, under Khammouane.
+ມ. ໄຊບົວທອງ (Xaybuathong) is a district in Laos, under Khammouane.
 
 ## Overview
 

@@ -1,8 +1,8 @@
-# Thoulakhom
+# ມ. ທຸລະຄົມ (Thoulakhom)
 
 [Home](../../../) &gt; [Vientiane Province](../) > **Thoulakhom**
 
-Thoulakhom is a district in Laos, under Vientiane Province.
+ມ. ທຸລະຄົມ (Thoulakhom) is a district in Laos, under Vientiane Province.
 
 ## Overview
 

@@ -1,8 +1,8 @@
-# Kuan
+# ມ. ກວັນ (Kuan)
 
 [Home](../../../) &gt; [Houaphan](../) > **Kuan**
 
-Kuan is a district in Laos, under Houaphan.
+ມ. ກວັນ (Kuan) is a district in Laos, under Houaphan.
 
 ## Overview
 

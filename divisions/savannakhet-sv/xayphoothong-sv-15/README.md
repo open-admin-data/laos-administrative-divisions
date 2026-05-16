@@ -1,8 +1,8 @@
-# Xayphoothong
+# ມ. ໄຊພູທອງ (Xayphoothong)
 
 [Home](../../../) &gt; [Savannakhet](../) > **Xayphoothong**
 
-Xayphoothong is a district in Laos, under Savannakhet.
+ມ. ໄຊພູທອງ (Xayphoothong) is a district in Laos, under Savannakhet.
 
 ## Overview
 

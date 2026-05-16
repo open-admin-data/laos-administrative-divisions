@@ -1,8 +1,8 @@
-# May
+# ມ. ໃໝ່ (May)
 
 [Home](../../../) &gt; [Phongsaly](../) > **May**
 
-May is a district in Laos, under Phongsaly.
+ມ. ໃໝ່ (May) is a district in Laos, under Phongsaly.
 
 ## Overview
 

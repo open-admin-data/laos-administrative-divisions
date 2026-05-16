@@ -1,8 +1,8 @@
-# Khamkeuth
+# ມ. ຄຳເກີດ (Khamkeuth)
 
 [Home](../../../) &gt; [Bolikhamsai](../) > **Khamkeuth**
 
-Khamkeuth is a district in Laos, under Bolikhamsai.
+ມ. ຄຳເກີດ (Khamkeuth) is a district in Laos, under Bolikhamsai.
 
 ## Overview
 

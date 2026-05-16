@@ -1,8 +1,8 @@
-# Dakcheung
+# ມ. ດັກຈຶງ (Dakcheung)
 
 [Home](../../../) &gt; [Xekong](../) > **Dakcheung**
 
-Dakcheung is a district in Laos, under Xekong.
+ມ. ດັກຈຶງ (Dakcheung) is a district in Laos, under Xekong.
 
 ## Overview
 

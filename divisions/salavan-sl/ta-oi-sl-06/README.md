@@ -1,8 +1,8 @@
-# Ta Oi
+# ມ. ຕະໂອ່ຍ (Ta Oi)
 
 [Home](../../../) &gt; [Salavan](../) > **Ta Oi**
 
-Ta Oi is a district in Laos, under Salavan.
+ມ. ຕະໂອ່ຍ (Ta Oi) is a district in Laos, under Salavan.
 
 ## Overview
 

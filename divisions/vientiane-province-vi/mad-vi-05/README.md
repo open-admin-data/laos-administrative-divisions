@@ -1,8 +1,8 @@
-# Mad
+# ມ. ແມດ (Mad)
 
 [Home](../../../) &gt; [Vientiane Province](../) > **Mad**
 
-Mad is a district in Laos, under Vientiane Province.
+ມ. ແມດ (Mad) is a district in Laos, under Vientiane Province.
 
 ## Overview
 

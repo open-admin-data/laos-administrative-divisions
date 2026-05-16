@@ -1,8 +1,8 @@
-# Nakay
+# ມ. ນາກາຍ (Nakay)
 
 [Home](../../../) &gt; [Khammouane](../) > **Nakay**
 
-Nakay is a district in Laos, under Khammouane.
+ມ. ນາກາຍ (Nakay) is a district in Laos, under Khammouane.
 
 ## Overview
 

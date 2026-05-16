@@ -1,8 +1,8 @@
-# Nongbok
+# ມ. ໝອງບົກ (Nongbok)
 
 [Home](../../../) &gt; [Savannakhet](../) > **Nongbok**
 
-Nongbok is a district in Laos, under Savannakhet.
+ມ. ໝອງບົກ (Nongbok) is a district in Laos, under Savannakhet.
 
 ## Overview
 

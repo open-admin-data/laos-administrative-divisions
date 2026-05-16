@@ -1,8 +1,8 @@
-# Pha Oudom
+# ມ. ຜາອຸດົມ (Pha Oudom)
 
 [Home](../../../) &gt; [Bokeo](../) > **Pha Oudom**
 
-Pha Oudom is a district in Laos, under Bokeo.
+ມ. ຜາອຸດົມ (Pha Oudom) is a district in Laos, under Bokeo.
 
 ## Overview
 

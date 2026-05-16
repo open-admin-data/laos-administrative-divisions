@@ -1,8 +1,8 @@
-# Mork
+# ມ. ໜອກໄມ (Mork)
 
 [Home](../../../) &gt; [Xiangkhouang](../) > **Mork**
 
-Mork is a district in Laos, under Xiangkhouang.
+ມ. ໜອກໄມ (Mork) is a district in Laos, under Xiangkhouang.
 
 ## Overview
 

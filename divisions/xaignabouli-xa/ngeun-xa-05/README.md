@@ -1,8 +1,8 @@
-# Ngeun
+# ມ. ເງີນ (Ngeun)
 
 [Home](../../../) &gt; [Xaignabouli](../) > **Ngeun**
 
-Ngeun is a district in Laos, under Xaignabouli.
+ມ. ເງີນ (Ngeun) is a district in Laos, under Xaignabouli.
 
 ## Overview
 

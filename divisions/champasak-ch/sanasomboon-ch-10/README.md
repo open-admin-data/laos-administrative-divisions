@@ -1,8 +1,8 @@
-# Sanasomboon
+# ມ. ຊະນະສົມບູນ (Sanasomboon)
 
 [Home](../../../) &gt; [Champasak](../) > **Sanasomboon**
 
-Sanasomboon is a district in Laos, under Champasak.
+ມ. ຊະນະສົມບູນ (Sanasomboon) is a district in Laos, under Champasak.
 
 ## Overview
 

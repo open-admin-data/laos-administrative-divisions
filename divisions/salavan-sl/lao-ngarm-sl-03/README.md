@@ -1,8 +1,8 @@
-# Lao Ngarm
+# ມ. ເລົ່າງາມ (Lao Ngarm)
 
 [Home](../../../) &gt; [Salavan](../) > **Lao Ngarm**
 
-Lao Ngarm is a district in Laos, under Salavan.
+ມ. ເລົ່າງາມ (Lao Ngarm) is a district in Laos, under Salavan.
 
 ## Overview
 

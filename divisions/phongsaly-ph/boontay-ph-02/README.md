@@ -1,8 +1,8 @@
-# Boontay
+# ມ. ບຸນໃຕ້ (Boontay)
 
 [Home](../../../) &gt; [Phongsaly](../) > **Boontay**
 
-Boontay is a district in Laos, under Phongsaly.
+ມ. ບຸນໃຕ້ (Boontay) is a district in Laos, under Phongsaly.
 
 ## Overview
 

@@ -1,8 +1,8 @@
-# Vangvieng
+# ມ. ວັງວຽງ (Vangvieng)
 
 [Home](../../../) &gt; [Vientiane Province](../) > **Vangvieng**
 
-Vangvieng is a district in Laos, under Vientiane Province.
+ມ. ວັງວຽງ (Vangvieng) is a district in Laos, under Vientiane Province.
 
 ## Overview
 

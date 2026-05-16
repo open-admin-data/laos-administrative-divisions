@@ -1,8 +1,8 @@
-# Sepone
+# ມ. ເຊໂປນ (Sepone)
 
 [Home](../../../) &gt; [Savannakhet](../) > **Sepone**
 
-Sepone is a district in Laos, under Savannakhet.
+ມ. ເຊໂປນ (Sepone) is a district in Laos, under Savannakhet.
 
 ## Overview
 

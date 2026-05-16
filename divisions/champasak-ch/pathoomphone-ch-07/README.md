@@ -1,8 +1,8 @@
-# Pathoomphone
+# ມ. ປະທຸມພອນ (Pathoomphone)
 
 [Home](../../../) &gt; [Champasak](../) > **Pathoomphone**
 
-Pathoomphone is a district in Laos, under Champasak.
+ມ. ປະທຸມພອນ (Pathoomphone) is a district in Laos, under Champasak.
 
 ## Overview
 

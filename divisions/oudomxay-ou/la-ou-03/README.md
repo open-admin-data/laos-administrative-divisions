@@ -1,8 +1,8 @@
-# La
+# ມ. ຫຼາ (La)
 
 [Home](../../../) &gt; [Oudomxay](../) > **La**
 
-La is a district in Laos, under Oudomxay.
+ມ. ຫຼາ (La) is a district in Laos, under Oudomxay.
 
 ## Overview
 

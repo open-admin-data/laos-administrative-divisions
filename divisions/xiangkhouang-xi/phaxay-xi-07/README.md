@@ -1,8 +1,8 @@
-# Phaxay
+# ມ. ຜາໄຊ (Phaxay)
 
 [Home](../../../) &gt; [Xiangkhouang](../) > **Phaxay**
 
-Phaxay is a district in Laos, under Xiangkhouang.
+ມ. ຜາໄຊ (Phaxay) is a district in Laos, under Xiangkhouang.
 
 ## Overview
 

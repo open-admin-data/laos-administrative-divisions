@@ -1,8 +1,8 @@
-# Thapangthong
+# ມ. ທາພັງທອງ (Thapangthong)
 
 [Home](../../../) &gt; [Savannakhet](../) > **Thapangthong**
 
-Thapangthong is a district in Laos, under Savannakhet.
+ມ. ທາພັງທອງ (Thapangthong) is a district in Laos, under Savannakhet.
 
 ## Overview
 

@@ -1,8 +1,8 @@
-# Phiang
+# ມ. ພຽງ (Phiang)
 
 [Home](../../../) &gt; [Xaignabouli](../) > **Phiang**
 
-Phiang is a district in Laos, under Xaignabouli.
+ມ. ພຽງ (Phiang) is a district in Laos, under Xaignabouli.
 
 ## Overview
 

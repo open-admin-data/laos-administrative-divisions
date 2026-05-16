@@ -1,8 +1,8 @@
-# Khoune
+# ມ. ຄູນ (Khoune)
 
 [Home](../../../) &gt; [Xiangkhouang](../) > **Khoune**
 
-Khoune is a district in Laos, under Xiangkhouang.
+ມ. ຄູນ (Khoune) is a district in Laos, under Xiangkhouang.
 
 ## Overview
 

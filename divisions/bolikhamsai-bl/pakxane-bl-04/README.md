@@ -1,8 +1,8 @@
-# Pakxane
+# ມ. ປາກຊັນ (Pakxane)
 
 [Home](../../../) &gt; [Bolikhamsai](../) > **Pakxane**
 
-Pakxane is a district in Laos, under Bolikhamsai.
+ມ. ປາກຊັນ (Pakxane) is a district in Laos, under Bolikhamsai.
 
 ## Overview
 

@@ -1,8 +1,8 @@
-# Pakbeng
+# ມ. ປາກແບງ (Pakbeng)
 
 [Home](../../../) &gt; [Oudomxay](../) > **Pakbeng**
 
-Pakbeng is a district in Laos, under Oudomxay.
+ມ. ປາກແບງ (Pakbeng) is a district in Laos, under Oudomxay.
 
 ## Overview
 

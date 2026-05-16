@@ -1,8 +1,8 @@
-# Phalanxay
+# ມ. ພະລານໄຊ (Phalanxay)
 
 [Home](../../../) &gt; [Savannakhet](../) > **Phalanxay**
 
-Phalanxay is a district in Laos, under Savannakhet.
+ມ. ພະລານໄຊ (Phalanxay) is a district in Laos, under Savannakhet.
 
 ## Overview
 

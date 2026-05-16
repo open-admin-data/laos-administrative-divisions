@@ -1,8 +1,8 @@
-# Nong
+# ມ. ໜອງ (Nong)
 
 [Home](../../../) &gt; [Savannakhet](../) > **Nong**
 
-Nong is a district in Laos, under Savannakhet.
+ມ. ໜອງ (Nong) is a district in Laos, under Savannakhet.
 
 ## Overview
 

@@ -1,8 +1,8 @@
-# Xamneua
+# ມ. ຊຳເໜືອ (Xamneua)
 
 [Home](../../../) &gt; [Houaphan](../) > **Xamneua**
 
-Xamneua is a district in Laos, under Houaphan.
+ມ. ຊຳເໜືອ (Xamneua) is a district in Laos, under Houaphan.
 
 ## Overview
 

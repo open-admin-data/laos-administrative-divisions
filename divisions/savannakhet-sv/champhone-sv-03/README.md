@@ -1,8 +1,8 @@
-# Champhone
+# ມ. ຈຳພອນ (Champhone)
 
 [Home](../../../) &gt; [Savannakhet](../) > **Champhone**
 
-Champhone is a district in Laos, under Savannakhet.
+ມ. ຈຳພອນ (Champhone) is a district in Laos, under Savannakhet.
 
 ## Overview
 

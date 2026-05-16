@@ -1,8 +1,8 @@
-# Chomphet
+# ມ. ຈອມເພັດ (Chomphet)
 
 [Home](../../../) &gt; [Luang Prabang](../) > **Chomphet**
 
-Chomphet is a district in Laos, under Luang Prabang.
+ມ. ຈອມເພັດ (Chomphet) is a district in Laos, under Luang Prabang.
 
 ## Overview
 

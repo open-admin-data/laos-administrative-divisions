@@ -1,8 +1,8 @@
-# Botene
+# ມ. ບໍ່ແຕນ (Botene)
 
 [Home](../../../) &gt; [Xaignabouli](../) > **Botene**
 
-Botene is a district in Laos, under Xaignabouli.
+ມ. ບໍ່ແຕນ (Botene) is a district in Laos, under Xaignabouli.
 
 ## Overview
 

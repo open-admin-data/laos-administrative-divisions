@@ -1,8 +1,8 @@
-# Kaleum
+# ມ. ກະເລິມ (Kaleum)
 
 [Home](../../../) &gt; [Xekong](../) > **Kaleum**
 
-Kaleum is a district in Laos, under Xekong.
+ມ. ກະເລິມ (Kaleum) is a district in Laos, under Xekong.
 
 ## Overview
 

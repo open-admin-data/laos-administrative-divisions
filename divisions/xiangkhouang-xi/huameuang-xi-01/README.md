@@ -1,8 +1,8 @@
-# Huameuang
+# ມ. ຫົວເມືອງ (Huameuang)
 
 [Home](../../../) &gt; [Xiangkhouang](../) > **Huameuang**
 
-Huameuang is a district in Laos, under Xiangkhouang.
+ມ. ຫົວເມືອງ (Huameuang) is a district in Laos, under Xiangkhouang.
 
 ## Overview
 

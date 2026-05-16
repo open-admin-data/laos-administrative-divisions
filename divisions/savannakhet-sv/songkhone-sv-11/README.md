@@ -1,8 +1,8 @@
-# Songkhone
+# ມ. ສອງຄອນ (Songkhone)
 
 [Home](../../../) &gt; [Savannakhet](../) > **Songkhone**
 
-Songkhone is a district in Laos, under Savannakhet.
+ມ. ສອງຄອນ (Songkhone) is a district in Laos, under Savannakhet.
 
 ## Overview
 

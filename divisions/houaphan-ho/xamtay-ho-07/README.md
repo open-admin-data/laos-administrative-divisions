@@ -1,8 +1,8 @@
-# Xamtay
+# ມ. ຊຳໃຕ້ (Xamtay)
 
 [Home](../../../) &gt; [Houaphan](../) > **Xamtay**
 
-Xamtay is a district in Laos, under Houaphan.
+ມ. ຊຳໃຕ້ (Xamtay) is a district in Laos, under Houaphan.
 
 ## Overview
 

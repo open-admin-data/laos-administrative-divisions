@@ -1,8 +1,8 @@
-# Khop
+# ມ. ຄອບ (Khop)
 
 [Home](../../../) &gt; [Xaignabouli](../) > **Khop**
 
-Khop is a district in Laos, under Xaignabouli.
+ມ. ຄອບ (Khop) is a district in Laos, under Xaignabouli.
 
 ## Overview
 

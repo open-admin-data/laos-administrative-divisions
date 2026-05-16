@@ -1,8 +1,8 @@
-# Tonpheung
+# ມ. ຕົ້ນເຜິ້ງ (Tonpheung)
 
 [Home](../../../) &gt; [Bokeo](../) > **Tonpheung**
 
-Tonpheung is a district in Laos, under Bokeo.
+ມ. ຕົ້ນເຜິ້ງ (Tonpheung) is a district in Laos, under Bokeo.
 
 ## Overview
 

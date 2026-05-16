@@ -1,8 +1,8 @@
-# Khounkham
+# ມ. ຄຼນຄຳ (Khounkham)
 
 [Home](../../../) &gt; [Khammouane](../) > **Khounkham**
 
-Khounkham is a district in Laos, under Khammouane.
+ມ. ຄຼນຄຳ (Khounkham) is a district in Laos, under Khammouane.
 
 ## Overview
 

@@ -1,8 +1,8 @@
-# Beng
+# ມ. ແບງ (Beng)
 
 [Home](../../../) &gt; [Oudomxay](../) > **Beng**
 
-Beng is a district in Laos, under Oudomxay.
+ມ. ແບງ (Beng) is a district in Laos, under Oudomxay.
 
 ## Overview
 

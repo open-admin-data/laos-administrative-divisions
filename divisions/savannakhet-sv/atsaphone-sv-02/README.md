@@ -1,8 +1,8 @@
-# Atsaphone
+# ມ. ອາດສະພອນ (Atsaphone)
 
 [Home](../../../) &gt; [Savannakhet](../) > **Atsaphone**
 
-Atsaphone is a district in Laos, under Savannakhet.
+ມ. ອາດສະພອນ (Atsaphone) is a district in Laos, under Savannakhet.
 
 ## Overview
 

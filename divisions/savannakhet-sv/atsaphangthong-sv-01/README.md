@@ -1,8 +1,8 @@
-# Atsaphangthong
+# ມ. ອາດສະພັງທອງ (Atsaphangthong)
 
 [Home](../../../) &gt; [Savannakhet](../) > **Atsaphangthong**
 
-Atsaphangthong is a district in Laos, under Savannakhet.
+ມ. ອາດສະພັງທອງ (Atsaphangthong) is a district in Laos, under Savannakhet.
 
 ## Overview
 

@@ -1,8 +1,8 @@
-# Add
+# ມ. ແອດ (Add)
 
 [Home](../../../) &gt; [Houaphan](../) > **Add**
 
-Add is a district in Laos, under Houaphan.
+ມ. ແອດ (Add) is a district in Laos, under Houaphan.
 
 ## Overview
 

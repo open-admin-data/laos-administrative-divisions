@@ -1,8 +1,8 @@
-# Hoon
+# ມ. ຮຸນ (Hoon)
 
 [Home](../../../) &gt; [Oudomxay](../) > **Hoon**
 
-Hoon is a district in Laos, under Oudomxay.
+ມ. ຮຸນ (Hoon) is a district in Laos, under Oudomxay.
 
 ## Overview
 

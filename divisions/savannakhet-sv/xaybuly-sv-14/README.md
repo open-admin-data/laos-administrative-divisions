@@ -1,8 +1,8 @@
-# Xaybuly
+# ມ. ໄຊບູລີ (Xaybuly)
 
 [Home](../../../) &gt; [Savannakhet](../) > **Xaybuly**
 
-Xaybuly is a district in Laos, under Savannakhet.
+ມ. ໄຊບູລີ (Xaybuly) is a district in Laos, under Savannakhet.
 
 ## Overview
 

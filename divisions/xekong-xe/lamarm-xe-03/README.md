@@ -1,8 +1,8 @@
-# Lamarm
+# ມ. ລະມາມ (Lamarm)
 
 [Home](../../../) &gt; [Xekong](../) > **Lamarm**
 
-Lamarm is a district in Laos, under Xekong.
+ມ. ລະມາມ (Lamarm) is a district in Laos, under Xekong.
 
 ## Overview
 

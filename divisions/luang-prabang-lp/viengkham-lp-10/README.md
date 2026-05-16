@@ -1,8 +1,8 @@
-# Viengkham
+# ມ. ວຽງຄຳ (Viengkham)
 
 [Home](../../../) &gt; [Luang Prabang](../) > **Viengkham**
 
-Viengkham is a district in Laos, under Luang Prabang.
+ມ. ວຽງຄຳ (Viengkham) is a district in Laos, under Luang Prabang.
 
 ## Overview
 

@@ -1,8 +1,8 @@
-# Thongmyxay
+# ມ. ທົ່ງມີໄຊ (Thongmyxay)
 
 [Home](../../../) &gt; [Xaignabouli](../) > **Thongmyxay**
 
-Thongmyxay is a district in Laos, under Xaignabouli.
+ມ. ທົ່ງມີໄຊ (Thongmyxay) is a district in Laos, under Xaignabouli.
 
 ## Overview
 

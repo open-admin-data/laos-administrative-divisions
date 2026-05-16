@@ -1,8 +1,8 @@
-# Samuoi
+# ມ. ສະໝ້ວຍ (Samuoi)
 
 [Home](../../../) &gt; [Salavan](../) > **Samuoi**
 
-Samuoi is a district in Laos, under Salavan.
+ມ. ສະໝ້ວຍ (Samuoi) is a district in Laos, under Salavan.
 
 ## Overview
 

@@ -1,8 +1,8 @@
-# Xebangfay
+# ມ. ເຊບັ້ງໄຟ (Xebangfay)
 
 [Home](../../../) &gt; [Khammouane](../) > **Xebangfay**
 
-Xebangfay is a district in Laos, under Khammouane.
+ມ. ເຊບັ້ງໄຟ (Xebangfay) is a district in Laos, under Khammouane.
 
 ## Overview
 

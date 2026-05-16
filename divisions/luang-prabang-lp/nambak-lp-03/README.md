@@ -1,8 +1,8 @@
-# Nambak
+# ມ. ນ້ຳບາກ (Nambak)
 
 [Home](../../../) &gt; [Luang Prabang](../) > **Nambak**
 
-Nambak is a district in Laos, under Luang Prabang.
+ມ. ນ້ຳບາກ (Nambak) is a district in Laos, under Luang Prabang.
 
 ## Overview
 

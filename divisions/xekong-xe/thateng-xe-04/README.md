@@ -1,8 +1,8 @@
-# Thateng
+# ມ. ທ່າແຕງ (Thateng)
 
 [Home](../../../) &gt; [Xekong](../) > **Thateng**
 
-Thateng is a district in Laos, under Xekong.
+ມ. ທ່າແຕງ (Thateng) is a district in Laos, under Xekong.
 
 ## Overview
 

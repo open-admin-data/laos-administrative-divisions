@@ -1,8 +1,8 @@
-# Xaysathan
+# ມ. ໄຊສະຖານ (Xaysathan)
 
 [Home](../../../) &gt; [Xaignabouli](../) > **Xaysathan**
 
-Xaysathan is a district in Laos, under Xaignabouli.
+ມ. ໄຊສະຖານ (Xaysathan) is a district in Laos, under Xaignabouli.
 
 ## Overview
 

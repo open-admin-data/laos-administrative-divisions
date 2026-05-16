@@ -1,8 +1,8 @@
-# Nhommalath
+# ມ. ຍົມມະລາດ (Nhommalath)
 
 [Home](../../../) &gt; [Khammouane](../) > **Nhommalath**
 
-Nhommalath is a district in Laos, under Khammouane.
+ມ. ຍົມມະລາດ (Nhommalath) is a district in Laos, under Khammouane.
 
 ## Overview
 

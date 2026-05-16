@@ -1,8 +1,8 @@
-# Khongxedone
+# ມ. ໂຄງເຊໂດນ (Khongxedone)
 
 [Home](../../../) &gt; [Salavan](../) > **Khongxedone**
 
-Khongxedone is a district in Laos, under Salavan.
+ມ. ໂຄງເຊໂດນ (Khongxedone) is a district in Laos, under Salavan.
 
 ## Overview
 

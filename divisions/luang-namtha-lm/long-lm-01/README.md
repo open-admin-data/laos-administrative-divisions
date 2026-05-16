@@ -1,8 +1,8 @@
-# Long
+# ມ. ລອງ (Long)
 
 [Home](../../../) &gt; [Luang Namtha](../) > **Long**
 
-Long is a district in Laos, under Luang Namtha.
+ມ. ລອງ (Long) is a district in Laos, under Luang Namtha.
 
 ## Overview
 

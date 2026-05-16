@@ -1,8 +1,8 @@
-# Keo Oudom
+# ມ. ແກ້ວອຸດົມ (Keo Oudom)
 
 [Home](../../../) &gt; [Vientiane Province](../) > **Keo Oudom**
 
-Keo Oudom is a district in Laos, under Vientiane Province.
+ມ. ແກ້ວອຸດົມ (Keo Oudom) is a district in Laos, under Vientiane Province.
 
 ## Overview
 

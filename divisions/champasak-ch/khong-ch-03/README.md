@@ -1,8 +1,8 @@
-# Khong
+# ມ. ໂຂງ (Khong)
 
 [Home](../../../) &gt; [Champasak](../) > **Khong**
 
-Khong is a district in Laos, under Champasak.
+ມ. ໂຂງ (Khong) is a district in Laos, under Champasak.
 
 ## Overview
 

@@ -1,8 +1,8 @@
-# Champasack
+# ມ. ຈຳປາສັກ (Champasack)
 
 [Home](../../../) &gt; [Champasak](../) > **Champasack**
 
-Champasack is a district in Laos, under Champasak.
+ມ. ຈຳປາສັກ (Champasack) is a district in Laos, under Champasak.
 
 ## Overview
 

@@ -1,8 +1,8 @@
-# Sangthong
+# ມ. ສັງທອງ (Sangthong)
 
 [Home](../../../) &gt; [Vientiane Capital](../) > **Sangthong**
 
-Sangthong is a district in Laos, under Vientiane Capital.
+ມ. ສັງທອງ (Sangthong) is a district in Laos, under Vientiane Capital.
 
 ## Overview
 

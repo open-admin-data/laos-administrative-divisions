@@ -1,8 +1,8 @@
-# Phonthong
+# ມ. ໂພນທອງ (Phonthong)
 
 [Home](../../../) &gt; [Champasak](../) > **Phonthong**
 
-Phonthong is a district in Laos, under Champasak.
+ມ. ໂພນທອງ (Phonthong) is a district in Laos, under Champasak.
 
 ## Overview
 

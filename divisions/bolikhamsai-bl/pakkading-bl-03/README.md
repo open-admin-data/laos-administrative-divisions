@@ -1,8 +1,8 @@
-# Pakkading
+# ມ. ປາກກະດິງ (Pakkading)
 
 [Home](../../../) &gt; [Bolikhamsai](../) > **Pakkading**
 
-Pakkading is a district in Laos, under Bolikhamsai.
+ມ. ປາກກະດິງ (Pakkading) is a district in Laos, under Bolikhamsai.
 
 ## Overview
 

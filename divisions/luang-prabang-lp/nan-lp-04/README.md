@@ -1,8 +1,8 @@
-# Nan
+# ມ. ນານ (Nan)
 
 [Home](../../../) &gt; [Luang Prabang](../) > **Nan**
 
-Nan is a district in Laos, under Luang Prabang.
+ມ. ນານ (Nan) is a district in Laos, under Luang Prabang.
 
 ## Overview
 

@@ -1,8 +1,8 @@
-# Khua
+# ມ. ຂວາ (Khua)
 
 [Home](../../../) &gt; [Phongsaly](../) > **Khua**
 
-Khua is a district in Laos, under Phongsaly.
+ມ. ຂວາ (Khua) is a district in Laos, under Phongsaly.
 
 ## Overview
 

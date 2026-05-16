@@ -1,8 +1,8 @@
-# Huoixai
+# ມ. ຫ້ວຍຊາຍ (Huoixai)
 
 [Home](../../../) &gt; [Bokeo](../) > **Huoixai**
 
-Huoixai is a district in Laos, under Bokeo.
+ມ. ຫ້ວຍຊາຍ (Huoixai) is a district in Laos, under Bokeo.
 
 ## Overview
 

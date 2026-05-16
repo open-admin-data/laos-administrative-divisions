@@ -1,8 +1,8 @@
-# Hongsa
+# ມ. ຫົງສາ (Hongsa)
 
 [Home](../../../) &gt; [Xaignabouli](../) > **Hongsa**
 
-Hongsa is a district in Laos, under Xaignabouli.
+ມ. ຫົງສາ (Hongsa) is a district in Laos, under Xaignabouli.
 
 ## Overview
 

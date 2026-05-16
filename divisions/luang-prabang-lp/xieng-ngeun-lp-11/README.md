@@ -1,8 +1,8 @@
-# Xieng Ngeun
+# ມ. ຊຽງເງີນ (Xieng Ngeun)
 
 [Home](../../../) &gt; [Luang Prabang](../) > **Xieng Ngeun**
 
-Xieng Ngeun is a district in Laos, under Luang Prabang.
+ມ. ຊຽງເງີນ (Xieng Ngeun) is a district in Laos, under Luang Prabang.
 
 ## Overview
 

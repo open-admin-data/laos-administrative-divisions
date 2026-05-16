@@ -1,8 +1,8 @@
-# Kenethao
+# ມ. ແກ່ນທ້າວ (Kenethao)
 
 [Home](../../../) &gt; [Xaignabouli](../) > **Kenethao**
 
-Kenethao is a district in Laos, under Xaignabouli.
+ມ. ແກ່ນທ້າວ (Kenethao) is a district in Laos, under Xaignabouli.
 
 ## Overview
 

@@ -1,8 +1,8 @@
-# Vapy
+# ມ. ວາປີ (Vapy)
 
 [Home](../../../) &gt; [Salavan](../) > **Vapy**
 
-Vapy is a district in Laos, under Salavan.
+ມ. ວາປີ (Vapy) is a district in Laos, under Salavan.
 
 ## Overview
 

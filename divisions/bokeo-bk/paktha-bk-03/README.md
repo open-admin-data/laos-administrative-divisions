@@ -1,8 +1,8 @@
-# Paktha
+# ມ. ປາກທາ (Paktha)
 
 [Home](../../../) &gt; [Bokeo](../) > **Paktha**
 
-Paktha is a district in Laos, under Bokeo.
+ມ. ປາກທາ (Paktha) is a district in Laos, under Bokeo.
 
 ## Overview
 

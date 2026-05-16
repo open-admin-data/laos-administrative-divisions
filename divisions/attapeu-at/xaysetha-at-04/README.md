@@ -1,8 +1,8 @@
-# Xaysetha
+# ມ. ໄຊເສດຖາ (Xaysetha)
 
 [Home](../../../) &gt; [Attapeu](../) > **Xaysetha**
 
-Xaysetha is a district in Laos, under Attapeu.
+ມ. ໄຊເສດຖາ (Xaysetha) is a district in Laos, under Attapeu.
 
 ## Overview
 

@@ -1,8 +1,8 @@
-# Longsane
+# ມ. ລ້ອງຊານ (Longsane)
 
 [Home](../../../) &gt; [Xaisomboun](../) > **Longsane**
 
-Longsane is a district in Laos, under Xaisomboun.
+ມ. ລ້ອງຊານ (Longsane) is a district in Laos, under Xaisomboun.
 
 ## Overview
 

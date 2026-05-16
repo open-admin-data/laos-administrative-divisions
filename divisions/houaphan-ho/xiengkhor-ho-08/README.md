@@ -1,8 +1,8 @@
-# Xiengkhor
+# ມ. ຊຽງຄໍ້ (Xiengkhor)
 
 [Home](../../../) &gt; [Houaphan](../) > **Xiengkhor**
 
-Xiengkhor is a district in Laos, under Houaphan.
+ມ. ຊຽງຄໍ້ (Xiengkhor) is a district in Laos, under Houaphan.
 
 ## Overview
 

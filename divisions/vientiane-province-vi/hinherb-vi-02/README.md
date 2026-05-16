@@ -1,8 +1,8 @@
-# Hinherb
+# ມ. ຫີນເຫີບ (Hinherb)
 
 [Home](../../../) &gt; [Vientiane Province](../) > **Hinherb**
 
-Hinherb is a district in Laos, under Vientiane Province.
+ມ. ຫີນເຫີບ (Hinherb) is a district in Laos, under Vientiane Province.
 
 ## Overview
 

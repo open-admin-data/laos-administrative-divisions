@@ -1,8 +1,8 @@
-# Sopbao
+# ມ. ສົບເບົາ (Sopbao)
 
 [Home](../../../) &gt; [Houaphan](../) > **Sopbao**
 
-Sopbao is a district in Laos, under Houaphan.
+ມ. ສົບເບົາ (Sopbao) is a district in Laos, under Houaphan.
 
 ## Overview
 

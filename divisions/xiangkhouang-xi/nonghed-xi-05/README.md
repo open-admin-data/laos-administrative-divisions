@@ -1,8 +1,8 @@
-# Nonghed
+# ມ. ໜອງແຣດ (Nonghed)
 
 [Home](../../../) &gt; [Xiangkhouang](../) > **Nonghed**
 
-Nonghed is a district in Laos, under Xiangkhouang.
+ມ. ໜອງແຣດ (Nonghed) is a district in Laos, under Xiangkhouang.
 
 ## Overview
 

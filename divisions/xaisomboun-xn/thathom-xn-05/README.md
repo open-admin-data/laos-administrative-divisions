@@ -1,8 +1,8 @@
-# Thathom
+# ມ. ທາໂທມ (Thathom)
 
 [Home](../../../) &gt; [Xaisomboun](../) > **Thathom**
 
-Thathom is a district in Laos, under Xaisomboun.
+ມ. ທາໂທມ (Thathom) is a district in Laos, under Xaisomboun.
 
 ## Overview
 

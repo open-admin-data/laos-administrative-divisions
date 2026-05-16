@@ -1,8 +1,8 @@
-# Outhoomphone
+# ມ. ອຸທຸມພອນ (Outhoomphone)
 
 [Home](../../../) &gt; [Savannakhet](../) > **Outhoomphone**
 
-Outhoomphone is a district in Laos, under Savannakhet.
+ມ. ອຸທຸມພອນ (Outhoomphone) is a district in Laos, under Savannakhet.
 
 ## Overview
 

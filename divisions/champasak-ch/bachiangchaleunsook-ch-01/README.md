@@ -1,8 +1,8 @@
-# Bachiangchaleunsook
+# ມ. ບາຈຽງຈະເລີນສຸກ (Bachiangchaleunsook)
 
 [Home](../../../) &gt; [Champasak](../) > **Bachiangchaleunsook**
 
-Bachiangchaleunsook is a district in Laos, under Champasak.
+ມ. ບາຈຽງຈະເລີນສຸກ (Bachiangchaleunsook) is a district in Laos, under Champasak.
 
 ## Overview
 

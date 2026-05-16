@@ -1,8 +1,8 @@
-# Namtha
+# ມ. ນ້ຳທາ (Namtha)
 
 [Home](../../../) &gt; [Luang Namtha](../) > **Namtha**
 
-Namtha is a district in Laos, under Luang Namtha.
+ມ. ນ້ຳທາ (Namtha) is a district in Laos, under Luang Namtha.
 
 ## Overview
 

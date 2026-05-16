@@ -1,8 +1,8 @@
-# Boon Neua
+# ມ. ບຸນເໜືອ (Boon Neua)
 
 [Home](../../../) &gt; [Phongsaly](../) > **Boon Neua**
 
-Boon Neua is a district in Laos, under Phongsaly.
+ມ. ບຸນເໜືອ (Boon Neua) is a district in Laos, under Phongsaly.
 
 ## Overview
 

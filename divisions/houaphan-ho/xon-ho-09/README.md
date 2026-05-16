@@ -1,8 +1,8 @@
-# Xon
+# ມ. ຊ່ອນ (Xon)
 
 [Home](../../../) &gt; [Houaphan](../) > **Xon**
 
-Xon is a district in Laos, under Houaphan.
+ມ. ຊ່ອນ (Xon) is a district in Laos, under Houaphan.
 
 ## Overview
 

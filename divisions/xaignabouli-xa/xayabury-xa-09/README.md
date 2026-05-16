@@ -1,8 +1,8 @@
-# Xayabury
+# ມ. ໄຊຍະບູລີ (Xayabury)
 
 [Home](../../../) &gt; [Xaignabouli](../) > **Xayabury**
 
-Xayabury is a district in Laos, under Xaignabouli.
+ມ. ໄຊຍະບູລີ (Xayabury) is a district in Laos, under Xaignabouli.
 
 ## Overview
 

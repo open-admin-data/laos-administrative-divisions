@@ -1,8 +1,8 @@
-# Ngoi
+# ມ. ງອຍ (Ngoi)
 
 [Home](../../../) &gt; [Luang Prabang](../) > **Ngoi**
 
-Ngoi is a district in Laos, under Luang Prabang.
+ມ. ງອຍ (Ngoi) is a district in Laos, under Luang Prabang.
 
 ## Overview
 

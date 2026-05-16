@@ -1,8 +1,8 @@
-# Thakhek
+# ມ. ທ່າແຂກ (Thakhek)
 
 [Home](../../../) &gt; [Khammouane](../) > **Thakhek**
 
-Thakhek is a district in Laos, under Khammouane.
+ມ. ທ່າແຂກ (Thakhek) is a district in Laos, under Khammouane.
 
 ## Overview
 

@@ -1,8 +1,8 @@
-# Nhot Ou
+# ມ. ຍອດອູ (Nhot Ou)
 
 [Home](../../../) &gt; [Phongsaly](../) > **Nhot Ou**
 
-Nhot Ou is a district in Laos, under Phongsaly.
+ມ. ຍອດອູ (Nhot Ou) is a district in Laos, under Phongsaly.
 
 ## Overview
 

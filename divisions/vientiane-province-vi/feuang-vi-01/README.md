@@ -1,8 +1,8 @@
-# Feuang
+# ມ. ເຟືອງ (Feuang)
 
 [Home](../../../) &gt; [Vientiane Province](../) > **Feuang**
 
-Feuang is a district in Laos, under Vientiane Province.
+ມ. ເຟືອງ (Feuang) is a district in Laos, under Vientiane Province.
 
 ## Overview
 

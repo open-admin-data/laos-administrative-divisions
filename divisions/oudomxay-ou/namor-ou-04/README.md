@@ -1,8 +1,8 @@
-# Namor
+# ມ. ນາໝໍ້ (Namor)
 
 [Home](../../../) &gt; [Oudomxay](../) > **Namor**
 
-Namor is a district in Laos, under Oudomxay.
+ມ. ນາໝໍ້ (Namor) is a district in Laos, under Oudomxay.
 
 ## Overview
 

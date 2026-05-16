@@ -1,8 +1,8 @@
-# Hadxaifong
+# ມ. ຫາດຊາຍຟອງ (Hadxaifong)
 
 [Home](../../../) &gt; [Vientiane Capital](../) > **Hadxaifong**
 
-Hadxaifong is a district in Laos, under Vientiane Capital.
+ມ. ຫາດຊາຍຟອງ (Hadxaifong) is a district in Laos, under Vientiane Capital.
 
 ## Overview
 

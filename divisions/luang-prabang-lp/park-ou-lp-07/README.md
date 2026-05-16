@@ -1,8 +1,8 @@
-# Park Ou
+# ມ. ປາກອູ (Park Ou)
 
 [Home](../../../) &gt; [Luang Prabang](../) > **Park Ou**
 
-Park Ou is a district in Laos, under Luang Prabang.
+ມ. ປາກອູ (Park Ou) is a district in Laos, under Luang Prabang.
 
 ## Overview
 

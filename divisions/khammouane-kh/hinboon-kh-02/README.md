@@ -1,8 +1,8 @@
-# Hinboon
+# ມ. ຫີນບູນ (Hinboon)
 
 [Home](../../../) &gt; [Khammouane](../) > **Hinboon**
 
-Hinboon is a district in Laos, under Khammouane.
+ມ. ຫີນບູນ (Hinboon) is a district in Laos, under Khammouane.
 
 ## Overview
 

@@ -1,8 +1,8 @@
-# Chanthabuly
+# ມ. ຈັນທະບູລີ (Chanthabuly)
 
 [Home](../../../) &gt; [Vientiane Capital](../) > **Chanthabuly**
 
-Chanthabuly is a district in Laos, under Vientiane Capital.
+ມ. ຈັນທະບູລີ (Chanthabuly) is a district in Laos, under Vientiane Capital.
 
 ## Overview
 

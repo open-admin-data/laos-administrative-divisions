@@ -1,8 +1,8 @@
-# Phonhong
+# ມ. ໂພນໂຮງ (Phonhong)
 
 [Home](../../../) &gt; [Vientiane Province](../) > **Phonhong**
 
-Phonhong is a district in Laos, under Vientiane Province.
+ມ. ໂພນໂຮງ (Phonhong) is a district in Laos, under Vientiane Province.
 
 ## Overview
 
