@@ -1,8 +1,8 @@
-# ມ. ໄຊເສດຖາ (Xaysetha)
+# ໄຊເສດຖາ (Xaysetha)
 
 [Home](../../../) &gt; [Vientiane Capital](../) > **Xaysetha**
 
-ມ. ໄຊເສດຖາ (Xaysetha) is a district in Laos, under Vientiane Capital.
+ໄຊເສດຖາ (Xaysetha) is a district in Laos, under Vientiane Capital.
 
 ## Overview
 

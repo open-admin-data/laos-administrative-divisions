@@ -15,8 +15,8 @@ id,name.local,name.en,name.slug,code.id,geo.lat,geo.lon
 11200043,Ban Hangam,Ban Hangam,ban-hangam-11200043,11200043,15.343,105.779
 1664030,Ban Houaphou,Ban Houaphou,ban-houaphou-1664030,1664030,15.425,105.832
 11200102,Ban Houaxe,Ban Houaxe,ban-houaxe-11200102,11200102,15.361,105.828
-1663942,Ban Houaychè,Ban Houayche,ban-houayche-1663942,1663942,15.306,105.709
-1663935,Ban Houaydèng,Ban Houaydeng,ban-houaydeng-1663935,1663935,15.2,105.8
+1663942,ຫວ້ຍແຈະ,Ban Houayche,ban-houayche-1663942,1663942,15.306,105.709
+1663935,ຫ້ວຍແດງ,Ban Houaydeng,ban-houaydeng-1663935,1663935,15.2,105.8
 11202964,Ban Houaygnang-Noy,Ban Houaygnang-Noy,ban-houaygnang-noy-11202964,11202964,15.24,105.668
 1663319,Ban Katin,Ban Katin,ban-katin-1663319,1663319,15.21,105.689
 1663263,Ban Kèngkèo,Ban Kengkeo,ban-kengkeo-1663263,1663263,15.225,105.799
@@ -25,7 +25,7 @@ id,name.local,name.en,name.slug,code.id,geo.lat,geo.lon
 11200095,Ban Kèngmaihia-Loum,Ban Kengmaihia-Loum,ban-kengmaihia-loum-11200095,11200095,15.39,105.865
 11200096,Ban Kèngmaihia-Theung,Ban Kengmaihia-Theung,ban-kengmaihia-theung-11200096,11200096,15.387,105.865
 1663215,Ban Kèngphô,Ban Kengpho,ban-kengpho-1663215,1663215,15.379,105.825
-1663131,Ban Khambon,Ban Khambon,ban-khambon-1663131,1663131,15.444,105.82
+1663131,ຄຳບອນ,Ban Khambon,ban-khambon-1663131,1663131,15.444,105.82
 11203030,Ban Khamék,Ban Khamek,ban-khamek-11203030,11203030,15.319,105.759
 1663112,Ban Khamlouang,Ban Khamlouang,ban-khamlouang-1663112,1663112,15.322,105.75
 11200044,Ban Khamngoua,Ban Khamngoua,ban-khamngoua-11200044,11200044,15.339,105.782
@@ -45,7 +45,7 @@ id,name.local,name.en,name.slug,code.id,geo.lat,geo.lon
 11212196,Ban Nakèo-Tai,Ban Nakeo-Tai,ban-nakeo-tai-11212196,11212196,15.271,105.671
 1661829,Ban Nakham,Ban Nakham,ban-nakham-1661829,1661829,15.424,105.809
 1661751,Ban Nakhouang,Ban Nakhouang,ban-nakhouang-1661751,1661751,15.187,105.71
-1661694,Ban Nalak,Ban Nalak,ban-nalak-1661694,1661694,15.27,105.744
+1661694,ນາຫລັກ,Ban Nalak,ban-nalak-1661694,1661694,15.27,105.744
 1661657,Ban Nalông,Ban Nalong,ban-nalong-1661657,1661657,15.257,105.753
 1661362,Ban Nanai,Ban Nanai,ban-nanai-1661362,1661362,15.379,105.818
 1661300,Ban Naô,Ban Nao,ban-nao-1661300,1661300,15.264,105.811
@@ -59,14 +59,14 @@ id,name.local,name.en,name.slug,code.id,geo.lat,geo.lon
 1660793,Ban Nongkham,Ban Nongkham,ban-nongkham-1660793,1660793,15.347,105.791
 11200042,Ban Nongkhèn,Ban Nongkhen,ban-nongkhen-11200042,11200042,15.34,105.777
 11200047,Ban Nongphai,Ban Nongphai,ban-nongphai-11200047,11200047,15.387,105.809
-1660716,Ban Nongphang,Ban Nongphang,ban-nongphang-1660716,1660716,15.35,105.8
+1660716,ຫນອງພັງ,Ban Nongphang,ban-nongphang-1660716,1660716,15.35,105.8
 11200051,Ban Nônsavan,Ban Nonsavan,ban-nonsavan-11200051,11200051,15.399,105.803
 11203021,Ban Nônxat,Ban Nonxat,ban-nonxat-11203021,11203021,15.216,105.755
 1660596,Ban Okmuang,Ban Okmuang,ban-okmuang-1660596,1660596,15.294,105.661
 11200135,Ban Pakpakang,Ban Pakpakang,ban-pakpakang-11200135,11200135,15.438,105.985
 1660357,Ban Pakxon,Ban Pakxon,ban-pakxon-1660357,1660357,15.191,105.779
-11202975,Ban Phôkèo,Ban Phokeo,ban-phokeo-11202975,11202975,15.186,105.725
-11200052,Ban Phônthat,Ban Phonthat,ban-phonthat-11200052,11200052,15.408,105.798
+11202975,ໂພແກ້ວ,Ban Phokeo,ban-phokeo-11202975,11202975,15.186,105.725
+11200052,ໂພນທາດ,Ban Phonthat,ban-phonthat-11200052,11200052,15.408,105.798
 1659732,Ban Phouthong-loum,Ban Phouthong-loum,ban-phouthong-loum-1659732,1659732,15.247,105.808
 11202957,Ban Pông,Ban Pong,ban-pong-11202957,11202957,15.313,105.634
 1659665,Ban Pôngkeum,Ban Pongkeum,ban-pongkeum-1659665,1659665,15.44,105.909
@@ -81,7 +81,7 @@ id,name.local,name.en,name.slug,code.id,geo.lat,geo.lon
 11202968,Ban Sômhông,Ban Somhong,ban-somhong-11202968,11202968,15.203,105.706
 1655102,Ban Souvannakhili,Ban Souvannakhili,ban-souvannakhili-1655102,1655102,15.395,105.823
 1658886,Ban Tanglang,Ban Tanglang,ban-tanglang-1658886,1658886,15.427,105.809
-1658798,Ban Tatgnao,Ban Tatgnao,ban-tatgnao-1658798,1658798,15.44,105.779
+1658798,ຕານດ່ຽວ,Ban Tatgnao,ban-tatgnao-1658798,1658798,15.44,105.779
 11203022,Ban Thangbèngsivilai,Ban Thangbengsivilai,ban-thangbengsivilai-11203022,11203022,15.219,105.733
 1658579,Ban That,Ban That,ban-that-1658579,1658579,15.19,105.783
 11200100,Ban Thônghi-Gnai,Ban Thonghi-Gnai,ban-thonghi-gnai-11200100,11200100,15.36,105.851

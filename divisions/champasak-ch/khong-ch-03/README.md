@@ -1,8 +1,8 @@
-# ມ. ໂຂງ (Khong)
+# ໂຂງ (Khong)
 
 [Home](../../../) &gt; [Champasak](../) > **Khong**
 
-ມ. ໂຂງ (Khong) is a district in Laos, under Champasak.
+ໂຂງ (Khong) is a district in Laos, under Champasak.
 
 ## Overview
 
@@ -17,15 +17,15 @@
 
 | # | Name | Coordinates | Code |
 |---|------|-------------|------|
-| 1 | Along | 14.067, 106.367 | 1665107 |
+| 1 | ອາລອງ (Along) | 14.067, 106.367 | 1665107 |
 | 2 | Ban Baktou | 14.499, 105.869 | 1664950 |
-| 3 | Ban Boun-Tai | 14.41, 105.867 | 1664818 |
+| 3 | ບຸນໃຕ້ (Ban Boun-Tai) | 14.41, 105.867 | 1664818 |
 | 4 | Ban Boung | 14.154, 105.873 | 1664836 |
 | 5 | Ban Bungngam | 13.955, 106.014 | 11202884 |
 | 6 | Ban Channoy | 14.328, 105.884 | 1664738 |
 | 7 | Ban Dinchi | 14.05, 105.867 | 1664582 |
 | 8 | Ban Don Hi Veun | 14.171, 105.768 | 1658189 |
-| 9 | Ban Don-En | 13.985, 105.927 | 1664548 |
+| 9 | ດອນແອ່ນ (Ban Don-En) | 13.985, 105.927 | 1664548 |
 | 10 | Ban Don-Gnang | 14.137, 105.855 | 11202643 |
 | 11 | Ban Donchôn (Ban Donchon) | 14.021, 105.813 | 11202621 |
 | 12 | Ban Dondông (Ban Dondong) | 14.126, 105.769 | 11202587 |
@@ -44,7 +44,7 @@
 | 25 | Ban Donphai | 14.155, 105.869 | 11202603 |
 | 26 | Ban Donphaphéng (Ban Donphapheng) | 13.966, 105.98 | 11202866 |
 | 27 | Ban Donphimanphôn (Ban Donphimanphon) | 14.06, 105.836 | 1663976 |
-| 28 | Ban Donpuay | 13.999, 105.88 | 11202851 |
+| 28 | ດອນເປືອຍ (Ban Donpuay) | 13.999, 105.88 | 11202851 |
 | 29 | Ban Donsan | 14.271, 105.862 | 1664380 |
 | 30 | Ban Donsanban-Noy | 14.27, 105.854 | 1664379 |
 | 31 | Ban Donsôm (Ban Donsom) | 13.965, 105.937 | 1664375 |
@@ -72,8 +72,8 @@
 | 53 | Ban Hangkhonsadam | 13.938, 105.96 | 1664382 |
 | 54 | Ban Hanglông (Ban Hanglong) | 14.022, 105.803 | 1664206 |
 | 55 | Ban Hangsôm (Ban Hangsom) | 13.998, 105.909 | 11202859 |
-| 56 | Ban Hat | 14.219, 105.825 | 1664192 |
-| 57 | Ban Hat | 14.085, 105.847 | 1664193 |
+| 56 | ຫາດ (Ban Hat) | 14.219, 105.825 | 1664192 |
+| 57 | ຫາດ (Ban Hat) | 14.085, 105.847 | 1664193 |
 | 58 | Ban Hatkhikhoay | 14.007, 105.916 | 1664158 |
 | 59 | Ban Hatxaykhoun | 14.117, 105.867 | 1664105 |
 | 60 | Ban Hinhong | 14.066, 105.892 | 11202634 |
@@ -94,19 +94,19 @@
 | 75 | Ban Houasahông (Ban Houasahong) | 13.973, 105.95 | 11202865 |
 | 76 | Ban Houasôm (Ban Houasom) | 14.017, 105.883 | 1663973 |
 | 77 | Ban Houaxangphai | 14.056, 105.836 | 11202672 |
-| 78 | Ban Houay | 14.081, 105.84 | 1663964 |
+| 78 | ຫວ້ຍ (Ban Houay) | 14.081, 105.84 | 1663964 |
 | 79 | Ban Houaydokkèt (Ban Houaydokket) | 14.438, 105.862 | 11202223 |
 | 80 | Ban Houaydon-Gnang | 14, 105.9 | 1663929 |
 | 81 | Ban Houaydonkoy | 14.194, 105.77 | 1664399 |
 | 82 | Ban Houayhai | 14.241, 105.862 | 1663913 |
-| 83 | Ban Houaylouang | 14.117, 105.767 | 1663766 |
+| 83 | ຫ້ວຍຫລວງ (Ban Houaylouang) | 14.117, 105.767 | 1663766 |
 | 84 | Ban Houayluat | 14.383, 105.867 | 1663756 |
-| 85 | Ban Houayphai | 14.45, 105.883 | 1663673 |
-| 86 | Ban Houayphai | 14.162, 105.869 | 1663674 |
-| 87 | Ban Houaypong | 14.067, 105.883 | 1663652 |
+| 85 | ຫ້ວຍໃຜ່ (Ban Houayphai) | 14.45, 105.883 | 1663673 |
+| 86 | ຫ້ວຍໃຜ່ (Ban Houayphai) | 14.162, 105.869 | 1663674 |
+| 87 | ຫ້ວຍໂປງ (Ban Houaypong) | 14.067, 105.883 | 1663652 |
 | 88 | Ban In | 14.137, 105.781 | 1663468 |
-| 89 | Ban Kadan | 14.06, 105.894 | 1663447 |
-| 90 | Ban Kè (Ban Ke) | 14.183, 105.8 | 1663301 |
+| 89 | ກະດານ (Ban Kadan) | 14.06, 105.894 | 1663447 |
+| 90 | ແກະ (Ban Ke) | 14.183, 105.8 | 1663301 |
 | 91 | Ban Kèng (Ban Keng) | 14.446, 105.871 | 11202260 |
 | 92 | Ban Kèngkoum (Ban Kengkoum) | 14.023, 105.879 | 1663243 |
 | 93 | Ban Khamao Tiak | 14.083, 105.783 | 1663132 |
@@ -136,19 +136,19 @@
 | 117 | Ban Muangsèn-Tai (Ban Muangsen-Tai) | 14.093, 105.796 | 11202607 |
 | 118 | Ban Na | 14.103, 105.848 | 1662148 |
 | 119 | Ban Na (2) | 14.333, 105.95 | 1660953 |
-| 120 | Ban Nachampa | 14.024, 106.149 | 11202819 |
+| 120 | ນາຈຳປາ (Ban Nachampa) | 14.024, 106.149 | 11202819 |
 | 121 | Ban Nafang-Gnai | 14.478, 105.867 | 1662021 |
 | 122 | Ban Nafang-Noy | 14.464, 105.864 | 1662020 |
 | 123 | Ban Nakasang | 14.004, 105.923 | 8379120 |
 | 124 | Ban Nalan | 14.224, 105.851 | 1661688 |
 | 125 | Ban Nanaktek | 14.183, 105.8 | 1661361 |
-| 126 | Ban Nanok | 14.182, 105.802 | 11202590 |
+| 126 | ນານົກ (Ban Nanok) | 14.182, 105.802 | 11202590 |
 | 127 | Ban Napakiap | 14.028, 106.149 | 11202815 |
 | 128 | Ban Naphouthat | 14.156, 105.791 | 1661198 |
-| 129 | Ban Nasènphan (Ban Nasenphan) | 14.222, 105.911 | 11202649 |
-| 130 | Ban Nasômhông (Ban Nasomhong) | 14.148, 105.908 | 1661148 |
+| 129 | ນາແສນພັນ (Ban Nasenphan) | 14.222, 105.911 | 11202649 |
+| 130 | ນາສົ້ມໂຮງ (Ban Nasomhong) | 14.148, 105.908 | 1661148 |
 | 131 | Ban Navèng (Ban Naveng) | 14.24, 105.933 | 1661013 |
-| 132 | Ban Nôkkôk (Ban Nokkok) | 14.111, 105.868 | 1660905 |
+| 132 | ນົກກົກ (Ban Nokkok) | 14.111, 105.868 | 1660905 |
 | 133 | Ban Nongbung | 14.204, 105.838 | 1660858 |
 | 134 | Ban Nonghi | 14.495, 105.868 | 1660826 |
 | 135 | Ban Nônsoung (Ban Nonsoung) | 14.033, 105.9 | 1660624 |
@@ -158,7 +158,7 @@
 | 139 | Ban Phangkhao | 14.167, 105.759 | 1660197 |
 | 140 | Ban Phô (Ban Pho) | 14.25, 105.85 | 1660051 |
 | 141 | Ban Phôn (Ban Phon) | 14.075, 105.868 | 1659992 |
-| 142 | Ban Phôndèng (Ban Phondeng) | 14.072, 105.885 | 11202635 |
+| 142 | ໂພນແດງ (Ban Phondeng) | 14.072, 105.885 | 11202635 |
 | 143 | Ban Phônlaokhao (Ban Phonlaokhao) | 14.205, 105.927 | 1659926 |
 | 144 | Ban Phônsaat (Ban Phonsaat) | 14.289, 105.914 | 11202596 |
 | 145 | Ban Phônsavan (Ban Phonsavan) | 14.05, 105.899 | 11202667 |
@@ -171,7 +171,7 @@
 | 152 | Ban Phoumaktong | 14.117, 105.8 | 1659783 |
 | 153 | Ban Phoumèo (Ban Phoumeo) | 14.124, 105.76 | 1659782 |
 | 154 | Ban Sadam | 14.217, 105.833 | 1659554 |
-| 155 | Ban Sala | 14.068, 105.867 | 1659533 |
+| 155 | ສະລາ (Ban Sala) | 14.068, 105.867 | 1659533 |
 | 156 | Ban Samkhang | 14.138, 105.87 | 11202642 |
 | 157 | Ban Sènhat-Gnai (Ban Senhat-Gnai) | 14.14, 105.789 | 1659348 |
 | 158 | Ban Sènhat-Noy (Ban Senhat-Noy) | 14.126, 105.79 | 11202589 |

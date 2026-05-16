@@ -1,8 +1,8 @@
-# ມ. ປະທຸມພອນ (Pathoomphone)
+# ປະທຸມພອນ (Pathoomphone)
 
 [Home](../../../) &gt; [Champasak](../) > **Pathoomphone**
 
-ມ. ປະທຸມພອນ (Pathoomphone) is a district in Laos, under Champasak.
+ປະທຸມພອນ (Pathoomphone) is a district in Laos, under Champasak.
 
 ## Overview
 
@@ -24,7 +24,7 @@
 | 5 | Ban Chônghouay (Ban Chonghouay) | 14.732, 106.146 | 1664744 |
 | 6 | Ban Dondèng (Ban Dondeng) | 14.898, 105.898 | 1664551 |
 | 7 | Ban Dondou | 14.917, 105.9 | 1664547 |
-| 8 | Ban Hinlat | 14.51, 105.871 | 11202232 |
+| 8 | ຫີນລາດ (Ban Hinlat) | 14.51, 105.871 | 11202232 |
 | 9 | Ban Hongdôn (Ban Hongdon) | 14.535, 105.869 | 1664214 |
 | 10 | Ban Houakhoua | 14.942, 105.938 | 11201288 |
 | 11 | Ban Houaybangliang | 14.98, 105.911 | 1664938 |
@@ -34,7 +34,7 @@
 | 15 | Ban Houaynamphak | 15.003, 105.946 | 11203071 |
 | 16 | Ban Houaynamsai-Loum | 14.935, 105.939 | 11201289 |
 | 17 | Ban Houaynamsai-Theung | 14.931, 105.943 | 11201290 |
-| 18 | Ban Houayphai | 14.718, 105.923 | 1663672 |
+| 18 | ຫ້ວຍໃຜ່ (Ban Houayphai) | 14.718, 105.923 | 1663672 |
 | 19 | Ban Houayton | 14.906, 106.182 | 11201471 |
 | 20 | Ban Kagno | 15.053, 105.905 | 11203073 |
 | 21 | Ban Kala | 14.81, 106.151 | 1661895 |
@@ -49,7 +49,7 @@
 | 30 | Ban Lak Xao | 15.013, 105.906 | 11203070 |
 | 31 | Ban Lak-Sam Sip Ét (Ban Lak-Sam Sip Et) | 14.926, 105.941 | 11201291 |
 | 32 | Ban Lak-Sam Sip Si | 14.897, 105.933 | 11201365 |
-| 33 | Ban Laogna | 14.878, 106.085 | 1662606 |
+| 33 | ເລົ່າຫຍ້າ (Ban Laogna) | 14.878, 106.085 | 1662606 |
 | 34 | Ban Maisamkham | 14.622, 105.87 | 1659479 |
 | 35 | Ban Maknao | 14.959, 106.168 | 1662344 |
 | 36 | Ban Mèsang (Ban Mesang) | 14.645, 105.903 | 11202244 |
@@ -60,7 +60,7 @@
 | 41 | Ban Nakham-Gnai | 14.823, 105.981 | 1661830 |
 | 42 | Ban Nakham-Noy | 14.816, 105.97 | 11201347 |
 | 43 | Ban Nakok | 14.837, 106.008 | 1661731 |
-| 44 | Ban Nalai | 14.733, 106.15 | 1661697 |
+| 44 | ນາໄລ (Ban Nalai) | 14.733, 106.15 | 1661697 |
 | 45 | Ban Nalan | 14.822, 106.01 | 1661687 |
 | 46 | Ban Nam-Om | 14.845, 106.089 | 1661484 |
 | 47 | Ban Namsai | 14.948, 105.907 | 1661414 |
@@ -68,7 +68,7 @@
 | 49 | Ban Nong-Itou | 14.833, 105.967 | 1660806 |
 | 50 | Ban Nongboua-Gnai | 14.646, 105.876 | 1660866 |
 | 51 | Ban Nongbung | 14.842, 105.968 | 11201346 |
-| 52 | Ban Nongdông (Ban Nongdong) | 14.9, 105.933 | 1660844 |
+| 52 | ຫນອງດົງ (Ban Nongdong) | 14.9, 105.933 | 1660844 |
 | 53 | Ban Nonghin | 14.712, 106.203 | 11201476 |
 | 54 | Ban Nongkhè (Ban Nongkhe) | 14.792, 105.949 | 1660787 |
 | 55 | Ban Nongphu | 14.883, 106.177 | 1660706 |
@@ -85,7 +85,7 @@
 | 66 | Ban Phalay-Bôk (Ban Phalay-Bok) | 14.7, 106.136 | 1664904 |
 | 67 | Ban Phalay-Thông (Ban Phalay-Thong) | 14.705, 106.125 | 1660228 |
 | 68 | Ban Phalouang | 14.731, 105.932 | 11201355 |
-| 69 | Ban Phaphô (Ban Phapho) | 14.732, 106.087 | 1660167 |
+| 69 | ພະໂພ (Ban Phapho) | 14.732, 106.087 | 1660167 |
 | 70 | Ban Phômmalu (Ban Phommalu) | 14.795, 106.078 | 1659998 |
 | 71 | Ban Phônbôk (Ban Phonbok) | 14.9, 105.9 | 1659983 |
 | 72 | Ban Phôngpho-Gnai (Ban Phongpho-Gnai) | 14.6, 105.865 | 1659954 |
@@ -101,13 +101,13 @@
 | 82 | Ban Simoungkhoun | 14.867, 105.891 | 1659218 |
 | 83 | Ban Sisouk | 14.834, 105.894 | 11201334 |
 | 84 | Ban Sounôt (Ban Sounot) | 14.815, 106.059 | 1659463 |
-| 85 | Ban Tai | 14.585, 105.863 | 1658997 |
+| 85 | ໃຕ້ (Ban Tai) | 14.585, 105.863 | 1658997 |
 | 86 | Ban Tao-Tai | 14.838, 105.95 | 11201345 |
 | 87 | Ban Taong | 14.633, 106.132 | 1658849 |
 | 88 | Ban Tavang | 14.653, 106.155 | 11202446 |
 | 89 | Ban Thahou | 14.787, 105.992 | 1658734 |
 | 90 | Ban Thahou (1) | 14.783, 106 | 1658735 |
-| 91 | Ban Thakhèk (Ban Thakhek) | 14.87, 105.891 | 1658721 |
+| 91 | ທ່າແຂກ (Ban Thakhek) | 14.87, 105.891 | 1658721 |
 | 92 | Ban Thakoang | 14.58, 105.862 | 1658704 |
 | 93 | Ban Thangbèng (Ban Thangbeng) | 14.929, 105.936 | 11201292 |
 | 94 | Ban Thangbèng (Ban Thangbeng) | 14.786, 105.972 | 11201352 |
@@ -118,7 +118,7 @@
 | 99 | Ban Tômô-Nai (Ban Tomo-Nai) | 14.805, 105.925 | 1658401 |
 | 100 | Ban Tômô-Nok (Ban Tomo-Nok) | 14.842, 105.948 | 11201344 |
 | 101 | Ban Toy | 14.737, 106.134 | 11201460 |
-| 102 | Ban Vangxay | 14.886, 105.896 | 1664937 |
+| 102 | ວັງຊາຍ (Ban Vangxay) | 14.886, 105.896 | 1664937 |
 | 103 | Ban Veun | 15.029, 105.871 | 1658187 |
 | 104 | Ban Xèng (Ban Xeng) | 14.757, 105.942 | 1658076 |
 | 105 | Ban Xiangvang | 14.861, 105.89 | 1658026 |

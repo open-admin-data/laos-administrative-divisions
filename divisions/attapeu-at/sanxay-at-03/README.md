@@ -1,8 +1,8 @@
-# ມ. ຊານໄຊ (Sanxay)
+# ຊານໄຊ (Sanxay)
 
 [Home](../../../) &gt; [Attapeu](../) > **Sanxay**
 
-ມ. ຊານໄຊ (Sanxay) is a district in Laos, under Attapeu.
+ຊານໄຊ (Sanxay) is a district in Laos, under Attapeu.
 
 ## Overview
 
@@ -59,7 +59,7 @@
 | 40 | Ban Kong-Na-Gnai | 15.121, 107.138 | 1662778 |
 | 41 | Ban Lon-Gnai | 15.155, 107.115 | 1662426 |
 | 42 | Ban Mai | 14.881, 107.088 | 13433350 |
-| 43 | Ban Moun | 15.186, 106.97 | 11201172 |
+| 43 | ມຸ້ນ (Ban Moun) | 15.186, 106.97 | 11201172 |
 | 44 | Ban Naphô (Ban Napho) | 15.067, 107.119 | 1661255 |
 | 45 | Ban Naphô (Ban Napho) | 15.073, 107.113 | 1955960 |
 | 46 | Ban Paam | 14.923, 107.044 | 11201972 |

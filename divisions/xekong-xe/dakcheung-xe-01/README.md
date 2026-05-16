@@ -1,8 +1,8 @@
-# ມ. ດັກຈຶງ (Dakcheung)
+# ດັກຈຶງ (Dakcheung)
 
 [Home](../../../) &gt; [Xekong](../) > **Dakcheung**
 
-ມ. ດັກຈຶງ (Dakcheung) is a district in Laos, under Xekong.
+ດັກຈຶງ (Dakcheung) is a district in Laos, under Xekong.
 
 ## Overview
 
@@ -93,7 +93,7 @@
 | 74 | Ban Kanang | 15.504, 107.253 | 1656831 |
 | 75 | Ban Kanban | 15.393, 107.32 | 1663408 |
 | 76 | Ban Konglay | 15.188, 107.388 | 1662776 |
-| 77 | Ban Lak | 15.579, 107.215 | 11200441 |
+| 77 | ຫລັກ (Ban Lak) | 15.579, 107.215 | 11200441 |
 | 78 | Ban Lak-Tai | 15.57, 107.217 | 11200460 |
 | 79 | Ban Mangha-Gnai | 15.387, 107.375 | 11200473 |
 | 80 | Ban Mangha-Noy | 15.393, 107.371 | 1662323 |

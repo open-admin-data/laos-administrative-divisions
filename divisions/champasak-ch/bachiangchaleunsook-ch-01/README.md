@@ -1,8 +1,8 @@
-# ມ. ບາຈຽງຈະເລີນສຸກ (Bachiangchaleunsook)
+# ບາຈຽງຈະເລີນສຸກ (Bachiangchaleunsook)
 
 [Home](../../../) &gt; [Champasak](../) > **Bachiangchaleunsook**
 
-ມ. ບາຈຽງຈະເລີນສຸກ (Bachiangchaleunsook) is a district in Laos, under Champasak.
+ບາຈຽງຈະເລີນສຸກ (Bachiangchaleunsook) is a district in Laos, under Champasak.
 
 ## Overview
 
@@ -18,14 +18,14 @@
 | # | Name | Coordinates | Code |
 |---|------|-------------|------|
 | 1 | Ban Bachiang | 15.253, 105.932 | 11203124 |
-| 2 | Ban Chiang | 15.136, 105.902 | 11203092 |
+| 2 | ຈຽງ (Ban Chiang) | 15.136, 105.902 | 11203092 |
 | 3 | Ban Dông (Ban Dong) | 15.196, 105.953 | 11203135 |
 | 4 | Ban Gnathao | 15.26, 105.86 | 11203116 |
 | 5 | Ban Houayhè (Ban Houayhe) | 15.166, 105.976 | 11203143 |
 | 6 | Ban Houaylusi | 15.077, 105.895 | 11203079 |
 | 7 | Ban Houaymouang | 15.172, 105.993 | 11203141 |
 | 8 | Ban Houayphun | 15.218, 105.933 | 1663658 |
-| 9 | Ban Houaysét (Ban Houayset) | 15.097, 105.888 | 11203083 |
+| 9 | ຫ້ວຍແສດ (Ban Houayset) | 15.097, 105.888 | 11203083 |
 | 10 | Ban Houayseuy | 15.207, 105.951 | 11203134 |
 | 11 | Ban Houaytén (Ban Houayten) | 15.161, 105.958 | 11203100 |
 | 12 | Ban Houaytong | 15.221, 105.939 | 1663548 |
@@ -41,7 +41,7 @@
 | 22 | Ban Lak Sip Sam | 15.137, 105.913 | 11203093 |
 | 23 | Ban Lak Xao Ha | 15.17, 106.017 | 11200651 |
 | 24 | Ban Lak Xao Sam | 15.173, 106 | 11203140 |
-| 25 | Ban Latbôk (Ban Latbok) | 15.365, 106.037 | 1662538 |
+| 25 | ລາດບົກ (Ban Latbok) | 15.365, 106.037 | 1662538 |
 | 26 | Ban Lek Ha | 15.197, 105.897 | 11203104 |
 | 27 | Ban Lek Hok | 15.198, 105.894 | 11203105 |
 | 28 | Ban Lek Kao | 15.214, 105.901 | 11203107 |
@@ -68,15 +68,15 @@
 | 49 | Ban Nonghoy | 15.378, 106.095 | 1660813 |
 | 50 | Ban Nongkang | 15.298, 105.881 | 1660798 |
 | 51 | Ban Nongkhamkhao | 15.119, 105.899 | 11203085 |
-| 52 | Ban Nongkok | 15.249, 105.932 | 13433389 |
-| 53 | Ban Nongkoung | 15.448, 106.084 | 1660769 |
+| 52 | ຫນອງກອກ (Ban Nongkok) | 15.249, 105.932 | 13433389 |
+| 53 | ຫນອງຕົວະ (Ban Nongkoung) | 15.448, 106.084 | 1660769 |
 | 54 | Ban Nongmak-Euk | 15.146, 105.926 | 1660752 |
 | 55 | Ban Nongsai | 15.243, 105.881 | 1660695 |
-| 56 | Ban Nongsim | 15.237, 105.936 | 11203129 |
+| 56 | ຫນອງສິມ (Ban Nongsim) | 15.237, 105.936 | 11203129 |
 | 57 | Ban Nônhouaydua (Ban Nonhouaydua) | 15.073, 105.895 | 11203078 |
 | 58 | Ban Nônsaat (Ban Nonsaat) | 15.153, 105.935 | 11203095 |
 | 59 | Ban Nônxai (Ban Nonxai) | 15.228, 105.898 | 11203113 |
-| 60 | Ban Oudômsouk (Ban Oudomsouk) | 15.205, 105.952 | 11203133 |
+| 60 | ອຸດົມສຸກ (Ban Oudomsouk) | 15.205, 105.952 | 11203133 |
 | 61 | Ban Pak-Houayduatha | 15.05, 105.857 | 11203081 |
 | 62 | Ban Pakouay | 15.211, 105.948 | 11203131 |
 | 63 | Ban Pakxong | 15.164, 105.894 | 11203098 |
@@ -84,7 +84,7 @@
 | 65 | Ban Palai | 15.288, 105.829 | 1660431 |
 | 66 | Ban Phasouam | 15.178, 105.964 | 1660160 |
 | 67 | Ban Phélat (Ban Phelat) | 15.226, 105.929 | 11203130 |
-| 68 | Ban Phialat-Kao | 15.422, 106.101 | 1660103 |
+| 68 | ເພຍລາດໃຫມ່ (Ban Phialat-Kao) | 15.422, 106.101 | 1660103 |
 | 69 | Ban Phin | 15.175, 105.968 | 1660056 |
 | 70 | Ban Phônthong (Ban Phonthong) | 15.417, 106 | 11199918 |
 | 71 | Ban Phouchiang Gnai | 15.15, 105.9 | 1659811 |
@@ -93,7 +93,7 @@
 | 74 | Ban Sènkèo (Ban Senkeo) | 15.164, 105.966 | 11203142 |
 | 75 | Ban Sixiangmai | 15.155, 105.941 | 11203145 |
 | 76 | Ban Songkhon | 15.336, 105.909 | 1658467 |
-| 77 | Ban Talan | 15.158, 105.951 | 11203144 |
+| 77 | ຕາລານ (Ban Talan) | 15.158, 105.951 | 11203144 |
 | 78 | Ban Thôngkim (Ban Thongkim) | 15.329, 105.98 | 1658489 |
 | 79 | Ban Thôngphai (Ban Thongphai) | 15.356, 106.009 | 1658470 |
 | 80 | Ban Thôngsala (Ban Thongsala) | 15.344, 105.985 | 11200137 |

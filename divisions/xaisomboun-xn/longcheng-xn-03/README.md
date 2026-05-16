@@ -1,8 +1,8 @@
-# ມ. ລ້ອງແຈ້ງ (Longcheng)
+# ລ້ອງແຈ້ງ (Longcheng)
 
 [Home](../../../) &gt; [Xaisomboun](../) > **Longcheng**
 
-ມ. ລ້ອງແຈ້ງ (Longcheng) is a district in Laos, under Xaisomboun.
+ລ້ອງແຈ້ງ (Longcheng) is a district in Laos, under Xaisomboun.
 
 ## Overview
 
@@ -28,23 +28,23 @@
 | 9 | Ban Kèosamsoum (Ban Keosamsoum) | 19.233, 102.683 | 1663169 |
 | 10 | Ban Kèovi (Ban Keovi) | 19.133, 102.858 | 11401181 |
 | 11 | Ban Lomboua | 19.1, 102.617 | 1662453 |
-| 12 | Ban Longchèng (Ban Longcheng) | 19.109, 102.922 | 1662414 |
+| 12 | ລ້ອງແຈ້ງ (Ban Longcheng) | 19.109, 102.922 | 1662414 |
 | 13 | Ban Longsouay | 19.147, 102.864 | 11401144 |
-| 14 | Ban Muangphoun | 19.098, 102.714 | 1655121 |
-| 15 | Ban Nagnoung | 19.183, 102.917 | 1661992 |
+| 14 | ເມືອງພູນ (Ban Muangphoun) | 19.098, 102.714 | 1655121 |
+| 15 | ນາຍູງ (Ban Nagnoung) | 19.183, 102.917 | 1661992 |
 | 16 | Ban Nakoang | 18.987, 102.616 | 1661733 |
 | 17 | Ban Nam Mo | 19, 103.033 | 1661504 |
 | 18 | Ban Nam-On | 19.1, 102.567 | 1661479 |
 | 19 | Ban Nam-Yén (Ban Nam-Yen) | 19.016, 102.956 | 11401184 |
-| 20 | Ban Namcha | 19.133, 102.917 | 1661600 |
+| 20 | ນ້ຳຈ້າ (Ban Namcha) | 19.133, 102.917 | 1661600 |
 | 21 | Ban Namkama | 19.167, 102.767 | 1661565 |
 | 22 | Ban Namkhang | 19.117, 103.167 | 1661552 |
 | 23 | Ban Namkhè (Ban Namkhe) | 19.205, 102.865 | 11401185 |
 | 24 | Ban Nammeui | 19.05, 102.65 | 1661508 |
-| 25 | Ban Namngoua | 19.117, 102.933 | 1661495 |
-| 26 | Ban Nampha | 19.078, 102.97 | 1661445 |
+| 25 | ນ້ຳງົວ (Ban Namngoua) | 19.117, 102.933 | 1661495 |
+| 26 | ນ້ຳຜາ (Ban Nampha) | 19.078, 102.97 | 1661445 |
 | 27 | Ban Namphay | 19.1, 102.65 | 1661438 |
-| 28 | Ban Nampi | 19.15, 102.7 | 1661430 |
+| 28 | ນ້ຳປີ (Ban Nampi) | 19.15, 102.7 | 1661430 |
 | 29 | Ban Namxo | 19.233, 102.75 | 1661368 |
 | 30 | Ban Navang | 19.183, 102.917 | 1661020 |
 | 31 | Ban Naxèng (Ban Naxeng) | 19.217, 102.733 | 1660979 |
@@ -55,17 +55,17 @@
 | 36 | Ban Phapouk | 18.963, 102.74 | 11401227 |
 | 37 | Ban Phasouanya | 19.133, 102.617 | 1660158 |
 | 38 | Ban Phatoum | 19.234, 102.506 | 1660138 |
-| 39 | Ban Phialouang | 19.267, 102.583 | 1660099 |
+| 39 | ເພັຍຫລວງ (Ban Phialouang) | 19.267, 102.583 | 1660099 |
 | 40 | Ban Phiathèp (Ban Phiathep) | 19.117, 102.667 | 1660077 |
-| 41 | Ban Phônxai (Ban Phonxai) | 18.967, 102.738 | 11401226 |
+| 41 | ໂພນໄຊໃຕ້ (Ban Phonxai) | 18.967, 102.738 | 11401226 |
 | 42 | Ban Phounamhouat | 19.25, 102.55 | 1659776 |
-| 43 | Ban Piang | 19.005, 102.751 | 11401180 |
+| 43 | ປຽງ (Ban Piang) | 19.005, 102.751 | 11401180 |
 | 44 | Ban Poa Hai | 19.2, 102.917 | 1659692 |
 | 45 | Ban Pounghinlat | 19.2, 102.7 | 1659628 |
 | 46 | Ban Sa Noc | 19.2, 102.95 | 1659419 |
 | 47 | Ban San Tong | 19.2, 102.883 | 1659408 |
 | 48 | Ban Sao Phan | 19.2, 102.967 | 1659402 |
-| 49 | Ban Thaovông (Ban Thaovong) | 19.2, 102.783 | 1658609 |
+| 49 | ທ້າວວົງ (Ban Thaovong) | 19.2, 102.783 | 1658609 |
 | 50 | Ban Thônggna (Ban Thonggna) | 19.183, 102.6 | 1658504 |
 | 51 | Ban Tongchiang | 19.133, 103.117 | 1658389 |
 | 52 | Ban Xon | 18.923, 102.711 | 1657997 |

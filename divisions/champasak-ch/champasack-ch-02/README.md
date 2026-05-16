@@ -1,8 +1,8 @@
-# ມ. ຈຳປາສັກ (Champasack)
+# ຈຳປາສັກ (Champasack)
 
 [Home](../../../) &gt; [Champasak](../) > **Champasack**
 
-ມ. ຈຳປາສັກ (Champasack) is a district in Laos, under Champasak.
+ຈຳປາສັກ (Champasack) is a district in Laos, under Champasak.
 
 ## Overview
 
@@ -23,7 +23,7 @@
 | 4 | Ban Donkao | 14.833, 105.883 | 1664422 |
 | 5 | Ban Donkao | 14.85, 105.867 | 1664423 |
 | 6 | Ban Donkong | 14.793, 105.791 | 1664402 |
-| 7 | Ban Donkoy | 14.744, 105.894 | 1664398 |
+| 7 | ດອນກອຍ (Ban Donkoy) | 14.744, 105.894 | 1664398 |
 | 8 | Ban Donmak-Ek | 14.772, 105.865 | 1664539 |
 | 9 | Ban Donmakyang | 14.733, 105.883 | 1664395 |
 | 10 | Ban Dontalat | 14.788, 105.81 | 1664373 |
@@ -32,7 +32,7 @@
 | 13 | Ban Hai | 14.886, 105.864 | 1664249 |
 | 14 | Ban Houakhoua | 14.883, 105.708 | 11201242 |
 | 15 | Ban Houaphakho | 15.012, 105.865 | 1663982 |
-| 16 | Ban Houay | 14.806, 105.793 | 11201263 |
+| 16 | ຫວ້ຍ (Ban Houay) | 14.806, 105.793 | 11201263 |
 | 17 | Ban Houay Sahoua Theung | 14.883, 105.85 | 1663637 |
 | 18 | Ban Houayhè (Ban Houayhe) | 14.792, 105.914 | 11201326 |
 | 19 | Ban Houayhok | 14.867, 105.85 | 1663880 |
@@ -74,10 +74,10 @@
 | 55 | Ban Nongkham | 14.811, 105.803 | 1660857 |
 | 56 | Ban Nongmakkèo (Ban Nongmakkeo) | 14.826, 105.784 | 1660751 |
 | 57 | Ban Nongpham | 14.738, 105.914 | 1660719 |
-| 58 | Ban Nongsa | 14.845, 105.826 | 1660696 |
+| 58 | ຫນອງສະ (Ban Nongsa) | 14.845, 105.826 | 1660696 |
 | 59 | Ban Nongsanô (Ban Nongsano) | 14.82, 105.816 | 11201308 |
-| 60 | Ban Nongsonghong | 14.767, 105.883 | 1660674 |
-| 61 | Ban Nongte | 14.896, 105.704 | 1660667 |
+| 60 | ຫນອງສອງຫ້ອງ (Ban Nongsonghong) | 14.767, 105.883 | 1660674 |
+| 61 | ຫນອງແຕ້ (Ban Nongte) | 14.896, 105.704 | 1660667 |
 | 62 | Ban Nongthon | 14.798, 105.836 | 1660661 |
 | 63 | Ban Nongvian | 14.849, 105.856 | 1660646 |
 | 64 | Ban Nônpathay (Ban Nonpathay) | 14.815, 105.773 | 11201264 |
@@ -97,9 +97,9 @@
 | 78 | Ban Sangkhèn (Ban Sangkhen) | 14.822, 105.826 | 11201306 |
 | 79 | Ban Sènto (Ban Sento) | 14.741, 105.905 | 1659251 |
 | 80 | Ban Sibounhuang | 14.912, 105.886 | 11201294 |
-| 81 | Ban Sikeut | 14.882, 105.876 | 11201337 |
+| 81 | ສີເກີດ (Ban Sikeut) | 14.882, 105.876 | 11201337 |
 | 82 | Ban Silachan | 14.903, 105.883 | 11201296 |
-| 83 | Ban Sisavang | 14.822, 105.879 | 11201330 |
+| 83 | ສີສະຫວ່າງ (Ban Sisavang) | 14.822, 105.879 | 11201330 |
 | 84 | Ban Sisoumang | 14.871, 105.873 | 1658197 |
 | 85 | Ban Sômhông (Ban Somhong) | 14.776, 105.925 | 1659172 |
 | 86 | Ban Sômsouk (Ban Somsouk) | 14.671, 105.868 | 11201316 |

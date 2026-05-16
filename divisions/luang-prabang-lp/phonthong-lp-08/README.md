@@ -1,8 +1,8 @@
-# ມ. ໂພນທອງ (Phonthong)
+# ໂພນທອງ (Phonthong)
 
 [Home](../../../) &gt; [Luang Prabang](../) > **Phonthong**
 
-ມ. ໂພນທອງ (Phonthong) is a district in Laos, under Luang Prabang.
+ໂພນທອງ (Phonthong) is a district in Laos, under Luang Prabang.
 
 ## Overview
 

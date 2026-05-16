@@ -7,12 +7,12 @@ id,name.local,name.en,name.slug,code.id,geo.lat,geo.lon
 1664283,Ban Gnik,Ban Gnik,ban-gnik-1664283,1664283,15.167,106.067
 1664074,Ban Hinlap,Ban Hinlap,ban-hinlap-1664074,1664074,15.042,106.338
 11200559,Ban Houaychiat,Ban Houaychiat,ban-houaychiat-11200559,11200559,15.206,106.103
-11201150,Ban Houaychot,Ban Houaychot,ban-houaychot-11201150,11201150,15.034,106.517
-1663806,Ban Houaykong,Ban Houaykong,ban-houaykong-1663806,1663806,15.127,106.521
-1663750,Ban Houayman,Ban Houayman,ban-houayman-1663750,1663750,15.183,106.2
+11201150,ຫ້ວຍຈອດ,Ban Houaychot,ban-houaychot-11201150,11201150,15.034,106.517
+1663806,ຫວຍກ້ອງ,Ban Houaykong,ban-houaykong-1663806,1663806,15.127,106.521
+1663750,ຫ້ວຍມັນ,Ban Houayman,ban-houayman-1663750,1663750,15.183,106.2
 11200557,Ban Houaytao,Ban Houaytao,ban-houaytao-11200557,11200557,15.27,106.063
-11200609,Ban Houayteuy,Ban Houayteuy,ban-houayteuy-11200609,11200609,15.078,106.281
-11200626,Ban Houayvay,Ban Houayvay,ban-houayvay-11200626,11200626,15.313,106.321
+11200609,ຫ້ວຍເຕີຍ,Ban Houayteuy,ban-houayteuy-11200609,11200609,15.078,106.281
+11200626,ຫ້ວຍຫວາຍ,Ban Houayvay,ban-houayvay-11200626,11200626,15.313,106.321
 11200652,Ban Houayxan,Ban Houayxan,ban-houayxan-11200652,11200652,15.256,106.238
 11200639,Ban Houayxang,Ban Houayxang,ban-houayxang-11200639,11200639,15.082,106.383
 11200276,Ban Houayxay,Ban Houayxay,ban-houayxay-11200276,11200276,15.347,106.34
@@ -20,7 +20,7 @@ id,name.local,name.en,name.slug,code.id,geo.lat,geo.lon
 11200607,Ban Houayxoy,Ban Houayxoy,ban-houayxoy-11200607,11200607,15.029,106.31
 11200572,Ban Itou,Ban Itou,ban-itou-11200572,11200572,15.185,106.1
 13433242,Ban Kapheu,Ban Kapheu,ban-kapheu-13433242,13433242,15.283,106.2
-11200548,Ban Katouat,Ban Katouat,ban-katouat-11200548,11200548,15.233,106.306
+11200548,ກະຕວດ,Ban Katouat,ban-katouat-11200548,11200548,15.233,106.306
 1663048,Ban Khagnong-Kang,Ban Khagnong-Kang,ban-khagnong-kang-1663048,1663048,15.264,106.239
 11200598,Ban Kho,Ban Kho,ban-kho-11200598,11200598,15.209,106.28
 1662907,Ban Khôt Noy,Ban Khot Noy,ban-khot-noy-1662907,1662907,15.233,106.083
@@ -50,11 +50,11 @@ id,name.local,name.en,name.slug,code.id,geo.lat,geo.lon
 11201506,Ban Latsaluay-Nua,Ban Latsaluay-Nua,ban-latsaluay-nua-11201506,11201506,14.885,106.605
 1662524,Ban Latsasin,Ban Latsasin,ban-latsasin-1662524,1662524,15.054,106.602
 11200583,Ban Mai-Xasiomboun,Ban Mai-Xasiomboun,ban-mai-xasiomboun-11200583,11200583,15.294,106.1
-11200586,Ban Nambèng-Tai,Ban Nambeng-Tai,ban-nambeng-tai-11200586,11200586,15.313,106.124
-11201168,Ban Namhan,Ban Namhan,ban-namhan-11201168,11201168,15.079,106.693
-11201520,Ban Namhan,Ban Namhan,ban-namhan-11201520,11201520,14.965,106.622
+11200586,ນ້ຳແບ່ງ,Ban Nambeng-Tai,ban-nambeng-tai-11200586,11200586,15.313,106.124
+11201168,ນ້ຳຫານ່,Ban Namhan,ban-namhan-11201168,11201168,15.079,106.693
+11201520,ນ້ຳຫານ່,Ban Namhan,ban-namhan-11201520,11201520,14.965,106.622
 11201134,Ban Namhoung,Ban Namhoung,ban-namhoung-11201134,11201134,15.164,106.561
-1661540,Ban Namkông,Ban Namkong,ban-namkong-1661540,1661540,14.981,106.579
+1661540,ນໍ້າກົ່ງ,Ban Namkong,ban-namkong-1661540,1661540,14.981,106.579
 11201155,Ban Namngo-Loum,Ban Namngo-Loum,ban-namngo-loum-11201155,11201155,15.082,106.647
 1661496,Ban Namngo-Theung,Ban Namngo-Theung,ban-namngo-theung-1661496,1661496,15.072,106.632
 1661402,Ban Namtang,Ban Namtang,ban-namtang-1661402,1661402,15.134,106.525
@@ -69,12 +69,12 @@ id,name.local,name.en,name.slug,code.id,geo.lat,geo.lon
 11201505,Ban Nonghom,Ban Nonghom,ban-nonghom-11201505,11201505,14.935,106.584
 1660801,Ban Nongkali,Ban Nongkali,ban-nongkali-1660801,1660801,15.244,106.243
 11200634,Ban Nongkhuang,Ban Nongkhuang,ban-nongkhuang-11200634,11200634,15.164,106.435
-1660776,Ban Nongkin,Ban Nongkin,ban-nongkin-1660776,1660776,15.145,106.456
+1660776,ຫນອງກິນ,Ban Nongkin,ban-nongkin-1660776,1660776,15.145,106.456
 1660775,Ban Nongkin Noy,Ban Nongkin Noy,ban-nongkin-noy-1660775,1660775,15.133,106.45
-1660762,Ban Nonglè,Ban Nongle,ban-nongle-1660762,1660762,15.213,106.243
-1660759,Ban Nonglôm,Ban Nonglom,ban-nonglom-1660759,1660759,15.267,106.317
+1660762,ຫນອງແຫ້ລ,Ban Nongle,ban-nongle-1660762,1660762,15.213,106.243
+1660759,ຫນອງຫລົມ,Ban Nonglom,ban-nonglom-1660759,1660759,15.267,106.317
 1660749,Ban Nongmék,Ban Nongmek,ban-nongmek-1660749,1660749,15.167,106.544
-1660722,Ban Nongpèn,Ban Nongpen,ban-nongpen-1660722,1660722,15.083,106.583
+1660722,ຫນອງແປນ,Ban Nongpen,ban-nongpen-1660722,1660722,15.083,106.583
 11201149,Ban Nongphanouan,Ban Nongphanouan,ban-nongphanouan-11201149,11201149,15.042,106.526
 1660697,Ban Nongpoy,Ban Nongpoy,ban-nongpoy-1660697,1660697,15.161,106.335
 1660679,Ban Nongseung,Ban Nongseung,ban-nongseung-1660679,1660679,15.35,106.333

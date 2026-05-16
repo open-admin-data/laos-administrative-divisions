@@ -12,15 +12,15 @@ id,name.local,name.en,name.slug,code.id,geo.lat,geo.lon
 11244186,Ban Chagnoupha,Ban Chagnoupha,ban-chagnoupha-11244186,11244186,20.883,100.759
 1907062,Ban Chakèo-Nua,Ban Chakeo-Nua,ban-chakeo-nua-1907062,1907062,20.96,100.639
 1907063,Ban Chakèo-Tai,Ban Chakeo-Tai,ban-chakeo-tai-1907063,1907063,20.946,100.637
-11237427,Ban Chakhamkao,Ban Chakhamkao,ban-chakhamkao-11237427,11237427,21.013,100.775
-11237433,Ban Chakhamlu,Ban Chakhamlu,ban-chakhamlu-11237433,11237433,21.266,100.847
-11237432,Ban Chakhamping,Ban Chakhamping,ban-chakhamping-11237432,11237432,21.269,100.824
-11244209,Ban Chakhamping,Ban Chakhamping,ban-chakhamping-11244209,11244209,20.991,100.9
-1907061,Ban Chakhamtan,Ban Chakhamtan,ban-chakhamtan-1907061,1907061,20.978,100.741
-11237411,Ban Chakhamtan,Ban Chakhamtan,ban-chakhamtan-11237411,11237411,21.268,100.768
+11237427,ຈ່າຄໍາຕັນ,Ban Chakhamkao,ban-chakhamkao-11237427,11237427,21.013,100.775
+11237433,ຈ່າຄໍາລື,Ban Chakhamlu,ban-chakhamlu-11237433,11237433,21.266,100.847
+11237432,ຈ່າຄໍາປິງ,Ban Chakhamping,ban-chakhamping-11237432,11237432,21.269,100.824
+11244209,ຈ່າຄໍາປິງ,Ban Chakhamping,ban-chakhamping-11244209,11244209,20.991,100.9
+1907061,ຈ່າຄໍາຕັນ,Ban Chakhamtan,ban-chakhamtan-1907061,1907061,20.978,100.741
+11237411,ຈ່າຄໍາຕັນ,Ban Chakhamtan,ban-chakhamtan-11237411,11237411,21.268,100.768
 11237442,Ban Chakhamtan,Ban Chakhamtan,ban-chakhamtan-11237442,11237442,21.036,100.932
-11244193,Ban Chakhamxao,Ban Chakhamxao,ban-chakhamxao-11244193,11244193,20.999,100.783
-11237428,Ban Chakhankham,Ban Chakhankham,ban-chakhankham-11237428,11237428,21.026,100.72
+11244193,ຈາຄຳຊາວ,Ban Chakhamxao,ban-chakhamxao-11244193,11244193,20.999,100.783
+11237428,ຈ່າຈະນາມ,Ban Chakhankham,ban-chakhankham-11237428,11237428,21.026,100.72
 1907101,Ban Chalo,Ban Chalo,ban-chalo-1907101,1907101,20.797,100.739
 11237417,Ban Chapoukeun-Kao,Ban Chapoukeun-Kao,ban-chapoukeun-kao-11237417,11237417,21.214,100.74
 11237416,Ban Chapoukeun-Mai,Ban Chapoukeun-Mai,ban-chapoukeun-mai-11237416,11237416,21.225,100.742
@@ -29,7 +29,7 @@ id,name.local,name.en,name.slug,code.id,geo.lat,geo.lon
 11244184,Ban Chathi,Ban Chathi,ban-chathi-11244184,11244184,20.821,100.78
 11244169,Ban Chavadi,Ban Chavadi,ban-chavadi-11244169,11244169,20.757,100.813
 11237413,Ban Chavan-Kao,Ban Chavan-Kao,ban-chavan-kao-11237413,11237413,21.252,100.797
-11237412,Ban Chavat,Ban Chavat,ban-chavat-11237412,11237412,21.255,100.747
+11237412,ຈ່າວາດ,Ban Chavat,ban-chavat-11237412,11237412,21.255,100.747
 11237418,Ban Chuingta,Ban Chuingta,ban-chuingta-11237418,11237418,21.196,100.735
 11244191,Ban Donpoy,Ban Donpoy,ban-donpoy-11244191,11244191,20.962,100.796
 1907055,Ban Ghapa,Ban Ghapa,ban-ghapa-1907055,1907055,20.717,100.823
@@ -39,7 +39,7 @@ id,name.local,name.en,name.slug,code.id,geo.lat,geo.lon
 11237443,Ban Houaymô,Ban Houaymo,ban-houaymo-11237443,11237443,21.02,100.956
 1907057,Ban Houaysing,Ban Houaysing,ban-houaysing-1907057,1907057,20.97,100.593
 11244189,Ban Houaythou,Ban Houaythou,ban-houaythou-11244189,11244189,20.939,100.772
-11244187,Ban Houaythou-Mai,Ban Houaythou-Mai,ban-houaythou-mai-11244187,11244187,20.918,100.77
+11244187,ຫ້ວຍຖຸໃຫ່ມ,Ban Houaythou-Mai,ban-houaythou-mai-11244187,11244187,20.918,100.77
 11244168,Ban Kachoxè,Ban Kachoxe,ban-kachoxe-11244168,11244168,20.757,100.787
 1907070,Ban Khiliouan,Ban Khiliouan,ban-khiliouan-1907070,1907070,20.868,100.663
 11237444,Ban Kohinkhôk,Ban Kohinkhok,ban-kohinkhok-11237444,11237444,21.012,100.949
@@ -57,29 +57,29 @@ id,name.local,name.en,name.slug,code.id,geo.lat,geo.lon
 1655115,Ban Muangsa,Ban Muangsa,ban-muangsa-1655115,1655115,21.008,100.823
 11237400,Ban Muangsa-Kao,Ban Muangsa-Kao,ban-muangsa-kao-11237400,11237400,21.012,100.61
 11237401,Ban Muangsa-Mai,Ban Muangsa-Mai,ban-muangsa-mai-11237401,11237401,21.017,100.617
-11237448,Ban Nambôk,Ban Nambok,ban-nambok-11237448,11237448,21.036,100.994
-1955748,Ban Namma,Ban Namma,ban-namma-1955748,1955748,21.047,101.048
-11244192,Ban Nongkham,Ban Nongkham,ban-nongkham-11244192,11244192,20.968,100.796
+11237448,ນໍ້າບັກ,Ban Nambok,ban-nambok-11237448,11237448,21.036,100.994
+1955748,ນ້ຳມະ,Ban Namma,ban-namma-1955748,1955748,21.047,101.048
+11244192,ຫນອງຄໍາ,Ban Nongkham,ban-nongkham-11244192,11244192,20.968,100.796
 11237405,Ban Oula,Ban Oula,ban-oula-11237405,11237405,21.131,100.692
 11237421,Ban Ouylang,Ban Ouylang,ban-ouylang-11237421,11237421,21.171,100.729
 11244195,Ban Palê,Ban Pale,ban-pale-11244195,11244195,20.982,100.872
-11244188,Ban Pang-An,Ban Pang-An,ban-pang-an-11244188,11244188,20.93,100.757
+11244188,ປາງອານ,Ban Pang-An,ban-pang-an-11244188,11244188,20.93,100.757
 1907059,Ban Patè,Ban Pate,ban-pate-1907059,1907059,20.983,100.656
-1907083,Ban Paxot,Ban Paxot,ban-paxot-1907083,1907083,20.768,100.739
+1907083,ປ່າຊອດ,Ban Paxot,ban-paxot-1907083,1907083,20.768,100.739
 11237419,Ban Paya,Ban Paya,ban-paya-11237419,11237419,21.195,100.722
 1660129,Ban Phagnaasa,Ban Phagnaasa,ban-phagnaasa-1660129,1660129,21.187,100.78
 1660128,Ban Phagnakhamping,Ban Phagnakhamping,ban-phagnakhamping-1660128,1660128,21.137,100.825
 1907064,Ban Phagnalouang,Ban Phagnalouang,ban-phagnalouang-1907064,1907064,20.93,100.711
-11237424,Ban Phagnalouang-Kao,Ban Phagnalouang-Kao,ban-phagnalouang-kao-11237424,11237424,21.078,100.696
+11237424,ພະຍາຫລວງ,Ban Phagnalouang-Kao,ban-phagnalouang-kao-11237424,11237424,21.078,100.696
 1660127,Ban Phagnaloungkhamtan,Ban Phagnaloungkhamtan,ban-phagnaloungkhamtan-1660127,1660127,21.114,100.798
-11244203,Ban Phakhéng,Ban Phakheng,ban-phakheng-11244203,11244203,20.887,100.839
-1907084,Ban Phangoua,Ban Phangoua,ban-phangoua-1907084,1907084,20.771,100.744
+11244203,ຈ່າເຂີນ,Ban Phakheng,ban-phakheng-11244203,11244203,20.887,100.839
+1907084,ຜາງົວ,Ban Phangoua,ban-phangoua-1907084,1907084,20.771,100.744
 11237446,Ban Phayalouang,Ban Phayalouang,ban-phayalouang-11237446,11237446,21.025,100.978
-11237430,Ban Phochan,Ban Phochan,ban-phochan-11237430,11237430,21.053,100.826
+11237430,ພໍຈັນ,Ban Phochan,ban-phochan-11237430,11237430,21.053,100.826
 1659997,Ban Phômô,Ban Phomo,ban-phomo-1659997,1659997,21.25,100.75
 1659731,Ban Phou Van,Ban Phou Van,ban-phou-van-1659731,1659731,21.25,100.8
 11237420,Ban Phougné,Ban Phougne,ban-phougne-11237420,11237420,21.192,100.75
-1907066,Ban Poungxay,Ban Poungxay,ban-poungxay-1907066,1907066,20.918,100.612
+1907066,ປຸງຊາຍໃຫ່ມ,Ban Poungxay,ban-poungxay-1907066,1907066,20.918,100.612
 11237410,Ban Sakamdeng,Ban Sakamdeng,ban-sakamdeng-11237410,11237410,21.301,100.733
 1659451,Ban Sanchanta,Ban Sanchanta,ban-sanchanta-1659451,1659451,21.217,100.833
 11237422,Ban Séandèng,Ban Seandeng,ban-seandeng-11237422,11237422,21.165,100.722
@@ -92,11 +92,11 @@ id,name.local,name.en,name.slug,code.id,geo.lat,geo.lon
 1907073,Ban Taxoum-Mai,Ban Taxoum-Mai,ban-taxoum-mai-1907073,1907073,20.835,100.686
 1955740,Ban Tèxa,Ban Texa,ban-texa-1955740,1955740,21.058,101.02
 1658640,Ban Thang,Ban Thang,ban-thang-1658640,1658640,20.967,100.817
-11237423,Ban Thôngmatam,Ban Thongmatam,ban-thongmatam-11237423,11237423,21.15,100.717
-1955749,Ban Tinthat,Ban Tinthat,ban-tinthat-1955749,1955749,21.035,101.025
+11237423,ທົງຫມໍຕໍາ,Ban Thongmatam,ban-thongmatam-11237423,11237423,21.15,100.717
+1955749,ຕີນທາດ,Ban Tinthat,ban-tinthat-1955749,1955749,21.035,101.025
 11237407,Ban Xay,Ban Xay,ban-xay-11237407,11237407,21.216,100.702
-11237403,Ban Xiangkhéng,Ban Xiangkheng,ban-xiangkheng-11237403,11237403,21.111,100.659
-1658016,Ban Xiangkôk,Ban Xiangkok,ban-xiangkok-1658016,1658016,20.906,100.655
+11237403,ຊຽງແຂງ,Ban Xiangkheng,ban-xiangkheng-11237403,11237403,21.111,100.659
+1658016,ຊຽງກົກໃຫ່ມ,Ban Xiangkok,ban-xiangkok-1658016,1658016,20.906,100.655
 1657971,Ban Yao,Ban Yao,ban-yao-1657971,1657971,21.078,100.992
 1655177,Muang Long,Muang Long,muang-long-1655177,1655177,20.965,100.821
 1654317,Pang Kalom,Pang Kalom,pang-kalom-1654317,1654317,21.05,101

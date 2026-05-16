@@ -17,15 +17,15 @@
 
 | # | District | Villages | Coordinates | Link |
 |---|----|----|-------------|------|
-| 1 | ມ. ຈັນທະບູລີ (Chanthabuly) | 12 | 17.994, 102.605 | [Browse](chanthabuly-vt-01/) |
-| 2 | ມ. ຫາດຊາຍຟອງ (Hadxaifong) | 46 | 17.978, 102.809 | [Browse](hadxaifong-vt-02/) |
-| 3 | ມ. ປາກງື່ມ (Mayparkngum) | 55 | 18.136, 102.92 | [Browse](mayparkngum-vt-03/) |
-| 4 | ມ. ນາຊາຍທອງ (Naxaithong) | 64 | 18.23, 102.482 | [Browse](naxaithong-vt-04/) |
-| 5 | ມ. ສັງທອງ (Sangthong) | 27 | 18.334, 102.117 | [Browse](sangthong-vt-05/) |
-| 6 | ມ. ສີໂຄດຕະບອງ (Sikhottabong) | 31 | 17.997, 102.525 | [Browse](sikhottabong-vt-06/) |
-| 7 | ມ. ສີສັດຕະນາກ (Sisattanak) | 8 | 17.935, 102.629 | [Browse](sisattanak-vt-07/) |
-| 8 | ມ. ໄຊເສດຖາ (Xaysetha) | 0 | 17.978, 102.674 | [Browse](xaysetha-vt-08/) |
-| 9 | ມ. ໄຊທະນີ (Xaythany) | 91 | 18.149, 102.749 | [Browse](xaythany-vt-09/) |
+| 1 | ຈັນທະບູລີ (Chanthabuly) | 12 | 17.994, 102.605 | [Browse](chanthabuly-vt-01/) |
+| 2 | ຫາດຊາຍຟອງ (Hadxaifong) | 46 | 17.978, 102.809 | [Browse](hadxaifong-vt-02/) |
+| 3 | ປາກງື່ມ (Mayparkngum) | 55 | 18.136, 102.92 | [Browse](mayparkngum-vt-03/) |
+| 4 | ນາຊາຍທອງ (Naxaithong) | 64 | 18.23, 102.482 | [Browse](naxaithong-vt-04/) |
+| 5 | ສັງທອງ (Sangthong) | 27 | 18.334, 102.117 | [Browse](sangthong-vt-05/) |
+| 6 | ສີໂຄດຕະບອງ (Sikhottabong) | 31 | 17.997, 102.525 | [Browse](sikhottabong-vt-06/) |
+| 7 | ສີສັດຕະນາກ (Sisattanak) | 8 | 17.935, 102.629 | [Browse](sisattanak-vt-07/) |
+| 8 | ໄຊເສດຖາ (Xaysetha) | 0 | 17.978, 102.674 | [Browse](xaysetha-vt-08/) |
+| 9 | ໄຊທະນີ (Xaythany) | 91 | 18.149, 102.749 | [Browse](xaythany-vt-09/) |
 
 ## Data Files
 

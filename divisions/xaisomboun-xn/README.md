@@ -17,11 +17,11 @@
 
 | # | District | Villages | Coordinates | Link |
 |---|----|----|-------------|------|
-| 1 | ມ. ອະນຸວົງ (Anouvong) | 49 | 18.92, 103.023 | [Browse](anouvong-xn-01/) |
-| 2 | ມ. ຮົ່ມ (Home) | 14 | 18.753, 103.339 | [Browse](home-xn-02/) |
-| 3 | ມ. ລ້ອງແຈ້ງ (Longcheng) | 59 | 19.068, 102.87 | [Browse](longcheng-xn-03/) |
-| 4 | ມ. ລ້ອງຊານ (Longsane) | 35 | 18.619, 102.9 | [Browse](longsane-xn-04/) |
-| 5 | ມ. ທາໂທມ (Thathom) | 37 | 18.956, 103.67 | [Browse](thathom-xn-05/) |
+| 1 | ອະນຸວົງ (Anouvong) | 49 | 18.92, 103.023 | [Browse](anouvong-xn-01/) |
+| 2 | ຮົ່ມ (Home) | 14 | 18.753, 103.339 | [Browse](home-xn-02/) |
+| 3 | ລ້ອງແຈ້ງ (Longcheng) | 59 | 19.068, 102.87 | [Browse](longcheng-xn-03/) |
+| 4 | ລ້ອງຊານ (Longsane) | 35 | 18.619, 102.9 | [Browse](longsane-xn-04/) |
+| 5 | ທາໂທມ (Thathom) | 37 | 18.956, 103.67 | [Browse](thathom-xn-05/) |
 
 ## Data Files
 

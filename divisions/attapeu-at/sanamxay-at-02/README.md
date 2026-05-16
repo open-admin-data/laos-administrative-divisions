@@ -1,8 +1,8 @@
-# ມ. ສະໜາມໄຊ (Sanamxay)
+# ສະໜາມໄຊ (Sanamxay)
 
 [Home](../../../) &gt; [Attapeu](../) > **Sanamxay**
 
-ມ. ສະໜາມໄຊ (Sanamxay) is a district in Laos, under Attapeu.
+ສະໜາມໄຊ (Sanamxay) is a district in Laos, under Attapeu.
 
 ## Overview
 
@@ -27,22 +27,22 @@
 | 8 | Ban Donmouang | 14.739, 106.552 | 11201512 |
 | 9 | Ban Halông (Ban Halong) | 14.665, 106.582 | 1664251 |
 | 10 | Ban Hatgnao | 14.68, 106.582 | 1664177 |
-| 11 | Ban Hinlat | 14.748, 106.482 | 1664072 |
+| 11 | ຫີນລາດ (Ban Hinlat) | 14.748, 106.482 | 1664072 |
 | 12 | Ban Hinlat-Tai | 14.721, 106.486 | 11201412 |
-| 13 | Ban Ho | 14.714, 106.618 | 1664055 |
+| 13 | ໂຮ (Ban Ho) | 14.714, 106.618 | 1664055 |
 | 14 | Ban Houaykô (Ban Houayko) | 14.946, 106.469 | 11201486 |
 | 15 | Ban Inthi | 14.75, 106.687 | 1663466 |
 | 16 | Ban Inthi-Gnai | 14.742, 106.671 | 11201527 |
 | 17 | Ban Inthi-Tai | 14.754, 106.661 | 11201518 |
 | 18 | Ban Kéngmalai (Ban Kengmalai) | 14.636, 106.696 | 11202465 |
-| 19 | Ban Khambon | 14.882, 106.31 | 11201479 |
+| 19 | ຄຳບອນ (Ban Khambon) | 14.882, 106.31 | 11201479 |
 | 20 | Ban Khampho | 14.622, 106.279 | 1663097 |
 | 21 | Ban Khang-Loum | 14.754, 106.708 | 1663059 |
 | 22 | Ban Khang-Theung | 14.757, 106.696 | 1663051 |
 | 23 | Ban Khanmaknao | 14.62, 106.551 | 11202461 |
 | 24 | Ban Mai | 14.707, 106.499 | 1662370 |
 | 25 | Ban Makka | 14.899, 106.307 | 1662350 |
-| 26 | Ban Namkông (Ban Namkong) | 14.635, 106.583 | 1661541 |
+| 26 | ນໍ້າກົ່ງ (Ban Namkong) | 14.635, 106.583 | 1661541 |
 | 27 | Ban Nasômboun (Ban Nasomboun) | 14.79, 106.187 | 11201474 |
 | 28 | Ban Nathôngsômlông (Ban Nathongsomlong) | 14.703, 106.385 | 11201482 |
 | 29 | Ban Nong Kham | 14.55, 106.45 | 1660794 |

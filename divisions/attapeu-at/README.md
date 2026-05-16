@@ -17,10 +17,10 @@
 
 | # | District | Villages | Coordinates | Link |
 |---|----|----|-------------|------|
-| 1 | ມ. ພູວົງ (Phouvong) | 31 | 14.611, 107.075 | [Browse](phouvong-at-01/) |
-| 2 | ມ. ສະໜາມໄຊ (Sanamxay) | 44 | 14.708, 106.401 | [Browse](sanamxay-at-02/) |
-| 3 | ມ. ຊານໄຊ (Sanxay) | 73 | 15.049, 107.296 | [Browse](sanxay-at-03/) |
-| 4 | ມ. ໄຊເສດຖາ (Xaysetha) | 65 | 14.888, 107.034 | [Browse](xaysetha-at-04/) |
+| 1 | ພູວົງ (Phouvong) | 31 | 14.611, 107.075 | [Browse](phouvong-at-01/) |
+| 2 | ສະໜາມໄຊ (Sanamxay) | 44 | 14.708, 106.401 | [Browse](sanamxay-at-02/) |
+| 3 | ຊານໄຊ (Sanxay) | 73 | 15.049, 107.296 | [Browse](sanxay-at-03/) |
+| 4 | ໄຊເສດຖາ (Xaysetha) | 65 | 14.888, 107.034 | [Browse](xaysetha-at-04/) |
 
 ## Data Files
 

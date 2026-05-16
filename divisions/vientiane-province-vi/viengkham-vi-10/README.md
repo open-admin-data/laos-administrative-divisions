@@ -1,8 +1,8 @@
-# ມ. ວຽງຄຳ (Viengkham)
+# ວຽງຄຳ (Viengkham)
 
 [Home](../../../) &gt; [Vientiane Province](../) > **Viengkham**
 
-ມ. ວຽງຄຳ (Viengkham) is a district in Laos, under Vientiane Province.
+ວຽງຄຳ (Viengkham) is a district in Laos, under Vientiane Province.
 
 ## Overview
 

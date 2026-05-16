@@ -1,8 +1,8 @@
-# ມ. ຊະນະສົມບູນ (Sanasomboon)
+# ຊະນະສົມບູນ (Sanasomboon)
 
 [Home](../../../) &gt; [Champasak](../) > **Sanasomboon**
 
-ມ. ຊະນະສົມບູນ (Sanasomboon) is a district in Laos, under Champasak.
+ຊະນະສົມບູນ (Sanasomboon) is a district in Laos, under Champasak.
 
 ## Overview
 
@@ -33,8 +33,8 @@
 | 14 | Ban Hangam | 15.343, 105.779 | 11200043 |
 | 15 | Ban Houaphou | 15.425, 105.832 | 1664030 |
 | 16 | Ban Houaxe | 15.361, 105.828 | 11200102 |
-| 17 | Ban Houaychè (Ban Houayche) | 15.306, 105.709 | 1663942 |
-| 18 | Ban Houaydèng (Ban Houaydeng) | 15.2, 105.8 | 1663935 |
+| 17 | ຫວ້ຍແຈະ (Ban Houayche) | 15.306, 105.709 | 1663942 |
+| 18 | ຫ້ວຍແດງ (Ban Houaydeng) | 15.2, 105.8 | 1663935 |
 | 19 | Ban Houaygnang-Noy | 15.24, 105.668 | 11202964 |
 | 20 | Ban Katin | 15.21, 105.689 | 1663319 |
 | 21 | Ban Kèngkèo (Ban Kengkeo) | 15.225, 105.799 | 1663263 |
@@ -43,7 +43,7 @@
 | 24 | Ban Kèngmaihia-Loum (Ban Kengmaihia-Loum) | 15.39, 105.865 | 11200095 |
 | 25 | Ban Kèngmaihia-Theung (Ban Kengmaihia-Theung) | 15.387, 105.865 | 11200096 |
 | 26 | Ban Kèngphô (Ban Kengpho) | 15.379, 105.825 | 1663215 |
-| 27 | Ban Khambon | 15.444, 105.82 | 1663131 |
+| 27 | ຄຳບອນ (Ban Khambon) | 15.444, 105.82 | 1663131 |
 | 28 | Ban Khamék (Ban Khamek) | 15.319, 105.759 | 11203030 |
 | 29 | Ban Khamlouang | 15.322, 105.75 | 1663112 |
 | 30 | Ban Khamngoua | 15.339, 105.782 | 11200044 |
@@ -63,7 +63,7 @@
 | 44 | Ban Nakèo-Tai (Ban Nakeo-Tai) | 15.271, 105.671 | 11212196 |
 | 45 | Ban Nakham | 15.424, 105.809 | 1661829 |
 | 46 | Ban Nakhouang | 15.187, 105.71 | 1661751 |
-| 47 | Ban Nalak | 15.27, 105.744 | 1661694 |
+| 47 | ນາຫລັກ (Ban Nalak) | 15.27, 105.744 | 1661694 |
 | 48 | Ban Nalông (Ban Nalong) | 15.257, 105.753 | 1661657 |
 | 49 | Ban Nanai | 15.379, 105.818 | 1661362 |
 | 50 | Ban Naô (Ban Nao) | 15.264, 105.811 | 1661300 |
@@ -77,14 +77,14 @@
 | 58 | Ban Nongkham | 15.347, 105.791 | 1660793 |
 | 59 | Ban Nongkhèn (Ban Nongkhen) | 15.34, 105.777 | 11200042 |
 | 60 | Ban Nongphai | 15.387, 105.809 | 11200047 |
-| 61 | Ban Nongphang | 15.35, 105.8 | 1660716 |
+| 61 | ຫນອງພັງ (Ban Nongphang) | 15.35, 105.8 | 1660716 |
 | 62 | Ban Nônsavan (Ban Nonsavan) | 15.399, 105.803 | 11200051 |
 | 63 | Ban Nônxat (Ban Nonxat) | 15.216, 105.755 | 11203021 |
 | 64 | Ban Okmuang | 15.294, 105.661 | 1660596 |
 | 65 | Ban Pakpakang | 15.438, 105.985 | 11200135 |
 | 66 | Ban Pakxon | 15.191, 105.779 | 1660357 |
-| 67 | Ban Phôkèo (Ban Phokeo) | 15.186, 105.725 | 11202975 |
-| 68 | Ban Phônthat (Ban Phonthat) | 15.408, 105.798 | 11200052 |
+| 67 | ໂພແກ້ວ (Ban Phokeo) | 15.186, 105.725 | 11202975 |
+| 68 | ໂພນທາດ (Ban Phonthat) | 15.408, 105.798 | 11200052 |
 | 69 | Ban Phouthong-loum | 15.247, 105.808 | 1659732 |
 | 70 | Ban Pông (Ban Pong) | 15.313, 105.634 | 11202957 |
 | 71 | Ban Pôngkeum (Ban Pongkeum) | 15.44, 105.909 | 1659665 |
@@ -99,7 +99,7 @@
 | 80 | Ban Sômhông (Ban Somhong) | 15.203, 105.706 | 11202968 |
 | 81 | Ban Souvannakhili | 15.395, 105.823 | 1655102 |
 | 82 | Ban Tanglang | 15.427, 105.809 | 1658886 |
-| 83 | Ban Tatgnao | 15.44, 105.779 | 1658798 |
+| 83 | ຕານດ່ຽວ (Ban Tatgnao) | 15.44, 105.779 | 1658798 |
 | 84 | Ban Thangbèngsivilai (Ban Thangbengsivilai) | 15.219, 105.733 | 11203022 |
 | 85 | Ban That | 15.19, 105.783 | 1658579 |
 | 86 | Ban Thônghi-Gnai (Ban Thonghi-Gnai) | 15.36, 105.851 | 11200100 |

@@ -1,8 +1,8 @@
-# ມ. ປາກເຊ (Pakse)
+# ປາກເຊ (Pakse)
 
 [Home](../../../) &gt; [Champasak](../) > **Pakse**
 
-ມ. ປາກເຊ (Pakse) is a district in Laos, under Champasak.
+ປາກເຊ (Pakse) is a district in Laos, under Champasak.
 
 ## Overview
 
@@ -26,7 +26,7 @@
 | 7 | Ban Houàxe (Ban Houaxe) | 15.116, 105.872 | 11203087 |
 | 8 | Ban Houaylao | 15.14, 105.768 | 1663786 |
 | 9 | Ban Kabao | 15.15, 105.767 | 1663460 |
-| 10 | Ban Kè (Ban Ke) | 15.126, 105.813 | 11203053 |
+| 10 | ແກະ (Ban Ke) | 15.126, 105.813 | 11203053 |
 | 11 | Ban Kènxan (Ban Kenxan) | 15.175, 105.781 | 1663206 |
 | 12 | Ban Khankeung | 15.125, 105.781 | 1663064 |
 | 13 | Ban Khôktaphan (Ban Khoktaphan) | 15.131, 105.786 | 11203049 |

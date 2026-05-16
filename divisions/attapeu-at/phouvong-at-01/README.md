@@ -1,8 +1,8 @@
-# ມ. ພູວົງ (Phouvong)
+# ພູວົງ (Phouvong)
 
 [Home](../../../) &gt; [Attapeu](../) > **Phouvong**
 
-ມ. ພູວົງ (Phouvong) is a district in Laos, under Attapeu.
+ພູວົງ (Phouvong) is a district in Laos, under Attapeu.
 
 ## Overview
 
@@ -20,7 +20,7 @@
 | 1 | Ban Antoum | 14.746, 107.271 | 11201982 |
 | 2 | Ban Arapruich | 14.467, 106.783 | 1664975 |
 | 3 | Ban Ayak | 14.673, 106.856 | 11201548 |
-| 4 | Ban Chom | 14.55, 107.05 | 1664697 |
+| 4 | ຈອມ (Ban Chom) | 14.55, 107.05 | 1664697 |
 | 5 | Ban Gnakou | 14.644, 106.718 | 11202464 |
 | 6 | Ban Hèt (Ban Het) | 14.733, 107.483 | 1664092 |
 | 7 | Ban Houaykèo (Ban Houaykeo) | 14.75, 107.33 | 11201983 |
@@ -33,7 +33,7 @@
 | 14 | Ban Lek Ha | 14.7, 106.892 | 11201545 |
 | 15 | Ban Lek Song | 14.748, 106.913 | 11201544 |
 | 16 | Ban Lômlay (Ban Lomlay) | 14.55, 107.017 | 1662452 |
-| 17 | Ban Naxuak | 14.753, 106.927 | 11201543 |
+| 17 | ນາເຊືອກ (Ban Naxuak) | 14.753, 106.927 | 11201543 |
 | 18 | Ban Phiahom | 14.565, 106.953 | 1660113 |
 | 19 | Ban Phianong | 14.562, 106.968 | 1660085 |
 | 20 | Ban Phokandong | 14.6, 107.15 | 1660027 |
@@ -46,7 +46,7 @@
 | 27 | Ban Tassèng (Ban Tasseng) | 14.717, 107.417 | 1658804 |
 | 28 | Ban Téo (Ban Teo) | 14.58, 106.836 | 11202473 |
 | 29 | Ban Thattamo | 14.7, 107.1 | 1658567 |
-| 30 | Ban Vanggnang | 14.715, 106.809 | 11201528 |
+| 30 | ວັງຍາງ (Ban Vanggnang) | 14.715, 106.809 | 11201528 |
 | 31 | Ban Xaydèn (Ban Xayden) | 14.662, 107.355 | 11202478 |
 
 ## Data Files

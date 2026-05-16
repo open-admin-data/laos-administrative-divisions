@@ -1,8 +1,8 @@
-# ມ. ໜື່ນ (Meun)
+# ໜື່ນ (Meun)
 
 [Home](../../../) &gt; [Vientiane Province](../) > **Meun**
 
-ມ. ໜື່ນ (Meun) is a district in Laos, under Vientiane Province.
+ໜື່ນ (Meun) is a district in Laos, under Vientiane Province.
 
 ## Overview
 
@@ -17,15 +17,15 @@
 
 | # | Name | Coordinates | Code |
 |---|------|-------------|------|
-| 1 | Ban Donhiang | 18.077, 101.794 | 1664426 |
+| 1 | ດອນຮຽງ (Ban Donhiang) | 18.077, 101.794 | 1664426 |
 | 2 | Ban Houaytankèo (Ban Houaytankeo) | 18.043, 101.899 | 1941637 |
-| 3 | Ban Moun | 18.41, 101.958 | 1662197 |
-| 4 | Ban Nahat | 18.309, 101.966 | 1661969 |
+| 3 | ມຸ້ນ (Ban Moun) | 18.41, 101.958 | 1662197 |
+| 4 | ນາຫາດ (Ban Nahat) | 18.309, 101.966 | 1661969 |
 | 5 | Ban Nalè (Ban Nale) | 18.364, 101.967 | 1661665 |
 | 6 | Ban Nalèng-Nua (Ban Naleng-Nua) | 18.214, 101.922 | 1661667 |
 | 7 | Ban Nalèng-Tai (Ban Naleng-Tai) | 18.199, 101.924 | 1941624 |
-| 8 | Ban Namhi | 18.037, 101.891 | 1661578 |
-| 9 | Ban Vang | 18.053, 101.847 | 1658247 |
+| 8 | ນ້ຳຮີ້ (Ban Namhi) | 18.037, 101.891 | 1661578 |
+| 9 | ວັງ (Ban Vang) | 18.053, 101.847 | 1658247 |
 
 ## Data Files
 
