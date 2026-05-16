@@ -1,8 +1,8 @@
-# Phongsaly
+# ແຂວງຜົ້ງສາລີ (Phongsaly)
 
 [Home](../../) > **Phongsaly**
 
-Phongsaly is a province in Laos.
+ແຂວງຜົ້ງສາລີ (Phongsaly) is a province in Laos.
 
 ## Overview
 

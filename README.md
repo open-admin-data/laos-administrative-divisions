@@ -20,24 +20,24 @@ Licensed under CC-BY-4.0. Browse the hierarchy through GitHub's folder navigatio
 
 | # | Province | Districts | Villages | Link |
 |---|----|----|----|------|
-| 1 | Attapeu | 4 | 213 | [Browse](divisions/attapeu-at/) |
-| 2 | Bokeo | 5 | 345 | [Browse](divisions/bokeo-bk/) |
-| 3 | Bolikhamsai | 7 | 487 | [Browse](divisions/bolikhamsai-bl/) |
-| 4 | Champasak | 11 | 1,068 | [Browse](divisions/champasak-ch/) |
-| 5 | Houaphan | 9 | 1,003 | [Browse](divisions/houaphan-ho/) |
-| 6 | Khammouane | 9 | 778 | [Browse](divisions/khammouane-kh/) |
-| 7 | Luang Namtha | 5 | 465 | [Browse](divisions/luang-namtha-lm/) |
-| 8 | Luang Prabang | 11 | 1,373 | [Browse](divisions/luang-prabang-lp/) |
-| 9 | Oudomxay | 7 | 889 | [Browse](divisions/oudomxay-ou/) |
-| 10 | Phongsaly | 7 | 794 | [Browse](divisions/phongsaly-ph/) |
-| 11 | Salavan | 8 | 776 | [Browse](divisions/salavan-sl/) |
-| 12 | Savannakhet | 16 | 1,634 | [Browse](divisions/savannakhet-sv/) |
-| 13 | Vientiane (Vientiane Province) | 11 | 597 | [Browse](divisions/vientiane-province-vi/) |
-| 14 | Vientiane Capital | 9 | 334 | [Browse](divisions/vientiane-capital-vt/) |
-| 15 | Xaignabouli | 11 | 610 | [Browse](divisions/xaignabouli-xa/) |
-| 16 | Xekong | 4 | 386 | [Browse](divisions/xekong-xe/) |
-| 17 | Xiangkhouang | 9 | 1,384 | [Browse](divisions/xiangkhouang-xi/) |
-| 18 | Xaisomboun | 5 | 194 | [Browse](divisions/xaisomboun-xn/) |
+| 1 | ແຂວງອັດຕະປື (Attapeu) | 4 | 213 | [Browse](divisions/attapeu-at/) |
+| 2 | ແຂວງບໍ່ແກ້ວ (Bokeo) | 5 | 345 | [Browse](divisions/bokeo-bk/) |
+| 3 | ແຂວງບໍລິຄໍາໄຊ (Bolikhamsai) | 7 | 487 | [Browse](divisions/bolikhamsai-bl/) |
+| 4 | ແຂວງຈຳປາສັກ (Champasak) | 11 | 1,068 | [Browse](divisions/champasak-ch/) |
+| 5 | ແຂວງຫົວພັນ (Houaphan) | 9 | 1,003 | [Browse](divisions/houaphan-ho/) |
+| 6 | ແຂວງຄໍາມ່ວນ (Khammouane) | 9 | 778 | [Browse](divisions/khammouane-kh/) |
+| 7 | ແຂວງຫຼວງນໍ້າທາ (Luang Namtha) | 5 | 465 | [Browse](divisions/luang-namtha-lm/) |
+| 8 | ແຂວງຫຼວງພະບາງ (Luang Prabang) | 11 | 1,373 | [Browse](divisions/luang-prabang-lp/) |
+| 9 | ແຂວງອຸດົມໄຊ (Oudomxay) | 7 | 889 | [Browse](divisions/oudomxay-ou/) |
+| 10 | ແຂວງຜົ້ງສາລີ (Phongsaly) | 7 | 794 | [Browse](divisions/phongsaly-ph/) |
+| 11 | ແຂວງສາລະວັນ (Salavan) | 8 | 776 | [Browse](divisions/salavan-sl/) |
+| 12 | ແຂວງສະຫວັນນະເຂດ (Savannakhet) | 16 | 1,634 | [Browse](divisions/savannakhet-sv/) |
+| 13 | ແຂວງວຽງຈັນ (Vientiane Province) | 11 | 597 | [Browse](divisions/vientiane-province-vi/) |
+| 14 | ນະຄອນຫຼວງວຽງຈັນ (Vientiane Capital) | 9 | 334 | [Browse](divisions/vientiane-capital-vt/) |
+| 15 | ແຂວງໄຊຍະບູລີ (Xaignabouli) | 11 | 610 | [Browse](divisions/xaignabouli-xa/) |
+| 16 | ແຂວງເຊກອງ (Xekong) | 4 | 386 | [Browse](divisions/xekong-xe/) |
+| 17 | ແຂວງ ຊຽງ ຂວາງ (Xiangkhouang) | 9 | 1,384 | [Browse](divisions/xiangkhouang-xi/) |
+| 18 | ເຂດພິເສດໄຊສົມບູນ (Xaisomboun) | 5 | 194 | [Browse](divisions/xaisomboun-xn/) |
 
 ## Data Files
 

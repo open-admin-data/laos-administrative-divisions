@@ -1,8 +1,8 @@
-# Vientiane Capital
+# ນະຄອນຫຼວງວຽງຈັນ (Vientiane Capital)
 
 [Home](../../) > **Vientiane Capital**
 
-Vientiane Capital is a province in Laos.
+ນະຄອນຫຼວງວຽງຈັນ (Vientiane Capital) is a province in Laos.
 
 ## Overview
 

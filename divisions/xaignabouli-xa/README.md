@@ -1,8 +1,8 @@
-# Xaignabouli
+# ແຂວງໄຊຍະບູລີ (Xaignabouli)
 
 [Home](../../) > **Xaignabouli**
 
-Xaignabouli is a province in Laos.
+ແຂວງໄຊຍະບູລີ (Xaignabouli) is a province in Laos.
 
 ## Overview
 

@@ -1,8 +1,8 @@
-# Xaisomboun
+# ເຂດພິເສດໄຊສົມບູນ (Xaisomboun)
 
 [Home](../../) > **Xaisomboun**
 
-Xaisomboun is a province in Laos.
+ເຂດພິເສດໄຊສົມບູນ (Xaisomboun) is a province in Laos.
 
 ## Overview
 

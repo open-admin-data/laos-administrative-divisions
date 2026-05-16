@@ -1,167 +1,167 @@
 id,level,level_name.local,level_name.en,name.local,name.en,name.slug,code.id,code.iso,parent.id,parent.name.local,parent.name.en,children_count.province,children_count.district,children_count.village,zip_codes,geo.lat,geo.lon
-AT,1,ແຂວງ,Province,Attapeu,Attapeu,attapeu-at,AT,,,,,,4,213,,14.728,106.994
-AT-01,2,ເມືອງ,District,Phouvong,Phouvong,phouvong-at-01,AT-01,,AT,Attapeu,Attapeu,,,31,,14.611,107.075
-AT-02,2,ເມືອງ,District,Sanamxay,Sanamxay,sanamxay-at-02,AT-02,,AT,Attapeu,Attapeu,,,44,,14.708,106.401
-AT-03,2,ເມືອງ,District,Sanxay,Sanxay,sanxay-at-03,AT-03,,AT,Attapeu,Attapeu,,,73,,15.049,107.296
-AT-04,2,ເມືອງ,District,Xaysetha,Xaysetha,xaysetha-at-04,AT-04,,AT,Attapeu,Attapeu,,,65,,14.888,107.034
-BK,1,ແຂວງ,Province,Bokeo,Bokeo,bokeo-bk,BK,,,,,,5,345,,20.234,100.586
-BK-01,2,ເມືອງ,District,Huoixai,Huoixai,huoixai-bk-01,BK-01,,BK,Bokeo,Bokeo,,,113,,20.386,100.641
-BK-02,2,ເມືອງ,District,Meung,Meung,meung-bk-02,BK-02,,BK,Bokeo,Bokeo,,,55,,20.69,100.544
-BK-03,2,ເມືອງ,District,Paktha,Paktha,paktha-bk-03,BK-03,,BK,Bokeo,Bokeo,,,44,,19.954,100.681
-BK-04,2,ເມືອງ,District,Pha Oudom,Pha Oudom,pha-oudom-bk-04,BK-04,,BK,Bokeo,Bokeo,,,86,,20.131,100.874
-BK-05,2,ເມືອງ,District,Tonpheung,Tonpheung,tonpheung-bk-05,BK-05,,BK,Bokeo,Bokeo,,,47,,20.476,100.271
-BL,1,ແຂວງ,Province,Bolikhamsai,Bolikhamsai,bolikhamsai-bl,BL,,,,,,7,487,,18.514,104.384
-BL-01,2,ເມືອງ,District,Bolikhanh,Bolikhanh,bolikhanh-bl-01,BL-01,,BL,Bolikhamsai,Bolikhamsai,,,41,,18.656,103.824
-BL-02,2,ເມືອງ,District,Khamkeuth,Khamkeuth,khamkeuth-bl-02,BL-02,,BL,Bolikhamsai,Bolikhamsai,,,138,,18.188,104.952
-BL-03,2,ເມືອງ,District,Pakkading,Pakkading,pakkading-bl-03,BL-03,,BL,Bolikhamsai,Bolikhamsai,,,55,,18.398,104.112
-BL-04,2,ເມືອງ,District,Pakxane,Pakxane,pakxane-bl-04,BL-04,,BL,Bolikhamsai,Bolikhamsai,,,73,,18.451,103.742
-BL-05,2,ເມືອງ,District,Thaphabath,Thaphabath,thaphabath-bl-05,BL-05,,BL,Bolikhamsai,Bolikhamsai,,,35,,18.38,103.109
-BL-06,2,ເມືອງ,District,Viengthong,Viengthong,viengthong-bl-06,BL-06,,BL,Bolikhamsai,Bolikhamsai,,,94,,18.817,104.389
-BL-07,2,ເມືອງ,District,Xaychamphone,Xaychamphone,xaychamphone-bl-07,BL-07,,BL,Bolikhamsai,Bolikhamsai,,,51,,18.583,104.92
-CH,1,ແຂວງ,Province,Champasak,Champasak,champasak-ch,CH,,,,,,11,1068,,14.624,105.863
-CH-01,2,ເມືອງ,District,Bachiangchaleunsook,Bachiangchaleunsook,bachiangchaleunsook-ch-01,CH-01,,CH,Champasak,Champasak,,,82,,15.25,105.973
-CH-02,2,ເມືອງ,District,Champasack,Champasack,champasack-ch-02,CH-02,,CH,Champasak,Champasak,,,99,,14.924,105.751
-CH-03,2,ເມືອງ,District,Khong,Khong,khong-ch-03,CH-03,,CH,Champasak,Champasak,,,193,,14.222,106.019
-CH-04,2,ເມືອງ,District,Moonlapamok,Moonlapamok,moonlapamok-ch-04,CH-04,,CH,Champasak,Champasak,,,56,,14.177,105.451
-CH-05,2,ເມືອງ,District,Pakse,Pakse,pakse-ch-05,CH-05,,CH,Champasak,Champasak,,,30,,15.149,105.849
-CH-06,2,ເມືອງ,District,Paksxong,Paksxong,paksxong-ch-06,CH-06,,CH,Champasak,Champasak,,,119,,15.052,106.383
-CH-07,2,ເມືອງ,District,Pathoomphone,Pathoomphone,pathoomphone-ch-07,CH-07,,CH,Champasak,Champasak,,,105,,14.651,106.187
-CH-08,2,ເມືອງ,District,Phonthong,Phonthong,phonthong-ch-08,CH-08,,CH,Champasak,Champasak,,,201,,15.085,105.67
-CH-09,2,ເມືອງ,District,Samakkhixay,Samakkhixay,samakkhixay-ch-09,CH-09,,CH,Champasak,Champasak,,,23,,14.963,106.794
-CH-10,2,ເມືອງ,District,Sanasomboon,Sanasomboon,sanasomboon-ch-10,CH-10,,CH,Champasak,Champasak,,,94,,15.39,105.689
-CH-11,2,ເມືອງ,District,Sukhuma,Sukhuma,sukhuma-ch-11,CH-11,,CH,Champasak,Champasak,,,66,,14.597,105.623
-HO,1,ແຂວງ,Province,Houaphan,Houaphan,houaphan-ho,HO,,,,,,9,1003,,20.274,104.317
-HO-01,2,ເມືອງ,District,Add,Add,add-ho-01,HO-01,,HO,Houaphan,Houaphan,,,85,,20.739,103.803
-HO-02,2,ເມືອງ,District,Hiem,Hiem,hiem-ho-02,HO-02,,HO,Houaphan,Houaphan,,,33,,19.994,103.244
-HO-03,2,ເມືອງ,District,Kuan,Kuan,kuan-ho-03,HO-03,,HO,Houaphan,Houaphan,,,102,,19.717,104.43
-HO-04,2,ເມືອງ,District,Sopbao,Sopbao,sopbao-ho-04,HO-04,,HO,Houaphan,Houaphan,,,115,,20.655,104.423
-HO-05,2,ເມືອງ,District,Viengxay,Viengxay,viengxay-ho-05,HO-05,,HO,Houaphan,Houaphan,,,161,,20.328,104.544
-HO-06,2,ເມືອງ,District,Xamneua,Xamneua,xamneua-ho-06,HO-06,,HO,Houaphan,Houaphan,,,220,,20.401,104.067
-HO-07,2,ເມືອງ,District,Xamtay,Xamtay,xamtay-ho-07,HO-07,,HO,Houaphan,Houaphan,,,120,,20.011,104.808
-HO-08,2,ເມືອງ,District,Xiengkhor,Xiengkhor,xiengkhor-ho-08,HO-08,,HO,Houaphan,Houaphan,,,104,,20.831,104.199
-HO-09,2,ເມືອງ,District,Xon,Xon,xon-ho-09,HO-09,,HO,Houaphan,Houaphan,,,63,,20.691,103.485
-KH,1,ແຂວງ,Province,Khammouane,Khammouane,khammouane-kh,KH,,,,,,9,778,,17.635,105.342
-KH-01,2,ເມືອງ,District,Bualapha,Bualapha,bualapha-kh-01,KH-01,,KH,Khammouane,Khammouane,,,125,,17.213,106.234
-KH-02,2,ເມືອງ,District,Hinboon,Hinboon,hinboon-kh-02,KH-02,,KH,Khammouane,Khammouane,,,117,,17.838,104.427
-KH-03,2,ເມືອງ,District,Khounkham,Khounkham,khounkham-kh-03,KH-03,,KH,Khammouane,Khammouane,,,47,,18.108,104.542
-KH-04,2,ເມືອງ,District,Mahaxay,Mahaxay,mahaxay-kh-04,KH-04,,KH,Khammouane,Khammouane,,,79,,17.359,105.318
-KH-05,2,ເມືອງ,District,Nakay,Nakay,nakay-kh-05,KH-05,,KH,Khammouane,Khammouane,,,77,,18.02,105.229
-KH-06,2,ເມືອງ,District,Nhommalath,Nhommalath,nhommalath-kh-06,KH-06,,KH,Khammouane,Khammouane,,,90,,17.577,105.307
-KH-07,2,ເມືອງ,District,Thakhek,Thakhek,thakhek-kh-07,KH-07,,KH,Khammouane,Khammouane,,,122,,17.38,104.881
-KH-08,2,ເມືອງ,District,Xaybuathong,Xaybuathong,xaybuathong-kh-08,KH-08,,KH,Khammouane,Khammouane,,,68,,17.088,105.527
-KH-09,2,ເມືອງ,District,Xebangfay,Xebangfay,xebangfay-kh-09,KH-09,,KH,Khammouane,Khammouane,,,53,,17.1,105.132
-LM,1,ແຂວງ,Province,Luang Namtha,Luang Namtha,luang-namtha-lm,LM,,,,,,5,465,,21.021,101.298
-LM-01,2,ເມືອງ,District,Long,Long,long-lm-01,LM-01,,LM,Luang Namtha,Luang Namtha,,,102,,20.976,100.748
-LM-02,2,ເມືອງ,District,Nalae,Nalae,nalae-lm-02,LM-02,,LM,Luang Namtha,Luang Namtha,,,115,,20.512,101.371
-LM-03,2,ເມືອງ,District,Namtha,Namtha,namtha-lm-03,LM-03,,LM,Luang Namtha,Luang Namtha,,,93,,21.121,101.504
-LM-04,2,ເມືອງ,District,Sing,Sing,sing-lm-04,LM-04,,LM,Luang Namtha,Luang Namtha,,,106,,21.363,101.175
-LM-05,2,ເມືອງ,District,Viengphoukha,Viengphoukha,viengphoukha-lm-05,LM-05,,LM,Luang Namtha,Luang Namtha,,,49,,20.634,101.061
-LP,1,ແຂວງ,Province,Luang Prabang,Luang Prabang,luang-prabang-lp,LP,,,,,,11,1373,,20.207,102.599
-LP-01,2,ເມືອງ,District,Chomphet,Chomphet,chomphet-lp-01,LP-01,,LP,Luang Prabang,Luang Prabang,,,104,,19.886,101.914
-LP-02,2,ເມືອງ,District,Luangprabang,Luangprabang,luangprabang-lp-02,LP-02,,LP,Luang Prabang,Luang Prabang,,,131,,19.815,102.099
-LP-03,2,ເມືອງ,District,Nambak,Nambak,nambak-lp-03,LP-03,,LP,Luang Prabang,Luang Prabang,,,166,,20.668,102.383
-LP-04,2,ເມືອງ,District,Nan,Nan,nan-lp-04,LP-04,,LP,Luang Prabang,Luang Prabang,,,91,,19.315,101.94
-LP-05,2,ເມືອງ,District,Ngoi,Ngoi,ngoi-lp-05,LP-05,,LP,Luang Prabang,Luang Prabang,,,149,,20.732,102.68
-LP-06,2,ເມືອງ,District,Pak Xeng,Pak Xeng,pak-xeng-lp-06,LP-06,,LP,Luang Prabang,Luang Prabang,,,146,,20.108,102.685
-LP-07,2,ເມືອງ,District,Park Ou,Park Ou,park-ou-lp-07,LP-07,,LP,Luang Prabang,Luang Prabang,,,101,,20.143,102.32
-LP-08,2,ເມືອງ,District,Phonthong,Phonthong,phonthong-lp-08,LP-08,,LP,Luang Prabang,Luang Prabang,,,0,,20.915,103.126
-LP-09,2,ເມືອງ,District,Phonxay,Phonxay,phonxay-lp-09,LP-09,,LP,Luang Prabang,Luang Prabang,,,172,,19.834,102.787
-LP-10,2,ເມືອງ,District,Viengkham,Viengkham,viengkham-lp-10,LP-10,,LP,Luang Prabang,Luang Prabang,,,148,,20.347,103.07
-LP-11,2,ເມືອງ,District,Xieng Ngeun,Xieng Ngeun,xieng-ngeun-lp-11,LP-11,,LP,Luang Prabang,Luang Prabang,,,165,,19.643,102.356
-OU,1,ແຂວງ,Province,Oudomxay,Oudomxay,oudomxay-ou,OU,,,,,,7,889,,20.485,101.65
-OU-01,2,ເມືອງ,District,Beng,Beng,beng-ou-01,OU-01,,OU,Oudomxay,Oudomxay,,,114,,20.339,101.752
-OU-02,2,ເມືອງ,District,Hoon,Hoon,hoon-ou-02,OU-02,,OU,Oudomxay,Oudomxay,,,144,,20.062,101.419
-OU-03,2,ເມືອງ,District,La,La,la-ou-03,OU-03,,OU,Oudomxay,Oudomxay,,,102,,20.931,102.094
-OU-04,2,ເມືອງ,District,Namor,Namor,namor-ou-04,OU-04,,OU,Oudomxay,Oudomxay,,,120,,20.939,101.708
-OU-05,2,ເມືອງ,District,Nga,Nga,nga-ou-05,OU-05,,OU,Oudomxay,Oudomxay,,,132,,20.106,101.853
-OU-06,2,ເມືອງ,District,Pakbeng,Pakbeng,pakbeng-ou-06,OU-06,,OU,Oudomxay,Oudomxay,,,108,,19.906,101.13
-OU-07,2,ເມືອງ,District,Xay,Xay,xay-ou-07,OU-07,,OU,Oudomxay,Oudomxay,,,169,,20.678,101.969
-PH,1,ແຂວງ,Province,Phongsaly,Phongsaly,phongsaly-ph,PH,,,,,,7,794,,21.754,102.373
-PH-01,2,ເມືອງ,District,Boon Neua,Boon Neua,boon-neua-ph-01,PH-01,,PH,Phongsaly,Phongsaly,,,60,,21.657,101.793
-PH-02,2,ເມືອງ,District,Boontay,Boontay,boontay-ph-02,PH-02,,PH,Phongsaly,Phongsaly,,,85,,21.376,101.907
-PH-03,2,ເມືອງ,District,Khua,Khua,khua-ph-03,PH-03,,PH,Phongsaly,Phongsaly,,,178,,21.048,102.473
-PH-04,2,ເມືອງ,District,May,May,may-ph-04,PH-04,,PH,Phongsaly,Phongsaly,,,149,,21.48,102.865
-PH-05,2,ເມືອງ,District,Nhot Ou,Nhot Ou,nhot-ou-ph-05,PH-05,,PH,Phongsaly,Phongsaly,,,122,,22.235,101.816
-PH-06,2,ເມືອງ,District,Phongsaly,Phongsaly,phongsaly-ph-06,PH-06,,PH,Phongsaly,Phongsaly,,,112,,21.866,102.201
-PH-07,2,ເມືອງ,District,Samphanh,Samphanh,samphanh-ph-07,PH-07,,PH,Phongsaly,Phongsaly,,,88,,21.79,102.522
-SL,1,ແຂວງ,Province,Salavan,Salavan,salavan-sl,SL,,,,,,8,776,,15.975,106.348
-SL-01,2,ເມືອງ,District,Khongxedone,Khongxedone,khongxedone-sl-01,SL-01,,SL,Salavan,Salavan,,,95,,15.557,105.743
-SL-02,2,ເມືອງ,District,Lakhonepheng,Lakhonepheng,lakhonepheng-sl-02,SL-02,,SL,Salavan,Salavan,,,73,,15.853,105.622
-SL-03,2,ເມືອງ,District,Lao Ngarm,Lao Ngarm,lao-ngarm-sl-03,SL-03,,SL,Salavan,Salavan,,,111,,15.496,106.182
-SL-04,2,ເມືອງ,District,Samuoi,Samuoi,samuoi-sl-04,SL-04,,SL,Salavan,Salavan,,,80,,16.395,106.894
-SL-05,2,ເມືອງ,District,Saravane,Saravane,saravane-sl-05,SL-05,,SL,Salavan,Salavan,,,154,,15.621,106.381
-SL-06,2,ເມືອງ,District,Ta Oi,Ta Oi,ta-oi-sl-06,SL-06,,SL,Salavan,Salavan,,,137,,16.149,106.796
-SL-07,2,ເມືອງ,District,Toomlarn,Toomlarn,toomlarn-sl-07,SL-07,,SL,Salavan,Salavan,,,69,,16.047,106.21
-SL-08,2,ເມືອງ,District,Vapy,Vapy,vapy-sl-08,SL-08,,SL,Salavan,Salavan,,,57,,15.773,105.952
-SV,1,ແຂວງ,Province,Savannakhet,Savannakhet,savannakhet-sv,SV,,,,,,16,1634,,16.575,105.84
-SV-01,2,ເມືອງ,District,Atsaphangthong,Atsaphangthong,atsaphangthong-sv-01,SV-01,,SV,Savannakhet,Savannakhet,,,47,,16.729,105.275
-SV-02,2,ເມືອງ,District,Atsaphone,Atsaphone,atsaphone-sv-02,SV-02,,SV,Savannakhet,Savannakhet,,,100,,17.037,105.412
-SV-03,2,ເມືອງ,District,Champhone,Champhone,champhone-sv-03,SV-03,,SV,Savannakhet,Savannakhet,,,146,,16.471,105.234
-SV-04,2,ເມືອງ,District,Kaysone Phomvihane,Kaysone Phomvihane,kaysone-phomvihane-sv-04,SV-04,,SV,Savannakhet,Savannakhet,,,62,,16.609,104.87
-SV-05,2,ເມືອງ,District,Nong,Nong,nong-sv-05,SV-05,,SV,Savannakhet,Savannakhet,,,125,,16.35,106.609
-SV-06,2,ເມືອງ,District,Nongbok,Nongbok,nongbok-sv-06,SV-06,,SV,Savannakhet,Savannakhet,,,66,,17.029,104.827
-SV-07,2,ເມືອງ,District,Outhoomphone,Outhoomphone,outhoomphone-sv-07,SV-07,,SV,Savannakhet,Savannakhet,,,85,,16.758,105.056
-SV-08,2,ເມືອງ,District,Phalanxay,Phalanxay,phalanxay-sv-08,SV-08,,SV,Savannakhet,Savannakhet,,,61,,16.713,105.619
-SV-09,2,ເມືອງ,District,Phine,Phine,phine-sv-09,SV-09,,SV,Savannakhet,Savannakhet,,,136,,16.354,105.988
-SV-10,2,ເມືອງ,District,Sepone,Sepone,sepone-sv-10,SV-10,,SV,Savannakhet,Savannakhet,,,258,,16.83,106.495
-SV-11,2,ເມືອງ,District,Songkhone,Songkhone,songkhone-sv-11,SV-11,,SV,Savannakhet,Savannakhet,,,121,,16.142,105.362
-SV-12,2,ເມືອງ,District,Thapangthong,Thapangthong,thapangthong-sv-12,SV-12,,SV,Savannakhet,Savannakhet,,,81,,16.02,105.786
-SV-13,2,ເມືອງ,District,Vilabuly,Vilabuly,vilabuly-sv-13,SV-13,,SV,Savannakhet,Savannakhet,,,128,,16.992,105.936
-SV-14,2,ເມືອງ,District,Xaybuly,Xaybuly,xaybuly-sv-14,SV-14,,SV,Savannakhet,Savannakhet,,,72,,17.016,104.961
-SV-15,2,ເມືອງ,District,Xayphoothong,Xayphoothong,xayphoothong-sv-15,SV-15,,SV,Savannakhet,Savannakhet,,,55,,16.333,105.02
-SV-16,2,ເມືອງ,District,Xonbuly,Xonbuly,xonbuly-sv-16,SV-16,,SV,Savannakhet,Savannakhet,,,91,,16.326,105.481
-VI,1,ແຂວງ,Province,Vientiane,Vientiane Province,vientiane-province-vi,VI,,,,,,11,597,,18.532,102.107
-VI-01,2,ເມືອງ,District,Feuang,Feuang,feuang-vi-01,VI-01,,VI,Vientiane,Vientiane Province,,,46,,18.589,102.059
-VI-02,2,ເມືອງ,District,Hinherb,Hinherb,hinherb-vi-02,VI-02,,VI,Vientiane,Vientiane Province,,,52,,18.61,102.194
-VI-03,2,ເມືອງ,District,Kasy,Kasy,kasy-vi-03,VI-03,,VI,Vientiane,Vientiane Province,,,83,,19.113,102.146
-VI-04,2,ເມືອງ,District,Keo Oudom,Keo Oudom,keo-oudom-vi-04,VI-04,,VI,Vientiane,Vientiane Province,,,44,,18.599,102.503
-VI-05,2,ເມືອງ,District,Mad,Mad,mad-vi-05,VI-05,,VI,Vientiane,Vientiane Province,,,55,,18.698,101.829
-VI-06,2,ເມືອງ,District,Meun,Meun,meun-vi-06,VI-06,,VI,Vientiane,Vientiane Province,,,9,,18.276,101.935
-VI-07,2,ເມືອງ,District,Phonhong,Phonhong,phonhong-vi-07,VI-07,,VI,Vientiane,Vientiane Province,,,100,,18.42,102.429
-VI-08,2,ເມືອງ,District,Thoulakhom,Thoulakhom,thoulakhom-vi-08,VI-08,,VI,Vientiane,Vientiane Province,,,65,,18.293,102.616
-VI-09,2,ເມືອງ,District,Vangvieng,Vangvieng,vangvieng-vi-09,VI-09,,VI,Vientiane,Vientiane Province,,,99,,18.949,102.424
-VI-10,2,ເມືອງ,District,Viengkham,Viengkham,viengkham-vi-10,VI-10,,VI,Vientiane,Vientiane Province,,,0,,18.371,102.518
-VI-11,2,ເມືອງ,District,Xanakharm,Xanakharm,xanakharm-vi-11,VI-11,,VI,Vientiane,Vientiane Province,,,44,,18.059,101.544
-VT,1,ແຂວງ,Province,Vientiane Capital,Vientiane Capital,vientiane-capital-vt,VT,,,,,,9,334,,18.178,102.539
-VT-01,2,ເມືອງ,District,Chanthabuly,Chanthabuly,chanthabuly-vt-01,VT-01,,VT,Vientiane Capital,Vientiane Capital,,,12,,17.994,102.605
-VT-02,2,ເມືອງ,District,Hadxaifong,Hadxaifong,hadxaifong-vt-02,VT-02,,VT,Vientiane Capital,Vientiane Capital,,,46,,17.978,102.809
-VT-03,2,ເມືອງ,District,Mayparkngum,Mayparkngum,mayparkngum-vt-03,VT-03,,VT,Vientiane Capital,Vientiane Capital,,,55,,18.136,102.92
-VT-04,2,ເມືອງ,District,Naxaithong,Naxaithong,naxaithong-vt-04,VT-04,,VT,Vientiane Capital,Vientiane Capital,,,64,,18.23,102.482
-VT-05,2,ເມືອງ,District,Sangthong,Sangthong,sangthong-vt-05,VT-05,,VT,Vientiane Capital,Vientiane Capital,,,27,,18.334,102.117
-VT-06,2,ເມືອງ,District,Sikhottabong,Sikhottabong,sikhottabong-vt-06,VT-06,,VT,Vientiane Capital,Vientiane Capital,,,31,,17.997,102.525
-VT-07,2,ເມືອງ,District,Sisattanak,Sisattanak,sisattanak-vt-07,VT-07,,VT,Vientiane Capital,Vientiane Capital,,,8,,17.935,102.629
-VT-08,2,ເມືອງ,District,Xaysetha,Xaysetha,xaysetha-vt-08,VT-08,,VT,Vientiane Capital,Vientiane Capital,,,0,,17.978,102.674
-VT-09,2,ເມືອງ,District,Xaythany,Xaythany,xaythany-vt-09,VT-09,,VT,Vientiane Capital,Vientiane Capital,,,91,,18.149,102.749
-XA,1,ແຂວງ,Province,Xaignabouli,Xaignabouli,xaignabouli-xa,XA,,,,,,11,610,,18.794,101.181
-XA-01,2,ເມືອງ,District,Botene,Botene,botene-xa-01,XA-01,,XA,Xaignabouli,Xaignabouli,,,37,,17.619,101.063
-XA-02,2,ເມືອງ,District,Hongsa,Hongsa,hongsa-xa-02,XA-02,,XA,Xaignabouli,Xaignabouli,,,61,,19.724,101.47
-XA-03,2,ເມືອງ,District,Kenethao,Kenethao,kenethao-xa-03,XA-03,,XA,Xaignabouli,Xaignabouli,,,44,,17.808,101.393
-XA-04,2,ເມືອງ,District,Khop,Khop,khop-xa-04,XA-04,,XA,Xaignabouli,Xaignabouli,,,43,,19.693,100.561
-XA-05,2,ເມືອງ,District,Ngeun,Ngeun,ngeun-xa-05,XA-05,,XA,Xaignabouli,Xaignabouli,,,38,,19.776,101.129
-XA-06,2,ເມືອງ,District,Parklai,Parklai,parklai-xa-06,XA-06,,XA,Xaignabouli,Xaignabouli,,,104,,18.473,101.569
-XA-07,2,ເມືອງ,District,Phiang,Phiang,phiang-xa-07,XA-07,,XA,Xaignabouli,Xaignabouli,,,57,,18.929,101.454
-XA-08,2,ເມືອງ,District,Thongmyxay,Thongmyxay,thongmyxay-xa-08,XA-08,,XA,Xaignabouli,Xaignabouli,,,17,,18.423,101.179
-XA-09,2,ເມືອງ,District,Xayabury,Xayabury,xayabury-xa-09,XA-09,,XA,Xaignabouli,Xaignabouli,,,97,,19.223,101.662
-XA-10,2,ເມືອງ,District,Xaysathan,Xaysathan,xaysathan-xa-10,XA-10,,XA,Xaignabouli,Xaignabouli,,,15,,19.444,101.39
-XA-11,2,ເມືອງ,District,Xienghone,Xienghone,xienghone-xa-11,XA-11,,XA,Xaignabouli,Xaignabouli,,,97,,19.73,100.862
-XE,1,ແຂວງ,Province,Xekong,Xekong,xekong-xe,XE,,,,,,4,386,,15.541,107.321
-XE-01,2,ເມືອງ,District,Dakcheung,Dakcheung,dakcheung-xe-01,XE-01,,XE,Xekong,Xekong,,,132,,15.317,107.512
-XE-02,2,ເມືອງ,District,Kaleum,Kaleum,kaleum-xe-02,XE-02,,XE,Xekong,Xekong,,,141,,15.93,107.195
-XE-03,2,ເມືອງ,District,Lamarm,Lamarm,lamarm-xe-03,XE-03,,XE,Xekong,Xekong,,,58,,15.418,106.782
-XE-04,2,ເມືອງ,District,Thateng,Thateng,thateng-xe-04,XE-04,,XE,Xekong,Xekong,,,55,,15.466,106.496
-XI,1,ແຂວງ,Province,Xiangkhouang,Xiangkhouang,xiangkhouang-xi,XI,,,,,,9,1384,,19.464,103.723
-XI-01,2,ເມືອງ,District,Huameuang,Huameuang,huameuang-xi-01,XI-01,,XI,Xiangkhouang,Xiangkhouang,,,137,,19.935,103.862
-XI-02,2,ເມືອງ,District,Kham,Kham,kham-xi-02,XI-02,,XI,Xiangkhouang,Xiangkhouang,,,155,,19.888,103.704
-XI-03,2,ເມືອງ,District,Khoune,Khoune,khoune-xi-03,XI-03,,XI,Xiangkhouang,Xiangkhouang,,,174,,19.196,103.534
-XI-04,2,ເມືອງ,District,Mork,Mork,mork-xi-04,XI-04,,XI,Xiangkhouang,Xiangkhouang,,,87,,19.089,104.08
-XI-05,2,ເມືອງ,District,Nonghed,Nonghed,nonghed-xi-05,XI-05,,XI,Xiangkhouang,Xiangkhouang,,,173,,19.579,104.045
-XI-06,2,ເມືອງ,District,Pek,Pek,pek-xi-06,XI-06,,XI,Xiangkhouang,Xiangkhouang,,,270,,19.627,103.256
-XI-07,2,ເມືອງ,District,Phaxay,Phaxay,phaxay-xi-07,XI-07,,XI,Xiangkhouang,Xiangkhouang,,,83,,19.192,103.113
-XI-08,2,ເມືອງ,District,Phookood,Phookood,phookood-xi-08,XI-08,,XI,Xiangkhouang,Xiangkhouang,,,184,,19.693,103.008
-XI-09,2,ເມືອງ,District,Phoukhoune,Phoukhoune,phoukhoune-xi-09,XI-09,,XI,Xiangkhouang,Xiangkhouang,,,121,,19.525,102.694
-XN,1,ແຂວງ,Province,Xaisomboun,Xaisomboun,xaisomboun-xn,XN,,,,,,5,194,,18.959,103.327
-XN-01,2,ເມືອງ,District,Anouvong,Anouvong,anouvong-xn-01,XN-01,,XN,Xaisomboun,Xaisomboun,,,49,,18.92,103.023
-XN-02,2,ເມືອງ,District,Home,Home,home-xn-02,XN-02,,XN,Xaisomboun,Xaisomboun,,,14,,18.753,103.339
-XN-03,2,ເມືອງ,District,Longcheng,Longcheng,longcheng-xn-03,XN-03,,XN,Xaisomboun,Xaisomboun,,,59,,19.068,102.87
-XN-04,2,ເມືອງ,District,Longsane,Longsane,longsane-xn-04,XN-04,,XN,Xaisomboun,Xaisomboun,,,35,,18.619,102.9
-XN-05,2,ເມືອງ,District,Thathom,Thathom,thathom-xn-05,XN-05,,XN,Xaisomboun,Xaisomboun,,,37,,18.956,103.67
+AT,1,ແຂວງ,Province,ແຂວງອັດຕະປື,Attapeu,attapeu-at,AT,,,,,,4,213,,14.728,106.994
+AT-01,2,ເມືອງ,District,Phouvong,Phouvong,phouvong-at-01,AT-01,,AT,ແຂວງອັດຕະປື,Attapeu,,,31,,14.611,107.075
+AT-02,2,ເມືອງ,District,Sanamxay,Sanamxay,sanamxay-at-02,AT-02,,AT,ແຂວງອັດຕະປື,Attapeu,,,44,,14.708,106.401
+AT-03,2,ເມືອງ,District,Sanxay,Sanxay,sanxay-at-03,AT-03,,AT,ແຂວງອັດຕະປື,Attapeu,,,73,,15.049,107.296
+AT-04,2,ເມືອງ,District,Xaysetha,Xaysetha,xaysetha-at-04,AT-04,,AT,ແຂວງອັດຕະປື,Attapeu,,,65,,14.888,107.034
+BK,1,ແຂວງ,Province,ແຂວງບໍ່ແກ້ວ,Bokeo,bokeo-bk,BK,,,,,,5,345,,20.234,100.586
+BK-01,2,ເມືອງ,District,Huoixai,Huoixai,huoixai-bk-01,BK-01,,BK,ແຂວງບໍ່ແກ້ວ,Bokeo,,,113,,20.386,100.641
+BK-02,2,ເມືອງ,District,Meung,Meung,meung-bk-02,BK-02,,BK,ແຂວງບໍ່ແກ້ວ,Bokeo,,,55,,20.69,100.544
+BK-03,2,ເມືອງ,District,Paktha,Paktha,paktha-bk-03,BK-03,,BK,ແຂວງບໍ່ແກ້ວ,Bokeo,,,44,,19.954,100.681
+BK-04,2,ເມືອງ,District,Pha Oudom,Pha Oudom,pha-oudom-bk-04,BK-04,,BK,ແຂວງບໍ່ແກ້ວ,Bokeo,,,86,,20.131,100.874
+BK-05,2,ເມືອງ,District,Tonpheung,Tonpheung,tonpheung-bk-05,BK-05,,BK,ແຂວງບໍ່ແກ້ວ,Bokeo,,,47,,20.476,100.271
+BL,1,ແຂວງ,Province,ແຂວງບໍລິຄໍາໄຊ,Bolikhamsai,bolikhamsai-bl,BL,,,,,,7,487,,18.514,104.384
+BL-01,2,ເມືອງ,District,Bolikhanh,Bolikhanh,bolikhanh-bl-01,BL-01,,BL,ແຂວງບໍລິຄໍາໄຊ,Bolikhamsai,,,41,,18.656,103.824
+BL-02,2,ເມືອງ,District,Khamkeuth,Khamkeuth,khamkeuth-bl-02,BL-02,,BL,ແຂວງບໍລິຄໍາໄຊ,Bolikhamsai,,,138,,18.188,104.952
+BL-03,2,ເມືອງ,District,Pakkading,Pakkading,pakkading-bl-03,BL-03,,BL,ແຂວງບໍລິຄໍາໄຊ,Bolikhamsai,,,55,,18.398,104.112
+BL-04,2,ເມືອງ,District,Pakxane,Pakxane,pakxane-bl-04,BL-04,,BL,ແຂວງບໍລິຄໍາໄຊ,Bolikhamsai,,,73,,18.451,103.742
+BL-05,2,ເມືອງ,District,Thaphabath,Thaphabath,thaphabath-bl-05,BL-05,,BL,ແຂວງບໍລິຄໍາໄຊ,Bolikhamsai,,,35,,18.38,103.109
+BL-06,2,ເມືອງ,District,Viengthong,Viengthong,viengthong-bl-06,BL-06,,BL,ແຂວງບໍລິຄໍາໄຊ,Bolikhamsai,,,94,,18.817,104.389
+BL-07,2,ເມືອງ,District,Xaychamphone,Xaychamphone,xaychamphone-bl-07,BL-07,,BL,ແຂວງບໍລິຄໍາໄຊ,Bolikhamsai,,,51,,18.583,104.92
+CH,1,ແຂວງ,Province,ແຂວງຈຳປາສັກ,Champasak,champasak-ch,CH,,,,,,11,1068,,14.624,105.863
+CH-01,2,ເມືອງ,District,Bachiangchaleunsook,Bachiangchaleunsook,bachiangchaleunsook-ch-01,CH-01,,CH,ແຂວງຈຳປາສັກ,Champasak,,,82,,15.25,105.973
+CH-02,2,ເມືອງ,District,Champasack,Champasack,champasack-ch-02,CH-02,,CH,ແຂວງຈຳປາສັກ,Champasak,,,99,,14.924,105.751
+CH-03,2,ເມືອງ,District,Khong,Khong,khong-ch-03,CH-03,,CH,ແຂວງຈຳປາສັກ,Champasak,,,193,,14.222,106.019
+CH-04,2,ເມືອງ,District,Moonlapamok,Moonlapamok,moonlapamok-ch-04,CH-04,,CH,ແຂວງຈຳປາສັກ,Champasak,,,56,,14.177,105.451
+CH-05,2,ເມືອງ,District,Pakse,Pakse,pakse-ch-05,CH-05,,CH,ແຂວງຈຳປາສັກ,Champasak,,,30,,15.149,105.849
+CH-06,2,ເມືອງ,District,Paksxong,Paksxong,paksxong-ch-06,CH-06,,CH,ແຂວງຈຳປາສັກ,Champasak,,,119,,15.052,106.383
+CH-07,2,ເມືອງ,District,Pathoomphone,Pathoomphone,pathoomphone-ch-07,CH-07,,CH,ແຂວງຈຳປາສັກ,Champasak,,,105,,14.651,106.187
+CH-08,2,ເມືອງ,District,Phonthong,Phonthong,phonthong-ch-08,CH-08,,CH,ແຂວງຈຳປາສັກ,Champasak,,,201,,15.085,105.67
+CH-09,2,ເມືອງ,District,Samakkhixay,Samakkhixay,samakkhixay-ch-09,CH-09,,CH,ແຂວງຈຳປາສັກ,Champasak,,,23,,14.963,106.794
+CH-10,2,ເມືອງ,District,Sanasomboon,Sanasomboon,sanasomboon-ch-10,CH-10,,CH,ແຂວງຈຳປາສັກ,Champasak,,,94,,15.39,105.689
+CH-11,2,ເມືອງ,District,Sukhuma,Sukhuma,sukhuma-ch-11,CH-11,,CH,ແຂວງຈຳປາສັກ,Champasak,,,66,,14.597,105.623
+HO,1,ແຂວງ,Province,ແຂວງຫົວພັນ,Houaphan,houaphan-ho,HO,,,,,,9,1003,,20.274,104.317
+HO-01,2,ເມືອງ,District,Add,Add,add-ho-01,HO-01,,HO,ແຂວງຫົວພັນ,Houaphan,,,85,,20.739,103.803
+HO-02,2,ເມືອງ,District,Hiem,Hiem,hiem-ho-02,HO-02,,HO,ແຂວງຫົວພັນ,Houaphan,,,33,,19.994,103.244
+HO-03,2,ເມືອງ,District,Kuan,Kuan,kuan-ho-03,HO-03,,HO,ແຂວງຫົວພັນ,Houaphan,,,102,,19.717,104.43
+HO-04,2,ເມືອງ,District,Sopbao,Sopbao,sopbao-ho-04,HO-04,,HO,ແຂວງຫົວພັນ,Houaphan,,,115,,20.655,104.423
+HO-05,2,ເມືອງ,District,Viengxay,Viengxay,viengxay-ho-05,HO-05,,HO,ແຂວງຫົວພັນ,Houaphan,,,161,,20.328,104.544
+HO-06,2,ເມືອງ,District,Xamneua,Xamneua,xamneua-ho-06,HO-06,,HO,ແຂວງຫົວພັນ,Houaphan,,,220,,20.401,104.067
+HO-07,2,ເມືອງ,District,Xamtay,Xamtay,xamtay-ho-07,HO-07,,HO,ແຂວງຫົວພັນ,Houaphan,,,120,,20.011,104.808
+HO-08,2,ເມືອງ,District,Xiengkhor,Xiengkhor,xiengkhor-ho-08,HO-08,,HO,ແຂວງຫົວພັນ,Houaphan,,,104,,20.831,104.199
+HO-09,2,ເມືອງ,District,Xon,Xon,xon-ho-09,HO-09,,HO,ແຂວງຫົວພັນ,Houaphan,,,63,,20.691,103.485
+KH,1,ແຂວງ,Province,ແຂວງຄໍາມ່ວນ,Khammouane,khammouane-kh,KH,,,,,,9,778,,17.635,105.342
+KH-01,2,ເມືອງ,District,Bualapha,Bualapha,bualapha-kh-01,KH-01,,KH,ແຂວງຄໍາມ່ວນ,Khammouane,,,125,,17.213,106.234
+KH-02,2,ເມືອງ,District,Hinboon,Hinboon,hinboon-kh-02,KH-02,,KH,ແຂວງຄໍາມ່ວນ,Khammouane,,,117,,17.838,104.427
+KH-03,2,ເມືອງ,District,Khounkham,Khounkham,khounkham-kh-03,KH-03,,KH,ແຂວງຄໍາມ່ວນ,Khammouane,,,47,,18.108,104.542
+KH-04,2,ເມືອງ,District,Mahaxay,Mahaxay,mahaxay-kh-04,KH-04,,KH,ແຂວງຄໍາມ່ວນ,Khammouane,,,79,,17.359,105.318
+KH-05,2,ເມືອງ,District,Nakay,Nakay,nakay-kh-05,KH-05,,KH,ແຂວງຄໍາມ່ວນ,Khammouane,,,77,,18.02,105.229
+KH-06,2,ເມືອງ,District,Nhommalath,Nhommalath,nhommalath-kh-06,KH-06,,KH,ແຂວງຄໍາມ່ວນ,Khammouane,,,90,,17.577,105.307
+KH-07,2,ເມືອງ,District,Thakhek,Thakhek,thakhek-kh-07,KH-07,,KH,ແຂວງຄໍາມ່ວນ,Khammouane,,,122,,17.38,104.881
+KH-08,2,ເມືອງ,District,Xaybuathong,Xaybuathong,xaybuathong-kh-08,KH-08,,KH,ແຂວງຄໍາມ່ວນ,Khammouane,,,68,,17.088,105.527
+KH-09,2,ເມືອງ,District,Xebangfay,Xebangfay,xebangfay-kh-09,KH-09,,KH,ແຂວງຄໍາມ່ວນ,Khammouane,,,53,,17.1,105.132
+LM,1,ແຂວງ,Province,ແຂວງຫຼວງນໍ້າທາ,Luang Namtha,luang-namtha-lm,LM,,,,,,5,465,,21.021,101.298
+LM-01,2,ເມືອງ,District,Long,Long,long-lm-01,LM-01,,LM,ແຂວງຫຼວງນໍ້າທາ,Luang Namtha,,,102,,20.976,100.748
+LM-02,2,ເມືອງ,District,Nalae,Nalae,nalae-lm-02,LM-02,,LM,ແຂວງຫຼວງນໍ້າທາ,Luang Namtha,,,115,,20.512,101.371
+LM-03,2,ເມືອງ,District,Namtha,Namtha,namtha-lm-03,LM-03,,LM,ແຂວງຫຼວງນໍ້າທາ,Luang Namtha,,,93,,21.121,101.504
+LM-04,2,ເມືອງ,District,Sing,Sing,sing-lm-04,LM-04,,LM,ແຂວງຫຼວງນໍ້າທາ,Luang Namtha,,,106,,21.363,101.175
+LM-05,2,ເມືອງ,District,Viengphoukha,Viengphoukha,viengphoukha-lm-05,LM-05,,LM,ແຂວງຫຼວງນໍ້າທາ,Luang Namtha,,,49,,20.634,101.061
+LP,1,ແຂວງ,Province,ແຂວງຫຼວງພະບາງ,Luang Prabang,luang-prabang-lp,LP,,,,,,11,1373,,20.207,102.599
+LP-01,2,ເມືອງ,District,Chomphet,Chomphet,chomphet-lp-01,LP-01,,LP,ແຂວງຫຼວງພະບາງ,Luang Prabang,,,104,,19.886,101.914
+LP-02,2,ເມືອງ,District,Luangprabang,Luangprabang,luangprabang-lp-02,LP-02,,LP,ແຂວງຫຼວງພະບາງ,Luang Prabang,,,131,,19.815,102.099
+LP-03,2,ເມືອງ,District,Nambak,Nambak,nambak-lp-03,LP-03,,LP,ແຂວງຫຼວງພະບາງ,Luang Prabang,,,166,,20.668,102.383
+LP-04,2,ເມືອງ,District,Nan,Nan,nan-lp-04,LP-04,,LP,ແຂວງຫຼວງພະບາງ,Luang Prabang,,,91,,19.315,101.94
+LP-05,2,ເມືອງ,District,Ngoi,Ngoi,ngoi-lp-05,LP-05,,LP,ແຂວງຫຼວງພະບາງ,Luang Prabang,,,149,,20.732,102.68
+LP-06,2,ເມືອງ,District,Pak Xeng,Pak Xeng,pak-xeng-lp-06,LP-06,,LP,ແຂວງຫຼວງພະບາງ,Luang Prabang,,,146,,20.108,102.685
+LP-07,2,ເມືອງ,District,Park Ou,Park Ou,park-ou-lp-07,LP-07,,LP,ແຂວງຫຼວງພະບາງ,Luang Prabang,,,101,,20.143,102.32
+LP-08,2,ເມືອງ,District,Phonthong,Phonthong,phonthong-lp-08,LP-08,,LP,ແຂວງຫຼວງພະບາງ,Luang Prabang,,,0,,20.915,103.126
+LP-09,2,ເມືອງ,District,Phonxay,Phonxay,phonxay-lp-09,LP-09,,LP,ແຂວງຫຼວງພະບາງ,Luang Prabang,,,172,,19.834,102.787
+LP-10,2,ເມືອງ,District,Viengkham,Viengkham,viengkham-lp-10,LP-10,,LP,ແຂວງຫຼວງພະບາງ,Luang Prabang,,,148,,20.347,103.07
+LP-11,2,ເມືອງ,District,Xieng Ngeun,Xieng Ngeun,xieng-ngeun-lp-11,LP-11,,LP,ແຂວງຫຼວງພະບາງ,Luang Prabang,,,165,,19.643,102.356
+OU,1,ແຂວງ,Province,ແຂວງອຸດົມໄຊ,Oudomxay,oudomxay-ou,OU,,,,,,7,889,,20.485,101.65
+OU-01,2,ເມືອງ,District,Beng,Beng,beng-ou-01,OU-01,,OU,ແຂວງອຸດົມໄຊ,Oudomxay,,,114,,20.339,101.752
+OU-02,2,ເມືອງ,District,Hoon,Hoon,hoon-ou-02,OU-02,,OU,ແຂວງອຸດົມໄຊ,Oudomxay,,,144,,20.062,101.419
+OU-03,2,ເມືອງ,District,La,La,la-ou-03,OU-03,,OU,ແຂວງອຸດົມໄຊ,Oudomxay,,,102,,20.931,102.094
+OU-04,2,ເມືອງ,District,Namor,Namor,namor-ou-04,OU-04,,OU,ແຂວງອຸດົມໄຊ,Oudomxay,,,120,,20.939,101.708
+OU-05,2,ເມືອງ,District,Nga,Nga,nga-ou-05,OU-05,,OU,ແຂວງອຸດົມໄຊ,Oudomxay,,,132,,20.106,101.853
+OU-06,2,ເມືອງ,District,Pakbeng,Pakbeng,pakbeng-ou-06,OU-06,,OU,ແຂວງອຸດົມໄຊ,Oudomxay,,,108,,19.906,101.13
+OU-07,2,ເມືອງ,District,Xay,Xay,xay-ou-07,OU-07,,OU,ແຂວງອຸດົມໄຊ,Oudomxay,,,169,,20.678,101.969
+PH,1,ແຂວງ,Province,ແຂວງຜົ້ງສາລີ,Phongsaly,phongsaly-ph,PH,,,,,,7,794,,21.754,102.373
+PH-01,2,ເມືອງ,District,Boon Neua,Boon Neua,boon-neua-ph-01,PH-01,,PH,ແຂວງຜົ້ງສາລີ,Phongsaly,,,60,,21.657,101.793
+PH-02,2,ເມືອງ,District,Boontay,Boontay,boontay-ph-02,PH-02,,PH,ແຂວງຜົ້ງສາລີ,Phongsaly,,,85,,21.376,101.907
+PH-03,2,ເມືອງ,District,Khua,Khua,khua-ph-03,PH-03,,PH,ແຂວງຜົ້ງສາລີ,Phongsaly,,,178,,21.048,102.473
+PH-04,2,ເມືອງ,District,May,May,may-ph-04,PH-04,,PH,ແຂວງຜົ້ງສາລີ,Phongsaly,,,149,,21.48,102.865
+PH-05,2,ເມືອງ,District,Nhot Ou,Nhot Ou,nhot-ou-ph-05,PH-05,,PH,ແຂວງຜົ້ງສາລີ,Phongsaly,,,122,,22.235,101.816
+PH-06,2,ເມືອງ,District,Phongsaly,Phongsaly,phongsaly-ph-06,PH-06,,PH,ແຂວງຜົ້ງສາລີ,Phongsaly,,,112,,21.866,102.201
+PH-07,2,ເມືອງ,District,Samphanh,Samphanh,samphanh-ph-07,PH-07,,PH,ແຂວງຜົ້ງສາລີ,Phongsaly,,,88,,21.79,102.522
+SL,1,ແຂວງ,Province,ແຂວງສາລະວັນ,Salavan,salavan-sl,SL,,,,,,8,776,,15.975,106.348
+SL-01,2,ເມືອງ,District,Khongxedone,Khongxedone,khongxedone-sl-01,SL-01,,SL,ແຂວງສາລະວັນ,Salavan,,,95,,15.557,105.743
+SL-02,2,ເມືອງ,District,Lakhonepheng,Lakhonepheng,lakhonepheng-sl-02,SL-02,,SL,ແຂວງສາລະວັນ,Salavan,,,73,,15.853,105.622
+SL-03,2,ເມືອງ,District,Lao Ngarm,Lao Ngarm,lao-ngarm-sl-03,SL-03,,SL,ແຂວງສາລະວັນ,Salavan,,,111,,15.496,106.182
+SL-04,2,ເມືອງ,District,Samuoi,Samuoi,samuoi-sl-04,SL-04,,SL,ແຂວງສາລະວັນ,Salavan,,,80,,16.395,106.894
+SL-05,2,ເມືອງ,District,Saravane,Saravane,saravane-sl-05,SL-05,,SL,ແຂວງສາລະວັນ,Salavan,,,154,,15.621,106.381
+SL-06,2,ເມືອງ,District,Ta Oi,Ta Oi,ta-oi-sl-06,SL-06,,SL,ແຂວງສາລະວັນ,Salavan,,,137,,16.149,106.796
+SL-07,2,ເມືອງ,District,Toomlarn,Toomlarn,toomlarn-sl-07,SL-07,,SL,ແຂວງສາລະວັນ,Salavan,,,69,,16.047,106.21
+SL-08,2,ເມືອງ,District,Vapy,Vapy,vapy-sl-08,SL-08,,SL,ແຂວງສາລະວັນ,Salavan,,,57,,15.773,105.952
+SV,1,ແຂວງ,Province,ແຂວງສະຫວັນນະເຂດ,Savannakhet,savannakhet-sv,SV,,,,,,16,1634,,16.575,105.84
+SV-01,2,ເມືອງ,District,Atsaphangthong,Atsaphangthong,atsaphangthong-sv-01,SV-01,,SV,ແຂວງສະຫວັນນະເຂດ,Savannakhet,,,47,,16.729,105.275
+SV-02,2,ເມືອງ,District,Atsaphone,Atsaphone,atsaphone-sv-02,SV-02,,SV,ແຂວງສະຫວັນນະເຂດ,Savannakhet,,,100,,17.037,105.412
+SV-03,2,ເມືອງ,District,Champhone,Champhone,champhone-sv-03,SV-03,,SV,ແຂວງສະຫວັນນະເຂດ,Savannakhet,,,146,,16.471,105.234
+SV-04,2,ເມືອງ,District,Kaysone Phomvihane,Kaysone Phomvihane,kaysone-phomvihane-sv-04,SV-04,,SV,ແຂວງສະຫວັນນະເຂດ,Savannakhet,,,62,,16.609,104.87
+SV-05,2,ເມືອງ,District,Nong,Nong,nong-sv-05,SV-05,,SV,ແຂວງສະຫວັນນະເຂດ,Savannakhet,,,125,,16.35,106.609
+SV-06,2,ເມືອງ,District,Nongbok,Nongbok,nongbok-sv-06,SV-06,,SV,ແຂວງສະຫວັນນະເຂດ,Savannakhet,,,66,,17.029,104.827
+SV-07,2,ເມືອງ,District,Outhoomphone,Outhoomphone,outhoomphone-sv-07,SV-07,,SV,ແຂວງສະຫວັນນະເຂດ,Savannakhet,,,85,,16.758,105.056
+SV-08,2,ເມືອງ,District,Phalanxay,Phalanxay,phalanxay-sv-08,SV-08,,SV,ແຂວງສະຫວັນນະເຂດ,Savannakhet,,,61,,16.713,105.619
+SV-09,2,ເມືອງ,District,Phine,Phine,phine-sv-09,SV-09,,SV,ແຂວງສະຫວັນນະເຂດ,Savannakhet,,,136,,16.354,105.988
+SV-10,2,ເມືອງ,District,Sepone,Sepone,sepone-sv-10,SV-10,,SV,ແຂວງສະຫວັນນະເຂດ,Savannakhet,,,258,,16.83,106.495
+SV-11,2,ເມືອງ,District,Songkhone,Songkhone,songkhone-sv-11,SV-11,,SV,ແຂວງສະຫວັນນະເຂດ,Savannakhet,,,121,,16.142,105.362
+SV-12,2,ເມືອງ,District,Thapangthong,Thapangthong,thapangthong-sv-12,SV-12,,SV,ແຂວງສະຫວັນນະເຂດ,Savannakhet,,,81,,16.02,105.786
+SV-13,2,ເມືອງ,District,Vilabuly,Vilabuly,vilabuly-sv-13,SV-13,,SV,ແຂວງສະຫວັນນະເຂດ,Savannakhet,,,128,,16.992,105.936
+SV-14,2,ເມືອງ,District,Xaybuly,Xaybuly,xaybuly-sv-14,SV-14,,SV,ແຂວງສະຫວັນນະເຂດ,Savannakhet,,,72,,17.016,104.961
+SV-15,2,ເມືອງ,District,Xayphoothong,Xayphoothong,xayphoothong-sv-15,SV-15,,SV,ແຂວງສະຫວັນນະເຂດ,Savannakhet,,,55,,16.333,105.02
+SV-16,2,ເມືອງ,District,Xonbuly,Xonbuly,xonbuly-sv-16,SV-16,,SV,ແຂວງສະຫວັນນະເຂດ,Savannakhet,,,91,,16.326,105.481
+VI,1,ແຂວງ,Province,ແຂວງວຽງຈັນ,Vientiane Province,vientiane-province-vi,VI,,,,,,11,597,,18.532,102.107
+VI-01,2,ເມືອງ,District,Feuang,Feuang,feuang-vi-01,VI-01,,VI,ແຂວງວຽງຈັນ,Vientiane Province,,,46,,18.589,102.059
+VI-02,2,ເມືອງ,District,Hinherb,Hinherb,hinherb-vi-02,VI-02,,VI,ແຂວງວຽງຈັນ,Vientiane Province,,,52,,18.61,102.194
+VI-03,2,ເມືອງ,District,Kasy,Kasy,kasy-vi-03,VI-03,,VI,ແຂວງວຽງຈັນ,Vientiane Province,,,83,,19.113,102.146
+VI-04,2,ເມືອງ,District,Keo Oudom,Keo Oudom,keo-oudom-vi-04,VI-04,,VI,ແຂວງວຽງຈັນ,Vientiane Province,,,44,,18.599,102.503
+VI-05,2,ເມືອງ,District,Mad,Mad,mad-vi-05,VI-05,,VI,ແຂວງວຽງຈັນ,Vientiane Province,,,55,,18.698,101.829
+VI-06,2,ເມືອງ,District,Meun,Meun,meun-vi-06,VI-06,,VI,ແຂວງວຽງຈັນ,Vientiane Province,,,9,,18.276,101.935
+VI-07,2,ເມືອງ,District,Phonhong,Phonhong,phonhong-vi-07,VI-07,,VI,ແຂວງວຽງຈັນ,Vientiane Province,,,100,,18.42,102.429
+VI-08,2,ເມືອງ,District,Thoulakhom,Thoulakhom,thoulakhom-vi-08,VI-08,,VI,ແຂວງວຽງຈັນ,Vientiane Province,,,65,,18.293,102.616
+VI-09,2,ເມືອງ,District,Vangvieng,Vangvieng,vangvieng-vi-09,VI-09,,VI,ແຂວງວຽງຈັນ,Vientiane Province,,,99,,18.949,102.424
+VI-10,2,ເມືອງ,District,Viengkham,Viengkham,viengkham-vi-10,VI-10,,VI,ແຂວງວຽງຈັນ,Vientiane Province,,,0,,18.371,102.518
+VI-11,2,ເມືອງ,District,Xanakharm,Xanakharm,xanakharm-vi-11,VI-11,,VI,ແຂວງວຽງຈັນ,Vientiane Province,,,44,,18.059,101.544
+VT,1,ແຂວງ,Province,ນະຄອນຫຼວງວຽງຈັນ,Vientiane Capital,vientiane-capital-vt,VT,,,,,,9,334,,18.178,102.539
+VT-01,2,ເມືອງ,District,Chanthabuly,Chanthabuly,chanthabuly-vt-01,VT-01,,VT,ນະຄອນຫຼວງວຽງຈັນ,Vientiane Capital,,,12,,17.994,102.605
+VT-02,2,ເມືອງ,District,Hadxaifong,Hadxaifong,hadxaifong-vt-02,VT-02,,VT,ນະຄອນຫຼວງວຽງຈັນ,Vientiane Capital,,,46,,17.978,102.809
+VT-03,2,ເມືອງ,District,Mayparkngum,Mayparkngum,mayparkngum-vt-03,VT-03,,VT,ນະຄອນຫຼວງວຽງຈັນ,Vientiane Capital,,,55,,18.136,102.92
+VT-04,2,ເມືອງ,District,Naxaithong,Naxaithong,naxaithong-vt-04,VT-04,,VT,ນະຄອນຫຼວງວຽງຈັນ,Vientiane Capital,,,64,,18.23,102.482
+VT-05,2,ເມືອງ,District,Sangthong,Sangthong,sangthong-vt-05,VT-05,,VT,ນະຄອນຫຼວງວຽງຈັນ,Vientiane Capital,,,27,,18.334,102.117
+VT-06,2,ເມືອງ,District,Sikhottabong,Sikhottabong,sikhottabong-vt-06,VT-06,,VT,ນະຄອນຫຼວງວຽງຈັນ,Vientiane Capital,,,31,,17.997,102.525
+VT-07,2,ເມືອງ,District,Sisattanak,Sisattanak,sisattanak-vt-07,VT-07,,VT,ນະຄອນຫຼວງວຽງຈັນ,Vientiane Capital,,,8,,17.935,102.629
+VT-08,2,ເມືອງ,District,Xaysetha,Xaysetha,xaysetha-vt-08,VT-08,,VT,ນະຄອນຫຼວງວຽງຈັນ,Vientiane Capital,,,0,,17.978,102.674
+VT-09,2,ເມືອງ,District,Xaythany,Xaythany,xaythany-vt-09,VT-09,,VT,ນະຄອນຫຼວງວຽງຈັນ,Vientiane Capital,,,91,,18.149,102.749
+XA,1,ແຂວງ,Province,ແຂວງໄຊຍະບູລີ,Xaignabouli,xaignabouli-xa,XA,,,,,,11,610,,18.794,101.181
+XA-01,2,ເມືອງ,District,Botene,Botene,botene-xa-01,XA-01,,XA,ແຂວງໄຊຍະບູລີ,Xaignabouli,,,37,,17.619,101.063
+XA-02,2,ເມືອງ,District,Hongsa,Hongsa,hongsa-xa-02,XA-02,,XA,ແຂວງໄຊຍະບູລີ,Xaignabouli,,,61,,19.724,101.47
+XA-03,2,ເມືອງ,District,Kenethao,Kenethao,kenethao-xa-03,XA-03,,XA,ແຂວງໄຊຍະບູລີ,Xaignabouli,,,44,,17.808,101.393
+XA-04,2,ເມືອງ,District,Khop,Khop,khop-xa-04,XA-04,,XA,ແຂວງໄຊຍະບູລີ,Xaignabouli,,,43,,19.693,100.561
+XA-05,2,ເມືອງ,District,Ngeun,Ngeun,ngeun-xa-05,XA-05,,XA,ແຂວງໄຊຍະບູລີ,Xaignabouli,,,38,,19.776,101.129
+XA-06,2,ເມືອງ,District,Parklai,Parklai,parklai-xa-06,XA-06,,XA,ແຂວງໄຊຍະບູລີ,Xaignabouli,,,104,,18.473,101.569
+XA-07,2,ເມືອງ,District,Phiang,Phiang,phiang-xa-07,XA-07,,XA,ແຂວງໄຊຍະບູລີ,Xaignabouli,,,57,,18.929,101.454
+XA-08,2,ເມືອງ,District,Thongmyxay,Thongmyxay,thongmyxay-xa-08,XA-08,,XA,ແຂວງໄຊຍະບູລີ,Xaignabouli,,,17,,18.423,101.179
+XA-09,2,ເມືອງ,District,Xayabury,Xayabury,xayabury-xa-09,XA-09,,XA,ແຂວງໄຊຍະບູລີ,Xaignabouli,,,97,,19.223,101.662
+XA-10,2,ເມືອງ,District,Xaysathan,Xaysathan,xaysathan-xa-10,XA-10,,XA,ແຂວງໄຊຍະບູລີ,Xaignabouli,,,15,,19.444,101.39
+XA-11,2,ເມືອງ,District,Xienghone,Xienghone,xienghone-xa-11,XA-11,,XA,ແຂວງໄຊຍະບູລີ,Xaignabouli,,,97,,19.73,100.862
+XE,1,ແຂວງ,Province,ແຂວງເຊກອງ,Xekong,xekong-xe,XE,,,,,,4,386,,15.541,107.321
+XE-01,2,ເມືອງ,District,Dakcheung,Dakcheung,dakcheung-xe-01,XE-01,,XE,ແຂວງເຊກອງ,Xekong,,,132,,15.317,107.512
+XE-02,2,ເມືອງ,District,Kaleum,Kaleum,kaleum-xe-02,XE-02,,XE,ແຂວງເຊກອງ,Xekong,,,141,,15.93,107.195
+XE-03,2,ເມືອງ,District,Lamarm,Lamarm,lamarm-xe-03,XE-03,,XE,ແຂວງເຊກອງ,Xekong,,,58,,15.418,106.782
+XE-04,2,ເມືອງ,District,Thateng,Thateng,thateng-xe-04,XE-04,,XE,ແຂວງເຊກອງ,Xekong,,,55,,15.466,106.496
+XI,1,ແຂວງ,Province,ແຂວງ ຊຽງ ຂວາງ,Xiangkhouang,xiangkhouang-xi,XI,,,,,,9,1384,,19.464,103.723
+XI-01,2,ເມືອງ,District,Huameuang,Huameuang,huameuang-xi-01,XI-01,,XI,ແຂວງ ຊຽງ ຂວາງ,Xiangkhouang,,,137,,19.935,103.862
+XI-02,2,ເມືອງ,District,Kham,Kham,kham-xi-02,XI-02,,XI,ແຂວງ ຊຽງ ຂວາງ,Xiangkhouang,,,155,,19.888,103.704
+XI-03,2,ເມືອງ,District,Khoune,Khoune,khoune-xi-03,XI-03,,XI,ແຂວງ ຊຽງ ຂວາງ,Xiangkhouang,,,174,,19.196,103.534
+XI-04,2,ເມືອງ,District,Mork,Mork,mork-xi-04,XI-04,,XI,ແຂວງ ຊຽງ ຂວາງ,Xiangkhouang,,,87,,19.089,104.08
+XI-05,2,ເມືອງ,District,Nonghed,Nonghed,nonghed-xi-05,XI-05,,XI,ແຂວງ ຊຽງ ຂວາງ,Xiangkhouang,,,173,,19.579,104.045
+XI-06,2,ເມືອງ,District,Pek,Pek,pek-xi-06,XI-06,,XI,ແຂວງ ຊຽງ ຂວາງ,Xiangkhouang,,,270,,19.627,103.256
+XI-07,2,ເມືອງ,District,Phaxay,Phaxay,phaxay-xi-07,XI-07,,XI,ແຂວງ ຊຽງ ຂວາງ,Xiangkhouang,,,83,,19.192,103.113
+XI-08,2,ເມືອງ,District,Phookood,Phookood,phookood-xi-08,XI-08,,XI,ແຂວງ ຊຽງ ຂວາງ,Xiangkhouang,,,184,,19.693,103.008
+XI-09,2,ເມືອງ,District,Phoukhoune,Phoukhoune,phoukhoune-xi-09,XI-09,,XI,ແຂວງ ຊຽງ ຂວາງ,Xiangkhouang,,,121,,19.525,102.694
+XN,1,ແຂວງ,Province,ເຂດພິເສດໄຊສົມບູນ,Xaisomboun,xaisomboun-xn,XN,,,,,,5,194,,18.959,103.327
+XN-01,2,ເມືອງ,District,Anouvong,Anouvong,anouvong-xn-01,XN-01,,XN,ເຂດພິເສດໄຊສົມບູນ,Xaisomboun,,,49,,18.92,103.023
+XN-02,2,ເມືອງ,District,Home,Home,home-xn-02,XN-02,,XN,ເຂດພິເສດໄຊສົມບູນ,Xaisomboun,,,14,,18.753,103.339
+XN-03,2,ເມືອງ,District,Longcheng,Longcheng,longcheng-xn-03,XN-03,,XN,ເຂດພິເສດໄຊສົມບູນ,Xaisomboun,,,59,,19.068,102.87
+XN-04,2,ເມືອງ,District,Longsane,Longsane,longsane-xn-04,XN-04,,XN,ເຂດພິເສດໄຊສົມບູນ,Xaisomboun,,,35,,18.619,102.9
+XN-05,2,ເມືອງ,District,Thathom,Thathom,thathom-xn-05,XN-05,,XN,ເຂດພິເສດໄຊສົມບູນ,Xaisomboun,,,37,,18.956,103.67

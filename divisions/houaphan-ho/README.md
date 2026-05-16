@@ -1,8 +1,8 @@
-# Houaphan
+# ແຂວງຫົວພັນ (Houaphan)
 
 [Home](../../) > **Houaphan**
 
-Houaphan is a province in Laos.
+ແຂວງຫົວພັນ (Houaphan) is a province in Laos.
 
 ## Overview
 

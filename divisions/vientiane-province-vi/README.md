@@ -1,8 +1,8 @@
-# Vientiane (Vientiane Province)
+# ແຂວງວຽງຈັນ (Vientiane Province)
 
 [Home](../../) > **Vientiane Province**
 
-Vientiane (Vientiane Province) is a province in Laos.
+ແຂວງວຽງຈັນ (Vientiane Province) is a province in Laos.
 
 ## Overview
 

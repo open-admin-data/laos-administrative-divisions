@@ -1,8 +1,8 @@
-# Oudomxay
+# ແຂວງອຸດົມໄຊ (Oudomxay)
 
 [Home](../../) > **Oudomxay**
 
-Oudomxay is a province in Laos.
+ແຂວງອຸດົມໄຊ (Oudomxay) is a province in Laos.
 
 ## Overview
 

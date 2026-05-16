@@ -1,8 +1,8 @@
-# Xekong
+# ແຂວງເຊກອງ (Xekong)
 
 [Home](../../) > **Xekong**
 
-Xekong is a province in Laos.
+ແຂວງເຊກອງ (Xekong) is a province in Laos.
 
 ## Overview
 

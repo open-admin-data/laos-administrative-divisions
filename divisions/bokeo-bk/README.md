@@ -1,8 +1,8 @@
-# Bokeo
+# ແຂວງບໍ່ແກ້ວ (Bokeo)
 
 [Home](../../) > **Bokeo**
 
-Bokeo is a province in Laos.
+ແຂວງບໍ່ແກ້ວ (Bokeo) is a province in Laos.
 
 ## Overview
 

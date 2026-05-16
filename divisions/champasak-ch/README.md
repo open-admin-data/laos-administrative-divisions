@@ -1,8 +1,8 @@
-# Champasak
+# ແຂວງຈຳປາສັກ (Champasak)
 
 [Home](../../) > **Champasak**
 
-Champasak is a province in Laos.
+ແຂວງຈຳປາສັກ (Champasak) is a province in Laos.
 
 ## Overview
 

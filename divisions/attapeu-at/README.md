@@ -1,8 +1,8 @@
-# Attapeu
+# ແຂວງອັດຕະປື (Attapeu)
 
 [Home](../../) > **Attapeu**
 
-Attapeu is a province in Laos.
+ແຂວງອັດຕະປື (Attapeu) is a province in Laos.
 
 ## Overview
 

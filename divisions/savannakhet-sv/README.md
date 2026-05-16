@@ -1,8 +1,8 @@
-# Savannakhet
+# ແຂວງສະຫວັນນະເຂດ (Savannakhet)
 
 [Home](../../) > **Savannakhet**
 
-Savannakhet is a province in Laos.
+ແຂວງສະຫວັນນະເຂດ (Savannakhet) is a province in Laos.
 
 ## Overview
 

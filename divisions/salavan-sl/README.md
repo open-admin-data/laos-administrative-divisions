@@ -1,8 +1,8 @@
-# Salavan
+# ແຂວງສາລະວັນ (Salavan)
 
 [Home](../../) > **Salavan**
 
-Salavan is a province in Laos.
+ແຂວງສາລະວັນ (Salavan) is a province in Laos.
 
 ## Overview
 

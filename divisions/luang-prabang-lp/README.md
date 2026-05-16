@@ -1,8 +1,8 @@
-# Luang Prabang
+# ແຂວງຫຼວງພະບາງ (Luang Prabang)
 
 [Home](../../) > **Luang Prabang**
 
-Luang Prabang is a province in Laos.
+ແຂວງຫຼວງພະບາງ (Luang Prabang) is a province in Laos.
 
 ## Overview
 
